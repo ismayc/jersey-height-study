@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1985,00,Charles Barkley,Charles,charles-barkley,34,F,6-6,252,"FEB 20, 1963",23.0,1,Auburn,787,,0
+1610612755,1985,00,Butch Carter,Butch,butch-carter,12,G,6-5,180,"JUN 11, 1958",28.0,5,Indiana,76355,,0
+1610612755,1985,00,Terry Catledge,Terry,terry-catledge,23,F,6-8,220,"AUG 22, 1963",22.0,R,South Alabama,767,,0
+1610612755,1985,00,Maurice Cheeks,Maurice,maurice-cheeks,10,G,6-1,180,"SEP 08, 1956",29.0,7,West Texas A&M,76385,,0
+1610612755,1985,00,Julius Erving,Julius,julius-erving,6,F,6-7,200,"FEB 22, 1950",36.0,9,Massachusetts,76681,,0
+1610612755,1985,00,Clemon Johnson,Clemon,clemon-johnson,45,C,6-10,240,"SEP 12, 1956",29.0,7,Florida A&M,77136,,0
+1610612755,1985,00,Bobby Jones,Bobby,bobby-jones,,F,6-9,210,"DEC 18, 1951",34.0,9,North Carolina,77193,,0
+1610612755,1985,00,Moses Malone,Moses,moses-malone,2,C,6-10,215,"MAR 23, 1955",31.0,9,Petersburg HS (VA),77449,,0
+1610612755,1985,00,Bob McAdoo,Bob,bob-mcadoo,11,C,6-9,210,"SEP 25, 1951",34.0,13,North Carolina,77498,,0
+1610612755,1985,00,Greg Stokes,Greg,greg-stokes,41,F,6-10,220,"AUG 05, 1963",22.0,R,Iowa,78264,,0
+1610612755,1985,00,Paul Thompson,Paul,paul-thompson,44,G,6-6,210,"MAY 25, 1961",25.0,2,Tulane,78332,,0
+1610612755,1985,00,Sedale Threatt,Sedale,sedale-threatt,3,G,6-2,175,"SEP 10, 1961",24.0,2,West Virginia Tech,9,,0
+1610612755,1985,00,Andrew Toney,Andrew,andrew-toney,22,G,6-3,178,"NOV 23, 1957",28.0,5,Louisiana-Lafayette,78351,,0
+1610612755,1985,00,Voise Winters,Voise,voise-winters,11,F,6-8,200,"OCT 12, 1962",23.0,R,Bradley,78601,,0
+1610612755,1985,00,Leon Wood,Leon,leon-wood,20,G,6-3,185,"MAR 25, 1962",24.0,1,California State-Fullerton,78611,,0
+1610612755,1985,00,Michael Young,Michael,michael-young,8,G,6-7,220,"JAN 02, 1961",25.0,1,Houston,78634,,0

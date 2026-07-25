@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612755,2014,00,Isaiah Canaan,Isaiah,isaiah-canaan,0,G,6-0,201,"MAY 21, 1991",24.0,1,Murray State,203477,
+1610612755,2014,00,Glenn Robinson III,Glenn,glenn-robinson-iii,1,G-F,6-7,222,"JAN 08, 1994",21.0,R,Michigan,203922,
+1610612755,2014,00,Nerlens Noel,Nerlens,nerlens-noel,4,C-F,6-11,228,"APR 10, 1994",21.0,R,Kentucky,203457,
+1610612755,2014,00,Ish Smith,Ish,ish-smith,5,G,6-0,175,"JUL 05, 1988",26.0,4,Wake Forest,202397,
+1610612755,2014,00,Tony Wroten,Tony,tony-wroten,8,G,6-6,205,"APR 13, 1993",22.0,2,Washington,203100,
+1610612755,2014,00,JaKarr Sampson,JaKarr,jakarr-sampson,9,G-F,6-9,214,"MAR 20, 1993",22.0,R,St. John's (NY),203960,
+1610612755,2014,00,Luc Mbah a Moute,Luc,luc-mbah-a-moute,12,F,6-8,230,"SEP 09, 1986",28.0,6,UCLA,201601,
+1610612755,2014,00,Furkan Aldemir,Furkan,furkan-aldemir,19,F-C,6-10,240,"AUG 09, 1991",23.0,R,Galatasaray,203128,
+1610612755,2014,00,Joel Embiid,Joel,joel-embiid,21,C,7-0,250,"MAR 16, 1994",21.0,R,Kansas,203954,#3 Pick in 2014 Draft
+1610612755,2014,00,Jason Richardson,Jason,jason-richardson,23,G,6-6,225,"JAN 20, 1981",34.0,13,Michigan State,2202,
+1610612755,2014,00,Hollis Thompson,Hollis,hollis-thompson,31,G-F,6-8,206,"APR 03, 1991",24.0,1,Georgetown,203138,
+1610612755,2014,00,Robert Covington,Robert,robert-covington,33,F,6-9,215,"DEC 14, 1990",24.0,1,Tennessee State,203496,
+1610612755,2014,00,Henry Sims,Henry,henry-sims,35,C,6-10,248,"MAR 27, 1990",25.0,2,Georgetown,203156,
+1610612755,2014,00,Jerami Grant,Jerami,jerami-grant,39,F,6-8,210,"MAR 12, 1994",21.0,R,Syracuse,203924,
+1610612755,2014,00,Thomas Robinson,Thomas,thomas-robinson,41,F,6-10,237,"MAR 17, 1991",24.0,2,Kansas,203080,

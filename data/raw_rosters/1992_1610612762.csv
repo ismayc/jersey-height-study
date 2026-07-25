@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612762,1992,00,Ike Austin,Ike,ike-austin,50,C,6-10,288,"AUG 18, 1969",23.0,1,Arizona State,1134,,0
+1610612762,1992,00,David Benoit,David,david-benoit,21,F,6-8,220,"MAY 09, 1968",25.0,1,Alabama,128,,0
+1610612762,1992,00,Mike Brown,Mike,mike-brown,40,C,6-10,257,"JUL 19, 1963",29.0,6,George Washington,1479,,0
+1610612762,1992,00,Tyrone Corbin,Tyrone,tyrone-corbin,23,F,6-6,210,"DEC 31, 1962",30.0,7,DePaul,895,,0
+1610612762,1992,00,John Crotty,John,john-crotty,25,G,6-1,185,"JUL 15, 1969",23.0,R,Virginia,180,,0
+1610612762,1992,00,James Donaldson,James,james-donaldson,54,C,7-2,275,"AUG 16, 1957",35.0,12,Washington State,76583,,0
+1610612762,1992,00,Mark Eaton,Mark,mark-eaton,53,C,7-4,275,"JAN 24, 1957",36.0,10,UCLA,76631,,0
+1610612762,1992,00,Stephen Howard,Stephen,stephen-howard,43,F,6-9,225,"JUL 15, 1970",22.0,R,DePaul,1128,,0
+1610612762,1992,00,Jay Humphries,Jay,jay-humphries,6,G,6-3,185,"OCT 17, 1962",30.0,8,Colorado,77081,,0
+1610612762,1992,00,Henry James,Henry,henry-james,22,F,6-8,220,"JUL 29, 1965",27.0,2,St. Mary's (TX),1080,,0
+1610612762,1992,00,Larry Krystkowiak,Larry,larry-krystkowiak,42,F,6-9,220,"SEP 23, 1964",28.0,5,Montana,1474,,0
+1610612762,1992,00,Jeff Malone,Jeff,jeff-malone,24,G,6-4,205,"JUN 28, 1961",32.0,9,Mississippi State,117,,0
+1610612762,1992,00,Karl Malone,Karl,karl-malone,32,F,6-9,259,"JUL 24, 1963",29.0,7,Louisiana Tech,252,,0
+1610612762,1992,00,John Stockton,John,john-stockton,12,G,6-1,170,"MAR 26, 1962",31.0,8,Gonzaga,304,,0

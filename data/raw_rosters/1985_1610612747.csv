@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1985,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",39.0,16,UCLA,76003,,0
+1610612747,1985,00,Michael Cooper,Michael,michael-cooper,21,G,6-7,170,"APR 15, 1956",30.0,7,New Mexico,76444,,0
+1610612747,1985,00,A.C. Green,A.C.,ac-green,45,F,6-9,220,"OCT 04, 1963",22.0,R,Oregon State,920,,0
+1610612747,1985,00,Petur Gudmundsson,Petur,petur-gudmundsson,34,C,7-2,260,"OCT 30, 1958",27.0,1,Washington,76901,,0
+1610612747,1985,00,Jerome Henderson,Jerome,jerome-henderson,23,F,6-11,230,"OCT 05, 1959",26.0,R,New Mexico,76992,,0
+1610612747,1985,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",26.0,6,Michigan State,77142,,0
+1610612747,1985,00,Mitch Kupchak,Mitch,mitch-kupchak,25,F,6-9,230,"MAY 24, 1954",32.0,8,North Carolina,77324,,0
+1610612747,1985,00,Ronnie Lester,Ronnie,ronnie-lester,12,G,6-2,175,"JAN 01, 1959",27.0,5,Iowa,77373,,0
+1610612747,1985,00,Maurice Lucas,Maurice,maurice-lucas,20,F,6-9,215,"FEB 18, 1952",34.0,9,Marquette,77420,,0
+1610612747,1985,00,Mike McGee,Mike,mike-mcgee,40,F,6-5,190,"JUL 29, 1959",26.0,4,Michigan,77530,,0
+1610612747,1985,00,Kurt Rambis,Kurt,kurt-rambis,31,F,6-8,213,"FEB 25, 1958",28.0,4,Santa Clara,77905,,0
+1610612747,1985,00,Byron Scott,Byron,byron-scott,4,G,6-3,195,"MAR 28, 1961",25.0,2,Arizona State,2,,0
+1610612747,1985,00,Larry Spriggs,Larry,larry-spriggs,35,F,6-7,230,"SEP 08, 1959",26.0,4,Howard,78233,,0
+1610612747,1985,00,James Worthy,James,james-worthy,42,F,6-9,225,"FEB 27, 1961",25.0,3,North Carolina,1460,,0

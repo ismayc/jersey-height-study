@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612743,1988,00,Michael Adams,Michael,michael-adams,14,G,5-10,162,"JAN 19, 1963",26.0,3,Boston College,149,,0
+1610612743,1988,00,Darwin Cook,Darwin,darwin-cook,1,G,6-3,184,"AUG 06, 1958",30.0,7,Portland,76435,,0
+1610612743,1988,00,Wayne Cooper,Wayne,wayne-cooper,42,C,6-10,220,"NOV 16, 1956",32.0,10,New Orleans,76441,,0
+1610612743,1988,00,Walter Davis,Walter,walter-davis,6,G,6-6,193,"SEP 09, 1954",34.0,11,North Carolina,1453,,0
+1610612743,1988,00,Wayne Englestad,Wayne,wayne-englestad,43,F,6-8,245,"DEC 06, 1963",25.0,R,California-Irvine,76671,,0
+1610612743,1988,00,Alex English,Alex,alex-english,2,F,6-8,190,"JAN 05, 1954",35.0,12,South Carolina,76673,,0
+1610612743,1988,00,David Greenwood,David,david-greenwood,22,F,6-9,222,"MAY 27, 1957",32.0,9,UCLA,76881,,0
+1610612743,1988,00,Bill Hanzlik,Bill,bill-hanzlik,24,F,6-7,185,"DEC 06, 1957",31.0,8,Notre Dame,76944,,0
+1610612743,1988,00,Eddie Hughes,Eddie,eddie-hughes,15,G,5-10,165,"MAY 26, 1960",29.0,1,Colorado State,77077,,0
+1610612743,1988,00,Jerome Lane,Jerome,jerome-lane,35,F,6-6,230,"DEC 04, 1966",22.0,R,Pittsburgh,77335,,0
+1610612743,1988,00,Lafayette Lever,Lafayette,lafayette-lever,12,G,6-3,170,"AUG 18, 1960",28.0,6,Arizona State,77376,,0
+1610612743,1988,00,Blair Rasmussen,Blair,blair-rasmussen,41,F,6-4,172,"NOV 13, 1962",26.0,3,Oregon,78656,,0
+1610612743,1988,00,Dan Schayes,Dan,dan-schayes,34,C,6-11,235,"MAY 10, 1959",30.0,7,Syracuse,7,,0
+1610612743,1988,00,Elston Turner,Elston,elston-turner,21,G,6-5,190,"JUN 10, 1959",30.0,7,Mississippi,78378,,0

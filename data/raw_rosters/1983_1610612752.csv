@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1983,00,Bill Cartwright,Bill,bill-cartwright,25,C,7-1,245,"JUL 30, 1957",26.0,4,San Francisco,76362,,0
+1610612752,1983,00,Len Elmore,Len,len-elmore,44,C,6-10,220,"MAR 28, 1952",32.0,7,Maryland,600010,,0
+1610612752,1983,00,Eric Fernsten,Eric,eric-fernsten,45,C,6-10,205,"NOV 01, 1953",30.0,5,San Francisco,76707,,0
+1610612752,1983,00,Ernie Grunfeld,Ernie,ernie-grunfeld,18,G,6-6,210,"APR 24, 1955",29.0,6,Tennessee,76899,,0
+1610612752,1983,00,Bernard King,Bernard,bernard-king,30,F,6-7,205,"DEC 04, 1956",27.0,6,Tennessee,77264,,0
+1610612752,1983,00,Rudy Macklin,Rudy,rudy-macklin,41,F,6-7,205,"FEB 19, 1958",26.0,2,Louisiana State,77435,,0
+1610612752,1983,00,Louis Orr,Louis,louis-orr,55,F,6-8,175,"MAY 07, 1958",26.0,3,Syracuse,77770,,0
+1610612752,1983,00,Truck Robinson,Truck,truck-robinson,21,F,6-7,225,"OCT 04, 1951",32.0,9,Tennessee State,77993,,0
+1610612752,1983,00,Rory Sparrow,Rory,rory-sparrow,2,G,6-2,175,"JUN 12, 1958",26.0,3,Villanova,600009,,0
+1610612752,1983,00,Trent Tucker,Trent,trent-tucker,6,G,6-5,193,"DEC 20, 1959",24.0,1,Minnesota,78375,,0
+1610612752,1983,00,Darrell Walker,Darrell,darrell-walker,4,G,6-4,180,"MAR 09, 1961",23.0,R,Arkansas,78437,,0
+1610612752,1983,00,Marvin Webster,Marvin,marvin-webster,40,C,7-1,225,"APR 13, 1952",32.0,7,Morgan State,78481,,0
+1610612752,1983,00,Ray Williams,Ray,ray-williams,13,G,6-3,188,"OCT 14, 1954",29.0,6,Minnesota,78571,,0

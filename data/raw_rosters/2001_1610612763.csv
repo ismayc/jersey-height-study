@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612763,2001,00,Will Solomon,Will,will-solomon,1,G,6-1,185,"JUL 20, 1978",23.0,R,Clemson,2226,,0
+1610612763,2001,00,Jason Williams,Jason,jason-williams,2,G,6-1,190,"NOV 18, 1975",26.0,3,Florida,1715,,0
+1610612763,2001,00,Stromile Swift,Stromile,stromile-swift,4,C-F,6-9,225,"NOV 21, 1979",22.0,1,Louisiana State,2031,,0
+1610612763,2001,00,Antonis Fotsis,Antonis,antonis-fotsis,6,F,6-10,219,"APR 01, 1981",21.0,R,Panathinaikos,2238,,0
+1610612763,2001,00,Eddie Gill,Eddie,eddie-gill,7,G,6-0,190,"AUG 16, 1978",23.0,1,Weber State,2109,,0
+1610612763,2001,00,Pau Gasol,Pau,pau-gasol,16,F,7-0,227,"JUL 06, 1980",21.0,R,FC Barcelona,2200,,0
+1610612763,2001,00,Brevin Knight,Brevin,brevin-knight,22,G,5-10,170,"NOV 08, 1975",26.0,4,Stanford,1510,,0
+1610612763,2001,00,Shane Battier,Shane,shane-battier,31,G-F,6-8,220,"SEP 09, 1978",23.0,R,Duke,2203,,0
+1610612763,2001,00,Rodney Buford,Rodney,rodney-buford,32,F-G,6-5,189,"NOV 02, 1977",24.0,2,Creighton,1934,,0
+1610612763,2001,00,Lorenzen Wright,Lorenzen,lorenzen-wright,42,C,6-11,240,"NOV 04, 1975",26.0,5,Memphis,953,,0
+1610612763,2001,00,Grant Long,Grant,grant-long,43,F,6-9,250,"MAR 12, 1966",36.0,13,Eastern Michigan,3,,0
+1610612763,2001,00,Tony Massenburg,Tony,tony-massenburg,44,C-F,6-9,250,"JUL 31, 1967",34.0,9,Maryland,763,,0

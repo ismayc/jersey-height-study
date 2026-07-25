@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1989,00,John Bagley,John,john-bagley,5,G,6-0,185,"APR 23, 1960",30.0,7,Boston College,76082,,0
+1610612738,1989,00,Larry Bird,Larry,larry-bird,33,F,6-9,220,"DEC 07, 1956",33.0,10,Indiana State,1449,,0
+1610612738,1989,00,Kevin Gamble,Kevin,kevin-gamble,34,F,6-6,210,"NOV 13, 1965",24.0,2,Iowa,333,,0
+1610612738,1989,00,Dennis Johnson,Dennis,dennis-johnson,3,G,6-4,185,"SEP 18, 1954",35.0,13,Pepperdine,77141,,0
+1610612738,1989,00,Joe Kleine,Joe,joe-kleine,53,C,6-11,255,"JAN 04, 1962",28.0,4,Arkansas,170,,0
+1610612738,1989,00,Reggie Lewis,Reggie,reggie-lewis,35,G,6-7,195,"NOV 21, 1965",24.0,2,Northeastern,77384,,0
+1610612738,1989,00,Kevin McHale,Kevin,kevin-mchale,32,F,6-10,210,"DEC 19, 1957",32.0,9,Minnesota,1450,,0
+1610612738,1989,00,Robert Parish,Robert,robert-parish,00,C,7-1,230,"AUG 30, 1953",36.0,13,Centenary-Louisiana,305,,0
+1610612738,1989,00,Jim Paxson,Jim,jim-paxson,,G,6-6,200,"JUL 09, 1957",32.0,10,Dayton,77819,,0
+1610612738,1989,00,Ed Pinckney,Ed,ed-pinckney,54,F,6-9,195,"MAR 27, 1963",27.0,4,Villanova,291,,0
+1610612738,1989,00,Charles Smith,Charles,charles-smith,,F,6-1,160,"NOV 29, 1967",22.0,R,Georgetown,78179,,0
+1610612738,1989,00,Michael Smith,Michael,michael-smith,,G,6-10,225,"MAY 19, 1965",25.0,R,Brigham Young,78197,,0

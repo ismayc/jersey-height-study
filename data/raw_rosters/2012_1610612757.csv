@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612757,2012,00,Damian Lillard,Damian,damian-lillard,0,G,6-3,195,"JUL 15, 1990",22.0,R,Weber State,203081,Signed on 07/19/25
+1610612757,2012,00,Jared Jeffries,Jared,jared-jeffries,1,F,6-11,240,"NOV 25, 1981",31.0,10,Indiana,2407,
+1610612757,2012,00,Wesley Matthews,Wesley,wesley-matthews,2,G,6-5,220,"OCT 14, 1986",26.0,3,Marquette,202083,
+1610612757,2012,00,Sasha Pavlovic,Sasha,sasha-pavlovic,3,G-F,6-7,235,"NOV 15, 1983",29.0,9,Buducnost,2562,
+1610612757,2012,00,Nolan Smith,Nolan,nolan-smith,4,G,6-2,185,"JUL 25, 1988",24.0,1,Duke,202701,
+1610612757,2012,00,Will Barton,Will,will-barton,5,G,6-5,170,"JAN 06, 1991",22.0,R,Memphis,203115,
+1610612757,2012,00,Eric Maynor,Eric,eric-maynor,6,G,6-3,175,"JUN 11, 1987",26.0,3,Va Commonwealth,201953,
+1610612757,2012,00,Luke Babbitt,Luke,luke-babbitt,8,F,6-9,225,"JUN 20, 1989",24.0,2,Nevada,202337,
+1610612757,2012,00,Elliot Williams,Elliot,elliot-williams,9,G,6-5,180,"JUN 20, 1989",24.0,2,Memphis,202343,
+1610612757,2012,00,Meyers Leonard,Meyers,meyers-leonard,11,C,7-1,245,"FEB 27, 1992",21.0,R,Illinois,203086,
+1610612757,2012,00,LaMarcus Aldridge,LaMarcus,lamarcus-aldridge,12,C-F,6-11,240,"JUL 19, 1985",27.0,6,University of Texas at Austin,200746,
+1610612757,2012,00,Victor Claver,Victor,victor-claver,18,F,6-9,224,"AUG 30, 1988",24.0,R,Valencia,201964,
+1610612757,2012,00,Joel Freeland,Joel,joel-freeland,19,F,6-10,225,"FEB 07, 1987",26.0,R,Malaga,200777,
+1610612757,2012,00,JJ Hickson,JJ,jj-hickson,21,C-F,6-9,242,"SEP 04, 1988",24.0,4,North Carolina State,201581,
+1610612757,2012,00,Nicolas Batum,Nicolas,nicolas-batum,88,F-G,6-8,200,"DEC 14, 1988",24.0,4,Le Mans,201587,

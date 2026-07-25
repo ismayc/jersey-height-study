@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612750,2007,00,Rashad McCants,Rashad,rashad-mccants,1,G,6-4,210,"SEP 25, 1984",23.0,2,North Carolina,101119,,0
+1610612750,2007,00,Sebastian Telfair,Sebastian,sebastian-telfair,3,G,6-0,175,"JUN 09, 1985",23.0,3,Abraham Lincoln HS (NY),2742,,0
+1610612750,2007,00,Randy Foye,Randy,randy-foye,4,G,6-4,213,"SEP 24, 1983",24.0,1,Villanova,200751,,0
+1610612750,2007,00,Craig Smith,Craig,craig-smith,5,F-C,6-8,250,"NOV 10, 1983",24.0,1,Boston College,200783,,0
+1610612750,2007,00,Greg Buckner,Greg,greg-buckner,7,G-F,6-4,210,"SEP 16, 1976",31.0,8,Clemson,1761,,0
+1610612750,2007,00,Ryan Gomes,Ryan,ryan-gomes,8,F,6-7,250,"SEP 01, 1982",25.0,2,Providence,101155,,0
+1610612750,2007,00,Corey Brewer,Corey,corey-brewer,22,F-G,6-9,185,"MAR 05, 1986",22.0,R,Florida,201147,,0
+1610612750,2007,00,Antoine Walker,Antoine,antoine-walker,24,F,6-9,245,"AUG 12, 1976",31.0,11,Kentucky,952,,0
+1610612750,2007,00,Al Jefferson,Al,al-jefferson,25,C-F,6-10,265,"JAN 04, 1985",23.0,3,No College,2744,,0
+1610612750,2007,00,Kirk Snyder,Kirk,kirk-snyder,30,F-G,6-6,225,"JUN 05, 1983",25.0,3,Nevada,2745,,0
+1610612750,2007,00,Chris Richard,Chris,chris-richard,32,F,6-9,270,"DEC 25, 1984",23.0,R,Florida,201181,,0
+1610612750,2007,00,Mark Madsen,Mark,mark-madsen,35,C-F,6-9,250,"JAN 28, 1976",32.0,7,Stanford,2058,,0
+1610612750,2007,00,Michael Doleac,Michael,michael-doleac,51,C,6-11,262,"JUN 15, 1977",31.0,9,Utah,1720,,0
+1610612750,2007,00,Marko Jaric,Marko,marko-jaric,55,G,6-7,224,"DEC 10, 1978",29.0,5,Virtus Bologna,2060,,0

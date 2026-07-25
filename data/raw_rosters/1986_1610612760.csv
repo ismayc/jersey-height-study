@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1986,00,Tom Chambers,Tom,tom-chambers,24,F,6-10,220,"JUN 21, 1959",28.0,5,Utah,1472,,0
+1610612760,1986,00,Dale Ellis,Dale,dale-ellis,3,G,6-7,205,"AUG 06, 1960",26.0,3,Tennessee,107,,0
+1610612760,1986,00,Clemon Johnson,Clemon,clemon-johnson,45,C,6-10,240,"SEP 12, 1956",30.0,8,Florida A&M,77136,,0
+1610612760,1986,00,Eddie Johnson,Eddie,eddie-johnson,15,G,6-2,180,"FEB 24, 1955",32.0,9,Auburn,77144,,0
+1610612760,1986,00,Curtis Kitchen,Curtis,curtis-kitchen,42,F,6-9,235,"JAN 30, 1964",23.0,R,South Florida,77280,,0
+1610612760,1986,00,Alton Lister,Alton,alton-lister,53,C,7-0,240,"OCT 01, 1958",28.0,5,Arizona State,175,,0
+1610612760,1986,00,Maurice Lucas,Maurice,maurice-lucas,20,F,6-9,215,"FEB 18, 1952",35.0,10,Marquette,77420,,0
+1610612760,1986,00,Xavier McDaniel,Xavier,xavier-mcdaniel,34,F,6-7,205,"JUN 04, 1963",24.0,1,Wichita State,1365,,0
+1610612760,1986,00,Nate McMillan,Nate,nate-mcmillan,10,G,6-5,195,"AUG 03, 1964",22.0,R,North Carolina State,203,,0
+1610612760,1986,00,Mike Phelps,Mike,mike-phelps,25,G,6-4,180,"OCT 03, 1961",25.0,1,Alcorn State,77852,,0
+1610612760,1986,00,Russ Schoene,Russ,russ-schoene,40,F,6-10,210,"APR 16, 1960",27.0,1,Tennessee-Chattanooga,78087,,0
+1610612760,1986,00,Terence Stansbury,Terence,terence-stansbury,44,G,6-5,170,"FEB 27, 1961",26.0,2,Temple,78241,,0
+1610612760,1986,00,Kevin Williams,Kevin,kevin-williams,30,G,6-2,175,"SEP 11, 1961",25.0,2,St. John's (NY),78556,,0
+1610612760,1986,00,Danny Young,Danny,danny-young,22,G,6-4,175,"JUL 26, 1962",24.0,2,Wake Forest,78633,,0

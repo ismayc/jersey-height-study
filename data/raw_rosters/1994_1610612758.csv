@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1994,00,Randy Brown,Randy,randy-brown,3,G,6-2,190,"MAY 22, 1968",27.0,3,New Mexico State,753,,0
+1610612758,1994,00,Duane Causwell,Duane,duane-causwell,31,C,7-0,240,"MAY 31, 1968",27.0,4,Temple,190,,0
+1610612758,1994,00,Brian Grant,Brian,brian-grant,33,F,6-9,254,"MAR 05, 1972",23.0,R,Xavier,258,,0
+1610612758,1994,00,Bobby Hurley,Bobby,bobby-hurley,7,G,6-0,165,"JUN 28, 1971",24.0,1,Duke,310,,0
+1610612758,1994,00,Doug Lee,Doug,doug-lee,20,G,6-5,200,"OCT 24, 1964",30.0,2,Purdue,77358,,0
+1610612758,1994,00,Derrick Phelps,Derrick,derrick-phelps,5,F,6-4,181,"JUL 31, 1972",22.0,R,North Carolina,74,,0
+1610612758,1994,00,Olden Polynice,Olden,olden-polynice,0,C,7-0,250,"NOV 21, 1964",30.0,7,Virginia,178,,0
+1610612758,1994,00,Mitch Richmond,Mitch,mitch-richmond,2,G,6-5,215,"JUN 30, 1965",29.0,6,Kansas State,782,,0
+1610612758,1994,00,Lionel Simmons,Lionel,lionel-simmons,22,F,6-7,210,"NOV 14, 1968",26.0,4,La Salle,1489,,0
+1610612758,1994,00,Michael Smith,Michael,michael-smith,34,F,6-8,230,"MAR 28, 1972",23.0,R,Providence,63,,0
+1610612758,1994,00,Henry Turner,Henry,henry-turner,9,G,6-7,200,"AUG 18, 1966",28.0,1,California State-Fullerton,78379,,0
+1610612758,1994,00,Spud Webb,Spud,spud-webb,4,G,5-7,133,"JUL 13, 1963",31.0,9,North Carolina State,892,,0
+1610612758,1994,00,Walt Williams,Walt,walt-williams,42,F-G,6-8,230,"APR 16, 1970",25.0,2,Maryland,1005,,0
+1610612758,1994,00,Trevor Wilson,Trevor,trevor-wilson,21,F,6-7,210,"MAR 16, 1968",27.0,2,UCLA,1027,,0

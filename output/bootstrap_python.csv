@@ -1,0 +1,2 @@
+quantity,estimate,ci_lo,ci_hi,reps
+cor_diff_last5_minus_first5,-0.2830415817589322,-0.33694073473913716,-0.22849252599461015,2000

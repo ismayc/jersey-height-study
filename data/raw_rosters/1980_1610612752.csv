@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1980,00,Reggie Carter,Reggie,reggie-carter,35,G,6-3,175,"OCT 10, 1957",23.0,R,St. John's (NY),76360,,0
+1610612752,1980,00,Bill Cartwright,Bill,bill-cartwright,25,C,7-1,245,"JUL 30, 1957",23.0,1,San Francisco,76362,,0
+1610612752,1980,00,Larry Demic,Larry,larry-demic,42,F,6-9,225,"JUN 27, 1957",24.0,1,Arizona,76553,,0
+1610612752,1980,00,Mike Glenn,Mike,mike-glenn,34,G,6-2,175,"SEP 10, 1955",25.0,3,Southern Illinois,76822,,0
+1610612752,1980,00,Micheal Ray Richardson,Micheal Ray,micheal-ray-richardson,20,G,6-5,189,"APR 11, 1955",26.0,2,Montana,77952,,0
+1610612752,1980,00,Campy Russell,Campy,campy-russell,21,F,6-8,215,"JAN 12, 1952",29.0,6,Michigan,78047,,0
+1610612752,1980,00,Dewayne Scales,Dewayne,dewayne-scales,31,F,6-8,208,"DEC 28, 1958",22.0,R,Louisiana State,78068,,0
+1610612752,1980,00,Marvin Webster,Marvin,marvin-webster,40,C,7-1,225,"APR 13, 1952",29.0,4,Morgan State,78481,,0
+1610612752,1980,00,Sly Williams,Sly,sly-williams,33,F,6-7,210,"JAN 26, 1958",23.0,1,Rhode Island,78570,,0
+1610612752,1980,00,Ray Williams,Ray,ray-williams,13,G,6-3,188,"OCT 14, 1954",26.0,3,Minnesota,78571,,0
+1610612752,1980,00,Mike Woodson,Mike,mike-woodson,44,G,6-5,195,"MAR 24, 1958",23.0,R,Indiana,78614,,0

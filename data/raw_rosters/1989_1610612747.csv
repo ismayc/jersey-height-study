@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1989,00,Steve Bucknall,Steve,steve-bucknall,24,F,6-6,215,"MAR 17, 1966",24.0,R,North Carolina,76294,,0
+1610612747,1989,00,Michael Cooper,Michael,michael-cooper,21,G,6-7,170,"APR 15, 1956",34.0,11,New Mexico,76444,,0
+1610612747,1989,00,Vlade Divac,Vlade,vlade-divac,12,C,7-1,260,"FEB 03, 1968",22.0,R,Partizan,124,,0
+1610612747,1989,00,Larry Drew,Larry,larry-drew,10,G,6-1,170,"APR 02, 1958",32.0,8,Missouri,76599,,0
+1610612747,1989,00,A.C. Green,A.C.,ac-green,45,F,6-9,220,"OCT 04, 1963",26.0,4,Oregon State,920,,0
+1610612747,1989,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",30.0,10,Michigan State,77142,,0
+1610612747,1989,00,Mel McCants,Mel,mel-mccants,49,F,6-8,240,"AUG 19, 1967",22.0,R,Purdue,77502,,0
+1610612747,1989,00,Mark McNamara,Mark,mark-mcnamara,31,C,6-11,235,"JUN 08, 1959",31.0,6,California,77558,,0
+1610612747,1989,00,Jawann Oldham,Jawann,jawann-oldham,55,C,7-0,215,"JUL 04, 1957",32.0,8,Seattle,77757,,0
+1610612747,1989,00,Byron Scott,Byron,byron-scott,4,G,6-3,195,"MAR 28, 1961",29.0,6,Arizona State,2,,0
+1610612747,1989,00,Mychal Thompson,Mychal,mychal-thompson,43,C,6-10,226,"JAN 30, 1955",35.0,10,Minnesota,78331,,0
+1610612747,1989,00,Jay Vincent,Jay,jay-vincent,3,F,6-7,220,"JUN 10, 1959",31.0,8,Michigan State,78418,,0
+1610612747,1989,00,Orlando Woolridge,Orlando,orlando-woolridge,0,F,6-9,215,"DEC 16, 1959",30.0,8,Notre Dame,78615,,0
+1610612747,1989,00,James Worthy,James,james-worthy,42,F,6-9,225,"FEB 27, 1961",29.0,7,North Carolina,1460,,0

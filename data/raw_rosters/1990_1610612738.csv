@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1990,00,Larry Bird,Larry,larry-bird,33,F,6-9,220,"DEC 07, 1956",34.0,11,Indiana State,1449,,0
+1610612738,1990,00,Dee Brown,Dee,dee-brown,,G,, ,"NOV 29, 1968",22.0,R,Jacksonville,244,,0
+1610612738,1990,00,Kevin Gamble,Kevin,kevin-gamble,34,F,6-6,210,"NOV 13, 1965",25.0,3,Iowa,333,,0
+1610612738,1990,00,Joe Kleine,Joe,joe-kleine,53,C,6-11,255,"JAN 04, 1962",29.0,5,Arkansas,170,,0
+1610612738,1990,00,Reggie Lewis,Reggie,reggie-lewis,35,G,6-7,195,"NOV 21, 1965",25.0,3,Northeastern,77384,,0
+1610612738,1990,00,Kevin McHale,Kevin,kevin-mchale,32,F,6-10,210,"DEC 19, 1957",33.0,10,Minnesota,1450,,0
+1610612738,1990,00,Robert Parish,Robert,robert-parish,0,C,7-1,230,"AUG 30, 1953",37.0,14,Centenary-Louisiana,305,,0
+1610612738,1990,00,Ed Pinckney,Ed,ed-pinckney,54,F,6-9,195,"MAR 27, 1963",28.0,5,Villanova,291,,0
+1610612738,1990,00,Dave Popson,Dave,dave-popson,42,C,6-10,220,"MAY 17, 1964",27.0,1,North Carolina,77872,,0
+1610612738,1990,00,Brian Shaw,Brian,brian-shaw,20,G,6-6,205,"MAR 22, 1966",25.0,1,California-Santa Barbara,216,,0
+1610612738,1990,00,Charles Smith,Charles,charles-smith,,F,6-1,160,"NOV 29, 1967",23.0,1,Georgetown,78179,,0
+1610612738,1990,00,Derek Smith,Derek,derek-smith,43,G,6-6,205,"NOV 01, 1961",29.0,8,Louisville,78183,,0
+1610612738,1990,00,Michael Smith,Michael,michael-smith,,G,6-10,225,"MAY 19, 1965",26.0,1,Brigham Young,78197,,0
+1610612738,1990,00,Stojko Vrankovic,Stojko,stojko-vrankovic,52,C,7-2,260,"JAN 22, 1964",27.0,R,Aris,1037,,0
+1610612738,1990,00,A.J. Wynder,A.J.,aj-wynder,12,G,6-2,180,"SEP 11, 1964",26.0,R,Fairfield,78627,,0

@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612756,2019,00,Jalen Lecque,Jalen,jalen-lecque,0,G,6-4,185,"JUN 13, 2000",20.0,R,Brewster Academy (NH),1629665,
+1610612756,2019,00,Devin Booker,Devin,devin-booker,1,G,6-5,206,"OCT 30, 1996",23.0,4,Kentucky,1626164,#13 Pick in 2015 Draft
+1610612756,2019,00,Elie Okobo,Elie,elie-okobo,2,F-G,6-3,190,"OCT 23, 1997",22.0,1,Elan Bearnais,1629059,
+1610612756,2019,00,Kelly Oubre Jr.,Kelly,kelly-oubre-jr,3,F-G,6-7,203,"DEC 09, 1995",24.0,4,Kansas,1626162,
+1610612756,2019,00,Jevon Carter,Jevon,jevon-carter,4,G,6-1,200,"SEP 14, 1995",24.0,1,West Virginia,1628975,
+1610612756,2019,00,Frank Kaminsky,Frank,frank-kaminsky,8,F-C,7-0,240,"APR 04, 1993",27.0,4,Wisconsin,1626163,
+1610612756,2019,00,Ty Jerome,Ty,ty-jerome,10,G-F,6-5,195,"JUL 08, 1997",22.0,R,Virginia,1629660,
+1610612756,2019,00,Ricky Rubio,Ricky,ricky-rubio,11,G,6-3,190,"OCT 21, 1990",29.0,8,FC Barcelona,201937,
+1610612756,2019,00,Cheick Diallo,Cheick,cheick-diallo,14,F-C,6-8,219,"SEP 13, 1996",23.0,3,Kansas,1627767,
+1610612756,2019,00,Cameron Payne,Cameron,cameron-payne,15,G,6-1,183,"AUG 08, 1994",25.0,4,Murray State,1626166,
+1610612756,2019,00,Dario Šarić,Dario,dario-šarić,20,F,6-10,225,"APR 08, 1994",26.0,3,Anadolu Efes,203967,
+1610612756,2019,00,Deandre Ayton,Deandre,deandre-ayton,22,C,6-11,250,"JUL 23, 1998",21.0,1,Arizona,1629028,
+1610612756,2019,00,Cameron Johnson,Cameron,cameron-johnson,23,F,6-8,210,"MAR 03, 1996",24.0,R,North Carolina,1629661,
+1610612756,2019,00,Mikal Bridges,Mikal,mikal-bridges,25,F,6-6,209,"AUG 30, 1996",23.0,1,Villanova,1628969,
+1610612756,2019,00,Tariq Owens,Tariq,tariq-owens,41,F,6-10,205,"JUN 30, 1995",25.0,R,Texas Tech,1629745,
+1610612756,2019,00,Aron Baynes,Aron,aron-baynes,46,C-F,6-10,260,"DEC 09, 1986",33.0,7,Washington State,203382,

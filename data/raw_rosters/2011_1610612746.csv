@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612746,2011,00,Chauncey Billups,Chauncey,chauncey-billups,1,G,6-3,210,"SEP 25, 1976",35.0,14,Colorado,1497,
+1610612746,2011,00,Kenyon Martin,Kenyon,kenyon-martin,2,F,6-9,240,"DEC 30, 1977",34.0,11,Cincinnati,2030,
+1610612746,2011,00,Chris Paul,Chris,chris-paul,3,G,6-0,175,"MAY 06, 1985",27.0,6,Wake Forest,101108,Signed on 07/21/25
+1610612746,2011,00,Randy Foye,Randy,randy-foye,4,G,6-4,213,"SEP 24, 1983",28.0,5,Villanova,200751,
+1610612746,2011,00,Caron Butler,Caron,caron-butler,5,F,6-7,228,"MAR 13, 1980",32.0,9,Connecticut,2406,
+1610612746,2011,00,DeAndre Jordan,DeAndre,deandre-jordan,6,C,6-11,265,"JUL 21, 1988",23.0,3,Texas A&M,201599,
+1610612746,2011,00,Nick Young,Nick,nick-young,11,G,6-7,210,"JUN 01, 1985",27.0,4,Southern California,201156,
+1610612746,2011,00,Eric Bledsoe,Eric,eric-bledsoe,12,G,6-1,195,"DEC 09, 1989",22.0,1,Kentucky,202339,
+1610612746,2011,00,Ryan Gomes,Ryan,ryan-gomes,15,F,6-7,245,"SEP 01, 1982",29.0,6,Providence,101155,
+1610612746,2011,00,Bobby Simmons,Bobby,bobby-simmons,21,F,6-6,235,"JUN 02, 1980",32.0,8,DePaul,2250,
+1610612746,2011,00,Travis Leslie,Travis,travis-leslie,23,G,6-4,205,"MAR 29, 1990",22.0,R,Georgia,202727,
+1610612746,2011,00,Mo Williams,Mo,mo-williams,25,G,6-1,195,"DEC 19, 1982",29.0,8,Alabama,2590,
+1610612746,2011,00,Reggie Evans,Reggie,reggie-evans,30,F,6-8,245,"MAY 18, 1980",32.0,9,Iowa,2501,
+1610612746,2011,00,Blake Griffin,Blake,blake-griffin,32,F,6-10,251,"MAR 16, 1989",23.0,1,Oklahoma,201933,
+1610612746,2011,00,Trey Thompkins,Trey,trey-thompkins,33,F,6-10,245,"MAY 29, 1990",22.0,R,Georgia,202717,

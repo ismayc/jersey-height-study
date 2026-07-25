@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612756,2022,00,Torrey Craig,Torrey,torrey-craig,0,F,6-7,221,"DEC 19, 1990",32.0,5,South Carolina Upstate,1628470,
+1610612756,2022,00,Devin Booker,Devin,devin-booker,1,G,6-5,206,"OCT 30, 1996",26.0,7,Kentucky,1626164,#13 Pick in 2015 Draft
+1610612756,2022,00,Josh Okogie,Josh,josh-okogie,2,G,6-4,213,"SEP 01, 1998",24.0,4,Georgia Tech,1629006,
+1610612756,2022,00,Chris Paul,Chris,chris-paul,3,G,6-0,175,"MAY 06, 1985",38.0,17,Wake Forest,101108,
+1610612756,2022,00,Terrence Ross,Terrence,terrence-ross,8,G-F,6-7,206,"FEB 05, 1991",32.0,10,Washington,203082,
+1610612756,2022,00,Damion Lee,Damion,damion-lee,10,G-F,6-5,210,"OCT 21, 1992",30.0,5,Drexel,1627814,
+1610612756,2022,00,Jock Landale,Jock,jock-landale,11,C,6-11,255,"OCT 25, 1995",27.0,1,St. Mary's,1629111,
+1610612756,2022,00,Ish Wainright,Ish,ish-wainright,12,F,6-5,250,"SEP 12, 1994",28.0,1,Baylor,1630688,
+1610612756,2022,00,Landry Shamet,Landry,landry-shamet,14,G,6-4,190,"MAR 13, 1997",26.0,4,Wichita State,1629013,
+1610612756,2022,00,Cameron Payne,Cameron,cameron-payne,15,G,6-1,183,"AUG 08, 1994",28.0,7,Murray State,1626166,
+1610612756,2022,00,Bismack Biyombo,Bismack,bismack-biyombo,18,C,6-8,255,"AUG 28, 1992",30.0,11,Baloncesto Fuenlabrada,202687,
+1610612756,2022,00,T.J. Warren,T.J.,tj-warren,21,F,6-8,220,"SEP 05, 1993",29.0,7,North Carolina State,203933,
+1610612756,2022,00,Deandre Ayton,Deandre,deandre-ayton,22,C,7-0,250,"JUL 23, 1998",24.0,4,Arizona,1629028,
+1610612756,2022,00,Kevin Durant,Kevin,kevin-durant,35,F,6-10,240,"SEP 29, 1988",34.0,15,Texas,201142,
+1610612756,2022,00,Saben Lee,Saben,saben-lee,38,G,6-2,183,"JUN 23, 1999",24.0,2,Vanderbilt,1630240,
+1610612756,2022,00,Darius Bazley,Darius,darius-bazley,55,F,6-9,216,"JUN 12, 2000",23.0,3,Princeton HS (OH),1629647,

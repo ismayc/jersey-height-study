@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612751,1987,00,John Bagley,John,john-bagley,5,G,6-0,185,"APR 23, 1960",28.0,5,Boston College,76082,,0
+1610612751,1987,00,Otis Birdsong,Otis,otis-birdsong,10,G,6-3,190,"DEC 09, 1955",32.0,10,Houston,76170,,0
+1610612751,1987,00,Dudley Bradley,Dudley,dudley-bradley,22,G,6-6,195,"MAR 19, 1957",31.0,7,North Carolina,76231,,0
+1610612751,1987,00,Adrian Branch,Adrian,adrian-branch,21,F,6-7,185,"NOV 17, 1963",24.0,1,Maryland,76237,,0
+1610612751,1987,00,Dallas Comegys,Dallas,dallas-comegys,45,C,6-9,205,"AUG 17, 1964",23.0,R,DePaul,76426,,0
+1610612751,1987,00,Chris Engler,Chris,chris-engler,50,C,6-11,245,"MAR 01, 1959",29.0,4,Wyoming,76670,,0
+1610612751,1987,00,Roy Hinson,Roy,roy-hinson,21,C,6-9,210,"MAY 02, 1961",27.0,4,Rutgers,77030,,0
+1610612751,1987,00,Dennis Hopson,Dennis,dennis-hopson,23,F,6-5,200,"APR 22, 1965",23.0,R,Ohio State,77054,,0
+1610612751,1987,00,Tim McCormick,Tim,tim-mccormick,40,C,6-11,240,"MAR 10, 1962",26.0,3,Michigan,77516,,0
+1610612751,1987,00,Kevin McKenna,Kevin,kevin-mckenna,12,F,6-5,195,"JAN 08, 1959",29.0,5,Creighton,77541,,0
+1610612751,1987,00,Johnny Moore,Johnny,johnny-moore,0,G,6-1,175,"MAR 03, 1958",30.0,7,Texas,77633,,0
+1610612751,1987,00,Mike O'Koren,Mike,mike-okoren,31,F,6-7,207,"FEB 07, 1958",30.0,7,North Carolina,77754,,0
+1610612751,1987,00,Jamie Waller,Jamie,jamie-waller,15,F,6-4,215,"NOV 20, 1964",23.0,R,Virginia Union,78445,,0
+1610612751,1987,00,Duane Washington,Duane,duane-washington,14,G,6-4,195,"AUG 31, 1964",23.0,R,Middle Tennessee State,78464,,0
+1610612751,1987,00,Dwayne Washington,Dwayne,dwayne-washington,1,G,6-2,190,"JAN 06, 1964",24.0,1,Syracuse,78465,,0
+1610612751,1987,00,Buck Williams,Buck,buck-williams,52,F,6-8,215,"MAR 08, 1960",28.0,6,Maryland,433,,0
+1610612751,1987,00,Orlando Woolridge,Orlando,orlando-woolridge,0,F,6-9,215,"DEC 16, 1959",28.0,6,Notre Dame,78615,,0

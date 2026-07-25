@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612739,1988,00,Brad Daugherty,Brad,brad-daugherty,43,C,7-0,245,"OCT 19, 1965",23.0,2,North Carolina,921,,0
+1610612739,1988,00,Chris Dudley,Chris,chris-dudley,24,C,6-11,260,"FEB 22, 1965",24.0,1,Yale,201,,0
+1610612739,1988,00,Craig Ehlo,Craig,craig-ehlo,3,G,6-6,180,"AUG 11, 1961",27.0,5,Washington State,378,,0
+1610612739,1988,00,Ron Harper,Ron,ron-harper,4,G,6-6,185,"JAN 20, 1964",25.0,2,Miami (Ohio),166,,0
+1610612739,1988,00,Phil Hubbard,Phil,phil-hubbard,35,F,6-8,215,"DEC 13, 1956",32.0,9,Michigan,77071,,0
+1610612739,1988,00,Randolph Keys,Randolph,randolph-keys,31,F,6-7,195,"APR 19, 1966",23.0,R,Southern Mississippi,705,,0
+1610612739,1988,00,Larry Nance,Larry,larry-nance,22,F,6-10,205,"FEB 12, 1959",30.0,7,Clemson,77685,,0
+1610612739,1988,00,Mark Price,Mark,mark-price,25,G,6-0,170,"FEB 15, 1964",25.0,2,Georgia Tech,899,,0
+1610612739,1988,00,Tree Rollins,Tree,tree-rollins,30,C,7-1,235,"JUN 16, 1955",34.0,11,Clemson,78014,,0
+1610612739,1988,00,Mike Sanders,Mike,mike-sanders,11,F,6-6,210,"MAY 07, 1960",29.0,6,UCLA,78059,,0
+1610612739,1988,00,Darnell Valentine,Darnell,darnell-valentine,1,G,6-2,183,"FEB 03, 1959",30.0,7,Kansas,78395,,0
+1610612739,1988,00,Hot Rod Williams,Hot Rod,hot-rod-williams,18,F,6-11,215,"AUG 09, 1962",26.0,2,Tulane,73,,0

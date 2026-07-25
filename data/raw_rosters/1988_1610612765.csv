@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1988,00,Mark Aguirre,Mark,mark-aguirre,23,F,6-6,232,"DEC 10, 1959",29.0,7,DePaul,76016,,0
+1610612765,1988,00,Darryl Dawkins,Darryl,darryl-dawkins,50,C,6-11,251,"JAN 11, 1957",32.0,13,Maynard Evans HS (FL),76539,,0
+1610612765,1988,00,Fennis Dembo,Fennis,fennis-dembo,34,F,6-5,215,"JAN 24, 1966",23.0,R,Wyoming,76552,,0
+1610612765,1988,00,Joe Dumars,Joe,joe-dumars,4,G,6-3,190,"MAY 24, 1963",26.0,3,McNeese State,247,,0
+1610612765,1988,00,James Edwards,James,james-edwards,53,C,7-1,225,"NOV 22, 1955",33.0,11,Washington,229,,0
+1610612765,1988,00,Steve Harris,Steve,steve-harris,35,G,6-5,195,"OCT 15, 1963",25.0,3,Tulsa,76960,,0
+1610612765,1988,00,Vinnie Johnson,Vinnie,vinnie-johnson,15,G,6-2,200,"SEP 01, 1956",32.0,9,Baylor,77167,,0
+1610612765,1988,00,Bill Laimbeer,Bill,bill-laimbeer,40,C,6-11,245,"MAY 19, 1957",32.0,8,Notre Dame,100263,,0
+1610612765,1988,00,John Long,John,john-long,25,G,6-5,195,"AUG 28, 1956",32.0,10,Detroit,1381,,0
+1610612765,1988,00,Rick Mahorn,Rick,rick-mahorn,44,F,6-10,240,"SEP 21, 1958",30.0,8,Hampton,328,,0
+1610612765,1988,00,Dennis Rodman,Dennis,dennis-rodman,10,F,6-7,210,"MAY 13, 1961",28.0,2,Southeastern Oklahoma State,23,,0
+1610612765,1988,00,John Salley,John,john-salley,22,F,6-11,230,"MAY 16, 1964",25.0,2,Georgia Tech,927,,0
+1610612765,1988,00,Isiah Thomas,Isiah,isiah-thomas,11,G,6-1,180,"APR 30, 1961",28.0,7,Indiana,78318,,0
+1610612765,1988,00,Micheal Williams,Micheal,micheal-williams,24,G,6-2,175,"JUL 23, 1966",22.0,R,Baylor,52,,0

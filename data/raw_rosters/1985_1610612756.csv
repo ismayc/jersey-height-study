@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,1985,00,Alvan Adams,Alvan,alvan-adams,33,C,6-9,210,"JUL 19, 1954",31.0,10,Oklahoma,76011,,0
+1610612756,1985,00,Walter Davis,Walter,walter-davis,6,G,6-6,193,"SEP 09, 1954",31.0,8,North Carolina,1453,,0
+1610612756,1985,00,Devin Durrant,Devin,devin-durrant,17,F,6-7,200,"OCT 20, 1960",25.0,1,Brigham Young,76621,,0
+1610612756,1985,00,James Edwards,James,james-edwards,53,C,7-1,225,"NOV 22, 1955",30.0,8,Washington,229,,0
+1610612756,1985,00,Rod Foster,Rod,rod-foster,10,G,6-1,160,"OCT 10, 1960",25.0,2,UCLA,76742,,0
+1610612756,1985,00,Georgi Glouchkov,Georgi,georgi-glouchkov,16,F,6-8,235,"JAN 10, 1960",26.0,R,Akademik Varna,76824,,0
+1610612756,1985,00,Jay Humphries,Jay,jay-humphries,24,G,6-3,185,"OCT 17, 1962",23.0,1,Colorado,77081,,0
+1610612756,1985,00,Charles Jones,Charles,charles-jones,,F,6-8,215,"JAN 12, 1962",24.0,1,Louisville,77178,,0
+1610612756,1985,00,Larry Nance,Larry,larry-nance,22,F,6-10,205,"FEB 12, 1959",27.0,4,Clemson,77685,,0
+1610612756,1985,00,Ed Pinckney,Ed,ed-pinckney,54,F,6-9,195,"MAR 27, 1963",23.0,R,Villanova,291,,0
+1610612756,1985,00,Charlie Pittman,Charlie,charlie-pittman,32,F,6-8,220,"MAR 23, 1958",28.0,3,Maryland,77864,,0
+1610612756,1985,00,Rick Robey,Rick,rick-robey,8,C,6-11,230,"JAN 30, 1956",30.0,7,Kentucky,77984,,0
+1610612756,1985,00,Mike Sanders,Mike,mike-sanders,11,F,6-6,210,"MAY 07, 1960",26.0,3,UCLA,78059,,0
+1610612756,1985,00,Bernard Thompson,Bernard,bernard-thompson,7,G,6-6,210,"AUG 30, 1962",23.0,1,Fresno State,78323,,0
+1610612756,1985,00,Sedric Toney,Sedric,sedric-toney,15,G,6-2,178,"APR 13, 1962",24.0,R,Dayton,78352,,0
+1610612756,1985,00,Nick Vanos,Nick,nick-vanos,30,C,7-1,255,"APR 13, 1963",23.0,R,Santa Clara,78407,,0

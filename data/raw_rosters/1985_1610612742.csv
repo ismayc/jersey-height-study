@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612742,1985,00,Mark Aguirre,Mark,mark-aguirre,24,F,6-6,232,"DEC 10, 1959",26.0,4,DePaul,76016,,0
+1610612742,1985,00,Uwe Blab,Uwe,uwe-blab,33,C,7-1,252,"MAR 26, 1962",24.0,R,Indiana,76172,,0
+1610612742,1985,00,Rolando Blackman,Rolando,rolando-blackman,22,G,6-6,190,"FEB 26, 1959",27.0,4,Kansas State,76176,,0
+1610612742,1985,00,Brad Davis,Brad,brad-davis,15,G,6-3,180,"DEC 17, 1955",30.0,8,Maryland,76516,,0
+1610612742,1985,00,James Donaldson,James,james-donaldson,40,C,7-2,275,"AUG 16, 1957",28.0,5,Washington State,76583,,0
+1610612742,1985,00,Dale Ellis,Dale,dale-ellis,14,G,6-7,205,"AUG 06, 1960",25.0,2,Tennessee,107,,0
+1610612742,1985,00,Derek Harper,Derek,derek-harper,12,G,6-4,185,"OCT 13, 1961",24.0,2,Illinois,157,,0
+1610612742,1985,00,Harold Keeling,Harold,harold-keeling,43,G,6-4,185,"SEP 18, 1963",22.0,R,Santa Clara,77233,,0
+1610612742,1985,00,Kurt Nimphius,Kurt,kurt-nimphius,40,C,6-10,218,"MAR 13, 1958",28.0,4,Arizona State,77719,,0
+1610612742,1985,00,Sam Perkins,Sam,sam-perkins,41,F,6-9,235,"JUN 14, 1961",25.0,1,North Carolina,64,,0
+1610612742,1985,00,Detlef Schrempf,Detlef,detlef-schrempf,32,F,6-9,214,"JAN 21, 1963",23.0,R,Washington,96,,0
+1610612742,1985,00,Jay Vincent,Jay,jay-vincent,31,F,6-7,220,"JUN 10, 1959",27.0,4,Michigan State,78418,,0
+1610612742,1985,00,Bill Wennington,Bill,bill-wennington,23,C,7-0,245,"APR 26, 1963",23.0,R,St. John's (NY),82,,0

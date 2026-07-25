@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1993,00,Vincent Askew,Vincent,vincent-askew,17,G,6-6,210,"FEB 28, 1966",28.0,4,Memphis,355,,0
+1610612760,1993,00,Michael Cage,Michael,michael-cage,44,C,6-9,224,"JAN 28, 1962",32.0,9,San Diego State,262,,0
+1610612760,1993,00,Alphonso Ford,Alphonso,alphonso-ford,3,F,6-1,190,"OCT 31, 1971",22.0,R,Mississippi Valley State,76732,,0
+1610612760,1993,00,Kendall Gill,Kendall,kendall-gill,13,G,6-5,216,"MAY 25, 1968",26.0,3,Illinois,383,,0
+1610612760,1993,00,Ervin Johnson,Ervin,ervin-johnson,50,C,6-11,255,"DEC 21, 1967",26.0,R,New Orleans,911,,0
+1610612760,1993,00,Shawn Kemp,Shawn,shawn-kemp,40,F,6-10,280,"NOV 26, 1969",24.0,4,Concord HS (IN),431,,0
+1610612760,1993,00,Chris King,Chris,chris-king,35,F,6-8,215,"JUL 24, 1969",24.0,R,Wake Forest,12,,0
+1610612760,1993,00,Rich King,Rich,rich-king,25,C,7-2,260,"APR 04, 1969",25.0,2,Nebraska,1101,,0
+1610612760,1993,00,Nate McMillan,Nate,nate-mcmillan,10,G,6-5,195,"AUG 03, 1964",29.0,7,North Carolina State,203,,0
+1610612760,1993,00,Gary Payton,Gary,gary-payton,20,G,6-4,190,"JUL 23, 1968",25.0,3,Oregon State,56,,0
+1610612760,1993,00,Sam Perkins,Sam,sam-perkins,14,F,6-9,235,"JUN 14, 1961",33.0,9,North Carolina,64,,0
+1610612760,1993,00,Ricky Pierce,Ricky,ricky-pierce,22,G,6-4,205,"AUG 19, 1959",34.0,11,Rice,894,,0
+1610612760,1993,00,Steve Scheffler,Steve,steve-scheffler,55,F,6-9,250,"SEP 03, 1967",26.0,3,Purdue,88,,0
+1610612760,1993,00,Detlef Schrempf,Detlef,detlef-schrempf,11,F,6-9,214,"JAN 21, 1963",31.0,8,Washington,96,,0

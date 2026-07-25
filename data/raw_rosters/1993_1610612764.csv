@@ -1,0 +1,19 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1993,00,Michael Adams,Michael,michael-adams,10,G,5-10,162,"JAN 19, 1963",31.0,8,Boston College,149,,0
+1610612764,1993,00,Ron Anderson,Ron,ron-anderson,35,F,6-7,215,"OCT 15, 1958",35.0,9,Fresno State,76046,,0
+1610612764,1993,00,Mitchell Butler,Mitchell,mitchell-butler,32,G,6-5,227,"DEC 15, 1970",23.0,R,UCLA,348,,0
+1610612764,1993,00,Rex Chapman,Rex,rex-chapman,3,G,6-4,185,"OCT 05, 1967",26.0,5,Kentucky,364,,0
+1610612764,1993,00,Calbert Cheaney,Calbert,calbert-cheaney,40,G-F,6-7,217,"JUL 17, 1971",22.0,R,Indiana,384,,0
+1610612764,1993,00,Marty Conlon,Marty,marty-conlon,50,C,6-10,224,"JAN 19, 1968",26.0,2,Providence,55,,0
+1610612764,1993,00,Kevin Duckworth,Kevin,kevin-duckworth,0,C,7-0,275,"APR 01, 1964",30.0,7,Eastern Illinois,404,,0
+1610612764,1993,00,Pervis Ellison,Pervis,pervis-ellison,43,C,6-9,210,"APR 03, 1967",27.0,4,Louisville,442,,0
+1610612764,1993,00,Andrew Gaze,Andrew,andrew-gaze,4,F,6-7,205,"JUL 24, 1965",28.0,R,Seton Hall,1845,,0
+1610612764,1993,00,Tom Gugliotta,Tom,tom-gugliotta,24,F,6-10,250,"DEC 19, 1969",24.0,1,North Carolina State,339,,0
+1610612764,1993,00,Tito Horford,Tito,tito-horford,42,C,7-1,245,"JAN 19, 1966",28.0,2,Miami,77057,,0
+1610612764,1993,00,Don MacLean,Don,don-maclean,34,F,6-10,235,"JAN 16, 1970",24.0,1,UCLA,931,,0
+1610612764,1993,00,Gheorghe Muresan,Gheorghe,gheorghe-muresan,77,C,7-7,303,"FEB 14, 1971",23.0,R,Pau Orthez,49,,0
+1610612764,1993,00,Doug Overton,Doug,doug-overton,14,G,6-3,190,"AUG 03, 1969",24.0,1,La Salle,77,,0
+1610612764,1993,00,Gerald Paddio,Gerald,gerald-paddio,4,F,6-7,205,"APR 21, 1965",29.0,2,UNLV,77789,,0
+1610612764,1993,00,Brent Price,Brent,brent-price,20,G,6-1,185,"DEC 09, 1968",25.0,1,Oklahoma,85,,0
+1610612764,1993,00,Larry Stewart,Larry,larry-stewart,33,F,6-8,220,"SEP 21, 1968",25.0,2,Coppin State,1125,,0
+1610612764,1993,00,Kenny Walker,Kenny,kenny-walker,15,F,6-8,210,"AUG 18, 1964",29.0,5,Kentucky,78440,,0

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612763,1995,00,Greg Anthony,Greg,greg-anthony,2,G,6-1,176,"NOV 15, 1967",28.0,4,UNLV,21,,0
+1610612763,1995,00,Byron Scott,Byron,byron-scott,4,G,6-4,202,"MAR 28, 1961",35.0,12,Arizona State,2,,0
+1610612763,1995,00,Eric Murdock,Eric,eric-murdock,14,G,6-1,200,"JUN 14, 1968",28.0,4,Providence,785,,0
+1610612763,1995,00,Richard Manning,Richard,richard-manning,15,F,6-11,253,"JUN 23, 1970",26.0,R,Washington,316,,0
+1610612763,1995,00,Chris King,Chris,chris-king,17,F,6-8,215,"JUL 24, 1969",26.0,1,Wake Forest,12,,0
+1610612763,1995,00,Ashraf Amaya,Ashraf,ashraf-amaya,18,F,6-7,250,"NOV 23, 1971",24.0,R,Southern Illinois,732,,0
+1610612763,1995,00,Lawrence Moten,Lawrence,lawrence-moten,21,G,6-5,185,"MAR 25, 1972",24.0,R,Syracuse,734,,0
+1610612763,1995,00,Gerald Wilkins,Gerald,gerald-wilkins,21,G,6-6,230,"SEP 11, 1963",32.0,9,Tennessee-Chattanooga,786,,0
+1610612763,1995,00,Blue Edwards,Blue,blue-edwards,30,G,6-4,228,"OCT 31, 1965",30.0,6,East Carolina,898,,0
+1610612763,1995,00,Doug Edwards,Doug,doug-edwards,32,F,6-7,235,"JAN 21, 1971",25.0,2,Florida State,346,,0
+1610612763,1995,00,Anthony Avent,Anthony,anthony-avent,34,F,6-9,235,"OCT 18, 1969",26.0,3,Seton Hall,138,,0
+1610612763,1995,00,Cuonzo Martin,Cuonzo,cuonzo-martin,40,G-F,6-6,215,"SEP 23, 1971",24.0,R,Purdue,733,,0
+1610612763,1995,00,Kenny Gattison,Kenny,kenny-gattison,44,F,6-8,225,"MAY 23, 1964",32.0,8,Old Dominion,930,,0
+1610612763,1995,00,Bryant Reeves,Bryant,bryant-reeves,50,C,7-0,295,"JUN 08, 1973",23.0,R,Oklahoma State,735,,0

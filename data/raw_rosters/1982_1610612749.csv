@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1982,00,Junior Bridgeman,Junior,junior-bridgeman,2,F,6-5,210,"SEP 17, 1953",29.0,7,Louisville,76252,,0
+1610612749,1982,00,Harvey Catchings,Harvey,harvey-catchings,42,C,6-9,218,"SEP 02, 1951",31.0,8,Hardin-Simmons,76365,,0
+1610612749,1982,00,Dave Cowens,Dave,dave-cowens,36,C,6-9,230,"OCT 25, 1948",34.0,10,Florida State,76462,,0
+1610612749,1982,00,Charlie Criss,Charlie,charlie-criss,15,G,5-8,165,"NOV 06, 1948",34.0,5,New Mexico State,76471,,0
+1610612749,1982,00,Phil Ford,Phil,phil-ford,12,G,6-2,175,"FEB 09, 1956",27.0,4,North Carolina,76736,,0
+1610612749,1982,00,Armond Hill,Armond,armond-hill,22,G,6-4,190,"MAR 31, 1953",30.0,6,Princeton,77024,,0
+1610612749,1982,00,Marques Johnson,Marques,marques-johnson,8,F,6-7,218,"FEB 08, 1956",27.0,5,UCLA,77160,,0
+1610612749,1982,00,Bob Lanier,Bob,bob-lanier,16,C,6-11,250,"SEP 10, 1948",34.0,12,St. Bonaventure,600005,,0
+1610612749,1982,00,Alton Lister,Alton,alton-lister,53,C,7-0,240,"OCT 01, 1958",24.0,1,Arizona State,175,,0
+1610612749,1982,00,Paul Mokeski,Paul,paul-mokeski,45,C,7-0,250,"JAN 03, 1957",26.0,3,Kansas,77623,,0
+1610612749,1982,00,Sidney Moncrief,Sidney,sidney-moncrief,4,G,6-4,180,"SEP 21, 1957",25.0,3,Arkansas,77626,,0
+1610612749,1982,00,Sam Pellom,Sam,sam-pellom,41,F,6-9,225,"OCT 02, 1951",31.0,3,Buffalo State,77829,,0
+1610612749,1982,00,Paul Pressey,Paul,paul-pressey,25,G,6-5,185,"DEC 24, 1958",24.0,R,Tulsa,77879,,0
+1610612749,1982,00,Brian Winters,Brian,brian-winters,32,G,6-4,185,"MAR 01, 1952",31.0,8,South Carolina,78600,,0

@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612746,2005,00,Walter McCarty,Walter,walter-mccarty,0,F,6-10,245,"FEB 01, 1974",32.0,9,Kentucky,962,,0
+1610612746,2005,00,Daniel Ewing,Daniel,daniel-ewing,3,G,6-3,185,"MAR 26, 1983",23.0,R,Duke,101137,,0
+1610612746,2005,00,Cuttino Mobley,Cuttino,cuttino-mobley,5,G,6-4,215,"SEP 01, 1975",30.0,7,Rhode Island,1749,,0
+1610612746,2005,00,Vladimir Radmanovic,Vladimir,vladimir-radmanovic,7,F,6-10,234,"NOV 19, 1980",25.0,4,FMP,2209,,0
+1610612746,2005,00,Zeljko Rebraca,Zeljko,zeljko-rebraca,11,C,7-0,265,"APR 09, 1972",34.0,4,Panathinaikos,1442,,0
+1610612746,2005,00,Quinton Ross,Quinton,quinton-ross,13,F,6-6,193,"APR 30, 1981",25.0,1,Southern Methodist,2624,,0
+1610612746,2005,00,Shaun Livingston,Shaun,shaun-livingston,14,G,6-7,182,"SEP 11, 1985",20.0,1,Peoria Central HS (IL),2733,,0
+1610612746,2005,00,James Singleton,James,james-singleton,15,F,6-8,215,"JUL 20, 1981",24.0,R,Murray State,101189,,0
+1610612746,2005,00,Sam Cassell,Sam,sam-cassell,19,G,6-3,185,"NOV 18, 1969",36.0,12,Florida State,208,,0
+1610612746,2005,00,Vin Baker,Vin,vin-baker,34,F,6-11,240,"NOV 23, 1971",34.0,12,Hartford,452,,0
+1610612746,2005,00,Chris Kaman,Chris,chris-kaman,35,C,7-0,265,"APR 28, 1982",24.0,2,Central Michigan,2549,,0
+1610612746,2005,00,Elton Brand,Elton,elton-brand,42,F,6-8,254,"MAR 11, 1979",27.0,6,Duke,1882,,0
+1610612746,2005,00,Corey Maggette,Corey,corey-maggette,50,F-G,6-6,225,"NOV 12, 1979",26.0,6,Duke,1894,,0

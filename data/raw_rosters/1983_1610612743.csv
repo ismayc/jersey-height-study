@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612743,1983,00,Richard Anderson,Richard,richard-anderson,35,F,6-10,240,"NOV 19, 1960",23.0,1,California-Santa Barbara,76045,,0
+1610612743,1983,00,Howard Carter,Howard,howard-carter,32,G,6-5,215,"OCT 26, 1961",22.0,R,Louisiana State,76358,,0
+1610612743,1983,00,Kenny Dennard,Kenny,kenny-dennard,33,F,6-8,220,"OCT 18, 1958",25.0,2,Duke,76556,,0
+1610612743,1983,00,T.R. Dunn,T.R.,tr-dunn,23,G,6-4,192,"FEB 01, 1955",29.0,6,Alabama,76618,,0
+1610612743,1983,00,Keith Edmonson,Keith,keith-edmonson,10,G,6-5,195,"SEP 28, 1960",23.0,1,Purdue,76638,,0
+1610612743,1983,00,Alex English,Alex,alex-english,2,F,6-8,190,"JAN 05, 1954",30.0,7,South Carolina,76673,,0
+1610612743,1983,00,Mike Evans,Mike,mike-evans,5,G,6-1,170,"APR 19, 1955",29.0,4,Kansas State,76686,,0
+1610612743,1983,00,Bill Hanzlik,Bill,bill-hanzlik,24,F,6-7,185,"DEC 06, 1957",26.0,3,Notre Dame,76944,,0
+1610612743,1983,00,Dan Issel,Dan,dan-issel,44,C,6-9,235,"OCT 25, 1948",35.0,7,Kentucky,77097,,0
+1610612743,1983,00,Anthony Roberts,Anthony,anthony-roberts,30,F,6-5,185,"APR 15, 1955",29.0,4,Oral Roberts,77975,,0
+1610612743,1983,00,Dan Schayes,Dan,dan-schayes,34,C,6-11,235,"MAY 10, 1959",25.0,2,Syracuse,7,,0
+1610612743,1983,00,Kiki Vandeweghe,Kiki,kiki-vandeweghe,55,F,6-8,220,"AUG 01, 1958",25.0,3,UCLA,78404,,0
+1610612743,1983,00,Rob Williams,Rob,rob-williams,21,G,6-2,175,"MAY 05, 1961",23.0,1,Houston,78565,,0

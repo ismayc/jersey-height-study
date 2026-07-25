@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612754,1983,00,Butch Carter,Butch,butch-carter,12,G,6-5,180,"JUN 11, 1958",26.0,3,Indiana,76355,,0
+1610612754,1983,00,Leroy Combs,Leroy,leroy-combs,34,F,6-8,210,"JAN 01, 1961",23.0,R,Oklahoma State,76425,,0
+1610612754,1983,00,Tracy Jackson,Tracy,tracy-jackson,7,G,6-6,205,"APR 21, 1959",25.0,2,Notre Dame,77110,,0
+1610612754,1983,00,George Johnson,George,george-johnson,,F,6-7,210,"DEC 08, 1956",27.0,5,St. John's (NY),77148,,0
+1610612754,1983,00,Clark Kellogg,Clark,clark-kellogg,33,F,6-7,225,"JUL 02, 1961",22.0,1,Ohio State,77236,,0
+1610612754,1983,00,Bruce Kuczenski,Bruce,bruce-kuczenski,7,F,6-10,230,"FEB 03, 1961",23.0,R,Connecticut,77318,,0
+1610612754,1983,00,Sidney Lowe,Sidney,sidney-lowe,35,G,6-0,195,"JAN 21, 1960",24.0,R,North Carolina State,77415,,0
+1610612754,1983,00,Kevin McKenna,Kevin,kevin-mckenna,21,F,6-5,195,"JAN 08, 1959",25.0,1,Creighton,77541,,0
+1610612754,1983,00,Jerry Sichting,Jerry,jerry-sichting,14,G,6-1,168,"NOV 29, 1956",27.0,3,Purdue,78146,,0
+1610612754,1983,00,Brook Steppe,Brook,brook-steppe,11,G,6-5,195,"NOV 07, 1959",24.0,1,Georgia Tech,78250,,0
+1610612754,1983,00,Steve Stipanovich,Steve,steve-stipanovich,40,C,6-11,245,"NOV 17, 1960",23.0,R,Missouri,78257,,0
+1610612754,1983,00,Jim Thomas,Jim,jim-thomas,16,G,6-3,190,"OCT 19, 1960",23.0,R,Indiana,78320,,0
+1610612754,1983,00,Granville Waiters,Granville,granville-waiters,31,C,6-11,225,"JAN 08, 1961",23.0,R,Ohio State,78430,,0
+1610612754,1983,00,Herb Williams,Herb,herb-williams,32,C,6-10,242,"FEB 16, 1958",26.0,2,Ohio State,1006,,0

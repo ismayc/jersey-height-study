@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1995,00,Lindsey Hunter,Lindsey,lindsey-hunter,1,G,6-2,195,"DEC 03, 1970",25.0,2,Jackson State,283,,0
+1610612765,1995,00,Mark Macon,Mark,mark-macon,2,G,6-4,185,"APR 14, 1969",27.0,4,Temple,1855,,0
+1610612765,1995,00,Lou Roe,Lou,lou-roe,3,F,6-7,220,"JUL 14, 1972",23.0,R,Massachusetts,691,,0
+1610612765,1995,00,Joe Dumars,Joe,joe-dumars,4,G,6-3,195,"MAY 24, 1963",33.0,10,McNeese State,247,,0
+1610612765,1995,00,Terry Mills,Terry,terry-mills,6,C-F,6-10,250,"DEC 21, 1967",28.0,5,Michigan,371,,0
+1610612765,1995,00,Michael Curry,Michael,michael-curry,12,F,6-5,210,"AUG 22, 1968",27.0,1,Georgia Southern,688,,0
+1610612765,1995,00,Allan Houston,Allan,allan-houston,20,G,6-6,200,"APR 20, 1971",25.0,2,Tennessee,275,,0
+1610612765,1995,00,Stephen Bardo,Stephen,stephen-bardo,25,G,6-5,190,"APR 05, 1968",28.0,2,Illinois,76097,,0
+1610612765,1995,00,Grant Hill,Grant,grant-hill,33,F,6-8,225,"OCT 05, 1972",23.0,1,Duke,255,,0
+1610612765,1995,00,Mark West,Mark,mark-west,41,C,6-10,246,"NOV 05, 1960",35.0,12,Old Dominion,770,,0
+1610612765,1995,00,Theo Ratliff,Theo,theo-ratliff,42,F-C,6-10,225,"APR 17, 1973",23.0,R,Wyoming,689,,0
+1610612765,1995,00,Eric Leckner,Eric,eric-leckner,45,C,6-11,265,"MAY 27, 1966",30.0,6,Wyoming,287,,0
+1610612765,1995,00,Otis Thorpe,Otis,otis-thorpe,50,F,6-10,246,"AUG 05, 1962",33.0,11,Providence,901,,0
+1610612765,1995,00,Don Reid,Don,don-reid,52,C-F,6-8,250,"DEC 30, 1973",22.0,R,Georgetown,690,,0

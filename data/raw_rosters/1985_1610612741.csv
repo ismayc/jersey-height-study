@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1985,00,Gene Banks,Gene,gene-banks,20,F,6-7,215,"MAY 15, 1959",27.0,4,Duke,76093,,0
+1610612741,1985,00,Tony Brown,Tony,tony-brown, ,F,6-6,185,"JUL 29, 1960",25.0,1,Arkansas,76268,,0
+1610612741,1985,00,Dave Corzine,Dave,dave-corzine,40,C,6-11,250,"APR 25, 1956",30.0,7,DePaul,76453,,0
+1610612741,1985,00,Quintin Dailey,Quintin,quintin-dailey,44,G,6-3,180,"JAN 22, 1961",25.0,3,San Francisco,76497,,0
+1610612741,1985,00,George Gervin,George,george-gervin,8,G,6-7,180,"APR 27, 1952",34.0,9,Eastern Michigan,76804,,0
+1610612741,1985,00,Sidney Green,Sidney,sidney-green,21,F,6-9,220,"JAN 04, 1961",25.0,2,UNLV,76876,,0
+1610612741,1985,00,Rod Higgins,Rod,rod-higgins, ,F,6-7,200,"JAN 31, 1960",26.0,3,Fresno State,77019,,0
+1610612741,1985,00,Michael Holton,Michael,michael-holton,10-32,G,6-4,185,"AUG 04, 1961",24.0,1,UCLA,77047,,0
+1610612741,1985,00,Michael Jordan,Michael,michael-jordan,23,G,6-6,195,"FEB 17, 1963",23.0,1,North Carolina,893,,0
+1610612741,1985,00,Kyle Macy,Kyle,kyle-macy,24,G,6-3,175,"APR 09, 1957",29.0,5,Kentucky,77438,,0
+1610612741,1985,00,Billy McKinney,Billy,billy-mckinney, ,G,6-0,160,"JUN 05, 1955",31.0,6,Northwestern,77547,,0
+1610612741,1985,00,Charles Oakley,Charles,charles-oakley,34,F-C,6-9,248,"DEC 18, 1963",22.0,R,Virginia Union,891,,0
+1610612741,1985,00,Jawann Oldham,Jawann,jawann-oldham,33,C,7-0,215,"JUL 04, 1957",28.0,5,Seattle,77757,,0
+1610612741,1985,00,John Paxson,John,john-paxson,15,G,6-2,185,"SEP 29, 1960",25.0,2,Notre Dame,77820,,0
+1610612741,1985,00,Mike Smrek,Mike,mike-smrek, ,C,7-0,250,"AUG 31, 1962",23.0,R,Canisius,1091,,0
+1610612741,1985,00,Orlando Woolridge,Orlando,orlando-woolridge,0,F,6-9,215,"DEC 16, 1959",26.0,4,Notre Dame,78615,,0

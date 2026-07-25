@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612751,1984,00,Otis Birdsong,Otis,otis-birdsong,10,G,6-3,190,"DEC 09, 1955",29.0,7,Houston,76170,,0
+1610612751,1984,00,Ron Brewer,Ron,ron-brewer,22,G,6-4,180,"SEP 16, 1955",29.0,6,Arkansas,76249,,0
+1610612751,1984,00,Darwin Cook,Darwin,darwin-cook,12,G,6-3,184,"AUG 06, 1958",26.0,4,Portland,76435,,0
+1610612751,1984,00,Darryl Dawkins,Darryl,darryl-dawkins,53,C,6-11,251,"JAN 11, 1957",28.0,9,Maynard Evans HS (FL),76539,,0
+1610612751,1984,00,Mike Gminski,Mike,mike-gminski,42,C,6-11,250,"AUG 03, 1959",25.0,4,Duke,76826,,0
+1610612751,1984,00,George Johnson,George,george-johnson,,C,6-11,205,"DEC 18, 1948",36.0,11,Dillard,77149,,0
+1610612751,1984,00,Albert King,Albert,albert-king,55,F,6-6,190,"DEC 17, 1959",25.0,3,Maryland,77263,,0
+1610612751,1984,00,Tom LaGarde,Tom,tom-lagarde,34,C,6-10,220,"FEB 10, 1955",30.0,5,North Carolina,77328,,0
+1610612751,1984,00,Kevin McKenna,Kevin,kevin-mckenna,33,F,6-5,195,"JAN 08, 1959",26.0,2,Creighton,77541,,0
+1610612751,1984,00,Mike O'Koren,Mike,mike-okoren,31,F,6-7,207,"FEB 07, 1958",27.0,4,North Carolina,77754,,0
+1610612751,1984,00,Kelvin Ransey,Kelvin,kelvin-ransey,14,G,6-2,170,"MAY 03, 1958",27.0,4,Ohio State,77911,,0
+1610612751,1984,00,Micheal Ray Richardson,Micheal Ray,micheal-ray-richardson,20,G,6-5,189,"APR 11, 1955",30.0,6,Montana,77952,,0
+1610612751,1984,00,Wayne Sappleton,Wayne,wayne-sappleton,44,F,6-9,215,"NOV 17, 1960",24.0,R,Loyola-Chicago,78062,,0
+1610612751,1984,00,Jeff Turner,Jeff,jeff-turner,35,F,6-9,230,"APR 09, 1962",23.0,R,Vanderbilt,78381,,0
+1610612751,1984,00,Buck Williams,Buck,buck-williams,52,F,6-8,215,"MAR 08, 1960",25.0,3,Maryland,433,,0
+1610612751,1984,00,Mike Wilson,Mike,mike-wilson,22,G,6-3,175,"SEP 15, 1959",25.0,1,Marquette,78581,,0

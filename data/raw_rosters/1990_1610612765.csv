@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1990,00,Mark Aguirre,Mark,mark-aguirre,23,F,6-6,232,"DEC 10, 1959",31.0,9,DePaul,76016,,0
+1610612765,1990,00,William Bedford,William,william-bedford,00,C,7-0,225,"DEC 14, 1963",27.0,3,Memphis,76138,,0
+1610612765,1990,00,Lance Blanks,Lance,lance-blanks,32,G,6-4,190,"SEP 09, 1966",24.0,R,Texas,76183,,0
+1610612765,1990,00,Joe Dumars,Joe,joe-dumars,4,G,6-3,190,"MAY 24, 1963",28.0,5,McNeese State,247,,0
+1610612765,1990,00,James Edwards,James,james-edwards,53,C,7-1,225,"NOV 22, 1955",35.0,13,Washington,229,,0
+1610612765,1990,00,Scott Hastings,Scott,scott-hastings,35,F,6-10,235,"JUN 03, 1960",31.0,8,Arkansas,76968,,0
+1610612765,1990,00,Gerald Henderson,Gerald,gerald-henderson,12,G,6-2,175,"JAN 16, 1956",35.0,11,Virginia Commonwealth,76993,,0
+1610612765,1990,00,Vinnie Johnson,Vinnie,vinnie-johnson,15,G,6-2,200,"SEP 01, 1956",34.0,11,Baylor,77167,,0
+1610612765,1990,00,Bill Laimbeer,Bill,bill-laimbeer,40,C,6-11,245,"MAY 19, 1957",34.0,10,Notre Dame,100263,,0
+1610612765,1990,00,John Long,John,john-long,25,G,6-5,195,"AUG 28, 1956",34.0,12,Detroit,1381,,0
+1610612765,1990,00,Dennis Rodman,Dennis,dennis-rodman,10,F,6-7,210,"MAY 13, 1961",30.0,4,Southeastern Oklahoma State,23,,0
+1610612765,1990,00,Tree Rollins,Tree,tree-rollins,30,C,7-1,235,"JUN 16, 1955",36.0,13,Clemson,78014,,0
+1610612765,1990,00,John Salley,John,john-salley,22,F,6-11,230,"MAY 16, 1964",27.0,4,Georgia Tech,927,,0
+1610612765,1990,00,Isiah Thomas,Isiah,isiah-thomas,11,G,6-1,180,"APR 30, 1961",30.0,9,Indiana,78318,,0

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1995,00,Donyell Marshall,Donyell,donyell-marshall,3,F,6-9,230,"MAY 18, 1973",23.0,1,Connecticut,923,,0
+1610612744,1995,00,Rony Seikaly,Rony,rony-seikaly,4,C,6-11,230,"MAY 10, 1965",31.0,7,Syracuse,938,,0
+1610612744,1995,00,Jerome Kersey,Jerome,jerome-kersey,7,F,6-7,225,"JUN 26, 1962",34.0,11,Longwood,760,,0
+1610612744,1995,00,B.J. Armstrong,B.J.,bj-armstrong,11,G,6-2,185,"SEP 09, 1967",28.0,6,Iowa,769,,0
+1610612744,1995,00,Bimbo Coles,Bimbo,bimbo-coles,12,G,6-2,182,"APR 22, 1968",28.0,5,Virginia Tech,902,,0
+1610612744,1995,00,Latrell Sprewell,Latrell,latrell-sprewell,15,G,6-5,190,"SEP 08, 1970",25.0,3,Alabama,84,,0
+1610612744,1995,00,Chris Mullin,Chris,chris-mullin,17,F,6-6,200,"JUL 30, 1963",32.0,10,St. John's (NY),904,,0
+1610612744,1995,00,Jon Barry,Jon,jon-barry,20,G,6-5,194,"JUL 25, 1969",26.0,3,Georgia Tech,468,,0
+1610612744,1995,00,Robert Churchwell,Robert,robert-churchwell,21,F,6-6,195,"FEB 20, 1972",24.0,R,Georgetown,928,,0
+1610612744,1995,00,Joe Smith,Joe,joe-smith,32,F,6-10,225,"JUL 26, 1975",20.0,R,Maryland,693,,0
+1610612744,1995,00,Kevin Willis,Kevin,kevin-willis,41,F-C,7-0,240,"SEP 06, 1962",33.0,10,Michigan State,788,,0
+1610612744,1995,00,Geert Hammink,Geert,geert-hammink,43,F-C,7-0,262,"JUL 12, 1969",26.0,2,Louisiana State,903,,0
+1610612744,1995,00,Clifford Rozier,Clifford,clifford-rozier,44,C-F,6-11,255,"OCT 31, 1972",23.0,1,Louisville,32,,0
+1610612744,1995,00,Andrew DeClercq,Andrew,andrew-declercq,55,F,6-10,230,"FEB 01, 1973",23.0,R,Florida,692,,0

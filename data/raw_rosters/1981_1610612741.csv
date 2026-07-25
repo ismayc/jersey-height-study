@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1981,00,Ray Blume,Ray,ray-blume,22,G,6-4,185,"SEP 23, 1958",23.0,R,Oregon State,76189,,0
+1610612741,1981,00,Roger Burkman,Roger,roger-burkman,21,G,6-5,175,"MAY 22, 1958",24.0,R,Louisville,76304,,0
+1610612741,1981,00,Coby Dietrick,Coby,coby-dietrick,26,C,6-11,220,"JUL 23, 1948",33.0,5,San Jose State,76567,,0
+1610612741,1981,00,Artis Gilmore,Artis,artis-gilmore,53,C,7-2,240,"SEP 21, 1948",33.0,5,Jacksonville,600014,,0
+1610612741,1981,00,David Greenwood,David,david-greenwood,34,F,6-9,222,"MAY 27, 1957",25.0,2,UCLA,76881,,0
+1610612741,1981,00,Tracy Jackson,Tracy,tracy-jackson,11,G,6-6,205,"APR 21, 1959",23.0,R,Notre Dame,77110,,0
+1610612741,1981,00,Dwight Jones,Dwight,dwight-jones,13,F,6-10,210,"FEB 27, 1952",30.0,8,Houston,77182,,0
+1610612741,1981,00,Larry Kenon,Larry,larry-kenon,35,F,6-9,205,"DEC 13, 1952",29.0,5,Memphis,77246,,0
+1610612741,1981,00,Ronnie Lester,Ronnie,ronnie-lester,12,G,6-2,175,"JAN 01, 1959",23.0,1,Iowa,77373,,0
+1610612741,1981,00,Jackie Robinson,Jackie,jackie-robinson,8,F,6-6,210,"MAY 20, 1955",27.0,2,UNLV,77989,,0
+1610612741,1981,00,Ricky Sobers,Ricky,ricky-sobers,14,G,6-3,198,"JAN 15, 1953",29.0,6,UNLV,78215,,0
+1610612741,1981,00,Reggie Theus,Reggie,reggie-theus,24,G,6-6,190,"OCT 13, 1957",24.0,3,UNLV,78310,,0
+1610612741,1981,00,James Wilkes,James,james-wilkes,32,F,6-7,195,"MAR 12, 1958",24.0,1,UCLA,78533,,0
+1610612741,1981,00,Orlando Woolridge,Orlando,orlando-woolridge,0,F,6-9,215,"DEC 16, 1959",22.0,R,Notre Dame,78615,,0

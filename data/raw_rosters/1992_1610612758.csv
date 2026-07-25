@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1992,00,Anthony Bonner,Anthony,anthony-bonner,24,F,6-8,215,"JUN 08, 1968",25.0,2,St. Louis,41,,0
+1610612758,1992,00,Randy Brown,Randy,randy-brown,3,G,6-2,191,"MAY 22, 1968",25.0,1,New Mexico State,753,,0
+1610612758,1992,00,Duane Causwell,Duane,duane-causwell,31,C,7-0,240,"MAY 31, 1968",25.0,2,Temple,190,,0
+1610612758,1992,00,Pete Chilcutt,Pete,pete-chilcutt,32,F,6-10,230,"SEP 14, 1968",24.0,1,North Carolina,432,,0
+1610612758,1992,00,Marty Conlon,Marty,marty-conlon,25,C,6-10,224,"JAN 19, 1968",25.0,1,Providence,55,,0
+1610612758,1992,00,Rod Higgins,Rod,rod-higgins,21,F,6-7,200,"JAN 31, 1960",33.0,10,Fresno State,77019,,0
+1610612758,1992,00,Stan Kimbrough,Stan,stan-kimbrough,21,F,5-11,153,"APR 24, 1966",27.0,1,Xavier,77261,,0
+1610612758,1992,00,Jim Les,Jim,jim-les,33,G,5-11,165,"AUG 18, 1963",29.0,4,Bradley,77372,,0
+1610612758,1992,00,Kurt Rambis,Kurt,kurt-rambis,30,F,6-8,213,"FEB 25, 1958",35.0,11,Santa Clara,77905,,0
+1610612758,1992,00,Mitch Richmond,Mitch,mitch-richmond,2,G,6-5,215,"JUN 30, 1965",28.0,4,Kansas State,782,,0
+1610612758,1992,00,Lionel Simmons,Lionel,lionel-simmons,22,F,6-7,210,"NOV 14, 1968",24.0,2,La Salle,1489,,0
+1610612758,1992,00,Wayman Tisdale,Wayman,wayman-tisdale,23,F,6-9,240,"JUN 09, 1964",29.0,7,Oklahoma,47,,0
+1610612758,1992,00,Spud Webb,Spud,spud-webb,4,G,5-7,133,"JUL 13, 1963",29.0,7,North Carolina State,892,,0
+1610612758,1992,00,Walt Williams,Walt,walt-williams,42,F-G,6-8,230,"APR 16, 1970",23.0,R,Maryland,1005,,0

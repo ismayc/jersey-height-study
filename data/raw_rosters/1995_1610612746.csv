@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612746,1995,00,Pooh Richardson,Pooh,pooh-richardson,2,G,6-1,180,"MAY 14, 1966",30.0,6,UCLA,71,,0
+1610612746,1995,00,Lamond Murray,Lamond,lamond-murray,7,F,6-7,236,"APR 20, 1973",23.0,1,California,441,,0
+1610612746,1995,00,Bison Dele,Bison,bison-dele,8,C,6-9,235,"APR 06, 1969",27.0,4,Arizona,183,,0
+1610612746,1995,00,Malik Sealy,Malik,malik-sealy,21,G,6-8,190,"FEB 01, 1970",26.0,3,St. John's (NY),907,,0
+1610612746,1995,00,Terry Dehere,Terry,terry-dehere,24,G,6-4,190,"SEP 12, 1971",24.0,2,Seton Hall,143,,0
+1610612746,1995,00,Log Vander Velden,Log,log-vander-velden,25,F,6-8,215,"APR 03, 1971",25.0,R,Wisconsin-Green Bay,78403,,0
+1610612746,1995,00,Brent Barry,Brent,brent-barry,31,G,6-6,185,"DEC 31, 1971",24.0,R,Oregon State,699,,0
+1610612746,1995,00,Loy Vaught,Loy,loy-vaught,35,F,6-9,240,"FEB 27, 1968",28.0,5,Michigan,919,,0
+1610612746,1995,00,Antonio Harvey,Antonio,antonio-harvey,40,F,6-10,246,"JUL 06, 1970",25.0,2,Pfeiffer,176,,0
+1610612746,1995,00,Bo Outlaw,Bo,bo-outlaw,45,F,6-8,210,"APR 13, 1971",25.0,2,Houston,448,,0
+1610612746,1995,00,Keith Tower,Keith,keith-tower,51,C,6-11,250,"MAY 15, 1970",26.0,2,Notre Dame,700,,0
+1610612746,1995,00,Eric Piatkowski,Eric,eric-piatkowski,52,G-F,6-7,215,"SEP 30, 1970",25.0,1,Nebraska,15,,0
+1610612746,1995,00,Stanley Roberts,Stanley,stanley-roberts,53,C,7-0,290,"FEB 07, 1970",26.0,3,Louisiana State,914,,0
+1610612746,1995,00,Rodney Rogers,Rodney,rodney-rogers,54,F,6-7,255,"JUN 20, 1971",25.0,2,Wake Forest,915,,0

@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612742,2014,00,Amar'e Stoudemire,Amar'e,amare-stoudemire,1,C-F,6-10,245,"NOV 16, 1982",32.0,12,Cypress Creek HS (FL),2405,
+1610612742,2014,00,Raymond Felton,Raymond,raymond-felton,2,G,6-1,205,"JUN 26, 1984",31.0,9,North Carolina,101109,
+1610612742,2014,00,Charlie Villanueva,Charlie,charlie-villanueva,3,F,6-11,232,"AUG 24, 1984",30.0,9,Connecticut,101111,
+1610612742,2014,00,Greg Smith,Greg,greg-smith,4,C,6-10,250,"JAN 08, 1991",24.0,3,Fresno State,202962,
+1610612742,2014,00,J.J. Barea,J.J.,jj-barea,5,G,6-0,185,"JUN 26, 1984",31.0,8,Northeastern,200826,
+1610612742,2014,00,Tyson Chandler,Tyson,tyson-chandler,6,C,7-1,240,"OCT 02, 1982",32.0,13,Dominguez HS (CA),2199,
+1610612742,2014,00,Al-Farouq Aminu,Al-Farouq,al-farouq-aminu,7,F,6-9,215,"SEP 21, 1990",24.0,4,Wake Forest,202329,
+1610612742,2014,00,Dwight Powell,Dwight,dwight-powell,8,F,6-11,240,"JUL 20, 1991",23.0,R,Stanford,203939,Traded from BOS on 12/18/14
+1610612742,2014,00,Rajon Rondo,Rajon,rajon-rondo,9,G,6-1,186,"FEB 22, 1986",29.0,8,Kentucky,200765,
+1610612742,2014,00,Monta Ellis,Monta,monta-ellis,11,G,6-3,185,"OCT 26, 1985",29.0,9,Lanier HS (MS),101145,
+1610612742,2014,00,Devin Harris,Devin,devin-harris,20,G,6-3,192,"FEB 27, 1983",32.0,10,Wisconsin,2734,
+1610612742,2014,00,Richard Jefferson,Richard,richard-jefferson,24,F,6-7,234,"JUN 21, 1980",35.0,13,Arizona,2210,
+1610612742,2014,00,Chandler Parsons,Chandler,chandler-parsons,25,F,6-9,227,"OCT 25, 1988",26.0,3,Florida,202718,
+1610612742,2014,00,Dirk Nowitzki,Dirk,dirk-nowitzki,41,F,7-0,245,"JUN 19, 1978",37.0,16,DJK Wurzburg,1717,
+1610612742,2014,00,Bernard James,Bernard,bernard-james,55,C,6-10,235,"FEB 07, 1985",30.0,2,Florida State,203108,

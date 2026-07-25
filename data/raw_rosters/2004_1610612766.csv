@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612766,2004,00,Jason Hart,Jason,jason-hart,1,G,6-3,185,"APR 29, 1978",27.0,3,Syracuse,2078,
+1610612766,2004,00,Melvin Ely,Melvin,melvin-ely,2,F-C,6-10,261,"MAY 02, 1978",27.0,2,Fresno State,2408,
+1610612766,2004,00,Gerald Wallace,Gerald,gerald-wallace,3,F,6-7,215,"JUL 23, 1982",22.0,3,Alabama,2222,
+1610612766,2004,00,Primoz Brezec,Primoz,primoz-brezec,7,C,7-1,252,"OCT 02, 1979",25.0,3,Union Olimpija,2056,
+1610612766,2004,00,Keith Bogans,Keith,keith-bogans,10,G,6-5,215,"MAY 12, 1980",25.0,1,Kentucky,2586,
+1610612766,2004,00,Cory Alexander,Cory,cory-alexander,12,G,6-1,190,"JUN 22, 1973",32.0,6,Virginia,724,
+1610612766,2004,00,Matt Carroll,Matt,matt-carroll,13,G,6-6,212,"AUG 28, 1980",24.0,1,Notre Dame,2679,
+1610612766,2004,00,Bernard Robinson,Bernard,bernard-robinson,21,G-F,6-6,210,"DEC 26, 1980",24.0,R,Michigan,2774,
+1610612766,2004,00,Brevin Knight,Brevin,brevin-knight,22,G,5-10,170,"NOV 08, 1975",29.0,7,Stanford,1510,
+1610612766,2004,00,Jason Kapono,Jason,jason-kapono,24,F,6-8,213,"FEB 02, 1981",24.0,1,UCLA,2574,
+1610612766,2004,00,Malik Allen,Malik,malik-allen,35,F,6-10,255,"JUN 27, 1978",27.0,3,Villanova,2124,
+1610612766,2004,00,Emeka Okafor,Emeka,emeka-okafor,50,F-C,6-10,252,"SEP 28, 1982",22.0,R,Connecticut,2731,

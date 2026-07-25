@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1994,00,Vin Baker,Vin,vin-baker,42,F-C,6-11,250,"NOV 23, 1971",23.0,1,Hartford,452,,0
+1610612749,1994,00,Jon Barry,Jon,jon-barry,17,G,6-5,204,"JUL 25, 1969",25.0,2,Georgia Tech,468,,0
+1610612749,1994,00,Marty Conlon,Marty,marty-conlon,30,C,6-10,224,"JAN 19, 1968",27.0,3,Providence,55,,0
+1610612749,1994,00,Todd Day,Todd,todd-day,10,G,6-6,188,"JAN 07, 1970",25.0,2,Arkansas,103,,0
+1610612749,1994,00,Tate George,Tate,tate-george,12,G,6-5,190,"MAY 29, 1968",27.0,3,Connecticut,76801,,0
+1610612749,1994,00,Alton Lister,Alton,alton-lister,53,C,7-0,240,"OCT 01, 1958",36.0,12,Arizona State,175,,0
+1610612749,1994,00,Lee Mayberry,Lee,lee-mayberry,11,G,6-1,172,"JUN 12, 1970",25.0,2,Arkansas,195,,0
+1610612749,1994,00,Eric Mobley,Eric,eric-mobley,52,C,6-11,235,"FEB 01, 1970",25.0,R,Pittsburgh,211,,0
+1610612749,1994,00,Eric Murdock,Eric,eric-murdock,5,G,6-1,190,"JUN 14, 1968",27.0,3,Providence,785,,0
+1610612749,1994,00,Johnny Newman,Johnny,johnny-newman,22,F,6-7,190,"NOV 28, 1963",31.0,8,Richmond,271,,0
+1610612749,1994,00,Ed Pinckney,Ed,ed-pinckney,54,F,6-9,195,"MAR 27, 1963",32.0,9,Villanova,291,,0
+1610612749,1994,00,Glenn Robinson,Glenn,glenn-robinson,13,F,6-7,240,"JAN 10, 1973",22.0,R,Purdue,299,,0
+1610612749,1994,00,Aaron Williams,Aaron,aaron-williams,44,F,6-9,240,"OCT 02, 1971",23.0,1,Xavier,1425,,0
+1610612749,1994,00,Danny Young,Danny,danny-young,20,G,6-4,175,"JUL 26, 1962",32.0,9,Wake Forest,78633,,0

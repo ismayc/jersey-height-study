@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1992,00,Mark Aguirre,Mark,mark-aguirre,23,F,6-6,232,"DEC 10, 1959",33.0,11,DePaul,76016,,0
+1610612765,1992,00,Joe Dumars,Joe,joe-dumars,4,G,6-3,190,"MAY 24, 1963",30.0,7,McNeese State,247,,0
+1610612765,1992,00,Gerald Glass,Gerald,gerald-glass,25,F,6-5,221,"NOV 12, 1967",25.0,2,Mississippi,76821,,0
+1610612765,1992,00,Bill Laimbeer,Bill,bill-laimbeer,40,C,6-11,245,"MAY 19, 1957",36.0,12,Notre Dame,100263,,0
+1610612765,1992,00,Terry Mills,Terry,terry-mills,6,F,6-10,230,"DEC 21, 1967",25.0,2,Michigan,371,,0
+1610612765,1992,00,Isaiah Morris,Isaiah,isaiah-morris,35,F,6-8,229,"APR 02, 1969",24.0,R,Arkansas,77647,,0
+1610612765,1992,00,Melvin Newbern,Melvin,melvin-newbern,23,G,6-4,200,"JUN 11, 1967",26.0,R,Minnesota,1116,,0
+1610612765,1992,00,Olden Polynice,Olden,olden-polynice,34,C-F,7-0,250,"NOV 21, 1964",28.0,5,Virginia,178,,0
+1610612765,1992,00,Mark Randall,Mark,mark-randall,42,F,6-8,235,"SEP 30, 1967",25.0,1,Kansas,1821,,0
+1610612765,1992,00,Alvin Robertson,Alvin,alvin-robertson,3,G,6-4,185,"JUL 22, 1962",30.0,8,Arkansas,926,,0
+1610612765,1992,00,Dennis Rodman,Dennis,dennis-rodman,10,F,6-7,210,"MAY 13, 1961",32.0,6,Southeastern Oklahoma State,23,,0
+1610612765,1992,00,Jeff Ruland,Jeff,jeff-ruland,50,C,6-10,240,"DEC 16, 1958",34.0,7,Iona,78041,,0
+1610612765,1992,00,Isiah Thomas,Isiah,isiah-thomas,11,G,6-1,180,"APR 30, 1961",32.0,11,Indiana,78318,,0
+1610612765,1992,00,Danny Young,Danny,danny-young,20,G,6-4,175,"JUL 26, 1962",30.0,8,Wake Forest,78633,,0

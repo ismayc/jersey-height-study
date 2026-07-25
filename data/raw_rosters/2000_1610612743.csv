@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612743,2000,00,Anthony Goldwire,Anthony,anthony-goldwire,4,G,6-2,182,"SEP 06, 1971",29.0,3,Houston,924,,0
+1610612743,2000,00,Voshon Lenard,Voshon,voshon-lenard,5,G,6-4,205,"MAY 14, 1973",28.0,5,Minnesota,702,,0
+1610612743,2000,00,Robert Pack,Robert,robert-pack,14,G,6-2,190,"FEB 03, 1969",32.0,9,Southern California,123,,0
+1610612743,2000,00,George McCloud,George,george-mccloud,21,F,6-8,225,"MAY 27, 1967",34.0,10,Florida State,45,,0
+1610612743,2000,00,Antonio McDyess,Antonio,antonio-mcdyess,24,F,6-9,245,"SEP 07, 1974",26.0,5,Alabama,686,,0
+1610612743,2000,00,Nick Van Exel,Nick,nick-van-exel,31,G,6-1,190,"NOV 27, 1971",29.0,7,Cincinnati,89,,0
+1610612743,2000,00,James Posey,James,james-posey,41,F-G,6-8,215,"JAN 13, 1977",24.0,1,Xavier,1899,,0
+1610612743,2000,00,Ryan Bowen,Ryan,ryan-bowen,42,F,6-7,220,"NOV 20, 1975",25.0,1,Iowa,1763,,0
+1610612743,2000,00,Kevin Willis,Kevin,kevin-willis,43,C-F,7-0,245,"SEP 06, 1962",38.0,15,Michigan State,788,,0
+1610612743,2000,00,Raef LaFrentz,Raef,raef-lafrentz,45,C-F,6-11,240,"MAY 29, 1976",25.0,2,Kansas,1711,,0
+1610612743,2000,00,Dan McClintock,Dan,dan-mcclintock,50,C,7-0,270,"APR 19, 1977",24.0,R,Northern Arizona,2082,,0
+1610612743,2000,00,Terry Davis,Terry,terry-davis,54,C-F,6-10,270,"JUN 17, 1967",34.0,9,Virginia Union,426,,0

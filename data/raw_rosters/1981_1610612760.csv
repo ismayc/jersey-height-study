@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1981,00,Fred Brown,Fred,fred-brown,32,G,6-3,182,"AUG 07, 1948",33.0,10,Iowa,76272,,0
+1610612760,1981,00,James Donaldson,James,james-donaldson,40,C,7-2,275,"AUG 16, 1957",24.0,1,Washington State,76583,,0
+1610612760,1981,00,Bill Hanzlik,Bill,bill-hanzlik,22,F,6-7,185,"DEC 06, 1957",24.0,1,Notre Dame,76944,,0
+1610612760,1981,00,John Johnson,John,john-johnson,27,F,6-7,200,"OCT 18, 1947",34.0,11,Iowa,77152,,0
+1610612760,1981,00,Mark Radford,Mark,mark-radford,30,G,6-4,190,"JUL 05, 1959",22.0,R,Oregon State,77896,,0
+1610612760,1981,00,Lonnie Shelton,Lonnie,lonnie-shelton,8,F,6-8,240,"OCT 19, 1955",26.0,5,Oregon State,78133,,0
+1610612760,1981,00,Jack Sikma,Jack,jack-sikma,43,C,6-11,230,"NOV 14, 1955",26.0,4,Illinois Wesleyan,78149,,0
+1610612760,1981,00,Danny Vranes,Danny,danny-vranes,23,F,6-7,210,"OCT 29, 1958",23.0,R,Utah,78423,,0
+1610612760,1981,00,Wally Walker,Wally,wally-walker,42,F,6-8,190,"JUL 18, 1954",27.0,5,Virginia,78442,,0
+1610612760,1981,00,Gus Williams,Gus,gus-williams,1,G,6-2,175,"OCT 10, 1953",28.0,5,Southern California,78549,,0

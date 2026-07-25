@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612745,2016,00,Trevor Ariza,Trevor,trevor-ariza,1,F,6-8,215,"JUN 30, 1985",32.0,12,UCLA,2772,
+1610612745,2016,00,Patrick Beverley,Patrick,patrick-beverley,2,G,6-1,185,"JUL 12, 1988",28.0,4,Arkansas,201976,
+1610612745,2016,00,Ryan Anderson,Ryan,ryan-anderson,3,F,6-10,240,"MAY 06, 1988",29.0,8,California,201583,
+1610612745,2016,00,Montrezl Harrell,Montrezl,montrezl-harrell,5,F,6-8,240,"JAN 26, 1994",23.0,1,Louisville,1626149,
+1610612745,2016,00,Sam Dekker,Sam,sam-dekker,7,F,6-9,230,"MAY 06, 1994",23.0,1,Wisconsin,1626155,
+1610612745,2016,00,Bobby Brown,Bobby,bobby-brown,8,G,6-2,175,"SEP 24, 1984",32.0,2,Cal State-Fullerton,201628,
+1610612745,2016,00,Eric Gordon,Eric,eric-gordon,10,G,6-4,215,"DEC 25, 1988",28.0,8,Indiana,201569,
+1610612745,2016,00,Lou Williams,Lou,lou-williams,12,G,6-1,175,"OCT 27, 1986",30.0,11,South Gwinnett HS (GA),101150,
+1610612745,2016,00,James Harden,James,james-harden,13,G,6-5,220,"AUG 26, 1989",27.0,7,Arizona State,201935,
+1610612745,2016,00,Troy Williams,Troy,troy-williams,14,F,6-7,210,"DEC 30, 1994",22.0,R,Indiana,1627786,
+1610612745,2016,00,Clint Capela,Clint,clint-capela,15,C,6-10,240,"MAY 18, 1994",23.0,2,Elan Chalon,203991,Traded from ATL on 07/06/25
+1610612745,2016,00,Isaiah Taylor,Isaiah,isaiah-taylor,17,G,6-3,170,"JUL 11, 1994",22.0,R,Texas,1627819,
+1610612745,2016,00,Chinanu Onuaku,Chinanu,chinanu-onuaku,21,F-C,6-10,245,"NOV 01, 1996",20.0,R,Louisville,1627778,
+1610612745,2016,00,Kyle Wiltjer,Kyle,kyle-wiltjer,30,F,6-10,240,"OCT 20, 1992",24.0,R,Gonzaga,1627787,
+1610612745,2016,00,Nene,Nene,nene-hilario,42,C-F,6-11,250,"SEP 13, 1982",34.0,14,Vasco de Gama,2403,

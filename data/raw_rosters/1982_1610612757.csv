@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612757,1982,00,Don Buse,Don,don-buse,10,G,6-4,190,"AUG 10, 1950",32.0,6,Evansville,76317,,0
+1610612757,1982,00,Kenny Carr,Kenny,kenny-carr,34,F,6-7,220,"AUG 15, 1955",27.0,5,North Carolina State,76350,,0
+1610612757,1982,00,Wayne Cooper,Wayne,wayne-cooper,42,C,6-10,220,"NOV 16, 1956",26.0,4,New Orleans,76441,,0
+1610612757,1982,00,Jeff Judkins,Jeff,jeff-judkins,22,G,6-6,185,"MAR 23, 1956",27.0,4,Utah,77215,,0
+1610612757,1982,00,Jeff Lamp,Jeff,jeff-lamp,3,G,6-6,195,"MAR 09, 1959",24.0,1,Virginia,77332,,0
+1610612757,1982,00,Lafayette Lever,Lafayette,lafayette-lever,12,G,6-3,170,"AUG 18, 1960",22.0,R,Arizona State,77376,,0
+1610612757,1982,00,Hank McDowell,Hank,hank-mcdowell,7,F,6-9,215,"NOV 13, 1959",23.0,1,Memphis,77527,,0
+1610612757,1982,00,Calvin Natt,Calvin,calvin-natt,33,F,6-6,220,"JAN 08, 1957",26.0,3,Louisiana-Monroe,77691,,0
+1610612757,1982,00,Audie Norris,Audie,audie-norris,24,C,6-9,230,"DEC 18, 1960",22.0,R,Jackson State,77731,,0
+1610612757,1982,00,Jim Paxson,Jim,jim-paxson,,G,6-6,200,"JUL 09, 1957",25.0,3,Dayton,77819,,0
+1610612757,1982,00,Mychal Thompson,Mychal,mychal-thompson,43,C,6-10,226,"JAN 30, 1955",28.0,3,Minnesota,78331,,0
+1610612757,1982,00,Linton Townes,Linton,linton-townes,2,F,6-7,190,"NOV 30, 1959",23.0,R,James Madison,78364,,0
+1610612757,1982,00,Darnell Valentine,Darnell,darnell-valentine,14,G,6-2,183,"FEB 03, 1959",24.0,1,Kansas,78395,,0
+1610612757,1982,00,Peter Verhoeven,Peter,peter-verhoeven,31,F,6-9,215,"FEB 15, 1959",24.0,1,Fresno State,78414,,0

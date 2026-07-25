@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612751,1990,00,Mookie Blaylock,Mookie,mookie-blaylock,10,G,6-0,180,"MAR 20, 1967",24.0,1,Oklahoma,302,,0
+1610612751,1990,00,Sam Bowie,Sam,sam-bowie,31,C,7-1,235,"MAR 17, 1961",30.0,5,Kentucky,76217,,0
+1610612751,1990,00,Jud Buechler,Jud,jud-buechler,35,F,6-6,220,"JUN 19, 1968",23.0,R,Arizona,146,,0
+1610612751,1990,00,Derrick Coleman,Derrick,derrick-coleman,44,F,6-10,270,"JUN 21, 1967",24.0,R,Syracuse,934,,0
+1610612751,1990,00,Chris Dudley,Chris,chris-dudley,22,C,6-11,260,"FEB 22, 1965",26.0,3,Yale,201,,0
+1610612751,1990,00,Tate George,Tate,tate-george,12,G,6-5,190,"MAY 29, 1968",23.0,R,Connecticut,76801,,0
+1610612751,1990,00,Derrick Gervin,Derrick,derrick-gervin,30,F,6-8,200,"MAR 28, 1963",28.0,1,Texas-San Antonio,76803,,0
+1610612751,1990,00,Jack Haley,Jack,jack-haley,54,F,6-10,240,"JAN 27, 1964",27.0,2,UCLA,917,,0
+1610612751,1990,00,Roy Hinson,Roy,roy-hinson,6,C,6-9,210,"MAY 02, 1961",30.0,7,Rutgers,77030,,0
+1610612751,1990,00,Kurk Lee,Kurk,kurk-lee,20,G,6-3,190,"JUN 03, 1967",24.0,R,Towson,77362,,0
+1610612751,1990,00,Terry Mills,Terry,terry-mills,5,F,6-10,230,"DEC 21, 1967",23.0,R,Michigan,371,,0
+1610612751,1990,00,Chris Morris,Chris,chris-morris,34,F,6-8,210,"JAN 20, 1966",25.0,2,Auburn,356,,0
+1610612751,1990,00,Drazen Petrovic,Drazen,drazen-petrovic,3,G,6-5,195,"OCT 22, 1964",26.0,1,Real Madrid,77845,,0
+1610612751,1990,00,Reggie Theus,Reggie,reggie-theus,24,G,6-6,190,"OCT 13, 1957",33.0,12,UNLV,78310,,0

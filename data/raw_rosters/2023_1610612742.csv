@@ -1,0 +1,19 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612742,2023,00,Danté Exum,Danté,danté-exum,0,G,6-5,214,"JUL 13, 1995",28.0,7,Australian Institute of Sport,203957,Signed on 07/14/23
+1610612742,2023,00,Brandon Williams,Brandon,brandon-williams,00,G,6-1,190,"NOV 22, 1999",24.0,1,Arizona,1630314,Signed on 12/28/23
+1610612742,2023,00,Jaden Hardy,Jaden,jaden-hardy,1,G,6-3,198,"JUL 05, 2002",21.0,1,NBA G League Ignite,1630702,Draft Rights Traded from SAC on 06/24/22
+1610612742,2023,00,Dereck Lively II,Dereck,dereck-lively-ii,2,C,7-1,230,"FEB 12, 2004",20.0,R,Duke,1641726,Draft Rights Traded from OKC on 07/06/23
+1610612742,2023,00,Dwight Powell,Dwight,dwight-powell,7,F-C,6-10,240,"JUL 20, 1991",32.0,9,Stanford,203939,Traded from BOS on 12/18/14
+1610612742,2023,00,Josh Green,Josh,josh-green,8,G,6-5,200,"NOV 16, 2000",23.0,3,Arizona,1630182,
+1610612742,2023,00,A.J. Lawson,A.J.,aj-lawson,9,G,6-6,179,"JUL 15, 2000",23.0,1,South Carolina,1630639,
+1610612742,2023,00,Tim Hardaway Jr.,Tim,tim-hardaway-jr,10,G-F,6-5,205,"MAR 16, 1992",32.0,10,Michigan,203501,
+1610612742,2023,00,Kyrie Irving,Kyrie,kyrie-irving,11,G,6-2,195,"MAR 23, 1992",32.0,12,Duke,202681,Traded from BKN on 02/06/23
+1610612742,2023,00,Alex Fudge,Alex,alex-fudge,17,F,6-8,200,"MAY 06, 2003",21.0,R,Florida,1641788,
+1610612742,2023,00,Olivier-Maxence Prosper,Olivier-Maxence,olivier-maxence-prosper,18,F,6-7,230,"JUL 03, 2002",21.0,R,Marquette,1641765,
+1610612742,2023,00,Daniel Gafford,Daniel,daniel-gafford,21,F-C,6-10,234,"OCT 01, 1998",25.0,4,Arkansas,1629655,Traded from WAS on 02/08/24
+1610612742,2023,00,P.J. Washington,P.J.,pj-washington,25,F,6-7,230,"AUG 23, 1998",25.0,4,Kentucky,1629023,Traded from CHA on 02/08/24
+1610612742,2023,00,Greg Brown III,Greg,greg-brown-iii,36,F,6-7,206,"SEP 01, 2001",22.0,2,Texas,1630535,
+1610612742,2023,00,Maxi Kleber,Maxi,maxi-kleber,42,F,6-10,240,"JAN 29, 1992",32.0,6,Bayern Munich,1628467,
+1610612742,2023,00,Derrick Jones Jr.,Derrick,derrick-jones-jr,55,F,6-6,210,"FEB 15, 1997",27.0,7,UNLV,1627884,
+1610612742,2023,00,Luka Dončić,Luka,luka-dončić,77,F-G,6-7,230,"FEB 28, 1999",25.0,5,Real Madrid,1629029,
+1610612742,2023,00,Markieff Morris,Markieff,markieff-morris,88,F,6-9,245,"SEP 02, 1989",34.0,12,Kansas,202693,

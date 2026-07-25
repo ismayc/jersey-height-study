@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612757,2013,00,Damian Lillard,Damian,damian-lillard,0,G,6-3,195,"JUL 15, 1990",23.0,1,Weber State,203081,Signed on 07/19/25
+1610612757,2013,00,Dorell Wright,Dorell,dorell-wright,1,F,6-9,205,"DEC 02, 1985",28.0,9,South Kent HS (CT),2748,
+1610612757,2013,00,Wesley Matthews,Wesley,wesley-matthews,2,G,6-5,220,"OCT 14, 1986",27.0,4,Marquette,202083,
+1610612757,2013,00,CJ McCollum,CJ,cj-mccollum,3,G,6-4,200,"SEP 19, 1991",22.0,R,Lehigh,203468,
+1610612757,2013,00,Will Barton,Will,will-barton,5,G,6-6,175,"JAN 06, 1991",23.0,1,Memphis,203115,
+1610612757,2013,00,Meyers Leonard,Meyers,meyers-leonard,11,C,7-1,245,"FEB 27, 1992",22.0,1,Illinois,203086,
+1610612757,2013,00,LaMarcus Aldridge,LaMarcus,lamarcus-aldridge,12,F,6-11,240,"JUL 19, 1985",28.0,7,University of Texas at Austin,200746,
+1610612757,2013,00,Earl Watson,Earl,earl-watson,17,G,6-1,199,"JUN 12, 1979",35.0,12,UCLA,2248,
+1610612757,2013,00,Victor Claver,Victor,victor-claver,18,F,6-9,224,"AUG 30, 1988",25.0,1,Valencia,201964,
+1610612757,2013,00,Joel Freeland,Joel,joel-freeland,19,C-F,6-10,225,"FEB 07, 1987",27.0,1,Malaga,200777,
+1610612757,2013,00,Allen Crabbe,Allen,allen-crabbe,23,G,6-6,210,"APR 09, 1992",22.0,R,California,203459,
+1610612757,2013,00,Mo Williams,Mo,mo-williams,25,G,6-1,195,"DEC 19, 1982",31.0,10,Alabama,2590,
+1610612757,2013,00,Thomas Robinson,Thomas,thomas-robinson,41,F,6-10,237,"MAR 17, 1991",23.0,1,Kansas,203080,
+1610612757,2013,00,Robin Lopez,Robin,robin-lopez,42,C,7-0,255,"APR 01, 1988",26.0,5,Stanford,201577,
+1610612757,2013,00,Nicolas Batum,Nicolas,nicolas-batum,88,F,6-8,200,"DEC 14, 1988",25.0,5,Le Mans,201587,

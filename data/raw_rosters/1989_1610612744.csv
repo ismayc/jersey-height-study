@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1989,00,Manute Bol,Manute,manute-bol,10,C,7-6,200,"OCT 16, 1962",27.0,4,Bridgeport,76195,,0
+1610612744,1989,00,Tim Hardaway,Tim,tim-hardaway,5,G,6-0,195,"SEP 01, 1966",23.0,R,Texas-El Paso,896,,0
+1610612744,1989,00,Rod Higgins,Rod,rod-higgins,22,F,6-7,200,"JAN 31, 1960",30.0,7,Fresno State,77019,,0
+1610612744,1989,00,Marques Johnson,Marques,marques-johnson,8,F,6-7,218,"FEB 08, 1956",34.0,10,UCLA,77160,,0
+1610612744,1989,00,Alton Lister,Alton,alton-lister,53,C,7-0,240,"OCT 01, 1958",31.0,8,Arizona State,175,,0
+1610612744,1989,00,Sarunas Marciulionis,Sarunas,sarunas-marciulionis,13,G,6-5,200,"JUN 13, 1964",26.0,R,Statyba,36,,0
+1610612744,1989,00,Chris Mullin,Chris,chris-mullin,17,F,6-6,200,"JUL 30, 1963",26.0,4,St. John's (NY),904,,0
+1610612744,1989,00,Jim Petersen,Jim,jim-petersen,43,F,6-10,235,"FEB 22, 1962",28.0,5,Minnesota,77839,,0
+1610612744,1989,00,Mitch Richmond,Mitch,mitch-richmond,23,G,6-5,215,"JUN 30, 1965",24.0,1,Kansas State,782,,0
+1610612744,1989,00,John Shasky,John,john-shasky,45,C,6-11,235,"JUL 31, 1964",25.0,1,Minnesota,1117,,0
+1610612744,1989,00,Mike Smrek,Mike,mike-smrek,52,C,7-0,250,"AUG 31, 1962",27.0,4,Canisius,1091,,0
+1610612744,1989,00,Leonard Taylor,Leonard,leonard-taylor,44,F,6-8,220,"MAY 02, 1966",24.0,R,California,78301,,0
+1610612744,1989,00,Terry Teagle,Terry,terry-teagle,20,G,6-5,195,"APR 10, 1960",30.0,7,Baylor,78304,,0
+1610612744,1989,00,Tom Tolbert,Tom,tom-tolbert,3,F,6-7,235,"OCT 16, 1965",24.0,1,Arizona,78347,,0
+1610612744,1989,00,Kelvin Upshaw,Kelvin,kelvin-upshaw,7,G,6-2,180,"JAN 24, 1963",27.0,1,Utah,78394,,0
+1610612744,1989,00,Chris Welp,Chris,chris-welp,40,C,7-0,245,"JAN 02, 1964",26.0,2,Washington,1846,,0

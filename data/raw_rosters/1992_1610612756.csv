@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,1992,00,Danny Ainge,Danny,danny-ainge,22,G,6-5,175,"MAR 17, 1959",34.0,11,Brigham Young,76017,,0
+1610612756,1992,00,Charles Barkley,Charles,charles-barkley,34,F,6-6,252,"FEB 20, 1963",30.0,8,Auburn,787,,0
+1610612756,1992,00,Cedric Ceballos,Cedric,cedric-ceballos,23,F,6-6,190,"AUG 02, 1969",23.0,2,California State-Fullerton,76,,0
+1610612756,1992,00,Tom Chambers,Tom,tom-chambers,24,F,6-10,220,"JUN 21, 1959",34.0,11,Utah,1472,,0
+1610612756,1992,00,Richard Dumas,Richard,richard-dumas,21,F,6-7,200,"MAY 19, 1969",24.0,R,Oklahoma State,30,,0
+1610612756,1992,00,Kevin Johnson,Kevin,kevin-johnson,7,G,6-1,180,"MAR 04, 1966",27.0,5,California,134,,0
+1610612756,1992,00,Frank Johnson,Frank,frank-johnson,3,G,6-3,185,"NOV 23, 1958",34.0,8,Wake Forest,77146,,0
+1610612756,1992,00,Tim Kempton,Tim,tim-kempton,8,C,6-10,245,"JAN 25, 1964",29.0,3,Notre Dame,1118,,0
+1610612756,1992,00,Negele Knight,Negele,negele-knight,,G,6-1,175,"MAR 03, 1967",26.0,2,Dayton,1861,,0
+1610612756,1992,00,Dan Majerle,Dan,dan-majerle,9,G,6-6,215,"SEP 09, 1965",27.0,4,Central Michigan,105,,0
+1610612756,1992,00,Oliver Miller,Oliver,oliver-miller,25,F-C,6-9,325,"APR 06, 1970",23.0,R,Arkansas,932,,0
+1610612756,1992,00,Jerrod Mustaf,Jerrod,jerrod-mustaf,0,F,6-10,238,"OCT 28, 1969",23.0,2,Maryland,1054,,0
+1610612756,1992,00,Alex Stivrins,Alex,alex-stivrins,11,F,6-8,220,"NOV 29, 1962",30.0,1,Colorado,78261,,0
+1610612756,1992,00,Mark West,Mark,mark-west,41,C,6-10,230,"NOV 05, 1960",32.0,9,Old Dominion,770,,0

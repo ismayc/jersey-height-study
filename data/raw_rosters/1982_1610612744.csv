@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1982,00,Ron Brewer,Ron,ron-brewer,17,G,6-4,180,"SEP 16, 1955",27.0,4,Arkansas,76249,,0
+1610612744,1982,00,Joe Barry Carroll,Joe Barry,joe-barry-carroll,2,C,7-0,225,"JUL 24, 1958",24.0,2,Purdue,76353,,0
+1610612744,1982,00,Lester Conner,Lester,lester-conner,15,G,6-4,180,"SEP 17, 1959",23.0,R,Oregon State,76431,,0
+1610612744,1982,00,Terry Duerod,Terry,terry-duerod,40,G,6-2,180,"JUL 29, 1956",26.0,3,Detroit,76608,,0
+1610612744,1982,00,Chris Engler,Chris,chris-engler,55,C,6-11,245,"MAR 01, 1959",24.0,R,Wyoming,76670,,0
+1610612744,1982,00,Sleepy Floyd,Sleepy,sleepy-floyd,21,G,6-3,170,"MAR 06, 1960",23.0,R,Georgetown,76726,,0
+1610612744,1982,00,Joey Hassett,Joey,joey-hassett,10,G,6-5,180,"SEP 11, 1955",27.0,5,Providence,76966,,0
+1610612744,1982,00,Mickey Johnson,Mickey,mickey-johnson,43,F,6-10,190,"AUG 31, 1952",30.0,8,Aurora,77168,,0
+1610612744,1982,00,Lewis Lloyd,Lewis,lewis-lloyd,32,G,6-6,205,"FEB 22, 1959",24.0,1,Drake,77395,,0
+1610612744,1982,00,Lorenzo Romar,Lorenzo,lorenzo-romar,18,G,6-1,175,"NOV 13, 1958",24.0,2,Washington,78015,,0
+1610612744,1982,00,Purvis Short,Purvis,purvis-short,45,F,6-7,210,"JUL 02, 1957",25.0,4,Jackson State,78139,,0
+1610612744,1982,00,Derek Smith,Derek,derek-smith,41,G,6-6,205,"NOV 01, 1961",21.0,R,Louisville,78183,,0
+1610612744,1982,00,Larry Smith,Larry,larry-smith,13,F,6-8,215,"JAN 18, 1958",25.0,2,Alcorn State,78195,,0
+1610612744,1982,00,Samuel Williams,Samuel,samuel-williams,,F,6-8,210,"MAR 07, 1959",24.0,1,Arizona State,78569,,0

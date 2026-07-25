@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1992,00,Ron Anderson,Ron,ron-anderson,20,F,6-7,215,"OCT 15, 1958",34.0,8,Fresno State,76046,,0
+1610612755,1992,00,Manute Bol,Manute,manute-bol,11,C,7-6,200,"OCT 16, 1962",30.0,7,Bridgeport,76195,,0
+1610612755,1992,00,Johnny Dawkins,Johnny,johnny-dawkins,12,G,6-2,165,"SEP 28, 1963",29.0,6,Duke,1008,,0
+1610612755,1992,00,Armen Gilliam,Armen,armen-gilliam,35,F,6-9,230,"MAY 28, 1964",29.0,5,UNLV,288,,0
+1610612755,1992,00,Greg Grant,Greg,greg-grant,3,G,5-7,140,"AUG 29, 1966",26.0,3,College of New Jersey,285,,0
+1610612755,1992,00,Hersey Hawkins,Hersey,hersey-hawkins,33,G,6-3,190,"SEP 29, 1966",26.0,4,Bradley,765,,0
+1610612755,1992,00,Jeff Hornacek,Jeff,jeff-hornacek,14,G,6-3,190,"MAY 03, 1963",30.0,6,Iowa State,204,,0
+1610612755,1992,00,Thomas Jordan,Thomas,thomas-jordan,55,F,6-10,220,"MAY 23, 1968",25.0,R,Oklahoma State,77208,,0
+1610612755,1992,00,Andrew Lang,Andrew,andrew-lang,28,C,6-11,245,"JUN 28, 1966",27.0,4,Arkansas,457,,0
+1610612755,1992,00,Kenny Payne,Kenny,kenny-payne,21,F,6-8,195,"NOV 25, 1966",26.0,3,Louisville,77822,,0
+1610612755,1992,00,Tim Perry,Tim,tim-perry,23,F,6-9,200,"JUN 04, 1965",28.0,4,Temple,897,,0
+1610612755,1992,00,Charles Shackleford,Charles,charles-shackleford,17,C,6-10,225,"APR 22, 1966",27.0,3,North Carolina State,1593,,0
+1610612755,1992,00,Clar. Weatherspoon,Clar.,clar-weatherspoon,30,F,6-7,270,"SEP 08, 1970",22.0,R,Southern Mississippi,221,,0
+1610612755,1992,00,Eddielee Wilkins,Eddielee,eddielee-wilkins,55,C,6-10,220,"MAY 07, 1962",31.0,5,Gardner-Webb,78534,,0

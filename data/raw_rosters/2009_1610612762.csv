@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612762,2009,00,Carlos Boozer,Carlos,carlos-boozer,5,F,6-9,266,"NOV 20, 1981",28.0,7,Duke,2430,,0
+1610612762,2009,00,Othyus Jeffers,Othyus,othyus-jeffers,6,G-F,6-5,210,"AUG 05, 1985",24.0,R,Robert Morris-Chicago,201785,,0
+1610612762,2009,00,Deron Williams,Deron,deron-williams,8,G,6-3,207,"JUN 26, 1984",26.0,4,Illinois,101114,,0
+1610612762,2009,00,Mehmet Okur,Mehmet,mehmet-okur,13,C,6-11,263,"MAY 26, 1979",31.0,7,Efes Pilsen,2246,,0
+1610612762,2009,00,Sundiata Gaines,Sundiata,sundiata-gaines,15,G,6-1,195,"APR 18, 1986",24.0,R,Georgia,202178,,0
+1610612762,2009,00,Ronnie Price,Ronnie,ronnie-price,17,G,6-2,184,"JUN 21, 1983",27.0,4,Utah Valley,101179,,0
+1610612762,2009,00,Wesley Matthews,Wesley,wesley-matthews,23,G,6-5,220,"OCT 14, 1986",23.0,R,Marquette,202083,,0
+1610612762,2009,00,Paul Millsap,Paul,paul-millsap,24,F-C,6-8,250,"FEB 10, 1985",25.0,3,Louisiana Tech,200794,,0
+1610612762,2009,00,Kyle Korver,Kyle,kyle-korver,26,F-G,6-7,212,"MAR 17, 1981",29.0,6,Creighton,2594,,0
+1610612762,2009,00,CJ Miles,CJ,cj-miles,34,F,6-6,227,"MAR 18, 1987",23.0,4,Skyline HS (TX),101139,,0
+1610612762,2009,00,Kosta Koufos,Kosta,kosta-koufos,41,C,7-0,265,"FEB 24, 1989",21.0,1,Ohio State,201585,,0
+1610612762,2009,00,Kyrylo Fesenko,Kyrylo,kyrylo-fesenko,44,C,7-1,300,"DEC 24, 1986",23.0,2,Ukraine,201178,,0
+1610612762,2009,00,Andrei Kirilenko,Andrei,andrei-kirilenko,47,F,6-9,225,"FEB 18, 1981",29.0,8,CSKA Moscow,1905,,0

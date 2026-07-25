@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612762,2002,00,Greg Ostertag,Greg,greg-ostertag,00,C,7-2,280,"MAR 06, 1973",30.0,7,Kansas,731,,0
+1610612762,2002,00,DeShawn Stevenson,DeShawn,deshawn-stevenson,2,G,6-5,210,"APR 03, 1981",22.0,2,Washington Union HS (CA),2052,,0
+1610612762,2002,00,John Stockton,John,john-stockton,12,G,6-1,175,"MAR 26, 1962",41.0,18,Gonzaga,304,,0
+1610612762,2002,00,Mark Jackson,Mark,mark-jackson,13,G,6-3,195,"APR 01, 1965",38.0,15,St. John's (NY),349,,0
+1610612762,2002,00,John Amaechi,John,john-amaechi,13,F-C,6-10,270,"NOV 26, 1970",32.0,4,Penn State,680,,0
+1610612762,2002,00,Matt Harpring,Matt,matt-harpring,15,F-G,6-7,231,"MAY 31, 1976",27.0,4,Georgia Tech,1723,,0
+1610612762,2002,00,Curtis Borchardt,Curtis,curtis-borchardt,22,C,7-0,240,"SEP 13, 1980",22.0,R,Stanford,2414,,0
+1610612762,2002,00,Raul Lopez,Raul,raul-lopez,24,G,6-0,160,"APR 15, 1980",23.0,R,Real Madrid,2221,,0
+1610612762,2002,00,Carlos Arroyo,Carlos,carlos-arroyo,30,G,6-2,202,"JUL 30, 1979",23.0,1,Florida International,2306,,0
+1610612762,2002,00,Jarron Collins,Jarron,jarron-collins,31,C,6-11,252,"DEC 02, 1978",24.0,1,Stanford,2260,,0
+1610612762,2002,00,Karl Malone,Karl,karl-malone,32,F,6-9,256,"JUL 24, 1963",39.0,17,Louisiana Tech,252,,0
+1610612762,2002,00,Anthony Bonner,Anthony,anthony-bonner,33,F,6-8,230,"JUN 08, 1968",35.0,6,St. Louis,41,,0
+1610612762,2002,00,Scott Padgett,Scott,scott-padgett,34,F,6-9,240,"APR 19, 1976",27.0,3,Kentucky,1909,,0
+1610612762,2002,00,Calbert Cheaney,Calbert,calbert-cheaney,40,F-G,6-7,217,"JUL 17, 1971",31.0,9,Indiana,384,,0
+1610612762,2002,00,Paul Grant,Paul,paul-grant,45,C,7-0,245,"JAN 06, 1974",29.0,1,Wisconsin,1514,,0
+1610612762,2002,00,Andrei Kirilenko,Andrei,andrei-kirilenko,47,F,6-9,225,"FEB 18, 1981",22.0,1,CSKA Moscow,1905,,0

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612751,2008,00,Josh Boone,Josh,josh-boone,2,C,6-10,237,"NOV 21, 1984",24.0,2,Connecticut,200767,,0
+1610612751,2008,00,Yi Jianlian,Jianlian,jianlian-yi,9,F,7-0,238,"OCT 27, 1987",21.0,1,Guangdong,201146,,0
+1610612751,2008,00,Brook Lopez,Brook,brook-lopez,11,C,7-0,260,"APR 01, 1988",21.0,R,Stanford,201572,,0
+1610612751,2008,00,Maurice Ager,Maurice,maurice-ager,13,F-G,6-5,202,"FEB 09, 1984",25.0,2,Michigan State,200772,,0
+1610612751,2008,00,Eduardo Najera,Eduardo,eduardo-najera,14,F,6-8,235,"JUL 11, 1976",32.0,8,Oklahoma,2059,,0
+1610612751,2008,00,Vince Carter,Vince,vince-carter,15,G,6-6,220,"JAN 26, 1977",32.0,10,North Carolina,1713,,0
+1610612751,2008,00,Chris Douglas-Roberts,Chris,chris-douglas-roberts,17,G,6-7,200,"JAN 08, 1987",22.0,R,Memphis,201604,,0
+1610612751,2008,00,Ryan Anderson,Ryan,ryan-anderson,20,F,6-10,240,"MAY 06, 1988",21.0,R,California,201583,,0
+1610612751,2008,00,Bobby Simmons,Bobby,bobby-simmons,21,F,6-6,230,"JUN 02, 1980",29.0,6,DePaul,2250,,0
+1610612751,2008,00,Jarvis Hayes,Jarvis,jarvis-hayes,22,F,6-8,228,"AUG 09, 1981",27.0,5,Georgia,2553,,0
+1610612751,2008,00,Devin Harris,Devin,devin-harris,34,G,6-3,185,"FEB 27, 1983",26.0,4,Wisconsin,2734,,0
+1610612751,2008,00,Trenton Hassell,Trenton,trenton-hassell,44,F,6-5,233,"MAR 04, 1979",30.0,7,Austin Peay,2239,,0
+1610612751,2008,00,Sean Williams,Sean,sean-williams,51,F-C,6-10,235,"SEP 13, 1986",22.0,1,Boston College,201157,,0
+1610612751,2008,00,Keyon Dooling,Keyon,keyon-dooling,55,G,6-3,195,"MAY 08, 1980",29.0,8,Missouri,2039,,0

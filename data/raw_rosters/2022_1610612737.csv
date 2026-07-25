@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612737,2022,00,Donovan Williams,Donovan,donovan-williams,,G,6-6,190,"SEP 06, 2001",21.0,R,UNLV,1631495,
+1610612737,2022,00,Bruno Fernando,Bruno,bruno-fernando,0,F-C,6-10,240,"AUG 15, 1998",24.0,3,Maryland,1628981,
+1610612737,2022,00,Jalen Johnson,Jalen,jalen-johnson,1,F,6-8,219,"DEC 18, 2001",21.0,1,Duke,1630552,#20 Pick in 2021 Draft
+1610612737,2022,00,Trent Forrest,Trent,trent-forrest,2,G,6-4,210,"JUN 12, 1998",25.0,2,Florida State,1630235,
+1610612737,2022,00,Aaron Holiday,Aaron,aaron-holiday,3,G,6-0,185,"SEP 30, 1996",26.0,4,UCLA,1628988,
+1610612737,2022,00,Dejounte Murray,Dejounte,dejounte-murray,5,G,6-5,180,"SEP 19, 1996",26.0,6,Washington,1627749,
+1610612737,2022,00,Trae Young,Trae,trae-young,11,G,6-1,164,"SEP 19, 1998",24.0,4,Oklahoma,1629027,Draft Rights Traded from DAL on 06/21/18
+1610612737,2022,00,De'Andre Hunter,De'Andre,deandre-hunter,12,F-G,6-8,221,"DEC 02, 1997",25.0,3,Virginia,1629631,
+1610612737,2022,00,Bogdan Bogdanović,Bogdan,bogdan-bogdanović,13,G,6-5,225,"AUG 18, 1992",30.0,5,Fenerbahce,203992,
+1610612737,2022,00,AJ Griffin,AJ,aj-griffin,14,F,6-6,220,"AUG 25, 2003",19.0,R,Duke,1631100,
+1610612737,2022,00,Clint Capela,Clint,clint-capela,15,C,6-10,256,"MAY 18, 1994",29.0,8,Elan Chalon,203991,
+1610612737,2022,00,Onyeka Okongwu,Onyeka,onyeka-okongwu,17,F-C,6-9,240,"DEC 11, 2000",22.0,2,Southern California,1630168,#6 Pick in 2020 Draft
+1610612737,2022,00,John Collins,John,john-collins,20,F-C,6-9,226,"SEP 23, 1997",25.0,5,Wake Forest,1628381,
+1610612737,2022,00,Tyrese Martin,Tyrese,tyrese-martin,22,G,6-6,215,"MAR 07, 1999",24.0,R,Connecticut,1631213,
+1610612737,2022,00,Garrison Mathews,Garrison,garrison-mathews,25,G,6-6,215,"OCT 24, 1996",26.0,3,Lipscomb,1629726,
+1610612737,2022,00,Vít Krejčí,Vít,vít-krejčí,27,G,6-8,195,"JUN 19, 2000",23.0,1,Zaragoza,1630249,Signed on 12/22/23
+1610612737,2022,00,Saddiq Bey,Saddiq,saddiq-bey,41,F,6-7,215,"APR 09, 1999",24.0,2,Villanova,1630180,

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1991,00,Ron Anderson,Ron,ron-anderson,20,F,6-7,215,"OCT 15, 1958",33.0,7,Fresno State,76046,,0
+1610612755,1991,00,Charles Barkley,Charles,charles-barkley,32,F,6-6,252,"FEB 20, 1963",29.0,7,Auburn,787,,0
+1610612755,1991,00,Manute Bol,Manute,manute-bol,11,C,7-6,200,"OCT 16, 1962",29.0,6,Bridgeport,76195,,0
+1610612755,1991,00,Johnny Dawkins,Johnny,johnny-dawkins,12,G,6-2,165,"SEP 28, 1963",28.0,5,Duke,1008,,0
+1610612755,1991,00,Armen Gilliam,Armen,armen-gilliam,35,F,6-9,230,"MAY 28, 1964",28.0,4,UNLV,288,,0
+1610612755,1991,00,Greg Grant,Greg,greg-grant,3,G,5-7,140,"AUG 29, 1966",25.0,2,College of New Jersey,285,,0
+1610612755,1991,00,Hersey Hawkins,Hersey,hersey-hawkins,33,G,6-3,190,"SEP 29, 1966",25.0,3,Bradley,765,,0
+1610612755,1991,00,Dave Hoppen,Dave,dave-hoppen,40,C,6-11,235,"MAR 13, 1964",28.0,4,Nebraska,77053,,0
+1610612755,1991,00,Brian Oliver,Brian,brian-oliver,31,G,6-4,210,"JUN 01, 1968",24.0,1,Georgia Tech,1680,,0
+1610612755,1991,00,Kenny Payne,Kenny,kenny-payne,21,F,6-8,195,"NOV 25, 1966",25.0,2,Louisville,77822,,0
+1610612755,1991,00,Jeff Ruland,Jeff,jeff-ruland,43,C,6-10,240,"DEC 16, 1958",33.0,6,Iona,78041,,0
+1610612755,1991,00,Charles Shackleford,Charles,charles-shackleford,14,C,6-10,225,"APR 22, 1966",26.0,2,North Carolina State,1593,,0
+1610612755,1991,00,Mitchell Wiggins,Mitchell,mitchell-wiggins,23,G,6-4,185,"SEP 28, 1959",32.0,5,Florida State,78523,,0
+1610612755,1991,00,Jayson Williams,Jayson,jayson-williams,55,F,6-9,240,"FEB 22, 1968",24.0,1,St. John's (NY),420,,0

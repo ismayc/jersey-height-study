@@ -1,0 +1,20 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612746,1987,00,Benoit Benjamin,Benoit,benoit-benjamin,00,C,7-0,250,"NOV 22, 1964",23.0,2,Creighton,104,,0
+1610612746,1987,00,Steve Burtt,Steve,steve-burtt,15,G,6-2,185,"NOV 05, 1962",25.0,1,Iona,76316,,0
+1610612746,1987,00,Michael Cage,Michael,michael-cage,44,C,6-9,224,"JAN 28, 1962",26.0,3,San Diego State,262,,0
+1610612746,1987,00,Norris Coleman,Norris,norris-coleman,45,F,6-8,210,"SEP 27, 1961",26.0,R,Kansas State,76415,,0
+1610612746,1987,00,Earl Cureton,Earl,earl-cureton,25,F,6-9,210,"SEP 03, 1957",30.0,7,Detroit,940,,0
+1610612746,1987,00,Quintin Dailey,Quintin,quintin-dailey,20,G,6-3,180,"JAN 22, 1961",27.0,5,San Francisco,76497,,0
+1610612746,1987,00,Larry Drew,Larry,larry-drew,2,G,6-1,170,"APR 02, 1958",30.0,7,Missouri,76599,,0
+1610612746,1987,00,Kenny Fields,Kenny,kenny-fields,54,F,6-5,220,"FEB 09, 1962",26.0,3,UCLA,76713,,0
+1610612746,1987,00,Lancaster Gordon,Lancaster,lancaster-gordon,4,G,6-3,185,"JUN 24, 1962",26.0,3,Louisville,76834,,0
+1610612746,1987,00,Claude Gregory,Claude,claude-gregory,43,F,6-8,205,"DEC 26, 1958",29.0,1,Wisconsin,76884,,0
+1610612746,1987,00,Greg Kite,Greg,greg-kite,32,C,6-11,250,"AUG 05, 1961",26.0,4,Brigham Young,1123,,0
+1610612746,1987,00,Tod Murphy,Tod,tod-murphy,46,C,6-9,220,"DEC 24, 1963",24.0,R,California-Irvine,77674,,0
+1610612746,1987,00,Ken Norman,Ken,ken-norman,33,F,6-8,215,"SEP 05, 1964",23.0,R,Illinois,80,,0
+1610612746,1987,00,Mike Phelps,Mike,mike-phelps,14,G,6-4,180,"OCT 03, 1961",26.0,2,Alcorn State,77852,,0
+1610612746,1987,00,Darnell Valentine,Darnell,darnell-valentine,1,G,6-2,183,"FEB 03, 1959",29.0,6,Kansas,78395,,0
+1610612746,1987,00,Eric White,Eric,eric-white,12,F,6-8,200,"DEC 30, 1965",22.0,R,Pepperdine,78507,,0
+1610612746,1987,00,Reggie Williams,Reggie,reggie-williams,,F,6-7,190,"MAR 05, 1964",24.0,R,Georgetown,199,,0
+1610612746,1987,00,Joe Wolf,Joe,joe-wolf,24,C,6-11,230,"DEC 17, 1964",23.0,R,North Carolina,341,,0
+1610612746,1987,00,Mike Woodson,Mike,mike-woodson,42,G,6-5,195,"MAR 24, 1958",30.0,7,Indiana,78614,,0

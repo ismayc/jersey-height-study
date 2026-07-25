@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1985,00,Randy Breuer,Randy,randy-breuer,45,C,7-3,230,"OCT 11, 1960",25.0,2,Minnesota,76247,,0
+1610612749,1985,00,Terry Cummings,Terry,terry-cummings,34,F,6-9,220,"MAR 15, 1961",25.0,3,DePaul,187,,0
+1610612749,1985,00,Charlie Davis,Charlie,charlie-davis,23,F,6-7,215,"OCT 05, 1958",27.0,4,Vanderbilt,76518,,0
+1610612749,1985,00,Kenny Fields,Kenny,kenny-fields,7,F,6-5,220,"FEB 09, 1962",24.0,1,UCLA,76713,,0
+1610612749,1985,00,Mike Glenn,Mike,mike-glenn,10,G,6-2,175,"SEP 10, 1955",30.0,8,Southern Illinois,76822,,0
+1610612749,1985,00,Craig Hodges,Craig,craig-hodges,15,G,6-2,190,"JUN 27, 1960",26.0,3,Long Beach State,77034,,0
+1610612749,1985,00,Earl Jones,Earl,earl-jones,31,C,7-0,210,"JAN 13, 1961",25.0,1,District of Columbia,77183,,0
+1610612749,1985,00,Jeff Lamp,Jeff,jeff-lamp,3,G,6-6,195,"MAR 09, 1959",27.0,3,Virginia,77332,,0
+1610612749,1985,00,Alton Lister,Alton,alton-lister,53,C,7-0,240,"OCT 01, 1958",27.0,4,Arizona State,175,,0
+1610612749,1985,00,Paul Mokeski,Paul,paul-mokeski,44,C,7-0,250,"JAN 03, 1957",29.0,6,Kansas,77623,,0
+1610612749,1985,00,Sidney Moncrief,Sidney,sidney-moncrief,4,G,6-4,180,"SEP 21, 1957",28.0,6,Arkansas,77626,,0
+1610612749,1985,00,Ricky Pierce,Ricky,ricky-pierce,22,G,6-4,205,"AUG 19, 1959",26.0,3,Rice,894,,0
+1610612749,1985,00,Paul Pressey,Paul,paul-pressey,25,G,6-5,185,"DEC 24, 1958",27.0,3,Tulsa,77879,,0
+1610612749,1985,00,Jerry Reynolds,Jerry,jerry-reynolds,35,G,6-8,200,"DEC 23, 1962",23.0,R,Louisiana State,77946,,0
+1610612749,1985,00,Derrick Rowland,Derrick,derrick-rowland,12,F,6-5,195,"JUN 21, 1959",27.0,R,SUNY-Potsdam,78030,,0
+1610612749,1985,00,Bryan Warrick,Bryan,bryan-warrick,12,G,6-5,195,"JUL 22, 1959",26.0,3,St. Joseph's (PA),78462,,0

@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612760,2021,00,Shai Gilgeous-Alexander,Shai,shai-gilgeous-alexander,2,G,6-6,180,"JUL 12, 1998",23.0,3,Kentucky,1628983,Traded from LAC on 07/10/19
+1610612760,2021,00,Josh Giddey,Josh,josh-giddey,3,G,6-8,205,"OCT 10, 2002",19.0,R,NBA Global Academy,1630581,
+1610612760,2021,00,Luguentz Dort,Luguentz,luguentz-dort,5,G,6-3,215,"APR 19, 1999",23.0,2,Arizona State,1629652,Signed on 07/06/19
+1610612760,2021,00,Melvin Frazier Jr.,Melvin,melvin-frazier-jr,6,G-F,6-5,215,"AUG 30, 1996",25.0,2,Tulane,1628982,
+1610612760,2021,00,Darius Bazley,Darius,darius-bazley,7,F,6-8,208,"JUN 12, 2000",22.0,2,Princeton HS (OH),1629647,
+1610612760,2021,00,Theo Maledon,Theo,theo-maledon,11,G,6-4,175,"JUN 12, 2001",21.0,1,ASVEL,1630177,
+1610612760,2021,00,Lindy Waters III,Lindy,lindy-waters-iii,12,F,6-6,215,"JUL 28, 1997",24.0,R,Oklahoma State,1630322,
+1610612760,2021,00,Derrick Favors,Derrick,derrick-favors,15,F,6-9,265,"JUL 15, 1991",30.0,11,Georgia Tech,202324,
+1610612760,2021,00,Ty Jerome,Ty,ty-jerome,16,G-F,6-5,195,"JUL 08, 1997",24.0,2,Virginia,1629660,
+1610612760,2021,00,Aleksej Pokusevski,Aleksej,aleksej-pokusevski,17,F,7-0,190,"DEC 26, 2001",20.0,1,Olympiacos,1630197,
+1610612760,2021,00,Aaron Wiggins,Aaron,aaron-wiggins,21,G,6-4,190,"JAN 02, 1999",23.0,R,Maryland,1630598,#55 Pick in 2021 Draft
+1610612760,2021,00,Isaiah Roby,Isaiah,isaiah-roby,22,F,6-8,230,"FEB 03, 1998",24.0,2,Nebraska,1629676,
+1610612760,2021,00,Tre Mann,Tre,tre-mann,23,G,6-3,178,"FEB 03, 2001",21.0,R,Florida,1630544,
+1610612760,2021,00,Vít Krejčí,Vít,vít-krejčí,27,G,6-8,195,"JUN 19, 2000",22.0,R,Zaragoza,1630249,
+1610612760,2021,00,Mike Muscala,Mike,mike-muscala,33,F-C,6-10,240,"JUL 01, 1991",30.0,8,Bucknell,203488,
+1610612760,2021,00,Kenrich Williams,Kenrich,kenrich-williams,34,G-F,6-6,210,"DEC 02, 1994",27.0,3,TCU,1629026,Traded from NOP on 11/23/20
+1610612760,2021,00,Jeremiah Robinson-Earl,Jeremiah,jeremiah-robinson-earl,50,F,6-8,242,"NOV 03, 2000",21.0,R,Villanova,1630526,

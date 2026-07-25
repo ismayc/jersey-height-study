@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1985,00,Frank Brickowski,Frank,frank-brickowski,33,F,6-9,240,"AUG 14, 1959",26.0,1,Penn State,783,,0
+1610612760,1985,00,Tom Chambers,Tom,tom-chambers,24,F,6-10,220,"JUN 21, 1959",27.0,4,Utah,1472,,0
+1610612760,1985,00,Gerald Henderson,Gerald,gerald-henderson,15,G,6-2,175,"JAN 16, 1956",30.0,6,Virginia Commonwealth,76993,,0
+1610612760,1985,00,George Johnson,George,george-johnson,,C,6-11,205,"DEC 18, 1948",37.0,12,Dillard,77149,,0
+1610612760,1985,00,Brian Martin,Brian,brian-martin,35,F,6-9,212,"AUG 18, 1962",23.0,R,Kansas,77469,,0
+1610612760,1985,00,Tim McCormick,Tim,tim-mccormick,40,C,6-11,240,"MAR 10, 1962",24.0,1,Michigan,77516,,0
+1610612760,1985,00,Xavier McDaniel,Xavier,xavier-mcdaniel,34,F,6-7,205,"JUN 04, 1963",23.0,R,Wichita State,1365,,0
+1610612760,1985,00,Mike Phelps,Mike,mike-phelps,25,G,6-4,180,"OCT 03, 1961",24.0,R,Alcorn State,77852,,0
+1610612760,1985,00,David Pope,David,david-pope,51,F,6-7,220,"APR 15, 1962",24.0,1,Norfolk State,77870,,0
+1610612760,1985,00,Jack Sikma,Jack,jack-sikma,43,C,6-11,230,"NOV 14, 1955",30.0,8,Illinois Wesleyan,78149,,0
+1610612760,1985,00,Ricky Sobers,Ricky,ricky-sobers,14,G,6-3,198,"JAN 15, 1953",33.0,10,UNLV,78215,,0
+1610612760,1985,00,Alex Stivrins,Alex,alex-stivrins,42,F,6-8,220,"NOV 29, 1962",23.0,R,Colorado,78261,,0
+1610612760,1985,00,Danny Vranes,Danny,danny-vranes,23,F,6-7,210,"OCT 29, 1958",27.0,4,Utah,78423,,0
+1610612760,1985,00,Al Wood,Al,al-wood,4,G,6-6,193,"JUN 02, 1958",28.0,4,North Carolina,78610,,0
+1610612760,1985,00,Danny Young,Danny,danny-young,22,G,6-4,175,"JUL 26, 1962",23.0,1,Wake Forest,78633,,0

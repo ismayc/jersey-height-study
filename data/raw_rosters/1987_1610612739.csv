@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612739,1987,00,Kent Benson,Kent,kent-benson,54,C,6-11,235,"DEC 27, 1954",33.0,10,Indiana,76154,,0
+1610612739,1987,00,Dell Curry,Dell,dell-curry,30,G,6-4,190,"JUN 25, 1964",24.0,1,Virginia Tech,209,,0
+1610612739,1987,00,Brad Daugherty,Brad,brad-daugherty,43,C,7-0,245,"OCT 19, 1965",22.0,1,North Carolina,921,,0
+1610612739,1987,00,Chris Dudley,Chris,chris-dudley,22,C,6-11,260,"FEB 22, 1965",23.0,R,Yale,201,,0
+1610612739,1987,00,Craig Ehlo,Craig,craig-ehlo,3,G,6-6,180,"AUG 11, 1961",26.0,4,Washington State,378,,0
+1610612739,1987,00,Ron Harper,Ron,ron-harper,4,G,6-6,185,"JAN 20, 1964",24.0,1,Miami (Ohio),166,,0
+1610612739,1987,00,Kevin Henderson,Kevin,kevin-henderson,12,G,6-4,195,"MAR 22, 1964",24.0,1,California State-Fullerton,76994,,0
+1610612739,1987,00,Phil Hubbard,Phil,phil-hubbard,35,F,6-8,215,"DEC 13, 1956",31.0,8,Michigan,77071,,0
+1610612739,1987,00,Kannard Johnson,Kannard,kannard-johnson,33,F,6-9,220,"JUN 24, 1965",23.0,R,Western Kentucky,77153,,0
+1610612739,1987,00,Larry Nance,Larry,larry-nance,6,F,6-10,205,"FEB 12, 1959",29.0,6,Clemson,77685,,0
+1610612739,1987,00,Mark Price,Mark,mark-price,25,G,6-0,170,"FEB 15, 1964",24.0,1,Georgia Tech,899,,0
+1610612739,1987,00,Johnny Rogers,Johnny,johnny-rogers,32,F,6-10,225,"DEC 30, 1963",24.0,1,California-Irvine,78007,,0
+1610612739,1987,00,Mike Sanders,Mike,mike-sanders,11,F,6-6,210,"MAY 07, 1960",28.0,5,UCLA,78059,,0
+1610612739,1987,00,Hot Rod Williams,Hot Rod,hot-rod-williams,18,F,6-11,215,"AUG 09, 1962",25.0,1,Tulane,73,,0

@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1995,00,Eric Montross,Eric,eric-montross,0,C,7-0,270,"SEP 23, 1971",24.0,1,North Carolina,376,,0
+1610612738,1995,00,David Wesley,David,david-wesley,4,G,6-1,196,"NOV 14, 1970",25.0,2,Baylor,133,,0
+1610612738,1995,00,Junior Burrough,Junior,junior-burrough,5,F,6-8,242,"JAN 18, 1973",23.0,R,Virginia,675,,0
+1610612738,1995,00,Dee Brown,Dee,dee-brown,7,G,6-2,175,"NOV 29, 1968",27.0,5,Jacksonville,244,,0
+1610612738,1995,00,Greg Minor,Greg,greg-minor,9,G-F,6-6,210,"SEP 08, 1971",24.0,1,Louisville,65,,0
+1610612738,1995,00,Dana Barros,Dana,dana-barros,11,G,5-11,163,"APR 13, 1967",29.0,6,Boston College,344,,0
+1610612738,1995,00,Todd Day,Todd,todd-day,13,G-F,6-6,195,"JAN 07, 1970",26.0,3,Arkansas,103,,0
+1610612738,1995,00,Pervis Ellison,Pervis,pervis-ellison,29,C-F,6-10,235,"APR 03, 1967",29.0,6,Louisville,442,,0
+1610612738,1995,00,Thomas Hamilton,Thomas,thomas-hamilton,30,C,7-3,390,"APR 03, 1975",21.0,R,Pittsburgh,676,,0
+1610612738,1995,00,Doug Smith,Doug,doug-smith,34,F,6-10,220,"SEP 17, 1969",26.0,4,Missouri,475,,0
+1610612738,1995,00,Dino Radja,Dino,dino-radja,40,F,6-11,225,"APR 24, 1967",29.0,2,Virtus Roma,129,,0
+1610612738,1995,00,Rick Fox,Rick,rick-fox,44,F-G,6-7,250,"JUL 24, 1969",26.0,4,North Carolina,296,,0
+1610612738,1995,00,Todd Mundt,Todd,todd-mundt,51,C,7-0,255,"MAY 17, 1970",26.0,R,Delta State,942,,0
+1610612738,1995,00,Charles Claxton,Charles,charles-claxton,51,C,7-0,265,"DEC 13, 1970",25.0,R,Georgia,1127,,0
+1610612738,1995,00,Alton Lister,Alton,alton-lister,53,C,7-0,245,"OCT 01, 1958",37.0,13,Arizona State,175,,0
+1610612738,1995,00,Larry Sykes,Larry,larry-sykes,54,F,6-9,255,"APR 11, 1973",23.0,R,Xavier,1132,,0
+1610612738,1995,00,Eric Williams,Eric,eric-williams,55,F,6-8,220,"JUL 17, 1972",23.0,R,Providence,677,,0

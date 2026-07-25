@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612743,1998,00,Chauncey Billups,Chauncey,chauncey-billups,4,G,6-3,202,"SEP 25, 1976",22.0,1,Colorado,1497,,0
+1610612743,1998,00,Cory Alexander,Cory,cory-alexander,7,G,6-1,190,"JUN 22, 1973",26.0,3,Virginia,724,,0
+1610612743,1998,00,Kelly McCarty,Kelly,kelly-mccarty,11,G-F,6-7,200,"AUG 24, 1975",23.0,R,Southern Mississippi,1820,,0
+1610612743,1998,00,Eric Washington,Eric,eric-washington,14,F-G,6-4,190,"MAR 24, 1974",25.0,1,Alabama,1540,,0
+1610612743,1998,00,Danny Fortson,Danny,danny-fortson,15,C-F,6-7,260,"MAR 27, 1976",23.0,1,Cincinnati,1504,,0
+1610612743,1998,00,Johnny Taylor,Johnny,johnny-taylor,17,F,6-9,220,"JUN 04, 1974",25.0,1,Tennessee-Chattanooga,1511,,0
+1610612743,1998,00,Carl Herrera,Carl,carl-herrera,21,F,6-9,225,"DEC 14, 1966",32.0,7,Houston,61,,0
+1610612743,1998,00,Bryant Stith,Bryant,bryant-stith,23,F-G,6-5,208,"DEC 10, 1970",28.0,6,Virginia,179,,0
+1610612743,1998,00,Antonio McDyess,Antonio,antonio-mcdyess,24,F-C,6-9,220,"SEP 07, 1974",24.0,3,Alabama,686,,0
+1610612743,1998,00,Nick Van Exel,Nick,nick-van-exel,31,G,6-1,190,"NOV 27, 1971",27.0,5,Cincinnati,89,,0
+1610612743,1998,00,Eric Williams,Eric,eric-williams,32,F,6-8,220,"JUL 17, 1972",26.0,3,Providence,677,,0
+1610612743,1998,00,Loren Meyer,Loren,loren-meyer,34,C-F,6-10,260,"DEC 30, 1972",26.0,2,Iowa State,684,,0

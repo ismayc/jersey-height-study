@@ -1,0 +1,19 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612739,2024,00,Max Strus,Max,max-strus,1,G-F,6-5,215,"MAR 28, 1996",29.0,5,DePaul,1629622,Traded from MIA on 07/06/23
+1610612739,2024,00,Ty Jerome,Ty,ty-jerome,2,G-F,6-5,195,"JUL 08, 1997",27.0,5,Virginia,1629660,
+1610612739,2024,00,Evan Mobley,Evan,evan-mobley,4,C,6-11,215,"JUN 18, 2001",24.0,3,Southern California,1630596,#3 Pick in 2021 Draft
+1610612739,2024,00,Sam Merrill,Sam,sam-merrill,5,G,6-4,205,"MAY 15, 1996",29.0,4,Utah State,1630241,Signed on 03/03/23
+1610612739,2024,00,Javonte Green,Javonte,javonte-green,8,G,6-5,205,"JUL 23, 1993",31.0,5,Radford,1629750,
+1610612739,2024,00,Craig Porter Jr.,Craig,craig-porter-jr,9,G,6-1,180,"FEB 26, 2000",25.0,1,Wichita State,1641854,Signed on 07/03/23
+1610612739,2024,00,Darius Garland,Darius,darius-garland,10,G,6-1,192,"JAN 26, 2000",25.0,5,Vanderbilt,1629636,#5 Pick in 2019 Draft
+1610612739,2024,00,De'Andre Hunter,De'Andre,deandre-hunter,12,F-G,6-8,221,"DEC 02, 1997",27.0,5,Virginia,1629631,Traded from ATL on 02/06/25
+1610612739,2024,00,Tristan Thompson,Tristan,tristan-thompson,13,C-F,6-9,254,"MAR 13, 1991",34.0,13,Texas-Austin,202684,
+1610612739,2024,00,Chuma Okeke,Chuma,chuma-okeke,18,F,6-7,229,"AUG 18, 1998",26.0,4,Auburn,1629643,
+1610612739,2024,00,Emoni Bates,Emoni,emoni-bates,21,F,6-8,202,"JAN 28, 2004",21.0,1,Eastern Michigan,1641734,
+1610612739,2024,00,Jaylon Tyson,Jaylon,jaylon-tyson,24,G-F,6-6,215,"DEC 02, 2002",22.0,R,California,1642281,#20 Pick in 2024 Draft
+1610612739,2024,00,Nae'Qwan Tomlin,Nae'Qwan,naeqwan-tomlin,30,F,6-10,210,"DEC 19, 2000",24.0,R,Memphis,1641772,Signed on 09/23/24
+1610612739,2024,00,Jarrett Allen,Jarrett,jarrett-allen,31,C,6-9,243,"APR 21, 1998",27.0,7,Texas,1628386,Traded from BKN on 01/16/21
+1610612739,2024,00,Dean Wade,Dean,dean-wade,32,F-C,6-9,228,"NOV 20, 1996",28.0,5,Kansas State,1629731,Signed on 07/01/19
+1610612739,2024,00,Luke Travers,Luke,luke-travers,33,F,6-7,207,"SEP 03, 2001",23.0,R,Rockingham Flames (Aus.),1631247,#56 Pick in 2022 Draft
+1610612739,2024,00,Isaac Okoro,Isaac,isaac-okoro,35,F-G,6-5,225,"JAN 26, 2001",24.0,4,Auburn,1630171,
+1610612739,2024,00,Donovan Mitchell,Donovan,donovan-mitchell,45,G,6-3,215,"SEP 07, 1996",28.0,7,Louisville,1628378,Traded from UTA on 09/03/22

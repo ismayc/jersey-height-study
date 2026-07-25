@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1989,00,Danny Ainge,Danny,danny-ainge,7,G,6-5,175,"MAR 17, 1959",31.0,8,Brigham Young,76017,,0
+1610612758,1989,00,Randy Allen,Randy,randy-allen,33,F,6-8,220,"JAN 26, 1965",25.0,1,Florida State,76025,,0
+1610612758,1989,00,Antoine Carr,Antoine,antoine-carr,35,F,6-9,225,"JUL 23, 1961",28.0,5,Wichita State,156,,0
+1610612758,1989,00,Vinny Del Negro,Vinny,vinny-del-negro,15,G,6-4,185,"AUG 09, 1966",23.0,1,North Carolina State,219,,0
+1610612758,1989,00,Pervis Ellison,Pervis,pervis-ellison,42,C,6-9,210,"APR 03, 1967",23.0,R,Louisville,442,,0
+1610612758,1989,00,Michael Jackson,Michael,michael-jackson,2,G,6-2,183,"JUL 13, 1964",25.0,2,Georgetown,77104,,0
+1610612758,1989,00,Greg Kite,Greg,greg-kite,32,C,6-11,250,"AUG 05, 1961",28.0,6,Brigham Young,1123,,0
+1610612758,1989,00,Rodney McCray,Rodney,rodney-mccray,22,F,6-8,220,"AUG 29, 1961",28.0,6,Louisville,1622,,0
+1610612758,1989,00,Harold Pressley,Harold,harold-pressley,21,F,6-7,210,"JUL 14, 1963",26.0,3,Villanova,77881,,0
+1610612758,1989,00,Ralph Sampson,Ralph,ralph-sampson,50,C,7-4,228,"JUL 07, 1960",29.0,6,Virginia,78055,,0
+1610612758,1989,00,Greg Stokes,Greg,greg-stokes,41,F,6-10,220,"AUG 05, 1963",26.0,1,Iowa,78264,,0
+1610612758,1989,00,Wayman Tisdale,Wayman,wayman-tisdale,23,F,6-9,240,"JUN 09, 1964",26.0,4,Oklahoma,47,,0
+1610612758,1989,00,Sedric Toney,Sedric,sedric-toney,11,G,6-2,178,"APR 13, 1962",28.0,3,Dayton,78352,,0
+1610612758,1989,00,Henry Turner,Henry,henry-turner,4,G,6-7,200,"AUG 18, 1966",23.0,R,California State-Fullerton,78379,,0

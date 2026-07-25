@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612738,1983,00,Danny Ainge,Danny,danny-ainge,44,G,6-5,175,"MAR 17, 1959",25.0,2,Brigham Young,76017,
+1610612738,1983,00,Larry Bird,Larry,larry-bird,33,F,6-9,220,"DEC 07, 1956",27.0,4,Indiana State,1449,
+1610612738,1983,00,Quinn Buckner,Quinn,quinn-buckner,28,G,6-3,190,"AUG 20, 1954",29.0,7,Indiana,76296,
+1610612738,1983,00,M.L. Carr,M.L.,ml-carr,30,F,6-6,205,"JAN 09, 1951",33.0,7,Guilford,76351,
+1610612738,1983,00,Carlos Clark,Carlos,carlos-clark,40,G,6-4,210,"AUG 10, 1960",23.0,R,Mississippi,76398,
+1610612738,1983,00,Gerald Henderson,Gerald,gerald-henderson,43,G,6-2,175,"JAN 16, 1956",28.0,4,Virginia Commonwealth,76993,
+1610612738,1983,00,Dennis Johnson,Dennis,dennis-johnson,3,G,6-4,185,"SEP 18, 1954",29.0,7,Pepperdine,77141,
+1610612738,1983,00,Greg Kite,Greg,greg-kite,50,C,6-11,250,"AUG 05, 1961",22.0,R,Brigham Young,1123,
+1610612738,1983,00,Cedric Maxwell,Cedric,cedric-maxwell,31,F,6-8,205,"NOV 21, 1955",28.0,6,North Carolina-Charlotte,77487,
+1610612738,1983,00,Kevin McHale,Kevin,kevin-mchale,32,F,6-10,210,"DEC 19, 1957",26.0,3,Minnesota,1450,
+1610612738,1983,00,Robert Parish,Robert,robert-parish,0,C,7-1,230,"AUG 30, 1953",30.0,7,Centenary-Louisiana,305,
+1610612738,1983,00,Scott Wedman,Scott,scott-wedman,20,F,6-7,215,"JUL 29, 1952",31.0,9,Colorado,78482,

@@ -1,0 +1,19 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612759,1988,00,Greg Anderson,Greg,greg-anderson,33,F,6-10,230,"JUN 22, 1964",25.0,1,Houston,246,,0
+1610612759,1988,00,Willie Anderson,Willie,willie-anderson,40,G,6-8,190,"JAN 08, 1967",22.0,R,Georgia,335,,0
+1610612759,1988,00,Michael Anderson,Michael,michael-anderson,10,G,5-11,184,"MAR 23, 1966",23.0,R,Drexel,76042,,0
+1610612759,1988,00,Anthony Bowie,Anthony,anthony-bowie,25,G,6-6,190,"NOV 09, 1963",25.0,R,Oklahoma,194,,0
+1610612759,1988,00,Frank Brickowski,Frank,frank-brickowski,43,F,6-9,240,"AUG 14, 1959",29.0,4,Penn State,783,,0
+1610612759,1988,00,Dallas Comegys,Dallas,dallas-comegys,22,C,6-9,205,"AUG 17, 1964",24.0,1,DePaul,76426,,0
+1610612759,1988,00,Johnny Dawkins,Johnny,johnny-dawkins,24,G,6-2,165,"SEP 28, 1963",25.0,2,Duke,1008,,0
+1610612759,1988,00,Petur Gudmundsson,Petur,petur-gudmundsson,35,C,7-2,260,"OCT 30, 1958",30.0,3,Washington,76901,,0
+1610612759,1988,00,Albert King,Albert,albert-king,55,F,6-6,190,"DEC 17, 1959",29.0,7,Maryland,77263,,0
+1610612759,1988,00,Vernon Maxwell,Vernon,vernon-maxwell,11,G,6-4,180,"SEP 12, 1965",23.0,R,Florida,137,,0
+1610612759,1988,00,Todd Mitchell,Todd,todd-mitchell,32,F,6-7,205,"JUL 26, 1966",22.0,R,Purdue,77614,,0
+1610612759,1988,00,Calvin Natt,Calvin,calvin-natt,7,F,6-6,220,"JAN 08, 1957",32.0,9,Louisiana-Monroe,77691,,0
+1610612759,1988,00,Alvin Robertson,Alvin,alvin-robertson,21,G,6-4,185,"JUL 22, 1962",26.0,4,Arkansas,926,,0
+1610612759,1988,00,Scott Roth,Scott,scott-roth,3,F,6-8,212,"JUN 03, 1963",26.0,1,Wisconsin,78022,,0
+1610612759,1988,00,Keith Smart,Keith,keith-smart,3,G,6-1,175,"SEP 21, 1964",24.0,R,Indiana,78175,,0
+1610612759,1988,00,Mike Smrek,Mike,mike-smrek,52,C,7-0,250,"AUG 31, 1962",26.0,3,Canisius,1091,,0
+1610612759,1988,00,Jay Vincent,Jay,jay-vincent,31,F,6-7,220,"JUN 10, 1959",30.0,7,Michigan State,78418,,0
+1610612759,1988,00,Jerome Whitehead,Jerome,jerome-whitehead,6,C,6-10,220,"SEP 30, 1956",32.0,10,Marquette,78516,,0

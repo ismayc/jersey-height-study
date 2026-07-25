@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612745,1986,00,Richard Anderson,Richard,richard-anderson,40,F,6-10,240,"NOV 19, 1960",26.0,2,California-Santa Barbara,76045,,0
+1610612745,1986,00,Dave Feitl,Dave,dave-feitl,5,C,6-11,235,"JUN 08, 1962",25.0,R,Texas-El Paso,76703,,0
+1610612745,1986,00,Steve Harris,Steve,steve-harris,20,G,6-5,195,"OCT 15, 1963",23.0,1,Tulsa,76960,,0
+1610612745,1986,00,Buck Johnson,Buck,buck-johnson,1,F,6-7,190,"JAN 03, 1964",23.0,R,Alabama,77130,,0
+1610612745,1986,00,Allen Leavell,Allen,allen-leavell,30,G,6-1,170,"MAY 27, 1957",30.0,7,Oklahoma City,77353,,0
+1610612745,1986,00,Lewis Lloyd,Lewis,lewis-lloyd,32,G,6-6,205,"FEB 22, 1959",28.0,5,Drake,77395,,0
+1610612745,1986,00,Cedric Maxwell,Cedric,cedric-maxwell,18,F,6-8,205,"NOV 21, 1955",31.0,9,North Carolina-Charlotte,77487,,0
+1610612745,1986,00,Rodney McCray,Rodney,rodney-mccray,22,F,6-8,220,"AUG 29, 1961",25.0,3,Louisville,1622,,0
+1610612745,1986,00,Dirk Minniefield,Dirk,dirk-minniefield,10,G,6-3,180,"JAN 17, 1961",26.0,1,Kentucky,77609,,0
+1610612745,1986,00,Hakeem Olajuwon,Hakeem,hakeem-olajuwon,34,C,7-0,255,"JAN 21, 1963",24.0,2,Houston,165,,0
+1610612745,1986,00,Jim Petersen,Jim,jim-petersen,43,F,6-10,235,"FEB 22, 1962",25.0,2,Minnesota,77839,,0
+1610612745,1986,00,Robert Reid,Robert,robert-reid,33,F,6-8,205,"AUG 30, 1955",31.0,8,St. Mary's (TX),77936,,0
+1610612745,1986,00,Ralph Sampson,Ralph,ralph-sampson,50,C,7-4,228,"JUL 07, 1960",26.0,3,Virginia,78055,,0
+1610612745,1986,00,Mitchell Wiggins,Mitchell,mitchell-wiggins,15,G,6-4,185,"SEP 28, 1959",27.0,3,Florida State,78523,,0

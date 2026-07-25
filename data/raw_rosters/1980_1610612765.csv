@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1980,00,Kent Benson,Kent,kent-benson,54,C,6-11,235,"DEC 27, 1954",26.0,3,Indiana,76154,,0
+1610612765,1980,00,Norman Black,Norman,norman-black,,G,6-5,185,"NOV 12, 1957",23.0,R,St. Joseph's (PA),76174,,0
+1610612765,1980,00,Larry Drew,Larry,larry-drew,,G,6-1,170,"APR 02, 1958",23.0,R,Missouri,76599,,0
+1610612765,1980,00,Tony Fuller,Tony,tony-fuller,,G,6-4,180,"SEP 04, 1958",22.0,R,Pepperdine,76765,,0
+1610612765,1980,00,Keith Herron,Keith,keith-herron,,G,6-6,195,"JUN 14, 1956",25.0,1,Villanova,77010,,0
+1610612765,1980,00,Phil Hubbard,Phil,phil-hubbard,,F,6-8,215,"DEC 13, 1956",24.0,1,Michigan,77071,,0
+1610612765,1980,00,Lee Johnson,Lee,lee-johnson,,F,6-11,205,"JUN 16, 1957",24.0,R,Texas A&M-Commerce,77158,,0
+1610612765,1980,00,Greg Kelser,Greg,greg-kelser,,F,6-7,190,"SEP 17, 1957",23.0,1,Michigan State,77239,,0
+1610612765,1980,00,Ed Lawrence,Ed,ed-lawrence,,C,6-11,228,"DEC 08, 1952",28.0,R,McNeese State,77348,,0
+1610612765,1980,00,Ron Lee,Ron,ron-lee,,G,6-3,193,"NOV 02, 1952",28.0,4,Oregon,77364,,0
+1610612765,1980,00,John Long,John,john-long,,G,6-5,195,"AUG 28, 1956",24.0,2,Detroit,1381,,0
+1610612765,1980,00,Paul Mokeski,Paul,paul-mokeski,,C,7-0,250,"JAN 03, 1957",24.0,1,Kansas,77623,,0
+1610612765,1980,00,Wayne Robinson,Wayne,wayne-robinson,,F,6-8,217,"APR 19, 1958",23.0,R,Virginia Tech,77996,,0
+1610612765,1980,00,Terry Tyler,Terry,terry-tyler,,F,6-7,215,"OCT 30, 1956",24.0,2,Detroit,78390,,0
+1610612765,1980,00,Larry Wright,Larry,larry-wright,,G,6-1,160,"NOV 23, 1954",26.0,4,Grambling,78623,,0

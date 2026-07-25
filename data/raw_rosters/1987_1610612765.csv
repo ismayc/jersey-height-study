@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1987,00,William Bedford,William,william-bedford,25,C,7-0,225,"DEC 14, 1963",24.0,1,Memphis,76138,,0
+1610612765,1987,00,Adrian Dantley,Adrian,adrian-dantley,45,F,6-5,208,"FEB 26, 1955",33.0,11,Notre Dame,76504,,0
+1610612765,1987,00,Darryl Dawkins,Darryl,darryl-dawkins,50,C,6-11,251,"JAN 11, 1957",31.0,12,Maynard Evans HS (FL),76539,,0
+1610612765,1987,00,Joe Dumars,Joe,joe-dumars,4,G,6-3,190,"MAY 24, 1963",25.0,2,McNeese State,247,,0
+1610612765,1987,00,James Edwards,James,james-edwards,53,C,7-1,225,"NOV 22, 1955",32.0,10,Washington,229,,0
+1610612765,1987,00,Vinnie Johnson,Vinnie,vinnie-johnson,15,G,6-2,200,"SEP 01, 1956",31.0,8,Baylor,77167,,0
+1610612765,1987,00,Bill Laimbeer,Bill,bill-laimbeer,40,C,6-11,245,"MAY 19, 1957",31.0,7,Notre Dame,100263,,0
+1610612765,1987,00,Ralph Lewis,Ralph,ralph-lewis,35,G,6-6,200,"MAR 28, 1963",25.0,R,La Salle,77383,,0
+1610612765,1987,00,Rick Mahorn,Rick,rick-mahorn,44,F,6-10,240,"SEP 21, 1958",29.0,7,Hampton,328,,0
+1610612765,1987,00,Chuck Nevitt,Chuck,chuck-nevitt,42,C,7-5,217,"JUN 13, 1959",29.0,4,North Carolina State,77707,,0
+1610612765,1987,00,Dennis Rodman,Dennis,dennis-rodman,10,F,6-7,210,"MAY 13, 1961",27.0,1,Southeastern Oklahoma State,23,,0
+1610612765,1987,00,Walker Russell,Walker,walker-russell,,G,6-5,195,"OCT 26, 1960",27.0,5,Western Michigan,78048,,0
+1610612765,1987,00,John Salley,John,john-salley,22,F,6-11,230,"MAY 16, 1964",24.0,1,Georgia Tech,927,,0
+1610612765,1987,00,Isiah Thomas,Isiah,isiah-thomas,11,G,6-1,180,"APR 30, 1961",27.0,6,Indiana,78318,,0

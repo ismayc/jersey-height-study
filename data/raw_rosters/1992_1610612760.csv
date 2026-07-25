@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1992,00,Vincent Askew,Vincent,vincent-askew,17,G,6-6,210,"FEB 28, 1966",27.0,3,Memphis,355,,0
+1610612760,1992,00,Dana Barros,Dana,dana-barros,3,G,5-11,165,"APR 13, 1967",26.0,3,Boston College,344,,0
+1610612760,1992,00,Michael Cage,Michael,michael-cage,44,C,6-9,224,"JAN 28, 1962",31.0,8,San Diego State,262,,0
+1610612760,1992,00,Eddie Johnson,Eddie,eddie-johnson,,F,, ,"MAY 01, 1959",34.0,11,Illinois,698,,0
+1610612760,1992,00,Shawn Kemp,Shawn,shawn-kemp,40,F,6-10,280,"NOV 26, 1969",23.0,3,Concord HS (IN),431,,0
+1610612760,1992,00,Rich King,Rich,rich-king,25,C,7-2,260,"APR 04, 1969",24.0,1,Nebraska,1101,,0
+1610612760,1992,00,Derrick McKey,Derrick,derrick-mckey,31,F,6-9,205,"OCT 10, 1966",26.0,5,Alabama,365,,0
+1610612760,1992,00,Nate McMillan,Nate,nate-mcmillan,10,G,6-5,195,"AUG 03, 1964",28.0,6,North Carolina State,203,,0
+1610612760,1992,00,Gerald Paddio,Gerald,gerald-paddio,21,F,6-7,205,"APR 21, 1965",28.0,1,UNLV,77789,,0
+1610612760,1992,00,Gary Payton,Gary,gary-payton,20,G,6-4,190,"JUL 23, 1968",24.0,2,Oregon State,56,,0
+1610612760,1992,00,Sam Perkins,Sam,sam-perkins,14,F,6-9,235,"JUN 14, 1961",32.0,8,North Carolina,64,,0
+1610612760,1992,00,Ricky Pierce,Ricky,ricky-pierce,22,G,6-4,205,"AUG 19, 1959",33.0,10,Rice,894,,0
+1610612760,1992,00,Steve Scheffler,Steve,steve-scheffler,55,F,6-9,250,"SEP 03, 1967",25.0,2,Purdue,88,,0

@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612755,2019,00,Josh Richardson,Josh,josh-richardson,0,G,6-5,200,"SEP 15, 1993",26.0,4,Tennessee,1626196,
+1610612755,2019,00,Mike Scott,Mike,mike-scott,1,F,6-7,237,"JUL 16, 1988",31.0,7,Virginia,203118,
+1610612755,2019,00,Zhaire Smith,Zhaire,zhaire-smith,5,G,6-3,205,"JUN 04, 1999",21.0,1,Texas Tech,1629015,
+1610612755,2019,00,Kyle O'Quinn,Kyle,kyle-oquinn,9,C-F,6-9,250,"MAR 26, 1990",30.0,7,Norfolk State,203124,
+1610612755,2019,00,Tobias Harris,Tobias,tobias-harris,12,F,6-8,226,"JUL 15, 1992",27.0,8,Tennessee,202699,
+1610612755,2019,00,Norvel Pelle,Norvel,norvel-pelle,14,F,6-10,231,"FEB 03, 1993",27.0,R,Iona,203658,
+1610612755,2019,00,Shake Milton,Shake,shake-milton,18,G-F,6-5,205,"SEP 26, 1996",23.0,1,Southern Methodist,1629003,
+1610612755,2019,00,Raul Neto,Raul,raul-neto,19,G,6-1,180,"MAY 19, 1992",28.0,4,Murcia,203526,
+1610612755,2019,00,Alec Burks,Alec,alec-burks,20,G,6-6,214,"JUL 20, 1991",28.0,8,Colorado,202692,
+1610612755,2019,00,Joel Embiid,Joel,joel-embiid,21,C-F,7-0,280,"MAR 16, 1994",26.0,3,Kansas,203954,#3 Pick in 2014 Draft
+1610612755,2019,00,Matisse Thybulle,Matisse,matisse-thybulle,22,G-F,6-5,201,"MAR 04, 1997",23.0,R,Washington,1629680,
+1610612755,2019,00,Ben Simmons,Ben,ben-simmons,25,G-F,6-10,240,"JUL 20, 1996",23.0,2,Louisiana State,1627732,
+1610612755,2019,00,Furkan Korkmaz,Furkan,furkan-korkmaz,30,G-F,6-7,202,"JUL 24, 1997",22.0,2,Anadolu Efes,1627788,
+1610612755,2019,00,Marial Shayok,Marial,marial-shayok,35,G-F,6-5,198,"JUL 26, 1995",24.0,R,Iowa State,1629621,
+1610612755,2019,00,Glenn Robinson III,Glenn,glenn-robinson-iii,40,F,6-6,222,"JAN 08, 1994",26.0,5,Michigan,203922,
+1610612755,2019,00,Al Horford,Al,al-horford,42,C-F,6-9,240,"JUN 03, 1986",34.0,12,Florida,201143,
+1610612755,2019,00,Ryan Broekhoff,Ryan,ryan-broekhoff,45,G-F,6-6,215,"AUG 23, 1990",29.0,1,Valparaiso,1629151,

@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612761,2022,00,Will Barton,Will,will-barton,1,G,6-5,181,"JAN 06, 1991",32.0,10,Memphis,203115,
+1610612761,2022,00,OG Anunoby,OG,og-anunoby,3,F,6-7,232,"JUL 17, 1997",25.0,5,Indiana,1628384,
+1610612761,2022,00,Scottie Barnes,Scottie,scottie-barnes,4,F,6-8,225,"AUG 01, 2001",21.0,1,Florida State,1630567,#4 Pick in 2021 Draft
+1610612761,2022,00,Precious Achiuwa,Precious,precious-achiuwa,5,F,6-8,225,"SEP 19, 1999",23.0,2,Memphis,1630173,
+1610612761,2022,00,Ron Harper Jr.,Ron,ron-harper-jr,8,F,6-5,245,"APR 12, 2000",23.0,R,Rutgers,1631199,
+1610612761,2022,00,Joe Wieskamp,Joe,joe-wieskamp,11,G-F,6-6,205,"AUG 23, 1999",23.0,1,Iowa,1630580,
+1610612761,2022,00,Jakob Poeltl,Jakob,jakob-poeltl,19,C,7-1,245,"OCT 15, 1995",27.0,6,Utah,1627751,Traded from SAS on 02/09/23
+1610612761,2022,00,Jeff Dowtin Jr.,Jeff,jeff-dowtin-jr,20,G,6-3,177,"MAY 10, 1997",26.0,1,Rhode Island,1630288,
+1610612761,2022,00,Thaddeus Young,Thaddeus,thaddeus-young,21,F,6-8,235,"JUN 21, 1988",35.0,15,Georgia Tech,201152,
+1610612761,2022,00,Malachi Flynn,Malachi,malachi-flynn,22,G,6-1,175,"MAY 09, 1998",25.0,2,San Diego State,1630201,
+1610612761,2022,00,Fred VanVleet,Fred,fred-vanvleet,23,G,6-0,197,"FEB 25, 1994",29.0,6,Wichita State,1627832,
+1610612761,2022,00,Chris Boucher,Chris,chris-boucher,25,F-C,6-9,200,"JAN 11, 1993",30.0,5,Oregon,1628449,
+1610612761,2022,00,Otto Porter Jr.,Otto,otto-porter-jr,32,F,6-8,198,"JUN 03, 1993",30.0,9,Georgetown,203490,
+1610612761,2022,00,Gary Trent Jr.,Gary,gary-trent-jr,33,G-F,6-5,209,"JAN 18, 1999",24.0,4,Duke,1629018,
+1610612761,2022,00,Christian Koloko,Christian,christian-koloko,35,C,7-0,230,"JUN 20, 2000",23.0,R,Arizona,1631132,
+1610612761,2022,00,Pascal Siakam,Pascal,pascal-siakam,43,F,6-8,230,"APR 02, 1994",29.0,6,New Mexico State,1627783,
+1610612761,2022,00,Dalano Banton,Dalano,dalano-banton,45,F,6-7,204,"NOV 07, 1999",23.0,1,Nebraska,1630625,

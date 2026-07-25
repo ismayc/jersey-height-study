@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612739,1983,00,John Bagley,John,john-bagley,5,G,6-0,185,"APR 23, 1960",24.0,1,Boston College,76082,,0
+1610612739,1983,00,Jeff Cook,Jeff,jeff-cook,45,F,6-10,215,"OCT 21, 1956",27.0,4,Idaho State,76436,,0
+1610612739,1983,00,Jeffrey Crompton,Jeffrey,jeffrey-crompton,41,C,6-11,280,"JUL 04, 1955",28.0,4,North Carolina,76474,,0
+1610612739,1983,00,World Free,World,world-free,21,G,6-3,185,"DEC 09, 1953",30.0,8,Guilford,76753,,0
+1610612739,1983,00,John Garris,John,john-garris,55,F,6-8,205,"JUN 06, 1959",25.0,R,Boston College,76791,,0
+1610612739,1983,00,Stewart Granger,Stewart,stewart-granger,10,G,6-3,190,"OCT 27, 1961",22.0,R,Villanova,76847,,0
+1610612739,1983,00,Roy Hinson,Roy,roy-hinson,32,C,6-9,210,"MAY 02, 1961",23.0,R,Rutgers,77030,,0
+1610612739,1983,00,Phil Hubbard,Phil,phil-hubbard,35,F,6-8,215,"DEC 13, 1956",27.0,4,Michigan,77071,,0
+1610612739,1983,00,Geoff Huston,Geoff,geoff-huston,20,G,6-2,175,"NOV 08, 1957",26.0,4,Texas Tech,77087,,0
+1610612739,1983,00,Ben Poquette,Ben,ben-poquette,50,F,6-9,235,"MAY 07, 1955",29.0,6,Central Michigan,77873,,0
+1610612739,1983,00,Cliff T. Robinson,Cliff T.,cliff-t-robinson,11,C,6-9,220,"MAR 13, 1960",24.0,4,Southern California,77986,,0
+1610612739,1983,00,Lonnie Shelton,Lonnie,lonnie-shelton,8,F,6-8,240,"OCT 19, 1955",28.0,7,Oregon State,78133,,0
+1610612739,1983,00,Paul Thompson,Paul,paul-thompson,33,G,6-6,210,"MAY 25, 1961",23.0,R,Tulane,78332,,0
