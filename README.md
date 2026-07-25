@@ -103,9 +103,19 @@ grandfathered tail. If it doesn't, something upstream is wrong.
    size. A single straight line across four decades would be the wrong model:
    heights rose and then *reversed* (+0.067 in/season before 1990, −0.015 after),
    and one slope would average those into a claim matching neither era.
-2. **Association trend** — per-season jersey/height correlation regressed on
+2. **Regime-aware height model** — the same idea taken seriously: knots at 1990
+   and the 2002 peak, plus a **level-shift term at the 2019-20 measurement rule
+   change**. The shift term estimates the rule-change step directly (with a CI)
+   instead of reading it off consecutive seasons, and keeps the break from
+   contaminating the trend slopes. It fits far better than the single-knot model
+   (R² 0.85 vs 0.30), which is itself evidence that the break is structural.
+3. **Within-player check** — year-over-year listed-height change for players
+   rostered in consecutive seasons. The aggregate mean moves when *who plays*
+   changes; a continuing player's listed height only moves when the measurement
+   does. This isolates the 2019 step from roster composition entirely.
+4. **Association trend** — per-season jersey/height correlation regressed on
    season, weighted by roster size.
-3. **Bootstrap** — 2,000 resamples of the change in jersey/height correlation
+5. **Bootstrap** — 2,000 resamples of the change in jersey/height correlation
    between the first and last five seasons, reported as a 95% percentile
    interval. Seeded for reproducibility. The R and Python runs use different RNGs,
    so reconciliation checks that their intervals *overlap* rather than match.
@@ -186,6 +196,21 @@ entire decline**, and it is the largest year-over-year move in all
 2019-20 is exactly when the NBA began requiring measured heights without
 shoes. The league did not get shorter that summer; the ruler changed. Players have
 been *slightly taller* since.
+
+Two further checks pin that attribution down:
+
+- **Modelled, not eyeballed.** A regime-aware model (piecewise trend, knots at
+  1990 and 2002, plus a level-shift term at 2019) estimates the rule-change step
+  at **-0.636 in** (95% CI [-0.801, -0.472]).
+  Fitting the shift explicitly also stops the break from contaminating the trend
+  slopes on either side of it.
+- **Within-player, so roster turnover cannot explain it.** Among the
+  **388** players rostered in both 2018-19 and 2019-20,
+  **55%** got shorter on paper, with a mean change of
+  **-0.57 in** — against a typical offseason, where the median
+  share of continuing players whose listed height changes downward is
+  **0%**. The same players, measured two ways, account for
+  essentially the whole aggregate step.
 
 The defensible claim is narrow: heights rose into the early 2000s, drifted down
 modestly through the 2010s (-0.353 in over 16 seasons), and have been

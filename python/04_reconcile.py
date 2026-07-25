@@ -67,9 +67,36 @@ def compare_metrics() -> tuple[bool, pl.DataFrame]:
     return bool(ok), summary
 
 
+def compare_within_player() -> tuple[bool, pl.DataFrame]:
+    """The within-player season-pair table must agree column-for-column."""
+    r = pl.read_csv(OUT / "within_player_r.csv")
+    p = pl.read_csv(OUT / "within_player_python.csv")
+    value_cols = ["n_matched", "mean_delta", "share_shrunk", "share_same", "share_grew"]
+    merged = r.join(p, on="pair_start", how="full", suffix="_py", coalesce=True)
+    diffs = merged.with_columns([
+        (pl.col(c) - pl.col(f"{c}_py")).abs().alias(f"d_{c}") for c in value_cols
+    ])
+    worst = diffs.select(pl.max_horizontal([pl.col(f"d_{c}").max() for c in value_cols])).item()
+    complete = r.height == p.height == merged.height
+    ok = complete and worst is not None and worst <= TOL_METRICS
+    summary = pl.DataFrame([{
+        "check": "within_player_pairs", "pairs": merged.height,
+        "max_abs_diff": worst, "status": "PASS" if ok else "FAIL",
+    }])
+    return bool(ok), summary
+
+
 def compare_models() -> tuple[bool, pl.DataFrame]:
     r = pl.read_csv(OUT / "models_r.csv")
     p = pl.read_csv(OUT / "models_python.csv")
+    # Guard the inner join: a model fitted in only one implementation must fail
+    # loudly here, not silently drop out of the comparison.
+    keys_r = set(r.select("model", "term").iter_rows())
+    keys_p = set(p.select("model", "term").iter_rows())
+    if keys_r != keys_p:
+        only = keys_r.symmetric_difference(keys_p)
+        print(f"  model terms present in only one implementation: {sorted(only)}")
+        return False, pl.DataFrame()
     merged = (r.join(p, on=["model", "term"], how="inner", suffix="_py")
               .with_columns(
                   est_diff=(pl.col("estimate") - pl.col("estimate_py")).abs(),
@@ -106,13 +133,17 @@ def main() -> int:
     metrics_ok, metrics = compare_metrics()
     print(metrics)
 
+    print(f"\nWithin-player season pairs (tolerance {TOL_METRICS:g}):")
+    wp_ok, wp = compare_within_player()
+    print(wp)
+
     print(f"\nModel coefficients (tolerance {TOL_MODELS:g}):")
     models_ok, models = compare_models()
     print(models)
 
     boot_ok = compare_bootstrap()
 
-    all_ok = metrics_ok and models_ok and boot_ok
+    all_ok = metrics_ok and wp_ok and models_ok and boot_ok
     print("\n" + ("ALL CHECKS PASS" if all_ok else "MISMATCHES FOUND"))
     return 0 if all_ok else 1
 
