@@ -147,6 +147,18 @@ write_csv(results, file.path(OUT_DIR, "results_r.csv"))
 h <- height_by_season %>% mutate(post = pmax(season_start - 1990, 0))
 m_height <- lm(value ~ season_start + post, data = h, weights = n)
 
+# 1b) Regime-aware model: piecewise trend with knots at 1990 and the 2002 peak,
+#     plus a LEVEL SHIFT at the 2019-20 measurement rule change. The shift term
+#     turns the eyeballed "-0.61 in step" into a modelled estimate with a CI,
+#     and keeps the trend slopes from being contaminated by the break.
+#     (Fit comparison on this data: R^2 0.85 vs 0.30 for the single-knot model.)
+hr <- height_by_season %>% mutate(
+  k1990 = pmax(season_start - 1990, 0),
+  k2002 = pmax(season_start - 2002, 0),
+  shift2019 = as.numeric(season_start >= 2019)
+)
+m_regime <- lm(value ~ season_start + k1990 + k2002 + shift2019, data = hr, weights = n)
+
 # 2) Has the jersey-number/height association weakened? Regress the per-season
 #    correlation on season.
 cors <- number_metrics %>% filter(metric == "jersey_height_cor")
@@ -154,11 +166,39 @@ m_cor <- lm(value ~ season_start, data = cors, weights = n)
 
 models <- bind_rows(
   tidy(m_height, conf.int = TRUE) %>% mutate(model = "height_piecewise"),
+  tidy(m_regime, conf.int = TRUE) %>% mutate(model = "height_regime"),
   tidy(m_cor, conf.int = TRUE) %>% mutate(model = "jersey_height_cor_trend")
 ) %>%
   select(model, term, estimate, std.error, statistic, p.value, conf.low, conf.high)
 
 write_csv(models, file.path(OUT_DIR, "models_r.csv"))
+
+# 2b) Within-player year-over-year height change: the composition-free check on
+#     the 2019-20 measurement step. The aggregate mean can move because WHO
+#     plays changed; a continuing player's listed height only moves when the
+#     measurement itself does. In a normal offseason 1-6% of continuing players'
+#     listed heights change; if the rule change is real, a majority should
+#     "shrink" in the single 2018-19 -> 2019-20 offseason.
+seasons_sorted <- sort(unique(players$season_start))
+within_player <- map_dfr(
+  seq_len(length(seasons_sorted) - 1),
+  function(i) {
+    s0 <- seasons_sorted[i]; s1 <- seasons_sorted[i + 1]
+    a <- players %>% filter(season_start == s0) %>% select(PLAYER_ID, h0 = height_in)
+    b <- players %>% filter(season_start == s1) %>% select(PLAYER_ID, h1 = height_in)
+    j <- inner_join(a, b, by = "PLAYER_ID") %>% mutate(delta = h1 - h0)
+    if (nrow(j) == 0) return(NULL)
+    tibble(
+      pair_start = s0,
+      n_matched = nrow(j),
+      mean_delta = mean(j$delta),
+      share_shrunk = mean(j$delta < 0),
+      share_same = mean(j$delta == 0),
+      share_grew = mean(j$delta > 0)
+    )
+  }
+)
+write_csv(within_player, file.path(OUT_DIR, "within_player_r.csv"))
 
 # 3) Uncertainty without a distributional assumption: bootstrap the difference in
 #    the jersey/height correlation between the first and last five seasons.

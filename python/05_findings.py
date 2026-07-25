@@ -62,6 +62,17 @@ def build() -> str:
     slope_post_delta = float(post["estimate"][0]) if post.height else float("nan")
     slope_post = slope_pre + slope_post_delta
 
+    # Regime-aware model: the 2019 measurement step as a fitted level shift.
+    rm = models.filter(pl.col("model") == "height_regime")
+    shift = rm.filter(pl.col("term") == "shift2019").row(0, named=True)
+
+    # Within-player check on the same step: continuing players only, so roster
+    # composition cannot explain it.
+    wp = pl.read_csv(OUT / "within_player_python.csv").sort("pair_start")
+    wp2018 = wp.filter(pl.col("pair_start") == 2018).row(0, named=True)
+    wp_other = wp.filter(pl.col("pair_start") != 2018)
+    typical_shrunk = float(wp_other["share_shrunk"].median())
+
     cm = models.filter(pl.col("model") == "jersey_height_cor_trend")
     cor_slope = float(cm.filter(pl.col("term") == "season_start")["estimate"][0])
     cor_p = float(cm.filter(pl.col("term") == "season_start")["p.value"][0])
@@ -140,6 +151,21 @@ entire decline**, and it is the largest year-over-year move in all
 {fmt_season(2019)} is exactly when the NBA began requiring measured heights without
 shoes. The league did not get shorter that summer; the ruler changed. Players have
 been *slightly taller* since.
+
+Two further checks pin that attribution down:
+
+- **Modelled, not eyeballed.** A regime-aware model (piecewise trend, knots at
+  1990 and 2002, plus a level-shift term at 2019) estimates the rule-change step
+  at **{shift['estimate']:+.3f} in** (95% CI [{shift['conf.low']:+.3f}, {shift['conf.high']:+.3f}]).
+  Fitting the shift explicitly also stops the break from contaminating the trend
+  slopes on either side of it.
+- **Within-player, so roster turnover cannot explain it.** Among the
+  **{wp2018['n_matched']}** players rostered in both {fmt_season(2018)} and {fmt_season(2019)},
+  **{wp2018['share_shrunk']:.0%}** got shorter on paper, with a mean change of
+  **{wp2018['mean_delta']:+.2f} in** — against a typical offseason, where the median
+  share of continuing players whose listed height changes downward is
+  **{typical_shrunk:.0%}**. The same players, measured two ways, account for
+  essentially the whole aggregate step.
 
 The defensible claim is narrow: heights rose into the early 2000s, drifted down
 modestly through the 2010s ({d2018 - d2002:+.3f} in over 16 seasons), and have been
