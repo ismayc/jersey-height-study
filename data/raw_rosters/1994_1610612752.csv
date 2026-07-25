@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1994,00,Greg Anthony,Greg,greg-anthony,50,G,6-0,176,"NOV 15, 1967",27.0,3,UNLV,21,,0
+1610612752,1994,00,Anthony Bonner,Anthony,anthony-bonner,4,F,6-8,215,"JUN 08, 1968",27.0,4,St. Louis,41,,0
+1610612752,1994,00,Doug Christie,Doug,doug-christie,35,G-F,6-6,205,"MAY 09, 1970",25.0,2,Pepperdine,57,,0
+1610612752,1994,00,Hubert Davis,Hubert,hubert-davis,44,G,6-5,183,"MAY 17, 1970",25.0,2,North Carolina,93,,0
+1610612752,1994,00,Patrick Ewing,Patrick,patrick-ewing,33,C,7-0,240,"AUG 05, 1962",32.0,9,Georgetown,121,,0
+1610612752,1994,00,Ronnie Grandison,Ronnie,ronnie-grandison,35,F,6-6,215,"JUL 09, 1964",30.0,2,New Orleans,97,,0
+1610612752,1994,00,Derek Harper,Derek,derek-harper,11,G,6-4,185,"OCT 13, 1961",33.0,11,Illinois,157,,0
+1610612752,1994,00,Anthony Mason,Anthony,anthony-mason,14,F,6-8,250,"DEC 14, 1966",28.0,5,Tennessee State,193,,0
+1610612752,1994,00,Charles Oakley,Charles,charles-oakley,34,F,6-9,245,"DEC 18, 1963",31.0,9,Virginia Union,891,,0
+1610612752,1994,00,Charles Smith,Charles,charles-smith,6,F,6-10,244,"JUL 16, 1965",29.0,6,Pittsburgh,293,,0
+1610612752,1994,00,John Starks,John,john-starks,3,G,6-3,180,"AUG 10, 1965",29.0,5,Oklahoma State,317,,0
+1610612752,1994,00,Charlie Ward,Charlie,charlie-ward,21,G,6-2,190,"OCT 12, 1970",24.0,R,Florida State,369,,0
+1610612752,1994,00,Monty Williams,Monty,monty-williams,2,F,6-8,225,"OCT 08, 1971",23.0,R,Notre Dame,42,,0
+1610612752,1994,00,Herb Williams,Herb,herb-williams,32,C,6-10,242,"FEB 16, 1958",37.0,13,Ohio State,1006,,0

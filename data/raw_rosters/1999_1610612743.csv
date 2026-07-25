@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612743,1999,00,Cory Alexander,Cory,cory-alexander,7,G,6-1,190,"JUN 22, 1973",27.0,4,Virginia,724,,0
+1610612743,1999,00,Chris Herren,Chris,chris-herren,8,G,6-2,190,"SEP 27, 1975",24.0,R,Fresno State,1914,,0
+1610612743,1999,00,Keon Clark,Keon,keon-clark,15,C-F,6-11,220,"APR 16, 1975",25.0,1,UNLV,1721,,0
+1610612743,1999,00,George McCloud,George,george-mccloud,21,F,6-8,225,"MAY 27, 1967",33.0,9,Florida State,45,,0
+1610612743,1999,00,Antonio McDyess,Antonio,antonio-mcdyess,24,F,6-9,220,"SEP 07, 1974",25.0,4,Alabama,686,,0
+1610612743,1999,00,Roy Rogers,,,25,F,6-10,235,"AUG 19, 1973",26.0,2,,78009,,0
+1610612743,1999,00,Nick Van Exel,Nick,nick-van-exel,31,G,6-1,190,"NOV 27, 1971",28.0,6,Cincinnati,89,,0
+1610612743,1999,00,James Posey,James,james-posey,41,F-G,6-8,215,"JAN 13, 1977",23.0,R,Xavier,1899,,0
+1610612743,1999,00,Ryan Bowen,Ryan,ryan-bowen,42,F,6-7,215,"NOV 20, 1975",24.0,R,Iowa,1763,,0
+1610612743,1999,00,Raef LaFrentz,Raef,raef-lafrentz,45,C-F,6-11,240,"MAY 29, 1976",24.0,1,Kansas,1711,,0
+1610612743,1999,00,Popeye Jones,Popeye,popeye-jones,54,F,6-8,250,"JUN 17, 1970",30.0,6,Murray State,461,,0

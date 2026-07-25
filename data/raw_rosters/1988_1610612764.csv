@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1988,00,Mark Alarie,Mark,mark-alarie,31,F,6-8,217,"DEC 11, 1963",25.0,2,Duke,76019,,0
+1610612764,1988,00,Terry Catledge,Terry,terry-catledge,33,F,6-8,220,"AUG 22, 1963",25.0,3,South Alabama,767,,0
+1610612764,1988,00,Steve Colter,Steve,steve-colter,20,G,6-3,165,"JUL 24, 1962",26.0,4,New Mexico State,306,,0
+1610612764,1988,00,Ledell Eackles,Ledell,ledell-eackles,21,G,6-5,220,"NOV 24, 1966",22.0,R,New Orleans,289,,0
+1610612764,1988,00,Dave Feitl,Dave,dave-feitl,22,C,6-11,235,"JUN 08, 1962",27.0,2,Texas-El Paso,76703,,0
+1610612764,1988,00,Harvey Grant,Harvey,harvey-grant,44,F,6-8,195,"JUL 04, 1965",23.0,R,Oklahoma,265,,0
+1610612764,1988,00,Charles Jones,Charles,charles-jones,23,C,6-9,215,"APR 03, 1957",32.0,5,Albany State (GA),279,,0
+1610612764,1988,00,Charles Jones,Charles,charles-jones,,F,6-8,215,"JAN 12, 1962",27.0,3,Louisville,77178,,0
+1610612764,1988,00,Bernard King,Bernard,bernard-king,30,F,6-7,205,"DEC 04, 1956",32.0,10,Tennessee,77264,,0
+1610612764,1988,00,Jeff Malone,Jeff,jeff-malone,24,G,6-4,205,"JUN 28, 1961",28.0,5,Mississippi State,117,,0
+1610612764,1988,00,Darrell Walker,Darrell,darrell-walker,5,G,6-4,180,"MAR 09, 1961",28.0,5,Arkansas,78437,,0
+1610612764,1988,00,John Williams,John,john-williams,34,F,6-8,235,"OCT 26, 1966",22.0,2,Louisiana State,78554,,0

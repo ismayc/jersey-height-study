@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1981,00,Kenny Dennard,Kenny,kenny-dennard,9,F,6-8,220,"OCT 18, 1958",23.0,R,Duke,76556,,0
+1610612758,1981,00,Leon Douglas,Leon,leon-douglas,13,C,6-10,230,"AUG 26, 1954",27.0,5,Alabama,76590,,0
+1610612758,1981,00,Larry Drew,Larry,larry-drew,22,G,6-1,170,"APR 02, 1958",24.0,1,Missouri,76599,,0
+1610612758,1981,00,Phil Ford,Phil,phil-ford,1,G,6-2,175,"FEB 09, 1956",26.0,3,North Carolina,76736,,0
+1610612758,1981,00,Ernie Grunfeld,Ernie,ernie-grunfeld,20,G,6-6,210,"APR 24, 1955",27.0,4,Tennessee,76899,,0
+1610612758,1981,00,Eddie Johnson,Eddie,eddie-johnson,,F,, ,"MAY 01, 1959",23.0,R,Illinois,698,,0
+1610612758,1981,00,Steve Johnson,Steve,steve-johnson,33,C,6-10,235,"NOV 03, 1957",24.0,R,Oregon State,77134,,0
+1610612758,1981,00,Reggie Johnson,Reggie,reggie-johnson,32,F,6-9,205,"JUN 25, 1957",25.0,1,Tennessee,77163,,0
+1610612758,1981,00,Reggie King,Reggie,reggie-king,51,F,6-6,225,"FEB 14, 1957",25.0,2,Alabama,77273,,0
+1610612758,1981,00,John Lambert,John,john-lambert,24,C,6-10,225,"JAN 14, 1953",29.0,6,Southern California,77331,,0
+1610612758,1981,00,Kevin Loder,Kevin,kevin-loder,30,F,6-6,205,"MAR 15, 1959",23.0,R,Alabama State,77401,,0
+1610612758,1981,00,Joe Meriweather,Joe,joe-meriweather,50,C,6-10,215,"OCT 26, 1953",28.0,6,Southern Illinois,77582,,0
+1610612758,1981,00,Charles Whitney,Charles,charles-whitney,43,F,6-5,235,"JUN 22, 1957",25.0,1,North Carolina State,78519,,0
+1610612758,1981,00,Mike Woodson,Mike,mike-woodson,42,G,6-5,195,"MAR 24, 1958",24.0,1,Indiana,78614,,0

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1986,00,Greg Ballard,Greg,greg-ballard,5,F,6-7,215,"JAN 29, 1955",32.0,9,Oregon,76091,,0
+1610612744,1986,00,Joe Barry Carroll,Joe Barry,joe-barry-carroll,2,C,7-0,225,"JUL 24, 1958",28.0,5,Purdue,76353,,0
+1610612744,1986,00,Sleepy Floyd,Sleepy,sleepy-floyd,21,G,6-3,170,"MAR 06, 1960",27.0,4,Georgetown,76726,,0
+1610612744,1986,00,Kevin Henderson,Kevin,kevin-henderson,31,G,6-4,195,"MAR 22, 1964",23.0,R,California State-Fullerton,76994,,0
+1610612744,1986,00,Rod Higgins,Rod,rod-higgins,22,F,6-7,200,"JAN 31, 1960",27.0,4,Fresno State,77019,,0
+1610612744,1986,00,Ben McDonald,Ben,ben-mcdonald,30,F,6-8,210,"JUL 20, 1962",24.0,1,California-Irvine,77524,,0
+1610612744,1986,00,Perry Moss,Perry,perry-moss,10,G,6-2,185,"NOV 11, 1958",28.0,1,Northeastern,77654,,0
+1610612744,1986,00,Chris Mullin,Chris,chris-mullin,17,F,6-6,200,"JUL 30, 1963",23.0,1,St. John's (NY),904,,0
+1610612744,1986,00,Purvis Short,Purvis,purvis-short,45,F,6-7,210,"JUL 02, 1957",29.0,8,Jackson State,78139,,0
+1610612744,1986,00,Clinton Smith,Clinton,clinton-smith,11,F,6-6,210,"JAN 19, 1964",23.0,R,Cleveland State,78181,,0
+1610612744,1986,00,Larry Smith,Larry,larry-smith,13,F,6-8,215,"JAN 18, 1958",29.0,6,Alcorn State,78195,,0
+1610612744,1986,00,Terry Teagle,Terry,terry-teagle,20,G,6-5,195,"APR 10, 1960",27.0,4,Baylor,78304,,0
+1610612744,1986,00,Chris Washburn,Chris,chris-washburn,8,C,6-11,225,"MAY 13, 1965",22.0,R,North Carolina State,78463,,0
+1610612744,1986,00,Jerome Whitehead,Jerome,jerome-whitehead,33,C,6-10,220,"SEP 30, 1956",30.0,8,Marquette,78516,,0

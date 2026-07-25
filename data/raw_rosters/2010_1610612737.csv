@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,2010,00,Jeff Teague,Jeff,jeff-teague,0,G,6-2,180,"JUN 10, 1988",23.0,1,Wake Forest,201952,,0
+1610612737,2010,00,Joe Johnson,Joe,joe-johnson,2,G,6-7,240,"JUN 29, 1981",30.0,9,Arkansas,2207,,0
+1610612737,2010,00,Damien Wilkins,Damien,damien-wilkins,3,G-F,6-6,225,"JAN 11, 1980",31.0,6,Georgia,2863,,0
+1610612737,2010,00,Josh Smith,Josh,josh-smith,5,F,6-9,240,"DEC 05, 1985",25.0,6,Oak Hill Academy (VA),2746,,0
+1610612737,2010,00,Kirk Hinrich,Kirk,kirk-hinrich,6,G,6-4,190,"JAN 02, 1981",30.0,7,Kansas,2550,,0
+1610612737,2010,00,Jamal Crawford,Jamal,jamal-crawford,11,G,6-5,200,"MAR 20, 1980",31.0,10,Michigan,2037,,0
+1610612737,2010,00,Josh Powell,Josh,josh-powell,12,F,6-9,240,"JAN 25, 1983",28.0,5,North Carolina State,2694,,0
+1610612737,2010,00,Al Horford,Al,al-horford,15,C-F,6-10,245,"JUN 03, 1986",25.0,3,Florida,201143,,0
+1610612737,2010,00,Pape Sy,Pape,pape-sy,19,F-G,6-7,225,"APR 05, 1988",23.0,R,Le Havre,202377,,0
+1610612737,2010,00,Marvin Williams,Marvin,marvin-williams,24,F,6-9,240,"JUN 19, 1986",25.0,5,North Carolina,101107,,0
+1610612737,2010,00,Magnum Rolle,Magnum,magnum-rolle,25,F,6-11,235,"FEB 23, 1986",25.0,R,Louisiana Tech,202375,,0
+1610612737,2010,00,Zaza Pachulia,Zaza,zaza-pachulia,27,C,6-11,275,"FEB 10, 1984",27.0,7,Ulkerspor,2585,,0
+1610612737,2010,00,Hilton Armstrong,Hilton,hilton-armstrong,31,C-F,6-11,235,"NOV 23, 1984",26.0,4,Connecticut,200756,,0
+1610612737,2010,00,Jason Collins,Jason,jason-collins,34,C,7-0,255,"DEC 02, 1978",32.0,9,Stanford,2215,,0
+1610612737,2010,00,Etan Thomas,Etan,etan-thomas,36,C,6-10,260,"APR 01, 1978",33.0,8,Syracuse,2041,,0

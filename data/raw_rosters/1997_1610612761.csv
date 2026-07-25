@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612761,1997,00,Chris Garner,Chris,chris-garner,00,G,5-10,156,"FEB 23, 1975",23.0,R,Memphis,1612,,0
+1610612761,1997,00,Tracy McGrady,Tracy,tracy-mcgrady,1,F-G,6-8,210,"MAY 24, 1979",19.0,R,Mount Zion Christian Academy (NC),1503,,0
+1610612761,1997,00,Oliver Miller,Oliver,oliver-miller,2,F-C,6-9,325,"APR 06, 1970",28.0,5,Arkansas,932,,0
+1610612761,1997,00,Chauncey Billups,Chauncey,chauncey-billups,3,G,6-3,202,"SEP 25, 1976",21.0,R,Colorado,1497,,0
+1610612761,1997,00,Dee Brown,Dee,dee-brown,7,G,6-2,185,"NOV 29, 1968",29.0,7,Jacksonville,244,,0
+1610612761,1997,00,John Thomas,John,john-thomas,12,F,6-9,265,"SEP 08, 1975",22.0,R,Minnesota,1519,,0
+1610612761,1997,00,Doug Christie,Doug,doug-christie,13,G-F,6-6,205,"MAY 09, 1970",28.0,5,Pepperdine,57,,0
+1610612761,1997,00,Marcus Camby,Marcus,marcus-camby,21,F-C,6-11,220,"MAR 22, 1974",24.0,1,Massachusetts,948,,0
+1610612761,1997,00,Alvin Williams,Alvin,alvin-williams,22,G,6-5,185,"AUG 06, 1974",23.0,R,Villanova,1541,,0
+1610612761,1997,00,Gary Trent,Gary,gary-trent,33,F,6-8,250,"SEP 22, 1974",23.0,2,Ohio,718,,0
+1610612761,1997,00,Reggie Slater,Reggie,reggie-slater,35,F,6-7,255,"AUG 27, 1970",27.0,3,Wyoming,1073,,0
+1610612761,1997,00,John Wallace,John,john-wallace,44,F,6-9,225,"FEB 09, 1974",24.0,1,Syracuse,961,,0

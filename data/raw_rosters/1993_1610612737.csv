@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1993,00,Stacey Augmon,Stacey,stacey-augmon,2,G-F,6-8,213,"AUG 01, 1968",25.0,2,UNLV,278,,0
+1610612737,1993,00,John Bagley,John,john-bagley,5,G,6-0,185,"APR 23, 1960",34.0,10,Boston College,76082,,0
+1610612737,1993,00,Mookie Blaylock,Mookie,mookie-blaylock,10,G,6-0,180,"MAR 20, 1967",27.0,4,Oklahoma,302,,0
+1610612737,1993,00,Doug Edwards,Doug,doug-edwards,34,F,6-7,220,"JAN 21, 1971",23.0,R,Florida State,346,,0
+1610612737,1993,00,Craig Ehlo,Craig,craig-ehlo,3,G,6-6,180,"AUG 11, 1961",32.0,10,Washington State,378,,0
+1610612737,1993,00,Duane Ferrell,Duane,duane-ferrell,33,F,6-7,209,"FEB 28, 1965",29.0,5,Georgia Tech,273,,0
+1610612737,1993,00,Ricky Grace,Ricky,ricky-grace,15,G,6-1,180,"AUG 20, 1967",26.0,R,Oklahoma,76839,,0
+1610612737,1993,00,Paul Graham,Paul,paul-graham,25,G,6-6,200,"NOV 28, 1967",26.0,2,Ohio,76842,,0
+1610612737,1993,00,Adam Keefe,Adam,adam-keefe,31,F,6-9,230,"FEB 22, 1970",24.0,1,Stanford,228,,0
+1610612737,1993,00,Jon Koncak,Jon,jon-koncak,32,C,7-0,250,"MAY 17, 1963",31.0,8,Southern Methodist,402,,0
+1610612737,1993,00,Andrew Lang,Andrew,andrew-lang,28,C,6-11,245,"JUN 28, 1966",28.0,5,Arkansas,457,,0
+1610612737,1993,00,Danny Manning,Danny,danny-manning,5,F-C,6-10,244,"MAY 17, 1966",28.0,5,Kansas,330,,0
+1610612737,1993,00,Ennis Whatley,Ennis,ennis-whatley,1,G,6-3,177,"AUG 11, 1962",31.0,7,Alabama,941,,0
+1610612737,1993,00,Kevin Willis,Kevin,kevin-willis,42,F-C,7-0,245,"SEP 06, 1962",31.0,8,Michigan State,788,,0

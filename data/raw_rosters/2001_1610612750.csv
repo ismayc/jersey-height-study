@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612750,2001,00,Loren Woods,Loren,loren-woods,3,C,7-1,246,"JUN 21, 1978",24.0,R,Arizona,2254,,0
+1610612750,2001,00,Chauncey Billups,Chauncey,chauncey-billups,4,G,6-3,202,"SEP 25, 1976",25.0,4,Colorado,1497,,0
+1610612750,2001,00,Rasho Nesterovic,Rasho,rasho-nesterovic,8,C,7-0,248,"MAY 30, 1976",26.0,3,Virtus Bologna,1725,,0
+1610612750,2001,00,Wally Szczerbiak,Wally,wally-szczerbiak,10,G-F,6-7,244,"MAR 05, 1977",25.0,2,Miami (Ohio),1887,,0
+1610612750,2001,00,Felipe Lopez,Felipe,felipe-lopez,13,G-F,6-5,195,"DEC 19, 1974",27.0,3,St. John's (NY),1732,,0
+1610612750,2001,00,Robert Pack,Robert,robert-pack,14,G,6-2,190,"FEB 03, 1969",33.0,10,Southern California,123,,0
+1610612750,2001,00,Gary Trent,Gary,gary-trent,20,F,6-8,250,"SEP 22, 1974",27.0,6,Ohio,718,,0
+1610612750,2001,00,Kevin Garnett,Kevin,kevin-garnett,21,F,6-11,220,"MAY 19, 1976",26.0,6,Farragut Academy HS (IL),708,,0
+1610612750,2001,00,Marc Jackson,Marc,marc-jackson,25,F-C,6-10,270,"JAN 16, 1975",27.0,1,Temple,1531,,0
+1610612750,2001,00,Joe Smith,Joe,joe-smith,32,F,6-10,225,"JUL 26, 1975",26.0,6,Maryland,693,,0
+1610612750,2001,00,Sam Mitchell,Sam,sam-mitchell,42,F,6-7,215,"SEP 02, 1963",38.0,12,Mercer,417,,0
+1610612750,2001,00,Anthony Peeler,Anthony,anthony-peeler,44,G,6-4,208,"NOV 25, 1969",32.0,9,Missouri,324,,0

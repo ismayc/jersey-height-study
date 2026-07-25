@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1981,00,Greg Ballard,Greg,greg-ballard,42,F,6-7,215,"JAN 29, 1955",27.0,4,Oregon,76091,,0
+1610612764,1981,00,Jim Chones,Jim,jim-chones,9,C,6-11,220,"NOV 30, 1949",32.0,7,Marquette,76392,,0
+1610612764,1981,00,Don Collins,Don,don-collins,22,G,6-6,190,"NOV 28, 1958",23.0,1,Washington State,76418,,0
+1610612764,1981,00,Charlie Davis,Charlie,charlie-davis,23,F,6-7,215,"OCT 05, 1958",23.0,R,Vanderbilt,76518,,0
+1610612764,1981,00,Kevin Grevey,Kevin,kevin-grevey,35,G,6-5,210,"MAY 12, 1953",29.0,6,Kentucky,76887,,0
+1610612764,1981,00,Spencer Haywood,Spencer,spencer-haywood,24,F,6-8,225,"APR 22, 1949",33.0,10,Detroit,76981,,0
+1610612764,1981,00,Brad Holland,Brad,brad-holland,14,G,6-3,180,"DEC 06, 1956",25.0,2,UCLA,77040,,0
+1610612764,1981,00,Frank Johnson,Frank,frank-johnson, ,G,6-3,185,"NOV 23, 1958",23.0,R,Wake Forest,77146,,0
+1610612764,1981,00,John Lucas,John,john-lucas,5,G,6-3,175,"OCT 31, 1953",28.0,5,Maryland,77419,,0
+1610612764,1981,00,Rick Mahorn,Rick,rick-mahorn,44,F,6-10,240,"SEP 21, 1958",23.0,1,Hampton,328,,0
+1610612764,1981,00,Jeff Ruland,Jeff,jeff-ruland,43,C,6-10,240,"DEC 16, 1958",23.0,R,Iona,78041,,0
+1610612764,1981,00,Carlos Terry,Carlos,carlos-terry,12,G,6-4,210,"JUN 22, 1956",26.0,1,Winston-Salem State,78307,,0
+1610612764,1981,00,Garry Witts,Garry,garry-witts,20,G,6-7,190,"JUL 03, 1959",22.0,R,Holy Cross,78605,,0

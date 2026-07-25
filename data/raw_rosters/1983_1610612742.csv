@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612742,1983,00,Mark Aguirre,Mark,mark-aguirre,24,F,6-6,232,"DEC 10, 1959",24.0,2,DePaul,76016,,0
+1610612742,1983,00,Rolando Blackman,Rolando,rolando-blackman,22,G,6-6,190,"FEB 26, 1959",25.0,2,Kansas State,76176,,0
+1610612742,1983,00,Pat Cummings,Pat,pat-cummings,42,C,6-9,230,"JUL 11, 1956",27.0,4,Cincinnati,76483,,0
+1610612742,1983,00,Brad Davis,Brad,brad-davis,15,G,6-3,180,"DEC 17, 1955",28.0,6,Maryland,76516,,0
+1610612742,1983,00,Dale Ellis,Dale,dale-ellis,14,G,6-7,205,"AUG 06, 1960",23.0,R,Tennessee,107,,0
+1610612742,1983,00,Bill Garnett,Bill,bill-garnett,20,F,6-9,225,"APR 22, 1960",24.0,1,Wyoming,76785,,0
+1610612742,1983,00,Derek Harper,Derek,derek-harper,12,G,6-4,185,"OCT 13, 1961",22.0,R,Illinois,157,,0
+1610612742,1983,00,Kurt Nimphius,Kurt,kurt-nimphius,40,C,6-10,218,"MAR 13, 1958",26.0,2,Arizona State,77719,,0
+1610612742,1983,00,Roger Phegley,Roger,roger-phegley,21,G,6-6,205,"OCT 16, 1956",27.0,5,Bradley,77848,,0
+1610612742,1983,00,Jim Spanarkel,Jim,jim-spanarkel,34,G,6-5,190,"JUN 28, 1957",27.0,4,Duke,78222,,0
+1610612742,1983,00,Elston Turner,Elston,elston-turner,33,G,6-5,190,"JUN 10, 1959",25.0,2,Mississippi,78378,,0
+1610612742,1983,00,Jay Vincent,Jay,jay-vincent,31,F,6-7,220,"JUN 10, 1959",25.0,2,Michigan State,78418,,0
+1610612742,1983,00,Mark West,Mark,mark-west,45,C,6-10,230,"NOV 05, 1960",23.0,R,Old Dominion,770,,0

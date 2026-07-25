@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612751,1995,00,Chris Childs,Chris,chris-childs,1,G,6-3,195,"NOV 20, 1967",28.0,1,Boise State,164,,0
+1610612751,1995,00,Rick Mahorn,Rick,rick-mahorn,4,F-C,6-10,260,"SEP 21, 1958",37.0,14,Hampton,328,,0
+1610612751,1995,00,Khalid Reeves,Khalid,khalid-reeves,6,G,6-3,199,"JUL 15, 1972",23.0,1,Arizona,234,,0
+1610612751,1995,00,Vern Fleming,Vern,vern-fleming,10,G,6-5,185,"FEB 04, 1962",34.0,11,Georgia,313,,0
+1610612751,1995,00,Greg Graham,Greg,greg-graham,20,G,6-4,182,"NOV 26, 1970",25.0,2,Indiana,37,,0
+1610612751,1995,00,Kevin Edwards,Kevin,kevin-edwards,21,G,6-3,190,"OCT 30, 1965",30.0,7,DePaul,236,,0
+1610612751,1995,00,Ed O'Bannon,Ed,ed-obannon,31,G,6-8,222,"AUG 14, 1972",23.0,R,UCLA,709,,0
+1610612751,1995,00,Yinka Dare,Yinka,yinka-dare,33,C,7-0,265,"OCT 10, 1972",23.0,1,George Washington,212,,0
+1610612751,1995,00,Robert Werdann,Robert,robert-werdann,41,C,6-11,250,"SEP 12, 1970",25.0,R,St. John's (NY),438,,0
+1610612751,1995,00,Robert Werdann,,,41,C,6-11,250,"SEP 12, 1969",26.0,1,,78493,,0
+1610612751,1995,00,P.J. Brown,P.J.,pj-brown,42,F-C,6-11,240,"OCT 14, 1969",26.0,2,Louisiana Tech,136,,0
+1610612751,1995,00,Armen Gilliam,Armen,armen-gilliam,43,F,6-9,250,"MAY 28, 1964",32.0,8,UNLV,288,,0
+1610612751,1995,00,Shawn Bradley,Shawn,shawn-bradley,45,C,7-6,248,"MAR 22, 1972",24.0,2,Brigham Young,762,,0
+1610612751,1995,00,Jayson Williams,Jayson,jayson-williams,55,C-F,6-10,245,"FEB 22, 1968",28.0,5,St. John's (NY),420,,0

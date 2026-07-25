@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,2010,00,Avery Bradley,Avery,avery-bradley,0,G,6-2,180,"NOV 26, 1990",20.0,R,University of Texas at Austin,202340,,0
+1610612738,2010,00,Nenad Krstic,Nenad,nenad-krstic,4,C,7-0,240,"JUL 25, 1983",27.0,6,Partizan,2420,,0
+1610612738,2010,00,Kevin Garnett,Kevin,kevin-garnett,5,F,6-11,253,"MAY 19, 1976",35.0,15,Farragut Academy HS (IL),708,,0
+1610612738,2010,00,Jermaine O'Neal,Jermaine,jermaine-oneal,7,C-F,6-11,255,"OCT 13, 1978",32.0,14,Eau Claire HS (SC),979,,0
+1610612738,2010,00,Jeff Green,Jeff,jeff-green,8,F,6-9,235,"AUG 28, 1986",24.0,3,Georgetown,201145,,0
+1610612738,2010,00,Rajon Rondo,Rajon,rajon-rondo,9,G,6-1,171,"FEB 22, 1986",25.0,4,Kentucky,200765,,0
+1610612738,2010,00,Glen Davis,Glen,glen-davis,11,F-C,6-9,289,"JAN 01, 1986",25.0,3,Louisiana State,201175,,0
+1610612738,2010,00,Von Wafer,Von,von-wafer,12,G,6-5,209,"JUL 21, 1985",25.0,5,Florida State,101144,,0
+1610612738,2010,00,Delonte West,Delonte,delonte-west,13,G,6-3,180,"JUL 26, 1983",27.0,6,St. Joseph's (PA),2753,,0
+1610612738,2010,00,Ray Allen,Ray,ray-allen,20,G,6-5,205,"JUL 20, 1975",35.0,14,Connecticut,951,,0
+1610612738,2010,00,Troy Murphy,Troy,troy-murphy,30,F-C,6-11,245,"MAY 02, 1980",31.0,9,Notre Dame,2211,,0
+1610612738,2010,00,Paul Pierce,Paul,paul-pierce,34,F,6-7,235,"OCT 13, 1977",33.0,12,Kansas,1718,,0
+1610612738,2010,00,Shaquille O'Neal,Shaquille,shaquille-oneal,36,C,7-1,325,"MAR 06, 1972",39.0,18,Louisiana State,406,,0
+1610612738,2010,00,Carlos Arroyo,Carlos,carlos-arroyo,45,G,6-2,200,"JUL 30, 1979",31.0,8,Florida International,2306,,0
+1610612738,2010,00,Sasha Pavlovic,Sasha,sasha-pavlovic,77,G-F,6-7,235,"NOV 15, 1983",27.0,7,Buducnost,2562,,0

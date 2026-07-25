@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612748,2005,00,Dorell Wright,Dorell,dorell-wright,1,F,6-8,205,"DEC 02, 1985",20.0,1,South Kent HS (CT),2748,,0
+1610612748,2005,00,Dwyane Wade,Dwyane,dwyane-wade,3,G,6-4,212,"JAN 17, 1982",24.0,2,Marquette,2548,,0
+1610612748,2005,00,Derek Anderson,Derek,derek-anderson,5,G,6-5,195,"JUL 18, 1974",31.0,8,Kentucky,1507,,0
+1610612748,2005,00,Antoine Walker,Antoine,antoine-walker,8,F,6-9,245,"AUG 12, 1976",29.0,9,Kentucky,952,,0
+1610612748,2005,00,Gary Payton,Gary,gary-payton,20,G,6-4,190,"JUL 23, 1968",37.0,15,Oregon State,56,,0
+1610612748,2005,00,Jason Kapono,Jason,jason-kapono,24,F,6-8,215,"FEB 02, 1981",25.0,2,UCLA,2574,,0
+1610612748,2005,00,Wayne Simien,Wayne,wayne-simien,25,F,6-9,250,"MAR 09, 1983",23.0,R,Kansas,101134,,0
+1610612748,2005,00,Shaquille O'Neal,Shaquille,shaquille-oneal,32,C,7-1,325,"MAR 06, 1972",34.0,13,Louisiana State,406,,0
+1610612748,2005,00,Alonzo Mourning,Alonzo,alonzo-mourning,33,C,6-10,261,"FEB 08, 1970",36.0,12,Georgetown,297,,0
+1610612748,2005,00,Udonis Haslem,Udonis,udonis-haslem,40,F,6-8,235,"JUN 09, 1980",26.0,2,Florida,2617,,0
+1610612748,2005,00,James Posey,James,james-posey,42,F-G,6-8,217,"JAN 13, 1977",29.0,6,Xavier,1899,,0
+1610612748,2005,00,Shandon Anderson,Shandon,shandon-anderson,49,G-F,6-6,215,"DEC 31, 1973",32.0,9,Georgia,1000,,0
+1610612748,2005,00,Michael Doleac,Michael,michael-doleac,51,C,6-11,262,"JUN 15, 1977",29.0,7,Utah,1720,,0
+1610612748,2005,00,Jason Williams,Jason,jason-williams,55,G,6-1,180,"NOV 18, 1975",30.0,7,Florida,1715,,0

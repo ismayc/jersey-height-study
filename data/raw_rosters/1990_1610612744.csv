@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1990,00,Vincent Askew,Vincent,vincent-askew,4,G,6-6,210,"FEB 28, 1966",25.0,1,Memphis,355,,0
+1610612744,1990,00,Mario Elie,Mario,mario-elie,20,F,6-5,210,"NOV 26, 1963",27.0,R,American International,53,,0
+1610612744,1990,00,Tim Hardaway,Tim,tim-hardaway,10,G,6-0,195,"SEP 01, 1966",24.0,1,Texas-El Paso,896,,0
+1610612744,1990,00,Rod Higgins,Rod,rod-higgins,22,F,6-7,200,"JAN 31, 1960",31.0,8,Fresno State,77019,,0
+1610612744,1990,00,Tyrone Hill,Tyrone,tyrone-hill,32,F-C,6-9,250,"MAR 19, 1968",23.0,R,Xavier,238,,0
+1610612744,1990,00,Les Jepsen,Les,les-jepsen,51,G,7-0,237,"JUN 24, 1967",24.0,R,Iowa,77129,,0
+1610612744,1990,00,Steve Johnson,Steve,steve-johnson,33,C,6-10,235,"NOV 03, 1957",33.0,9,Oregon State,77134,,0
+1610612744,1990,00,Bart Kofoed,Bart,bart-kofoed, ,F,6-4,210,"MAR 24, 1964",27.0,2,Nebraska-Kearney,77294,,0
+1610612744,1990,00,Alton Lister,Alton,alton-lister,53,C,7-0,240,"OCT 01, 1958",32.0,9,Arizona State,175,,0
+1610612744,1990,00,Sarunas Marciulionis,Sarunas,sarunas-marciulionis,13,G,6-5,200,"JUN 13, 1964",27.0,1,Statyba,36,,0
+1610612744,1990,00,Paul Mokeski,Paul,paul-mokeski,44,C,7-0,250,"JAN 03, 1957",34.0,11,Kansas,77623,,0
+1610612744,1990,00,Chris Mullin,Chris,chris-mullin,17,F,6-6,200,"JUL 30, 1963",27.0,5,St. John's (NY),904,,0
+1610612744,1990,00,Jim Petersen,Jim,jim-petersen,43,F,6-10,235,"FEB 22, 1962",29.0,6,Minnesota,77839,,0
+1610612744,1990,00,Kevin Pritchard,Kevin,kevin-pritchard,2,G,6-3,180,"JUL 17, 1967",23.0,R,Kansas,340,,0
+1610612744,1990,00,Mitch Richmond,Mitch,mitch-richmond,23,G,6-5,215,"JUN 30, 1965",25.0,2,Kansas State,782,,0
+1610612744,1990,00,Tom Tolbert,Tom,tom-tolbert,3,F,6-7,235,"OCT 16, 1965",25.0,2,Arizona,78347,,0

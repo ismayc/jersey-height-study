@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1982,00,Bill Cartwright,Bill,bill-cartwright,25,C,7-1,245,"JUL 30, 1957",25.0,3,San Francisco,76362,,0
+1610612752,1982,00,Michael Davis,Michael,michael-davis,,F,6-10,230,"AUG 02, 1956",26.0,R,Maryland,76530,,0
+1610612752,1982,00,Ernie Grunfeld,Ernie,ernie-grunfeld,18,G,6-6,210,"APR 24, 1955",28.0,5,Tennessee,76899,,0
+1610612752,1982,00,Bernard King,Bernard,bernard-king,30,F,6-7,205,"DEC 04, 1956",26.0,5,Tennessee,77264,,0
+1610612752,1982,00,Louis Orr,Louis,louis-orr,55,F,6-8,175,"MAY 07, 1958",25.0,2,Syracuse,77770,,0
+1610612752,1982,00,Truck Robinson,Truck,truck-robinson,23,F,6-7,225,"OCT 04, 1951",31.0,8,Tennessee State,77993,,0
+1610612752,1982,00,Edmund Sherod,Edmund,edmund-sherod,13,G,6-2,170,"SEP 13, 1959",23.0,R,Virginia Commonwealth,78136,,0
+1610612752,1982,00,Rory Sparrow,Rory,rory-sparrow,2,G,6-2,175,"JUN 12, 1958",25.0,2,Villanova,600009,,0
+1610612752,1982,00,Vince Taylor,Vince,vince-taylor,8,G,6-5,180,"SEP 11, 1960",22.0,R,Duke,78303,,0
+1610612752,1982,00,Trent Tucker,Trent,trent-tucker,6,G,6-5,193,"DEC 20, 1959",23.0,R,Minnesota,78375,,0
+1610612752,1982,00,Marvin Webster,Marvin,marvin-webster,40,C,7-1,225,"APR 13, 1952",31.0,6,Morgan State,78481,,0
+1610612752,1982,00,Paul Westphal,Paul,paul-westphal,44,G,6-4,195,"NOV 30, 1950",32.0,10,Southern California,78500,,0
+1610612752,1982,00,Sly Williams,Sly,sly-williams,33,F,6-7,210,"JAN 26, 1958",25.0,3,Rhode Island,78570,,0

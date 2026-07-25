@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1984,00,Randy Breuer,Randy,randy-breuer,45,C,7-3,230,"OCT 11, 1960",24.0,1,Minnesota,76247,,0
+1610612749,1984,00,Terry Cummings,Terry,terry-cummings,34,F,6-9,220,"MAR 15, 1961",24.0,2,DePaul,187,,0
+1610612749,1984,00,Charlie Davis,Charlie,charlie-davis,24,F,6-7,215,"OCT 05, 1958",26.0,3,Vanderbilt,76518,,0
+1610612749,1984,00,Mike Dunleavy,Mike,mike-dunleavy,,G,6-3,180,"MAR 21, 1954",31.0,8,South Carolina,76616,,0
+1610612749,1984,00,Chris Engler,Chris,chris-engler,50,C,6-11,245,"MAR 01, 1959",26.0,2,Wyoming,76670,,0
+1610612749,1984,00,Kenny Fields,Kenny,kenny-fields,7,F,6-5,220,"FEB 09, 1962",23.0,R,UCLA,76713,,0
+1610612749,1984,00,Kevin Grevey,Kevin,kevin-grevey,35,G,6-5,210,"MAY 12, 1953",32.0,9,Kentucky,76887,,0
+1610612749,1984,00,Craig Hodges,Craig,craig-hodges,15,G,6-2,190,"JUN 27, 1960",25.0,2,Long Beach State,77034,,0
+1610612749,1984,00,Alton Lister,Alton,alton-lister,53,C,7-0,240,"OCT 01, 1958",26.0,3,Arizona State,175,,0
+1610612749,1984,00,Larry Micheaux,Larry,larry-micheaux,40,F,6-9,220,"MAR 24, 1960",25.0,1,Houston,77588,,0
+1610612749,1984,00,Paul Mokeski,Paul,paul-mokeski,44,C,7-0,250,"JAN 03, 1957",28.0,5,Kansas,77623,,0
+1610612749,1984,00,Sidney Moncrief,Sidney,sidney-moncrief,4,G,6-4,180,"SEP 21, 1957",27.0,5,Arkansas,77626,,0
+1610612749,1984,00,Ricky Pierce,Ricky,ricky-pierce,22,G,6-4,205,"AUG 19, 1959",25.0,2,Rice,894,,0
+1610612749,1984,00,Paul Pressey,Paul,paul-pressey,25,G,6-5,185,"DEC 24, 1958",26.0,2,Tulsa,77879,,0

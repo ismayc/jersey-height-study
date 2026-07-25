@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612742,1987,00,Mark Aguirre,Mark,mark-aguirre,24,F,6-6,232,"DEC 10, 1959",28.0,6,DePaul,76016,,0
+1610612742,1987,00,Steve Alford,Steve,steve-alford,2,G,6-2,183,"NOV 23, 1964",23.0,R,Indiana,76024,,0
+1610612742,1987,00,Uwe Blab,Uwe,uwe-blab,33,C,7-1,252,"MAR 26, 1962",26.0,2,Indiana,76172,,0
+1610612742,1987,00,Rolando Blackman,Rolando,rolando-blackman,22,G,6-6,190,"FEB 26, 1959",29.0,6,Kansas State,76176,,0
+1610612742,1987,00,Brad Davis,Brad,brad-davis,15,G,6-3,180,"DEC 17, 1955",32.0,10,Maryland,76516,,0
+1610612742,1987,00,James Donaldson,James,james-donaldson,40,C,7-2,275,"AUG 16, 1957",30.0,7,Washington State,76583,,0
+1610612742,1987,00,Jim Farmer,Jim,jim-farmer,20,F,6-4,190,"SEP 23, 1964",23.0,R,Alabama,76695,,0
+1610612742,1987,00,Derek Harper,Derek,derek-harper,12,G,6-4,185,"OCT 13, 1961",26.0,4,Illinois,157,,0
+1610612742,1987,00,Sam Perkins,Sam,sam-perkins,44,F,6-9,235,"JUN 14, 1961",27.0,3,North Carolina,64,,0
+1610612742,1987,00,Detlef Schrempf,Detlef,detlef-schrempf,32,F,6-9,214,"JAN 21, 1963",25.0,2,Washington,96,,0
+1610612742,1987,00,Roy Tarpley,Roy,roy-tarpley,42,F,7-0,230,"NOV 28, 1964",23.0,1,Michigan,78293,,0
+1610612742,1987,00,Bill Wennington,Bill,bill-wennington,23,C,7-0,245,"APR 26, 1963",25.0,2,St. John's (NY),82,,0

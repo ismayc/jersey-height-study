@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1990,00,Maurice Cheeks,Maurice,maurice-cheeks,1,G,6-1,180,"SEP 08, 1956",34.0,12,West Texas A&M,76385,,0
+1610612752,1990,00,Patrick Ewing,Patrick,patrick-ewing,33,C,7-0,240,"AUG 05, 1962",28.0,5,Georgetown,121,,0
+1610612752,1990,00,Greg Grant,Greg,greg-grant,14,G,5-7,140,"AUG 29, 1966",24.0,1,College of New Jersey,285,,0
+1610612752,1990,00,Stuart Gray,Stuart,stuart-gray,40,C,7-0,235,"MAY 27, 1963",28.0,6,UCLA,76861,,0
+1610612752,1990,00,Mark Jackson,Mark,mark-jackson,13,G,6-3,205,"APR 01, 1965",26.0,3,St. John's (NY),349,,0
+1610612752,1990,00,Jerrod Mustaf,Jerrod,jerrod-mustaf,32,F,6-10,238,"OCT 28, 1969",21.0,R,Maryland,1054,,0
+1610612752,1990,00,Charles Oakley,Charles,charles-oakley,34,F-C,6-9,248,"DEC 18, 1963",27.0,5,Virginia Union,891,,0
+1610612752,1990,00,Brian Quinnett,Brian,brian-quinnett,23,G,6-8,235,"MAY 30, 1966",25.0,1,Washington State,77893,,0
+1610612752,1990,00,John Starks,John,john-starks,3,G,6-3,180,"AUG 10, 1965",25.0,1,Oklahoma State,317,,0
+1610612752,1990,00,Trent Tucker,Trent,trent-tucker,6,G,6-5,193,"DEC 20, 1959",31.0,8,Minnesota,78375,,0
+1610612752,1990,00,Kiki Vandeweghe,Kiki,kiki-vandeweghe,55,F,6-8,220,"AUG 01, 1958",32.0,10,UCLA,78404,,0
+1610612752,1990,00,Kenny Walker,Kenny,kenny-walker,7,F,6-8,210,"AUG 18, 1964",26.0,4,Kentucky,78440,,0
+1610612752,1990,00,Gerald Wilkins,Gerald,gerald-wilkins,21,G,6-6,185,"SEP 11, 1963",27.0,5,Tennessee-Chattanooga,786,,0
+1610612752,1990,00,Eddielee Wilkins,Eddielee,eddielee-wilkins,45,C,6-10,220,"MAY 07, 1962",29.0,4,Gardner-Webb,78534,,0

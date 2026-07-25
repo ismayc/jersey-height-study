@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612757,1992,00,Mark Bryant,Mark,mark-bryant,2,F-C,6-9,250,"APR 25, 1965",28.0,4,Seton Hall,95,,0
+1610612757,1992,00,Clyde Drexler,Clyde,clyde-drexler,22,G,6-7,210,"JUN 22, 1962",31.0,9,Houston,17,,0
+1610612757,1992,00,Kevin Duckworth,Kevin,kevin-duckworth,00,C,7-0,275,"APR 01, 1964",29.0,6,Eastern Illinois,404,,0
+1610612757,1992,00,Mario Elie,Mario,mario-elie,17,F,6-5,210,"NOV 26, 1963",29.0,2,American International,53,,0
+1610612757,1992,00,Dave Johnson,Dave,dave-johnson,4,G,6-7,210,"NOV 16, 1970",22.0,R,Syracuse,77138,,0
+1610612757,1992,00,Jerome Kersey,Jerome,jerome-kersey,25,F,6-7,215,"JUN 26, 1962",31.0,8,Longwood,760,,0
+1610612757,1992,00,Tracy Murray,Tracy,tracy-murray,31,F,6-7,230,"JUL 25, 1971",21.0,R,UCLA,145,,0
+1610612757,1992,00,Terry Porter,Terry,terry-porter,30,G,6-3,195,"APR 08, 1963",30.0,7,Wisconsin-Stevens Point,345,,0
+1610612757,1992,00,Clifford Robinson,Clifford,clifford-robinson,3,F-C,6-10,245,"DEC 16, 1966",26.0,3,Connecticut,361,,0
+1610612757,1992,00,Delaney Rudd,Delaney,delaney-rudd,11,G,6-2,180,"NOV 08, 1962",30.0,3,Wake Forest,78035,,0
+1610612757,1992,00,Reggie Smith,Reggie,reggie-smith,54,F,6-10,240,"AUG 21, 1970",22.0,R,TCU,78201,,0
+1610612757,1992,00,Rod Strickland,Rod,rod-strickland,1,G,6-3,185,"JUL 11, 1966",26.0,4,DePaul,393,,0
+1610612757,1992,00,Buck Williams,Buck,buck-williams,52,F,6-8,215,"MAR 08, 1960",33.0,11,Maryland,433,,0
+1610612757,1992,00,Joe Wolf,Joe,joe-wolf,6,C,6-11,230,"DEC 17, 1964",28.0,5,North Carolina,341,,0

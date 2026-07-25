@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612756,2021,00,JaVale McGee,JaVale,javale-mcgee,00,C-F,7-0,270,"JAN 19, 1988",34.0,13,Nevada,201580,
+1610612756,2021,00,Torrey Craig,Torrey,torrey-craig,0,F,6-7,221,"DEC 19, 1990",31.0,4,South Carolina Upstate,1628470,
+1610612756,2021,00,Devin Booker,Devin,devin-booker,1,G,6-5,206,"OCT 30, 1996",25.0,6,Kentucky,1626164,#13 Pick in 2015 Draft
+1610612756,2021,00,Elfrid Payton,Elfrid,elfrid-payton,2,G,6-3,195,"FEB 22, 1994",28.0,7,Louisana-Lafayette,203901,
+1610612756,2021,00,Chris Paul,Chris,chris-paul,3,G,6-0,175,"MAY 06, 1985",37.0,16,Wake Forest,101108,
+1610612756,2021,00,Aaron Holiday,Aaron,aaron-holiday,4,G,6-0,185,"SEP 30, 1996",25.0,3,UCLA,1628988,
+1610612756,2021,00,Ish Wainright,Ish,ish-wainright,12,F,6-5,250,"SEP 12, 1994",27.0,R,Baylor,1630688,
+1610612756,2021,00,Landry Shamet,Landry,landry-shamet,14,G,6-4,190,"MAR 13, 1997",25.0,3,Wichita State,1629013,
+1610612756,2021,00,Cameron Payne,Cameron,cameron-payne,15,G,6-1,183,"AUG 08, 1994",27.0,6,Murray State,1626166,
+1610612756,2021,00,Bismack Biyombo,Bismack,bismack-biyombo,18,C,6-8,255,"AUG 28, 1992",29.0,10,Baloncesto Fuenlabrada,202687,
+1610612756,2021,00,Gabriel Lundberg,Gabriel,gabriel-lundberg,19,G,6-4,203,"DEC 04, 1994",27.0,R,CSKA Moscow,1630994,
+1610612756,2021,00,Dario Šarić,Dario,dario-šarić,20,F-C,6-10,225,"APR 08, 1994",28.0,5,Anadolu Efes,203967,
+1610612756,2021,00,Deandre Ayton,Deandre,deandre-ayton,22,C,6-11,250,"JUL 23, 1998",23.0,3,Arizona,1629028,
+1610612756,2021,00,Cameron Johnson,Cameron,cameron-johnson,23,F,6-8,210,"MAR 03, 1996",26.0,2,North Carolina,1629661,
+1610612756,2021,00,Mikal Bridges,Mikal,mikal-bridges,25,F,6-6,209,"AUG 30, 1996",25.0,3,Villanova,1628969,
+1610612756,2021,00,Jae Crowder,Jae,jae-crowder,99,F,6-6,235,"JUL 06, 1990",31.0,9,Marquette,203109,

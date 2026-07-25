@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1999,00,Shammond Williams,Shammond,shammond-williams,1,G,6-1,201,"APR 05, 1975",25.0,1,North Carolina,1742,,0
+1610612760,1999,00,Rashard Lewis,Rashard,rashard-lewis,7,F,6-10,215,"AUG 08, 1979",20.0,1,Elsik HS (TX),1740,,0
+1610612760,1999,00,Lazaro Borrell,Lazaro,lazaro-borrell,11,F,6-8,220,"SEP 20, 1972",27.0,R,Villa Clara,1953,,0
+1610612760,1999,00,Emanual Davis,Emanual,emanual-davis,15,G,6-5,195,"AUG 27, 1968",31.0,2,Delaware State,1023,,0
+1610612760,1999,00,Gary Payton,Gary,gary-payton,20,G,6-4,180,"JUL 23, 1968",31.0,9,Oregon State,56,,0
+1610612760,1999,00,Ruben Patterson,Ruben,ruben-patterson,21,F,6-6,227,"JUL 31, 1975",24.0,1,Cincinnati,1739,,0
+1610612760,1999,00,Brent Barry,Brent,brent-barry,31,G,6-6,195,"DEC 31, 1971",28.0,3,Oregon State,699,,0
+1610612760,1999,00,Jelani McCoy,Jelani,jelani-mccoy,34,C,6-10,245,"DEC 06, 1977",22.0,1,UCLA,1741,,0
+1610612760,1999,00,Vin Baker,Vin,vin-baker,42,F,6-11,250,"NOV 23, 1971",28.0,6,Hartford,452,,0
+1610612760,1999,00,Greg Foster,Greg,greg-foster,44,C,6-11,250,"OCT 03, 1968",31.0,9,Texas-El Paso,323,,0
+1610612760,1999,00,Chuck Person,Chuck,chuck-person,45,F,6-8,241,"JUN 27, 1964",36.0,12,Auburn,456,,0
+1610612760,1999,00,Horace Grant,Horace,horace-grant,54,C-F,6-10,245,"JUL 04, 1965",34.0,12,Clemson,270,,0

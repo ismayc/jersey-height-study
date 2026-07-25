@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1989,00,Mark Aguirre,Mark,mark-aguirre,23,F,6-6,232,"DEC 10, 1959",30.0,8,DePaul,76016,,0
+1610612765,1989,00,William Bedford,William,william-bedford,20,C,7-0,225,"DEC 14, 1963",26.0,2,Memphis,76138,,0
+1610612765,1989,00,Joe Dumars,Joe,joe-dumars,4,G,6-3,190,"MAY 24, 1963",27.0,4,McNeese State,247,,0
+1610612765,1989,00,James Edwards,James,james-edwards,53,C,7-1,225,"NOV 22, 1955",34.0,12,Washington,229,,0
+1610612765,1989,00,David Greenwood,David,david-greenwood,33,F,6-9,222,"MAY 27, 1957",33.0,10,UCLA,76881,,0
+1610612765,1989,00,Scott Hastings,Scott,scott-hastings,35,F,6-10,235,"JUN 03, 1960",30.0,7,Arkansas,76968,,0
+1610612765,1989,00,Gerald Henderson,Gerald,gerald-henderson,12,G,6-2,175,"JAN 16, 1956",34.0,10,Virginia Commonwealth,76993,,0
+1610612765,1989,00,Vinnie Johnson,Vinnie,vinnie-johnson,15,G,6-2,200,"SEP 01, 1956",33.0,10,Baylor,77167,,0
+1610612765,1989,00,Stan Kimbrough,Stan,stan-kimbrough,3,F,5-11,153,"APR 24, 1966",24.0,R,Xavier,77261,,0
+1610612765,1989,00,Bill Laimbeer,Bill,bill-laimbeer,40,C,6-11,245,"MAY 19, 1957",33.0,9,Notre Dame,100263,,0
+1610612765,1989,00,Dennis Rodman,Dennis,dennis-rodman,10,F,6-7,210,"MAY 13, 1961",29.0,3,Southeastern Oklahoma State,23,,0
+1610612765,1989,00,John Salley,John,john-salley,22,F,6-11,230,"MAY 16, 1964",26.0,3,Georgia Tech,927,,0
+1610612765,1989,00,Isiah Thomas,Isiah,isiah-thomas,11,G,6-1,180,"APR 30, 1961",29.0,8,Indiana,78318,,0

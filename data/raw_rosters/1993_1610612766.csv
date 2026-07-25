@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612766,1993,00,Tony Bennett,Tony,tony-bennett,25,G,6-0,175,"JUN 01, 1969",25.0,1,Wisconsin-Green Bay,76148,,0
+1610612766,1993,00,Muggsy Bogues,Muggsy,muggsy-bogues,1,G,5-3,136,"JAN 09, 1965",29.0,6,Wake Forest,177,,0
+1610612766,1993,00,Frank Brickowski,Frank,frank-brickowski,40,F,6-9,240,"AUG 14, 1959",34.0,9,Penn State,783,,0
+1610612766,1993,00,Scott Burrell,Scott,scott-burrell,24,F,6-7,218,"JAN 12, 1971",23.0,R,Connecticut,197,,0
+1610612766,1993,00,Dell Curry,Dell,dell-curry,30,G,6-4,190,"JUN 25, 1964",30.0,7,Virginia Tech,209,,0
+1610612766,1993,00,LeRon Ellis,LeRon,leron-ellis,43,C,6-9,225,"APR 28, 1969",25.0,1,Syracuse,1034,,0
+1610612766,1993,00,Kenny Gattison,Kenny,kenny-gattison,44,F,6-8,225,"MAY 23, 1964",30.0,6,Old Dominion,930,,0
+1610612766,1993,00,Hersey Hawkins,Hersey,hersey-hawkins,3,G,6-3,190,"SEP 29, 1966",27.0,5,Bradley,765,,0
+1610612766,1993,00,Steve Henson,Steve,steve-henson,12,G,5-11,177,"FEB 02, 1968",26.0,3,Kansas State,1667,,0
+1610612766,1993,00,Eddie Johnson,Eddie,eddie-johnson,8,F,6-7, ,"MAY 01, 1959",35.0,12,Illinois,698,,0
+1610612766,1993,00,Larry Johnson,Larry,larry-johnson,2,F,6-7,250,"MAR 14, 1969",25.0,2,UNLV,913,,0
+1610612766,1993,00,Alonzo Mourning,Alonzo,alonzo-mourning,33,C,6-10,262,"FEB 08, 1970",24.0,1,Georgetown,297,,0
+1610612766,1993,00,Rumeal Robinson,Rumeal,rumeal-robinson,20,G,6-2,195,"NOV 13, 1966",27.0,3,Michigan,716,,0
+1610612766,1993,00,David Wingate,David,david-wingate,11,G,6-5,185,"DEC 15, 1963",30.0,7,Georgetown,766,,0

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1995,00,Olden Polynice,Olden,olden-polynice,0,C-F,7-0,250,"NOV 21, 1964",31.0,8,Virginia,178,,0
+1610612758,1995,00,Mitch Richmond,Mitch,mitch-richmond,2,G,6-5,215,"JUN 30, 1965",31.0,7,Kansas State,782,,0
+1610612758,1995,00,Corliss Williamson,Corliss,corliss-williamson,4,F,6-7,245,"DEC 04, 1973",22.0,R,Arkansas,722,,0
+1610612758,1995,00,Tyus Edney,Tyus,tyus-edney,5,G,5-10,152,"FEB 14, 1973",23.0,R,UCLA,721,,0
+1610612758,1995,00,Bobby Hurley,Bobby,bobby-hurley,7,G,6-0,165,"JUN 28, 1971",25.0,2,Duke,310,,0
+1610612758,1995,00,Sarunas Marciulionis,Sarunas,sarunas-marciulionis,13,G,6-5,215,"JUN 13, 1964",32.0,5,Statyba,36,,0
+1610612758,1995,00,Clint McDaniel,Clint,clint-mcdaniel,20,G,6-4,180,"FEB 26, 1972",24.0,R,Arkansas,723,,0
+1610612758,1995,00,Lionel Simmons,Lionel,lionel-simmons,22,F,6-7,210,"NOV 14, 1968",27.0,5,La Salle,1489,,0
+1610612758,1995,00,Billy Owens,Billy,billy-owens,30,F,6-9,225,"MAY 01, 1969",27.0,4,Syracuse,182,,0
+1610612758,1995,00,Duane Causwell,Duane,duane-causwell,31,C,7-0,240,"MAY 31, 1968",28.0,5,Temple,190,,0
+1610612758,1995,00,Brian Grant,Brian,brian-grant,33,F,6-9,254,"MAR 05, 1972",24.0,1,Xavier,258,,0
+1610612758,1995,00,Michael Smith,Michael,michael-smith,34,F,6-8,230,"MAR 28, 1972",24.0,1,Providence,63,,0
+1610612758,1995,00,Byron Houston,Byron,byron-houston,35,F,6-5,250,"NOV 22, 1969",26.0,3,Oklahoma State,780,,0
+1610612758,1995,00,Kevin Gamble,Kevin,kevin-gamble,40,G-F,6-6,225,"NOV 13, 1965",30.0,8,Iowa,333,,0

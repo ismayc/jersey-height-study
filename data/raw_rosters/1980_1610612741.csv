@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1980,00,Coby Dietrick,Coby,coby-dietrick,26,C,6-11,220,"JUL 23, 1948",32.0,4,San Jose State,76567,,0
+1610612741,1980,00,Artis Gilmore,Artis,artis-gilmore,53,C,7-2,240,"SEP 21, 1948",32.0,4,Jacksonville,600014,,0
+1610612741,1980,00,David Greenwood,David,david-greenwood,34,F,6-9,222,"MAY 27, 1957",24.0,1,UCLA,76881,,0
+1610612741,1980,00,Dwight Jones,Dwight,dwight-jones,13,F,6-10,210,"FEB 27, 1952",29.0,7,Houston,77182,,0
+1610612741,1980,00,Larry Kenon,Larry,larry-kenon,35,F,6-9,205,"DEC 13, 1952",28.0,4,Memphis,77246,,0
+1610612741,1980,00,Ronnie Lester,Ronnie,ronnie-lester,12,G,6-2,175,"JAN 01, 1959",22.0,R,Iowa,77373,,0
+1610612741,1980,00,Scott May,Scott,scott-may,7,F,6-6,215,"MAR 19, 1954",27.0,4,Indiana,77490,,0
+1610612741,1980,00,Ricky Sobers,Ricky,ricky-sobers,14-40,G,6-3,198,"JAN 15, 1953",28.0,5,UNLV,78215,,0
+1610612741,1980,00,Reggie Theus,Reggie,reggie-theus,24,G,6-6,190,"OCT 13, 1957",23.0,2,UNLV,78310,,0
+1610612741,1980,00,Bob Wilkerson,Bob,bob-wilkerson,33,G,6-6,195,"AUG 15, 1954",26.0,4,Indiana,78531,,0
+1610612741,1980,00,James Wilkes,James,james-wilkes,32,F,6-7,195,"MAR 12, 1958",23.0,R,UCLA,78533,,0
+1610612741,1980,00,Sam Worthen,Sam,sam-worthen,31,G,6-5,195,"JAN 17, 1958",23.0,R,Marquette,78618,,0

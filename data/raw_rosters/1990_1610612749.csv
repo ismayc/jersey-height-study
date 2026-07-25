@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1990,00,Frank Brickowski,Frank,frank-brickowski,40,F,6-9,240,"AUG 14, 1959",31.0,6,Penn State,783,,0
+1610612749,1990,00,Lester Conner,Lester,lester-conner,15,G,6-4,180,"SEP 17, 1959",31.0,7,Oregon State,76431,,0
+1610612749,1990,00,Adrian Dantley,Adrian,adrian-dantley,7,F,6-5,208,"FEB 26, 1955",36.0,14,Notre Dame,76504,,0
+1610612749,1990,00,Dale Ellis,Dale,dale-ellis,3,G,6-7,205,"AUG 06, 1960",30.0,7,Tennessee,107,,0
+1610612749,1990,00,Jeff Grayer,Jeff,jeff-grayer,20,G,6-5,200,"DEC 17, 1965",25.0,2,Iowa State,81,,0
+1610612749,1990,00,Steve Henson,Steve,steve-henson,12,G,5-11,177,"FEB 02, 1968",23.0,R,Kansas State,1667,,0
+1610612749,1990,00,Jay Humphries,Jay,jay-humphries,24,G,6-3,185,"OCT 17, 1962",28.0,6,Colorado,77081,,0
+1610612749,1990,00,Frank Kornet,Frank,frank-kornet,8,F,6-9,225,"JAN 27, 1967",24.0,1,Vanderbilt,77301,,0
+1610612749,1990,00,Brad Lohaus,Brad,brad-lohaus,44,F,6-11,230,"SEP 29, 1964",26.0,3,Iowa,38,,0
+1610612749,1990,00,Fred Roberts,Fred,fred-roberts,31,F,6-10,218,"AUG 14, 1960",30.0,7,Brigham Young,122,,0
+1610612749,1990,00,Alvin Robertson,Alvin,alvin-robertson,21,G,6-4,185,"JUL 22, 1962",28.0,6,Arkansas,926,,0
+1610612749,1990,00,Dan Schayes,Dan,dan-schayes,10,C,6-11,235,"MAY 10, 1959",32.0,9,Syracuse,7,,0
+1610612749,1990,00,Jack Sikma,Jack,jack-sikma,43,C,6-11,230,"NOV 14, 1955",35.0,13,Illinois Wesleyan,78149,,0
+1610612749,1990,00,Everette Stephens,Everette,everette-stephens,7-11,G,6-2,175,"OCT 21, 1966",24.0,1,Purdue,78247,,0

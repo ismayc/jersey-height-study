@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,2009,00,Chris Duhon,Chris,chris-duhon,1,G,6-1,190,"AUG 31, 1982",27.0,5,Duke,2768,,0
+1610612752,2009,00,Tracy McGrady,Tracy,tracy-mcgrady,3,G-F,6-8,223,"MAY 24, 1979",31.0,12,Mount Zion Christian Academy (NC),1503,,0
+1610612752,2009,00,J.R. Giddens,J.R.,jr-giddens,4,G,6-5,215,"FEB 13, 1985",25.0,1,New Mexico,201592,,0
+1610612752,2009,00,Henry Walker,Henry,henry-walker,5,G-F,6-6,220,"OCT 09, 1987",22.0,1,Kansas State,201611,,0
+1610612752,2009,00,Al Harrington,Al,al-harrington,7,F,6-9,250,"FEB 17, 1980",30.0,11,St. Patrick HS (NJ),1733,,0
+1610612752,2009,00,Danilo Gallinari,Danilo,danilo-gallinari,8,F,6-10,225,"AUG 08, 1988",21.0,1,Olimpia Milano,201568,,0
+1610612752,2009,00,Jonathan Bender,Jonathan,jonathan-bender,9,F,7-0,230,"JAN 30, 1981",29.0,7,Picayune HS (MS),1886,,0
+1610612752,2009,00,Sergio Rodriguez,Sergio,sergio-rodriguez,13,G,6-3,176,"JUN 12, 1986",24.0,3,Estudiantes,200771,,0
+1610612752,2009,00,Wilson Chandler,Wilson,wilson-chandler,21,G-F,6-8,225,"MAY 10, 1987",23.0,2,DePaul,201163,,0
+1610612752,2009,00,Toney Douglas,Toney,toney-douglas,23,G,6-1,200,"MAR 16, 1986",24.0,R,Florida State,201962,,0
+1610612752,2009,00,Earl Barron,Earl,earl-barron,30,F-C,7-0,250,"AUG 14, 1981",28.0,3,Memphis,2853,,0
+1610612752,2009,00,Eddy Curry,Eddy,eddy-curry,34,C,7-0,295,"DEC 05, 1982",27.0,8,Thornwood HS (IL),2201,,0
+1610612752,2009,00,David Lee,David,david-lee,42,C,6-9,250,"APR 29, 1983",27.0,4,Florida,101135,,0
+1610612752,2009,00,Eddie House,Eddie,eddie-house,50,G,6-1,175,"MAY 14, 1978",32.0,9,Arizona State,2067,,0

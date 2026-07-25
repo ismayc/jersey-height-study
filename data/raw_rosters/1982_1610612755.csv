@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1982,00,Maurice Cheeks,Maurice,maurice-cheeks,10,G,6-1,180,"SEP 08, 1956",26.0,4,West Texas A&M,76385,,0
+1610612755,1982,00,Earl Cureton,Earl,earl-cureton,25,F,6-9,210,"SEP 03, 1957",25.0,2,Detroit,940,,0
+1610612755,1982,00,Franklin Edwards,Franklin,franklin-edwards,14,G,6-1,170,"FEB 02, 1959",24.0,1,Cleveland State,76641,,0
+1610612755,1982,00,Julius Erving,Julius,julius-erving,6,F,6-7,200,"FEB 22, 1950",33.0,6,Massachusetts,76681,,0
+1610612755,1982,00,Marc Iavaroni,Marc,marc-iavaroni,8,F,6-10,210,"SEP 15, 1956",26.0,R,Virginia,77092,,0
+1610612755,1982,00,Clemon Johnson,Clemon,clemon-johnson,45,C,6-10,240,"SEP 12, 1956",26.0,4,Florida A&M,77136,,0
+1610612755,1982,00,Reggie Johnson,Reggie,reggie-johnson,33,F,6-9,205,"JUN 25, 1957",26.0,2,Tennessee,77163,,0
+1610612755,1982,00,Bobby Jones,Bobby,bobby-jones,,F,6-9,210,"DEC 18, 1951",31.0,6,North Carolina,77193,,0
+1610612755,1982,00,Moses Malone,Moses,moses-malone,2,C,6-10,215,"MAR 23, 1955",28.0,6,Petersburg HS (VA),77449,,0
+1610612755,1982,00,Mark McNamara,Mark,mark-mcnamara,31,C,6-11,235,"JUN 08, 1959",24.0,R,California,77558,,0
+1610612755,1982,00,Clint Richardson,Clint,clint-richardson,4,G,6-3,195,"AUG 07, 1956",26.0,3,Seattle,77950,,0
+1610612755,1982,00,Andrew Toney,Andrew,andrew-toney,22,G,6-3,178,"NOV 23, 1957",25.0,2,Louisiana-Lafayette,78351,,0

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612746,2013,00,Glen Davis,Glen,glen-davis,0,F-C,6-9,289,"JAN 01, 1986",28.0,6,Louisiana State,201175,
+1610612746,2013,00,Darren Collison,Darren,darren-collison,2,G,6-0,175,"AUG 23, 1987",26.0,4,UCLA,201954,
+1610612746,2013,00,Chris Paul,Chris,chris-paul,3,G,6-0,175,"MAY 06, 1985",29.0,8,Wake Forest,101108,Signed on 07/21/25
+1610612746,2013,00,JJ Redick,JJ,jj-redick,4,G,6-4,190,"JUN 24, 1984",30.0,7,Duke,200755,
+1610612746,2013,00,DeAndre Jordan,DeAndre,deandre-jordan,6,C,6-11,265,"JUL 21, 1988",25.0,5,Texas A&M,201599,
+1610612746,2013,00,Hedo Turkoglu,Hedo,hedo-turkoglu,8,F,6-10,220,"MAR 19, 1979",35.0,13,Efes Pilsen,2045,
+1610612746,2013,00,Jared Dudley,Jared,jared-dudley,9,F,6-7,225,"JUL 10, 1985",28.0,6,Boston College,201162,
+1610612746,2013,00,Jamal Crawford,Jamal,jamal-crawford,11,G,6-5,200,"MAR 20, 1980",34.0,13,Michigan,2037,
+1610612746,2013,00,Ryan Hollins,Ryan,ryan-hollins,15,C,7-0,240,"OCT 10, 1984",29.0,7,UCLA,200797,
+1610612746,2013,00,Matt Barnes,Matt,matt-barnes,22,F,6-7,226,"MAR 09, 1980",34.0,10,UCLA,2440,
+1610612746,2013,00,Reggie Bullock Jr.,Reggie,reggie-bullock-jr,25,G,6-7,205,"MAR 16, 1991",23.0,R,North Carolina,203493,
+1610612746,2013,00,Blake Griffin,Blake,blake-griffin,32,F,6-10,251,"MAR 16, 1989",25.0,3,Oklahoma,201933,
+1610612746,2013,00,Danny Granger,Danny,danny-granger,33,F,6-9,228,"APR 20, 1983",31.0,8,New Mexico,101122,
+1610612746,2013,00,Willie Green,Willie,willie-green,34,G,6-3,201,"JUL 28, 1981",32.0,10,Detroit Mercy,2584,

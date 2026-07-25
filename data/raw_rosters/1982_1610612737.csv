@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1982,00,Rickey Brown,Rickey,rickey-brown,31,C,6-10,215,"AUG 20, 1958",24.0,2,Mississippi State,76283,,0
+1610612737,1982,00,Johnny Davis,Johnny,johnny-davis,16,G,6-2,170,"OCT 21, 1955",27.0,6,Dayton,76526,,0
+1610612737,1982,00,Keith Edmonson,Keith,keith-edmonson,11,G,6-5,195,"SEP 28, 1960",22.0,R,Purdue,76638,,0
+1610612737,1982,00,Mike Glenn,Mike,mike-glenn,34,G,6-2,175,"SEP 10, 1955",27.0,5,Southern Illinois,76822,,0
+1610612737,1982,00,Scott Hastings,Scott,scott-hastings,44,F,6-10,235,"JUN 03, 1960",23.0,R,Arkansas,76968,,0
+1610612737,1982,00,Eddie Johnson,Eddie,eddie-johnson,3,G,6-2,180,"FEB 24, 1955",28.0,5,Auburn,77144,,0
+1610612737,1982,00,George Johnson,George,george-johnson,,C,6-11,205,"DEC 18, 1948",34.0,10,Dillard,77149,,0
+1610612737,1982,00,Rudy Macklin,Rudy,rudy-macklin,40,F,6-7,205,"FEB 19, 1958",25.0,1,Louisiana State,77435,,0
+1610612737,1982,00,Wes Matthews,Wes,wes-matthews,1,G,6-1,170,"AUG 24, 1959",23.0,2,Wisconsin,77484,,0
+1610612737,1982,00,Tom McMillen,Tom,tom-mcmillen,54,F,6-11,215,"MAY 26, 1952",31.0,7,Maryland,77553,,0
+1610612737,1982,00,Tree Rollins,Tree,tree-rollins,30,C,7-1,235,"JUN 16, 1955",28.0,5,Clemson,78014,,0
+1610612737,1982,00,Dan Roundfield,Dan,dan-roundfield,32,F,6-8,205,"MAY 26, 1953",30.0,6,Central Michigan,78025,,0
+1610612737,1982,00,Randy Smith,Randy,randy-smith,7,G,6-3,180,"DEC 12, 1948",34.0,11,Buffalo State,78200,,0
+1610612737,1982,00,Dominique Wilkins,Dominique,dominique-wilkins,21,F,6-8,200,"JAN 12, 1960",23.0,R,Georgia,1122,,0

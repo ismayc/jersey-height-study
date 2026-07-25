@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1984,00,Dave Corzine,Dave,dave-corzine,40,C,6-11,250,"APR 25, 1956",29.0,6,DePaul,76453,,0
+1610612741,1984,00,Quintin Dailey,Quintin,quintin-dailey,44,G,6-3,180,"JAN 22, 1961",24.0,2,San Francisco,76497,,0
+1610612741,1984,00,Sidney Green,Sidney,sidney-green,21,F,6-9,220,"JAN 04, 1961",24.0,1,UNLV,76876,,0
+1610612741,1984,00,David Greenwood,David,david-greenwood,10,F,6-9,222,"MAY 27, 1957",28.0,5,UCLA,76881,,0
+1610612741,1984,00,Rod Higgins,Rod,rod-higgins,22,F,6-7,200,"JAN 31, 1960",25.0,2,Fresno State,77019,,0
+1610612741,1984,00,Steve Johnson,Steve,steve-johnson,32,C,6-10,235,"NOV 03, 1957",27.0,3,Oregon State,77134,,0
+1610612741,1984,00,Caldwell Jones,Caldwell,caldwell-jones,27,C,6-11,217,"AUG 04, 1950",34.0,8,Albany State (GA),77175,,0
+1610612741,1984,00,Michael Jordan,Michael,michael-jordan,23,G,6-6,195,"FEB 17, 1963",22.0,R,North Carolina,893,,0
+1610612741,1984,00,Wes Matthews,Wes,wes-matthews,1,G,6-1,170,"AUG 24, 1959",25.0,4,Wisconsin,77484,,0
+1610612741,1984,00,Jawann Oldham,Jawann,jawann-oldham,33,C,7-0,215,"JUL 04, 1957",27.0,4,Seattle,77757,,0
+1610612741,1984,00,Ennis Whatley,Ennis,ennis-whatley,3,G,6-3,177,"AUG 11, 1962",22.0,1,Alabama,941,,0
+1610612741,1984,00,Orlando Woolridge,Orlando,orlando-woolridge,0,F,6-9,215,"DEC 16, 1959",25.0,3,Notre Dame,78615,,0

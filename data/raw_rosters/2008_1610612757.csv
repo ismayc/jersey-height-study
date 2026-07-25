@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612757,2008,00,Steve Blake,Steve,steve-blake,2,G,6-3,172,"FEB 26, 1980",29.0,5,Maryland,2581,,0
+1610612757,2008,00,Jerryd Bayless,Jerryd,jerryd-bayless,4,G,6-3,200,"AUG 20, 1988",20.0,R,Arizona,201573,,0
+1610612757,2008,00,Rudy Fernandez,Rudy,rudy-fernandez,5,G,6-6,185,"APR 04, 1985",24.0,R,DKV Joventut,201164,,0
+1610612757,2008,00,Brandon Roy,Brandon,brandon-roy,7,G,6-6,211,"JUL 23, 1984",24.0,2,Washington,200750,,0
+1610612757,2008,00,Martell Webster,Martell,martell-webster,8,G-F,6-7,235,"DEC 04, 1986",22.0,3,Seattle Preparatory HS (WA),101110,,0
+1610612757,2008,00,Raef LaFrentz,Raef,raef-lafrentz,9,C-F,6-11,240,"MAY 29, 1976",33.0,10,Kansas,1711,,0
+1610612757,2008,00,Joel Przybilla,Joel,joel-przybilla,10,C,7-1,245,"OCT 10, 1979",29.0,8,Minnesota,2038,,0
+1610612757,2008,00,Sergio Rodriguez,Sergio,sergio-rodriguez,11,G,6-3,176,"JUN 12, 1986",23.0,2,Estudiantes,200771,,0
+1610612757,2008,00,LaMarcus Aldridge,LaMarcus,lamarcus-aldridge,12,F,6-11,240,"JUL 19, 1985",23.0,2,University of Texas at Austin,200746,,0
+1610612757,2008,00,Travis Outlaw,Travis,travis-outlaw,25,F,6-9,207,"SEP 18, 1984",24.0,5,Starkville HS (MS),2566,,0
+1610612757,2008,00,Shavlik Randolph,Shavlik,shavlik-randolph,42,F,6-10,240,"NOV 24, 1983",25.0,3,Duke,101183,,0
+1610612757,2008,00,Channing Frye,Channing,channing-frye,44,F,6-11,245,"MAY 17, 1983",26.0,3,Arizona,101112,,0
+1610612757,2008,00,Michael Ruffin,Michael,michael-ruffin,51,F-C,6-8,248,"JAN 21, 1977",32.0,8,Tulsa,1913,,0
+1610612757,2008,00,Greg Oden,Greg,greg-oden,52,C,7-0,285,"JAN 22, 1988",21.0,R,Ohio State,201141,,0
+1610612757,2008,00,Nicolas Batum,Nicolas,nicolas-batum,88,F,6-8,200,"DEC 14, 1988",20.0,R,Le Mans,201587,,0

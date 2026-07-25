@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612753,2009,00,JJ Redick,JJ,jj-redick,7,G,6-4,190,"JUN 24, 1984",26.0,3,Duke,200755,,0
+1610612753,2009,00,Anthony Johnson,Anthony,anthony-johnson,8,G,6-3,195,"OCT 02, 1974",35.0,12,College of Charleston,1533,,0
+1610612753,2009,00,Rashard Lewis,Rashard,rashard-lewis,9,F,6-10,230,"AUG 08, 1979",30.0,11,Elsik HS (TX),1740,,0
+1610612753,2009,00,Dwight Howard,Dwight,dwight-howard,12,C,6-11,265,"DEC 08, 1985",24.0,5,SW Atlanta Christian Academy (GA),2730,,0
+1610612753,2009,00,Marcin Gortat,Marcin,marcin-gortat,13,C-F,6-11,240,"FEB 17, 1984",26.0,2,RheinEnergie Cologne,101162,,0
+1610612753,2009,00,Jameer Nelson,Jameer,jameer-nelson,14,G,6-0,190,"FEB 09, 1982",28.0,5,St. Joseph's (PA),2749,,0
+1610612753,2009,00,Vince Carter,Vince,vince-carter,15,G-F,6-6,220,"JAN 26, 1977",33.0,11,North Carolina,1713,,0
+1610612753,2009,00,Mickael Pietrus,Mickael,mickael-pietrus,20,F-G,6-6,215,"FEB 07, 1982",28.0,6,Pau Orthez,2554,,0
+1610612753,2009,00,Matt Barnes,Matt,matt-barnes,22,F,6-7,226,"MAR 09, 1980",30.0,6,UCLA,2440,,0
+1610612753,2009,00,Brandon Bass,Brandon,brandon-bass,30,F,6-8,250,"APR 30, 1985",25.0,4,Louisiana State,101138,,0
+1610612753,2009,00,Adonal Foyle,Adonal,adonal-foyle,31,C,6-10,270,"MAR 09, 1975",35.0,12,Colgate,1502,,0
+1610612753,2009,00,Ryan Anderson,Ryan,ryan-anderson,33,F,6-10,240,"MAY 06, 1988",22.0,1,California,201583,,0
+1610612753,2009,00,Jason Williams,Jason,jason-williams,44,G,6-1,180,"NOV 18, 1975",34.0,10,Florida,1715,,0

@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612739,2021,00,Kevin Love,Kevin,kevin-love,0,F-C,6-8,251,"SEP 07, 1988",33.0,13,UCLA,201567,
+1610612739,2021,00,Brandon Goodwin,Brandon,brandon-goodwin,00,G,6-0,180,"OCT 02, 1995",26.0,3,Florida Gulf Coast,1629164,
+1610612739,2021,00,Rajon Rondo,Rajon,rajon-rondo,1,G,6-1,180,"FEB 22, 1986",36.0,15,Kentucky,200765,
+1610612739,2021,00,Collin Sexton,Collin,collin-sexton,2,G,6-1,190,"JAN 04, 1999",23.0,3,Alabama,1629012,
+1610612739,2021,00,Caris LeVert,Caris,caris-levert,3,G,6-6,205,"AUG 25, 1994",27.0,5,Michigan,1627747,
+1610612739,2021,00,Evan Mobley,Evan,evan-mobley,4,C,6-11,215,"JUN 18, 2001",21.0,R,Southern California,1630596,#3 Pick in 2021 Draft
+1610612739,2021,00,Ruben Nembhard Jr.,Ruben,ruben-nembhard-jr,5,G,6-4,200,"MAR 22, 1999",23.0,R,Texas Christian,1630612,
+1610612739,2021,00,Moses Brown,Moses,moses-brown,6,C,7-2,245,"OCT 13, 1999",22.0,2,UCLA,1629650,
+1610612739,2021,00,Lamar Stevens,Lamar,lamar-stevens,8,F,6-6,230,"JUL 09, 1997",24.0,1,Penn State,1630205,
+1610612739,2021,00,Dylan Windler,Dylan,dylan-windler,9,G-F,6-6,196,"SEP 22, 1996",25.0,1,Belmont,1629685,
+1610612739,2021,00,Darius Garland,Darius,darius-garland,10,G,6-1,192,"JAN 26, 2000",22.0,2,Vanderbilt,1629636,#5 Pick in 2019 Draft
+1610612739,2021,00,Cedi Osman,Cedi,cedi-osman,16,F,6-7,230,"APR 08, 1995",27.0,4,Anadolu Efes,1626224,
+1610612739,2021,00,Ed Davis,Ed,ed-davis,21,C-F,6-9,218,"JUN 05, 1989",33.0,11,North Carolina,202334,
+1610612739,2021,00,Lauri Markkanen,Lauri,lauri-markkanen,24,F-C,6-11,240,"MAY 22, 1997",25.0,4,Arizona,1628374,
+1610612739,2021,00,Jarrett Allen,Jarrett,jarrett-allen,31,C,6-10,243,"APR 21, 1998",24.0,4,Texas,1628386,Traded from BKN on 01/16/21
+1610612739,2021,00,Dean Wade,Dean,dean-wade,32,F-C,6-9,228,"NOV 20, 1996",25.0,2,Kansas State,1629731,Signed on 07/01/19
+1610612739,2021,00,Isaac Okoro,Isaac,isaac-okoro,35,F-G,6-5,225,"JAN 26, 2001",21.0,1,Auburn,1630171,

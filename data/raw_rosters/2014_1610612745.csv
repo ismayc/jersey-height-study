@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612745,2014,00,Trevor Ariza,Trevor,trevor-ariza,1,F,6-8,215,"JUN 30, 1985",29.0,10,UCLA,2772,
+1610612745,2014,00,Patrick Beverley,Patrick,patrick-beverley,2,G,6-1,210,"JUL 12, 1988",26.0,2,Arkansas,201976,
+1610612745,2014,00,Nick Johnson,Nick,nick-johnson,3,G,6-3,202,"DEC 22, 1992",22.0,R,Arizona,203910,
+1610612745,2014,00,Josh Smith,Josh,josh-smith,5,F,6-9,225,"DEC 05, 1985",29.0,10,Oak Hill Academy (VA),2746,
+1610612745,2014,00,Terrence Jones,Terrence,terrence-jones,6,F,6-9,255,"JAN 09, 1992",23.0,2,Kentucky,203093,
+1610612745,2014,00,Joey Dorsey,Joey,joey-dorsey,8,C-F,6-9,275,"DEC 16, 1983",31.0,3,Memphis,201595,
+1610612745,2014,00,Pablo Prigioni,Pablo,pablo-prigioni,9,G,6-3,185,"MAY 17, 1977",38.0,2,Baskonia,203143,
+1610612745,2014,00,Dwight Howard,Dwight,dwight-howard,12,C,6-11,275,"DEC 08, 1985",29.0,10,SW Atlanta Christian Academy (GA),2730,
+1610612745,2014,00,James Harden,James,james-harden,13,G,6-5,225,"AUG 26, 1989",25.0,5,Arizona State,201935,
+1610612745,2014,00,Clint Capela,Clint,clint-capela,15,C,6-10,240,"MAY 18, 1994",21.0,R,Elan Chalon,203991,Traded from ATL on 07/06/25
+1610612745,2014,00,Kostas Papanikolaou,Kostas,kostas-papanikolaou,16,F,6-8,235,"JUL 31, 1990",24.0,R,FC Barcelona,203123,
+1610612745,2014,00,Donatas Motiejunas,Donatas,donatas-motiejunas,20,F-C,7-0,255,"SEP 20, 1990",24.0,2,Lithuania,202700,
+1610612745,2014,00,Jason Terry,Jason,jason-terry,31,G,6-2,185,"SEP 15, 1977",37.0,15,Arizona,1891,
+1610612745,2014,00,KJ McDaniels,KJ,kj-mcdaniels,32,G-F,6-6,205,"FEB 09, 1993",22.0,R,Clemson,203909,
+1610612745,2014,00,Corey Brewer,Corey,corey-brewer,33,G-F,6-9,186,"MAR 05, 1986",29.0,7,Florida,201147,

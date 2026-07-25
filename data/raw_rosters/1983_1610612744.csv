@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1983,00,Mike Bratz,Mike,mike-bratz,23,G,6-2,185,"OCT 17, 1955",28.0,6,Stanford,76242,,0
+1610612744,1983,00,Joe Barry Carroll,Joe Barry,joe-barry-carroll,2,C,7-0,225,"JUL 24, 1958",25.0,3,Purdue,76353,,0
+1610612744,1983,00,Don Collins,Don,don-collins,18,G,6-6,190,"NOV 28, 1958",25.0,3,Washington State,76418,,0
+1610612744,1983,00,Lester Conner,Lester,lester-conner,15,G,6-4,180,"SEP 17, 1959",24.0,1,Oregon State,76431,,0
+1610612744,1983,00,Russell Cross,Russell,russell-cross,40,C,6-10,215,"SEP 05, 1961",22.0,R,Purdue,76478,,0
+1610612744,1983,00,Chris Engler,Chris,chris-engler,55,C,6-11,245,"MAR 01, 1959",25.0,1,Wyoming,76670,,0
+1610612744,1983,00,Sleepy Floyd,Sleepy,sleepy-floyd,21,G,6-3,170,"MAR 06, 1960",24.0,1,Georgetown,76726,,0
+1610612744,1983,00,Mickey Johnson,Mickey,mickey-johnson,43,F,6-10,190,"AUG 31, 1952",31.0,9,Aurora,77168,,0
+1610612744,1983,00,Pace Mannion,Pace,pace-mannion,20,G,6-7,190,"SEP 22, 1960",23.0,R,Utah,77456,,0
+1610612744,1983,00,Purvis Short,Purvis,purvis-short,45,F,6-7,210,"JUL 02, 1957",26.0,5,Jackson State,78139,,0
+1610612744,1983,00,Larry Smith,Larry,larry-smith,13,F,6-8,215,"JAN 18, 1958",26.0,3,Alcorn State,78195,,0
+1610612744,1983,00,Darren Tillis,Darren,darren-tillis,22,C,6-11,215,"FEB 23, 1960",24.0,1,Cleveland State,78343,,0

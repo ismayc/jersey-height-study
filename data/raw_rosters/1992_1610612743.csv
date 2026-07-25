@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612743,1992,00,Mahmoud Abdul-Rauf,Mahmoud,mahmoud-abdul-rauf,3,G,6-1,162,"MAR 09, 1969",24.0,2,Louisiana State,51,,0
+1610612743,1992,00,Kevin Brooks,Kevin,kevin-brooks,43,F,6-6,200,"OCT 12, 1969",23.0,1,Louisiana-Lafayette,76265,,0
+1610612743,1992,00,LaPhonso Ellis,LaPhonso,laphonso-ellis,20,F,6-8,240,"MAY 05, 1970",23.0,R,Notre Dame,111,,0
+1610612743,1992,00,Tom Hammonds,Tom,tom-hammonds,21,F,6-9,215,"MAR 27, 1967",26.0,3,Georgia Tech,67,,0
+1610612743,1992,00,Scott Hastings,Scott,scott-hastings,10,F,6-10,235,"JUN 03, 1960",33.0,10,Arkansas,76968,,0
+1610612743,1992,00,Marcus Liberty,Marcus,marcus-liberty,30,F,6-8,205,"OCT 27, 1968",24.0,2,Illinois,77386,,0
+1610612743,1992,00,Todd Lichti,Todd,todd-lichti,21,G,6-4,205,"JAN 08, 1967",26.0,3,Stanford,77387,,0
+1610612743,1992,00,Mark Macon,Mark,mark-macon,1,G,6-4,185,"APR 14, 1969",24.0,1,Temple,1855,,0
+1610612743,1992,00,Dikembe Mutombo,Dikembe,dikembe-mutombo,55,C,7-2,265,"JUN 25, 1966",27.0,1,Georgetown,87,,0
+1610612743,1992,00,Robert Pack,Robert,robert-pack,12,G,6-2,190,"FEB 03, 1969",24.0,1,Southern California,123,,0
+1610612743,1992,00,Gary Plummer,Gary,gary-plummer,45,F,6-9,215,"FEB 21, 1962",31.0,1,Boston University,77865,,0
+1610612743,1992,00,Bryant Stith,Bryant,bryant-stith,23,G,6-5,208,"DEC 10, 1970",22.0,R,Virginia,179,,0
+1610612743,1992,00,Robert Werdann,Robert,robert-werdann,28,C,6-11,250,"SEP 12, 1970",22.0,R,St. John's (NY),438,,0
+1610612743,1992,00,Reggie Williams,Reggie,reggie-williams,,F,6-7,190,"MAR 05, 1964",29.0,5,Georgetown,199,,0

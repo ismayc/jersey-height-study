@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612739,1985,00,John Bagley,John,john-bagley,5,G,6-0,185,"APR 23, 1960",26.0,3,Boston College,76082,,0
+1610612739,1985,00,Ron Brewer,Ron,ron-brewer,10,G,6-4,180,"SEP 16, 1955",30.0,7,Arkansas,76249,,0
+1610612739,1985,00,World Free,World,world-free,21,G,6-3,185,"DEC 09, 1953",32.0,10,Guilford,76753,,0
+1610612739,1985,00,Roy Hinson,Roy,roy-hinson,32,C,6-9,210,"MAY 02, 1961",25.0,2,Rutgers,77030,,0
+1610612739,1985,00,Phil Hubbard,Phil,phil-hubbard,35,F,6-8,215,"DEC 13, 1956",29.0,6,Michigan,77071,,0
+1610612739,1985,00,Edgar Jones,Edgar,edgar-jones,44,F,6-10,225,"JUN 17, 1956",30.0,5,Nevada,77184,,0
+1610612739,1985,00,Keith Lee,Keith,keith-lee,24,F,6-10,215,"DEC 28, 1962",23.0,R,Memphis,77361,,0
+1610612739,1985,00,Ben McDonald,Ben,ben-mcdonald,33,F,6-8,210,"JUL 20, 1962",23.0,R,California-Irvine,77524,,0
+1610612739,1985,00,Dirk Minniefield,Dirk,dirk-minniefield,14,G,6-3,180,"JAN 17, 1961",25.0,R,Kentucky,77609,,0
+1610612739,1985,00,Ben Poquette,Ben,ben-poquette,50,F,6-9,235,"MAY 07, 1955",31.0,8,Central Michigan,77873,,0
+1610612739,1985,00,Lonnie Shelton,Lonnie,lonnie-shelton,8,F,6-8,240,"OCT 19, 1955",30.0,9,Oregon State,78133,,0
+1610612739,1985,00,Mel Turpin,Mel,mel-turpin,54,C,6-11,240,"DEC 28, 1960",25.0,1,Kentucky,78386,,0
+1610612739,1985,00,Mark West,Mark,mark-west,41,C,6-10,230,"NOV 05, 1960",25.0,2,Old Dominion,770,,0

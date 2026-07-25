@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1985,00,Michael Adams,Michael,michael-adams,10,G,5-10,162,"JAN 19, 1963",23.0,R,Boston College,149,,0
+1610612758,1985,00,Mike Bratz,Mike,mike-bratz,10,G,6-2,185,"OCT 17, 1955",30.0,8,Stanford,76242,,0
+1610612758,1985,00,David Cooke,David,david-cooke,14,F,6-8,230,"SEP 27, 1963",22.0,R,Saint Mary's,76439,,0
+1610612758,1985,00,Larry Drew,Larry,larry-drew,22,G,6-1,170,"APR 02, 1958",28.0,5,Missouri,76599,,0
+1610612758,1985,00,Carl Henry,Carl,carl-henry,11,G,6-6,205,"AUG 16, 1960",25.0,R,Kansas,77001,,0
+1610612758,1985,00,Eddie Johnson,Eddie,eddie-johnson,,F,, ,"MAY 01, 1959",27.0,4,Illinois,698,,0
+1610612758,1985,00,Rich Kelley,Rich,rich-kelley,50,C,7-0,235,"MAR 23, 1953",33.0,10,Stanford,77235,,0
+1610612758,1985,00,Joe Kleine,Joe,joe-kleine,35,C,6-11,255,"JAN 04, 1962",24.0,R,Arkansas,170,,0
+1610612758,1985,00,Mark Olberding,Mark,mark-olberding,53,F,6-8,225,"APR 21, 1956",30.0,9,Minnesota,77756,,0
+1610612758,1985,00,Reggie Theus,Reggie,reggie-theus,24,G,6-6,190,"OCT 13, 1957",28.0,7,UNLV,78310,,0
+1610612758,1985,00,LaSalle Thompson,LaSalle,lasalle-thompson,41,C,6-10,245,"JUN 23, 1961",25.0,3,Texas,78,,0
+1610612758,1985,00,Otis Thorpe,Otis,otis-thorpe,33,F,6-9,225,"AUG 05, 1962",23.0,1,Providence,901,,0
+1610612758,1985,00,Terry Tyler,Terry,terry-tyler,40,F,6-7,215,"OCT 30, 1956",29.0,7,Detroit,78390,,0
+1610612758,1985,00,Mike Woodson,Mike,mike-woodson,42,G,6-5,195,"MAR 24, 1958",28.0,5,Indiana,78614,,0

@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,2010,00,Joe Smith,Joe,joe-smith,1,F-C,6-10,225,"JUL 26, 1975",35.0,15,Maryland,693,,0
+1610612747,2010,00,Derek Fisher,Derek,derek-fisher,2,G,6-1,210,"AUG 09, 1974",36.0,14,Arkansas-Little Rock,965,,0
+1610612747,2010,00,Devin Ebanks,Devin,devin-ebanks,3,F,6-9,215,"OCT 28, 1989",21.0,R,West Virginia,202365,,0
+1610612747,2010,00,Luke Walton,Luke,luke-walton,4,F,6-8,235,"MAR 28, 1980",31.0,7,Arizona,2575,,0
+1610612747,2010,00,Steve Blake,Steve,steve-blake,5,G,6-3,172,"FEB 26, 1980",31.0,7,Maryland,2581,,0
+1610612747,2010,00,Lamar Odom,Lamar,lamar-odom,7,F,6-10,230,"NOV 06, 1979",31.0,11,Rhode Island,1885,,0
+1610612747,2010,00,Matt Barnes,Matt,matt-barnes,9,F,6-7,226,"MAR 09, 1980",31.0,7,UCLA,2440,,0
+1610612747,2010,00,Trey Johnson,Trey,trey-johnson,10,G-F,6-5,218,"AUG 30, 1984",26.0,1,Jackson State,201234,,0
+1610612747,2010,00,Shannon Brown,Shannon,shannon-brown,12,G,6-4,210,"NOV 29, 1985",25.0,4,Michigan State,200769,,0
+1610612747,2010,00,Metta World Peace,Metta,metta-world-peace,15,F,6-7,260,"NOV 13, 1979",31.0,11,St. John's (NY),1897,,0
+1610612747,2010,00,Pau Gasol,Pau,pau-gasol,16,F-C,7-0,250,"JUL 06, 1980",30.0,9,FC Barcelona,2200,,0
+1610612747,2010,00,Andrew Bynum,Andrew,andrew-bynum,17,C,7-0,285,"OCT 27, 1987",23.0,5,No College,101115,,0
+1610612747,2010,00,Kobe Bryant,Kobe,kobe-bryant,24,G,6-6,205,"AUG 23, 1978",32.0,14,Lower Merion HS (PA),977,,0
+1610612747,2010,00,Derrick Caracter,Derrick,derrick-caracter,45,F,6-9,275,"MAY 04, 1988",23.0,R,Texas-El Paso,202382,,0
+1610612747,2010,00,Theo Ratliff,Theo,theo-ratliff,50,C,6-10,235,"APR 17, 1973",38.0,15,Wyoming,689,,0

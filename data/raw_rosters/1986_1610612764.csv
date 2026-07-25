@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1986,00,Michael Adams,Michael,michael-adams,14,G,5-10,162,"JAN 19, 1963",24.0,1,Boston College,149,,0
+1610612764,1986,00,Manute Bol,Manute,manute-bol,10,C,7-6,200,"OCT 16, 1962",24.0,1,Bridgeport,76195,,0
+1610612764,1986,00,Terry Catledge,Terry,terry-catledge,33,F,6-8,220,"AUG 22, 1963",23.0,1,South Alabama,767,,0
+1610612764,1986,00,Darwin Cook,Darwin,darwin-cook,12,G,6-3,184,"AUG 06, 1958",28.0,6,Portland,76435,,0
+1610612764,1986,00,Frank Johnson,Frank,frank-johnson,15,G,6-3,185,"NOV 23, 1958",28.0,5,Wake Forest,77146,,0
+1610612764,1986,00,Charles Jones,Charles,charles-jones,23,C,6-9,215,"APR 03, 1957",30.0,3,Albany State (GA),279,,0
+1610612764,1986,00,Jeff Malone,Jeff,jeff-malone,24,G,6-4,205,"JUN 28, 1961",26.0,3,Mississippi State,117,,0
+1610612764,1986,00,Moses Malone,Moses,moses-malone,4,C,6-10,215,"MAR 23, 1955",32.0,10,Petersburg HS (VA),77449,,0
+1610612764,1986,00,Jay Murphy,Jay,jay-murphy,42,F,6-9,220,"JUN 26, 1962",25.0,2,Boston College,77670,,0
+1610612764,1986,00,Mike O'Koren,Mike,mike-okoren,25,F,6-7,207,"FEB 07, 1958",29.0,6,North Carolina,77754,,0
+1610612764,1986,00,Dan Roundfield,Dan,dan-roundfield,5,F,6-8,205,"MAY 26, 1953",34.0,10,Central Michigan,78025,,0
+1610612764,1986,00,Jay Vincent,Jay,jay-vincent,31,F,6-7,220,"JUN 10, 1959",28.0,5,Michigan State,78418,,0
+1610612764,1986,00,Ennis Whatley,Ennis,ennis-whatley,2,G,6-3,177,"AUG 11, 1962",24.0,3,Alabama,941,,0
+1610612764,1986,00,John Williams,John,john-williams,34,F,6-8,235,"OCT 26, 1966",20.0,R,Louisiana State,78554,,0

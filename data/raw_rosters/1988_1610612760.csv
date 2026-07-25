@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1988,00,Greg Ballard,Greg,greg-ballard,42,F,6-7,215,"JAN 29, 1955",34.0,10,Oregon,76091,,0
+1610612760,1988,00,Michael Cage,Michael,michael-cage,44,C,6-9,224,"JAN 28, 1962",27.0,4,San Diego State,262,,0
+1610612760,1988,00,Mike Champion,Mike,mike-champion,41,F,6-10,230,"APR 05, 1964",25.0,R,Gonzaga,76378,,0
+1610612760,1988,00,Dale Ellis,Dale,dale-ellis,3,G,6-7,205,"AUG 06, 1960",28.0,5,Tennessee,107,,0
+1610612760,1988,00,Avery Johnson,Avery,avery-johnson,15,G,5-11,185,"MAR 25, 1965",24.0,R,Southern,422,,0
+1610612760,1988,00,Alton Lister,Alton,alton-lister,53,C,7-0,240,"OCT 01, 1958",30.0,7,Arizona State,175,,0
+1610612760,1988,00,John Lucas,John,john-lucas,20,G,6-3,175,"OCT 31, 1953",35.0,12,Maryland,77419,,0
+1610612760,1988,00,Xavier McDaniel,Xavier,xavier-mcdaniel,34,F,6-7,205,"JUN 04, 1963",26.0,3,Wichita State,1365,,0
+1610612760,1988,00,Derrick McKey,Derrick,derrick-mckey,31,F,6-9,205,"OCT 10, 1966",22.0,1,Alabama,365,,0
+1610612760,1988,00,Nate McMillan,Nate,nate-mcmillan,10,G,6-5,195,"AUG 03, 1964",24.0,2,North Carolina State,203,,0
+1610612760,1988,00,Olden Polynice,Olden,olden-polynice,23,C-F,7-0,250,"NOV 21, 1964",24.0,1,Virginia,178,,0
+1610612760,1988,00,Jerry Reynolds,Jerry,jerry-reynolds,35,G,6-8,200,"DEC 23, 1962",26.0,3,Louisiana State,77946,,0
+1610612760,1988,00,Russ Schoene,Russ,russ-schoene,40,F,6-10,210,"APR 16, 1960",29.0,3,Tennessee-Chattanooga,78087,,0
+1610612760,1988,00,Sedale Threatt,Sedale,sedale-threatt,4,G,6-2,175,"SEP 10, 1961",27.0,5,West Virginia Tech,9,,0

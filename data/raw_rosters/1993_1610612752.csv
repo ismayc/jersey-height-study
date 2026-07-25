@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1993,00,Eric Anderson,Eric,eric-anderson,42,F,6-9,220,"MAY 26, 1970",24.0,1,Indiana,944,,0
+1610612752,1993,00,Greg Anthony,Greg,greg-anthony,50,G,6-0,176,"NOV 15, 1967",26.0,2,UNLV,21,,0
+1610612752,1993,00,Rolando Blackman,Rolando,rolando-blackman,20,G,6-6,190,"FEB 26, 1959",35.0,12,Kansas State,76176,,0
+1610612752,1993,00,Anthony Bonner,Anthony,anthony-bonner,4,F,6-8,215,"JUN 08, 1968",26.0,3,St. Louis,41,,0
+1610612752,1993,00,Hubert Davis,Hubert,hubert-davis,44,G,6-5,183,"MAY 17, 1970",24.0,1,North Carolina,93,,0
+1610612752,1993,00,Patrick Ewing,Patrick,patrick-ewing,33,C,7-0,240,"AUG 05, 1962",31.0,8,Georgetown,121,,0
+1610612752,1993,00,Corey Gaines,Corey,corey-gaines,7,G,6-3,195,"JUN 01, 1965",29.0,3,Loyola-Marymount,76770,,0
+1610612752,1993,00,Derek Harper,Derek,derek-harper,11,G,6-4,185,"OCT 13, 1961",32.0,10,Illinois,157,,0
+1610612752,1993,00,Anthony Mason,Anthony,anthony-mason,14,F,6-8,270,"DEC 14, 1966",27.0,4,Tennessee State,193,,0
+1610612752,1993,00,Charles Oakley,Charles,charles-oakley,34,F-C,6-9,248,"DEC 18, 1963",30.0,8,Virginia Union,891,,0
+1610612752,1993,00,Doc Rivers,Doc,doc-rivers,25,G,6-4,185,"OCT 13, 1961",32.0,10,Marquette,470,,0
+1610612752,1993,00,Charles Smith,Charles,charles-smith,54,F,6-10,244,"JUL 16, 1965",28.0,5,Pittsburgh,293,,0
+1610612752,1993,00,John Starks,John,john-starks,3,G,6-3,180,"AUG 10, 1965",28.0,4,Oklahoma State,317,,0
+1610612752,1993,00,Herb Williams,Herb,herb-williams,32,C,6-10,242,"FEB 16, 1958",36.0,12,Ohio State,1006,,0

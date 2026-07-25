@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612750,2009,00,Ryan Hollins,Ryan,ryan-hollins,1,C,7-0,230,"OCT 10, 1984",25.0,3,UCLA,200797,,0
+1610612750,2009,00,Damien Wilkins,Damien,damien-wilkins,3,F-G,6-6,225,"JAN 11, 1980",30.0,5,Georgia,2863,,0
+1610612750,2009,00,Oleksiy Pecherov,Oleksiy,oleksiy-pecherov,4,F-C,7-0,234,"DEC 08, 1985",24.0,2,Kyiv,200762,,0
+1610612750,2009,00,Ramon Sessions,Ramon,ramon-sessions,7,G,6-3,190,"APR 11, 1986",24.0,2,Nevada-Reno,201196,,0
+1610612750,2009,00,Ryan Gomes,Ryan,ryan-gomes,8,F,6-7,245,"SEP 01, 1982",27.0,4,Providence,101155,,0
+1610612750,2009,00,Jonny Flynn,Jonny,jonny-flynn,10,G,6-0,185,"FEB 06, 1989",21.0,R,Syracuse,201938,,0
+1610612750,2009,00,Sasha Pavlovic,Sasha,sasha-pavlovic,11,G-F,6-7,235,"NOV 15, 1983",26.0,6,Buducnost,2562,,0
+1610612750,2009,00,Brian Cardinal,Brian,brian-cardinal,14,F,6-8,240,"MAY 02, 1977",33.0,9,Purdue,2073,,0
+1610612750,2009,00,Nathan Jawai,Nathan,nathan-jawai,15,F,6-10,280,"OCT 10, 1986",23.0,1,Midland (Texas),201605,,0
+1610612750,2009,00,Wayne Ellington,Wayne,wayne-ellington,19,G,6-4,200,"NOV 29, 1987",22.0,R,North Carolina,201961,,0
+1610612750,2009,00,Corey Brewer,Corey,corey-brewer,22,G-F,6-9,188,"MAR 05, 1986",24.0,2,Florida,201147,,0
+1610612750,2009,00,Al Jefferson,Al,al-jefferson,25,C-F,6-10,265,"JAN 04, 1985",25.0,5,No College,2744,,0
+1610612750,2009,00,Darko Milicic,Darko,darko-milicic,31,C,7-0,275,"JUN 20, 1985",25.0,6,Hemoform,2545,,0
+1610612750,2009,00,Greg Stiemsma,Greg,greg-stiemsma,34,C,6-11,260,"SEP 26, 1985",24.0,R,Wisconsin,201880,,0
+1610612750,2009,00,Kevin Love,Kevin,kevin-love,42,F-C,6-10,260,"SEP 07, 1988",21.0,1,UCLA,201567,,0

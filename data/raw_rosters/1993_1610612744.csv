@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1993,00,Victor Alexander,Victor,victor-alexander,52,C,6-9,265,"AUG 31, 1969",24.0,2,Iowa State,2349,,0
+1610612744,1993,00,Jud Buechler,Jud,jud-buechler,35,F,6-6,220,"JUN 19, 1968",26.0,3,Arizona,146,,0
+1610612744,1993,00,Dell Demps,Dell,dell-demps,20,G,6-3,205,"FEB 12, 1970",24.0,R,Pacific,725,,0
+1610612744,1993,00,Chris Gatling,Chris,chris-gatling,25,F,6-10,220,"SEP 03, 1967",26.0,2,Old Dominion,423,,0
+1610612744,1993,00,Josh Grant,Josh,josh-grant,11,F,6-9,223,"AUG 07, 1967",26.0,R,Utah,76852,,0
+1610612744,1993,00,Jeff Grayer,Jeff,jeff-grayer,44,G,6-5,200,"DEC 17, 1965",28.0,5,Iowa State,81,,0
+1610612744,1993,00,Byron Houston,Byron,byron-houston,21,F,6-5,250,"NOV 22, 1969",24.0,1,Oklahoma State,780,,0
+1610612744,1993,00,Keith Jennings,Keith,keith-jennings,2,G,5-7,160,"NOV 02, 1968",25.0,1,East Tennessee State,24,,0
+1610612744,1993,00,Avery Johnson,Avery,avery-johnson,6,G,5-11,185,"MAR 25, 1965",29.0,5,Southern,422,,0
+1610612744,1993,00,Chris Mullin,Chris,chris-mullin,17,F,6-6,200,"JUL 30, 1963",30.0,8,St. John's (NY),904,,0
+1610612744,1993,00,Tod Murphy,Tod,tod-murphy,41,C,6-9,220,"DEC 24, 1963",30.0,4,California-Irvine,77674,,0
+1610612744,1993,00,Billy Owens,Billy,billy-owens,30,F,6-8,220,"MAY 01, 1969",25.0,2,Syracuse,182,,0
+1610612744,1993,00,Latrell Sprewell,Latrell,latrell-sprewell,15,G,6-5,195,"SEP 08, 1970",23.0,1,Alabama,84,,0
+1610612744,1993,00,Chris Webber,Chris,chris-webber,4,F-C,6-10,250,"MAR 01, 1973",21.0,R,Michigan,185,,0

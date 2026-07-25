@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,1989,00,Kenny Battle,Kenny,kenny-battle,3,G,6-6,210,"OCT 10, 1964",25.0,R,Illinois,76123,,0
+1610612756,1989,00,Tom Chambers,Tom,tom-chambers,24,F,6-10,220,"JUN 21, 1959",31.0,8,Utah,1472,,0
+1610612756,1989,00,Greg Grant,Greg,greg-grant,10,G,5-7,140,"AUG 29, 1966",23.0,R,College of New Jersey,285,,0
+1610612756,1989,00,Jeff Hornacek,Jeff,jeff-hornacek,14,G,6-3,190,"MAY 03, 1963",27.0,3,Iowa State,204,,0
+1610612756,1989,00,Kevin Johnson,Kevin,kevin-johnson,7,G,6-1,180,"MAR 04, 1966",24.0,2,California,134,,0
+1610612756,1989,00,Eddie Johnson,Eddie,eddie-johnson,,F,, ,"MAY 01, 1959",31.0,8,Illinois,698,,0
+1610612756,1989,00,Andrew Lang,Andrew,andrew-lang,28,C,6-11,245,"JUN 28, 1966",24.0,1,Arkansas,457,,0
+1610612756,1989,00,Tim Legler,Tim,tim-legler,23,G,6-4,200,"DEC 26, 1966",23.0,R,La Salle,100,,0
+1610612756,1989,00,Dan Majerle,Dan,dan-majerle,9,G,6-6,215,"SEP 09, 1965",24.0,1,Central Michigan,105,,0
+1610612756,1989,00,Mike McGee,Mike,mike-mcgee,40,F,6-5,190,"JUL 29, 1959",30.0,8,Michigan,77530,,0
+1610612756,1989,00,Mike Morrison,Mike,mike-morrison,32,G,6-4,195,"AUG 16, 1967",22.0,R,Loyola-Maryland,77649,,0
+1610612756,1989,00,Tim Perry,Tim,tim-perry,34,F,6-9,200,"JUN 04, 1965",25.0,1,Temple,897,,0
+1610612756,1989,00,Kurt Rambis,Kurt,kurt-rambis,31,F,6-8,213,"FEB 25, 1958",32.0,8,Santa Clara,77905,,0
+1610612756,1989,00,Mark West,Mark,mark-west,41,C,6-10,230,"NOV 05, 1960",29.0,6,Old Dominion,770,,0

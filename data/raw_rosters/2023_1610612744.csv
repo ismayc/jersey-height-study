@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612744,2023,00,Gary Payton II,Gary,gary-payton-ii,0,G,6-2,195,"DEC 01, 1992",31.0,7,Oregon State,1627780,Traded from POR on 02/09/23
+1610612744,2023,00,Jonathan Kuminga,Jonathan,jonathan-kuminga,00,F,6-7,225,"OCT 06, 2002",21.0,2,NBA G League Ignite,1630228,#7 Pick in 2021 Draft
+1610612744,2023,00,Brandin Podziemski,Brandin,brandin-podziemski,2,G,6-4,205,"FEB 25, 2003",21.0,R,Santa Clara,1641764,#19 Pick in 2023 Draft
+1610612744,2023,00,Chris Paul,Chris,chris-paul,3,G,6-0,175,"MAY 06, 1985",39.0,18,Wake Forest,101108,
+1610612744,2023,00,Moses Moody,Moses,moses-moody,4,G,6-5,211,"MAY 31, 2002",22.0,2,Arkansas,1630541,#14 Pick in 2021 Draft
+1610612744,2023,00,Kevon Looney,Kevon,kevon-looney,5,F,6-9,222,"FEB 06, 1996",28.0,8,UCLA,1626172,
+1610612744,2023,00,Klay Thompson,Klay,klay-thompson,11,G,6-6,220,"FEB 08, 1990",34.0,12,Washington State,202691,
+1610612744,2023,00,Usman Garuba,Usman,usman-garuba,12,F,6-8,229,"MAR 09, 2002",22.0,2,Real Madrid,1630586,
+1610612744,2023,00,Gui Santos,Gui,gui-santos,15,F,6-6,185,"JUN 22, 2002",22.0,R,Minas,1630611,#55 Pick in 2022 Draft
+1610612744,2023,00,Jerome Robinson,Jerome,jerome-robinson,18,G,6-5,190,"FEB 22, 1997",27.0,3,Boston College,1629010,
+1610612744,2023,00,Dario Šarić,Dario,dario-šarić,20,F-C,6-10,225,"APR 08, 1994",30.0,7,Anadolu Efes,203967,
+1610612744,2023,00,Andrew Wiggins,Andrew,andrew-wiggins,22,F,6-7,197,"FEB 23, 1995",29.0,9,Kansas,203952,
+1610612744,2023,00,Draymond Green,Draymond,draymond-green,23,F,6-6,230,"MAR 04, 1990",34.0,11,Michigan State,203110,#35 Pick in 2012 Draft
+1610612744,2023,00,Lester Quinones,Lester,lester-quinones,25,G,6-4,208,"NOV 16, 2000",23.0,1,Memphis,1631311,
+1610612744,2023,00,Stephen Curry,Stephen,stephen-curry,30,G,6-2,185,"MAR 14, 1988",36.0,14,Davidson,201939,#7 Pick in 2009 Draft
+1610612744,2023,00,Trayce Jackson-Davis,Trayce,trayce-jackson-davis,32,F,6-9,245,"FEB 22, 2000",24.0,R,Indiana,1631218,Draft Rights Traded from WAS on 06/23/23
+1610612744,2023,00,Pat Spencer,Pat,pat-spencer,61,G,6-3,205,"JUL 04, 1996",27.0,R,Northwestern,1630311,Signed on 07/23/22

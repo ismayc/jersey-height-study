@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612762,1986,00,Thurl Bailey,Thurl,thurl-bailey,41,F,6-11,215,"APR 07, 1961",26.0,3,North Carolina State,1847,,0
+1610612762,1986,00,Kent Benson,Kent,kent-benson,54,C,6-11,235,"DEC 27, 1954",32.0,9,Indiana,76154,,0
+1610612762,1986,00,Dell Curry,Dell,dell-curry,30,G,6-4,190,"JUN 25, 1964",23.0,R,Virginia Tech,209,,0
+1610612762,1986,00,Mark Eaton,Mark,mark-eaton,53,C,7-4,275,"JAN 24, 1957",30.0,4,UCLA,76631,,0
+1610612762,1986,00,Rickey Green,Rickey,rickey-green,14,G,6-0,170,"AUG 18, 1954",32.0,8,Michigan,76874,,0
+1610612762,1986,00,Darrell Griffith,Darrell,darrell-griffith,35,G,6-4,190,"JUN 16, 1958",29.0,5,Louisville,76890,,0
+1610612762,1986,00,Bob Hansen,Bob,bob-hansen,20,G,6-6,190,"JAN 18, 1961",26.0,3,Iowa,76942,,0
+1610612762,1986,00,Marc Iavaroni,Marc,marc-iavaroni,43,F,6-10,210,"SEP 15, 1956",30.0,4,Virginia,77092,,0
+1610612762,1986,00,Karl Malone,Karl,karl-malone,32,F,6-9,259,"JUL 24, 1963",23.0,1,Louisiana Tech,252,,0
+1610612762,1986,00,Carey Scurry,Carey,carey-scurry,22,F,6-7,188,"DEC 04, 1962",24.0,1,Long Island-Brooklyn,78102,,0
+1610612762,1986,00,John Stockton,John,john-stockton,12,G,6-1,170,"MAR 26, 1962",25.0,2,Gonzaga,304,,0
+1610612762,1986,00,Kelly Tripucka,Kelly,kelly-tripucka,4,F,6-6,220,"FEB 16, 1959",28.0,5,Notre Dame,78369,,0

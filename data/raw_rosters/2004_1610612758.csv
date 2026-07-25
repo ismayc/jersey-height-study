@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,2004,00,Greg Ostertag,Greg,greg-ostertag,00,C,7-2,280,"MAR 06, 1973",32.0,9,Kansas,731,,0
+1610612758,2004,00,Cuttino Mobley,Cuttino,cuttino-mobley,3,G,6-4,215,"SEP 01, 1975",29.0,6,Rhode Island,1749,,0
+1610612758,2004,00,Maurice Evans,Maurice,maurice-evans,5,G,6-5,220,"NOV 08, 1978",26.0,1,Texas,2230,,0
+1610612758,2004,00,Kenny Thomas,Kenny,kenny-thomas,9,F,6-7,245,"JUL 25, 1977",27.0,5,New Mexico,1903,,0
+1610612758,2004,00,Mike Bibby,Mike,mike-bibby,10,G,6-1,190,"MAY 13, 1978",27.0,6,Arizona,1710,,0
+1610612758,2004,00,Erik Daniels,Erik,erik-daniels,15,F,6-8,214,"APR 01, 1982",23.0,R,Kentucky,2845,,0
+1610612758,2004,00,Peja Stojakovic,Peja,peja-stojakovic,16,F,6-10,229,"JUN 09, 1977",28.0,6,PAOK,978,,0
+1610612758,2004,00,Kevin Martin,Kevin,kevin-martin,23,G,6-7,185,"FEB 01, 1983",22.0,R,Western Carolina,2755,,0
+1610612758,2004,00,Bobby Jackson,Bobby,bobby-jackson,24,G,6-1,185,"MAR 13, 1973",32.0,7,Minnesota,1517,,0
+1610612758,2004,00,Darius Songaila,Darius,darius-songaila,25,F,6-8,240,"FEB 14, 1978",27.0,1,Wake Forest,2443,,0
+1610612758,2004,00,Corliss Williamson,Corliss,corliss-williamson,34,F,6-7,245,"DEC 04, 1973",31.0,9,Arkansas,722,,0
+1610612758,2004,00,Eddie House,Eddie,eddie-house,50,G,6-1,175,"MAY 14, 1978",27.0,4,Arizona State,2067,,0
+1610612758,2004,00,Brad Miller,Brad,brad-miller,52,C,7-0,261,"APR 12, 1976",29.0,6,Purdue,1802,,0
+1610612758,2004,00,Brian Skinner,Brian,brian-skinner,54,C,6-9,265,"MAY 19, 1976",29.0,6,Baylor,1730,,0

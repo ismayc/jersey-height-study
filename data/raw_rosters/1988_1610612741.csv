@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1988,00,Bill Cartwright,Bill,bill-cartwright,24,C,7-1,245,"JUL 30, 1957",31.0,8,San Francisco,76362,,0
+1610612741,1988,00,Dave Corzine,Dave,dave-corzine,40,C,6-11,250,"APR 25, 1956",33.0,10,DePaul,76453,,0
+1610612741,1988,00,Charlie Davis,Charlie,charlie-davis,22,F,6-7,215,"OCT 05, 1958",30.0,6,Vanderbilt,76518,,0
+1610612741,1988,00,Horace Grant,Horace,horace-grant,54,F-C,6-10,245,"JUL 04, 1965",23.0,1,Clemson,270,,0
+1610612741,1988,00,Jack Haley,Jack,jack-haley,15,F,6-10,240,"JAN 27, 1964",25.0,R,UCLA,917,,0
+1610612741,1988,00,Craig Hodges,Craig,craig-hodges,14,G,6-2,190,"JUN 27, 1960",29.0,6,Long Beach State,77034,,0
+1610612741,1988,00,Michael Jordan,Michael,michael-jordan,23,G,6-6,195,"FEB 17, 1963",26.0,4,North Carolina,893,,0
+1610612741,1988,00,John Paxson,John,john-paxson,4,G,6-2,185,"SEP 29, 1960",28.0,5,Notre Dame,77820,,0
+1610612741,1988,00,Will Perdue,Will,will-perdue,32,C,7-0,240,"AUG 29, 1965",23.0,R,Vanderbilt,781,,0
+1610612741,1988,00,Scottie Pippen,Scottie,scottie-pippen,33,F-G,6-8,228,"SEP 25, 1965",23.0,1,Central Arkansas,937,,0
+1610612741,1988,00,Dominic Pressley,Dominic,dominic-pressley,12,G,6-2,170,"MAY 30, 1964",25.0,R,Boston College,77880,,0
+1610612741,1988,00,Brad Sellers,Brad,brad-sellers,6,F,7-0,210,"DEC 17, 1962",26.0,2,Ohio State,78110,,0
+1610612741,1988,00,Sam Vincent,Sam,sam-vincent,11,G,6-2,185,"MAY 18, 1963",26.0,3,Michigan State,78417,,0
+1610612741,1988,00,David Wood,David,david-wood,34,F,6-9,227,"NOV 30, 1964",24.0,R,Nevada,116,,0

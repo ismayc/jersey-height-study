@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612744,2018,00,DeMarcus Cousins,DeMarcus,demarcus-cousins,0,C,6-11,270,"AUG 13, 1990",28.0,8,Kentucky,202326,
+1610612744,2018,00,Damion Lee,Damion,damion-lee,1,G,6-6,210,"OCT 21, 1992",26.0,1,Drexel,1627814,
+1610612744,2018,00,Jordan Bell,Jordan,jordan-bell,2,F,6-9,224,"JAN 07, 1995",24.0,1,Oregon,1628395,
+1610612744,2018,00,Quinn Cook,Quinn,quinn-cook,4,G,6-2,179,"MAR 23, 1993",26.0,2,Duke,1626188,
+1610612744,2018,00,Kevon Looney,Kevon,kevon-looney,5,C-F,6-9,220,"FEB 06, 1996",23.0,3,UCLA,1626172,
+1610612744,2018,00,Andre Iguodala,Andre,andre-iguodala,9,F-G,6-6,215,"JAN 28, 1984",35.0,14,Arizona,2738,
+1610612744,2018,00,Jacob Evans,Jacob,jacob-evans,10,G,6-6,210,"JUN 18, 1997",22.0,R,Cincinnati,1628980,
+1610612744,2018,00,Klay Thompson,Klay,klay-thompson,11,G,6-7,215,"FEB 08, 1990",29.0,7,Washington State,202691,
+1610612744,2018,00,Andrew Bogut,Andrew,andrew-bogut,12,C,7-0,260,"NOV 28, 1984",34.0,13,Utah,101106,
+1610612744,2018,00,Damian Jones,Damian,damian-jones,15,C,7-0,245,"JUN 30, 1995",24.0,2,Vanderbilt,1627745,
+1610612744,2018,00,Jonas Jerebko,Jonas,jonas-jerebko,21,F,6-10,231,"MAR 02, 1987",32.0,8,Angelico Biella,201973,
+1610612744,2018,00,Draymond Green,Draymond,draymond-green,23,F,6-7,230,"MAR 04, 1990",29.0,6,Michigan State,203110,#35 Pick in 2012 Draft
+1610612744,2018,00,Alfonzo McKinnie,Alfonzo,alfonzo-mckinnie,28,F,6-8,215,"SEP 17, 1992",26.0,1,Wisc.-Green Bay,1628035,
+1610612744,2018,00,Stephen Curry,Stephen,stephen-curry,30,G,6-3,190,"MAR 14, 1988",31.0,9,Davidson,201939,#7 Pick in 2009 Draft
+1610612744,2018,00,Marcus Derrickson,Marcus,marcus-derrickson,32,F,6-7,249,"FEB 01, 1996",23.0,R,Georgetown,1629094,
+1610612744,2018,00,Shaun Livingston,Shaun,shaun-livingston,34,G,6-7,192,"SEP 11, 1985",33.0,13,Peoria Central HS (IL),2733,
+1610612744,2018,00,Kevin Durant,Kevin,kevin-durant,35,F,6-9,240,"SEP 29, 1988",30.0,11,Texas,201142,

@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612759,1981,00,Gene Banks,Gene,gene-banks,20,F,6-7,215,"MAY 15, 1959",23.0,R,Duke,76093,,0
+1610612759,1981,00,Mike Bratz,Mike,mike-bratz,23,G,6-2,185,"OCT 17, 1955",26.0,4,Stanford,76242,,0
+1610612759,1981,00,Dave Corzine,Dave,dave-corzine,40,C,6-11,250,"APR 25, 1956",26.0,3,DePaul,76453,,0
+1610612759,1981,00,George Gervin,George,george-gervin,44,G,6-7,180,"APR 27, 1952",30.0,5,Eastern Michigan,76804,,0
+1610612759,1981,00,Paul Griffin,Paul,paul-griffin,30,F,6-9,205,"JAN 20, 1954",28.0,5,Western Michigan,76889,,0
+1610612759,1981,00,George Johnson,George,george-johnson,,C,6-11,205,"DEC 18, 1948",33.0,9,Dillard,77149,,0
+1610612759,1981,00,Johnny Moore,Johnny,johnny-moore,0,G,6-1,175,"MAR 03, 1958",24.0,1,Texas,77633,,0
+1610612759,1981,00,Mark Olberding,Mark,mark-olberding,53,F,6-8,225,"APR 21, 1956",26.0,5,Minnesota,77756,,0
+1610612759,1981,00,Ed Rains,Ed,ed-rains,15,F,6-7,190,"DEC 24, 1956",25.0,R,South Alabama,77904,,0
+1610612759,1981,00,Rich Yonakor,Rich,rich-yonakor,43,F,6-9,220,"OCT 03, 1958",23.0,R,North Carolina,78632,,0

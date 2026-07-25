@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1986,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",40.0,17,UCLA,76003,,0
+1610612747,1986,00,Adrian Branch,Adrian,adrian-branch,24,F,6-7,185,"NOV 17, 1963",23.0,R,Maryland,76237,,0
+1610612747,1986,00,Michael Cooper,Michael,michael-cooper,21,G,6-7,170,"APR 15, 1956",31.0,8,New Mexico,76444,,0
+1610612747,1986,00,A.C. Green,A.C.,ac-green,45,F,6-9,220,"OCT 04, 1963",23.0,1,Oregon State,920,,0
+1610612747,1986,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",27.0,7,Michigan State,77142,,0
+1610612747,1986,00,Wes Matthews,Wes,wes-matthews,1,G,6-1,170,"AUG 24, 1959",27.0,6,Wisconsin,77484,,0
+1610612747,1986,00,Kurt Rambis,Kurt,kurt-rambis,31,F,6-8,213,"FEB 25, 1958",29.0,5,Santa Clara,77905,,0
+1610612747,1986,00,Byron Scott,Byron,byron-scott,4,G,6-3,195,"MAR 28, 1961",26.0,3,Arizona State,2,,0
+1610612747,1986,00,Mike Smrek,Mike,mike-smrek,52,C,7-0,250,"AUG 31, 1962",24.0,1,Canisius,1091,,0
+1610612747,1986,00,Billy Thompson,Billy,billy-thompson,55,F,6-7,195,"DEC 01, 1963",23.0,R,Louisville,1631,,0
+1610612747,1986,00,Mychal Thompson,Mychal,mychal-thompson,43,C,6-10,226,"JAN 30, 1955",32.0,7,Minnesota,78331,,0
+1610612747,1986,00,James Worthy,James,james-worthy,42,F,6-9,225,"FEB 27, 1961",26.0,4,North Carolina,1460,,0

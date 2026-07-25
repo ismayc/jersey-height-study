@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1987,00,Rick Carlisle,Rick,rick-carlisle,3,G,6-5,210,"OCT 27, 1959",28.0,3,Virginia,76342,,0
+1610612752,1987,00,Bill Cartwright,Bill,bill-cartwright,25,C,7-1,245,"JUL 30, 1957",30.0,7,San Francisco,76362,,0
+1610612752,1987,00,Pat Cummings,Pat,pat-cummings,42,C,6-9,230,"JUL 11, 1956",31.0,8,Cincinnati,76483,,0
+1610612752,1987,00,Billy Donovan,Billy,billy-donovan,1,G,5-11,171,"MAY 30, 1965",23.0,R,Providence,76586,,0
+1610612752,1987,00,Patrick Ewing,Patrick,patrick-ewing,33,C,7-0,240,"AUG 05, 1962",25.0,2,Georgetown,121,,0
+1610612752,1987,00,Sidney Green,Sidney,sidney-green,44,F,6-9,220,"JAN 04, 1961",27.0,4,UNLV,76876,,0
+1610612752,1987,00,Mark Jackson,Mark,mark-jackson,13,G,6-3,205,"APR 01, 1965",23.0,R,St. John's (NY),349,,0
+1610612752,1987,00,Chris McNealy,Chris,chris-mcnealy,14,F,6-7,210,"JUL 15, 1961",26.0,2,San Jose State,77560,,0
+1610612752,1987,00,Johnny Newman,Johnny,johnny-newman,4,F,6-7,190,"NOV 28, 1963",24.0,1,Richmond,271,,0
+1610612752,1987,00,Louis Orr,Louis,louis-orr,55,F,6-8,175,"MAY 07, 1958",30.0,7,Syracuse,77770,,0
+1610612752,1987,00,Carey Scurry,Carey,carey-scurry,20,F,6-7,188,"DEC 04, 1962",25.0,2,Long Island-Brooklyn,78102,,0
+1610612752,1987,00,Sedric Toney,Sedric,sedric-toney,11,G,6-2,178,"APR 13, 1962",26.0,1,Dayton,78352,,0
+1610612752,1987,00,Trent Tucker,Trent,trent-tucker,6,G,6-5,193,"DEC 20, 1959",28.0,5,Minnesota,78375,,0
+1610612752,1987,00,Kenny Walker,Kenny,kenny-walker,34,F,6-8,210,"AUG 18, 1964",23.0,1,Kentucky,78440,,0
+1610612752,1987,00,Gerald Wilkins,Gerald,gerald-wilkins,21,G,6-6,185,"SEP 11, 1963",24.0,2,Tennessee-Chattanooga,786,,0

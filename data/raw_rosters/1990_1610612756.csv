@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,1990,00,Joe Barry Carroll,Joe Barry,joe-barry-carroll,2,C,7-0,225,"JUL 24, 1958",32.0,9,Purdue,76353,,0
+1610612756,1990,00,Cedric Ceballos,Cedric,cedric-ceballos,23,F,6-6,190,"AUG 02, 1969",21.0,R,California State-Fullerton,76,,0
+1610612756,1990,00,Tom Chambers,Tom,tom-chambers,24,F,6-10,220,"JUN 21, 1959",32.0,9,Utah,1472,,0
+1610612756,1990,00,Jeff Hornacek,Jeff,jeff-hornacek,14,G,6-3,190,"MAY 03, 1963",28.0,4,Iowa State,204,,0
+1610612756,1990,00,Kevin Johnson,Kevin,kevin-johnson,7,G,6-1,180,"MAR 04, 1966",25.0,3,California,134,,0
+1610612756,1990,00,Negele Knight,Negele,negele-knight,,G,6-1,175,"MAR 03, 1967",24.0,R,Dayton,1861,,0
+1610612756,1990,00,Andrew Lang,Andrew,andrew-lang,28,C,6-11,245,"JUN 28, 1966",25.0,2,Arkansas,457,,0
+1610612756,1990,00,Ian Lockhart,Ian,ian-lockhart,51,F,6-8,240,"JUN 25, 1967",24.0,R,Tennessee,1100,,0
+1610612756,1990,00,Dan Majerle,Dan,dan-majerle,9,G,6-6,215,"SEP 09, 1965",25.0,2,Central Michigan,105,,0
+1610612756,1990,00,Xavier McDaniel,Xavier,xavier-mcdaniel,35,F,6-7,205,"JUN 04, 1963",28.0,5,Wichita State,1365,,0
+1610612756,1990,00,Ed Nealy,Ed,ed-nealy,45,F,6-7,238,"FEB 19, 1960",31.0,7,Kansas State,77697,,0
+1610612756,1990,00,Tim Perry,Tim,tim-perry,34,F,6-9,200,"JUN 04, 1965",26.0,2,Temple,897,,0
+1610612756,1990,00,Kurt Rambis,Kurt,kurt-rambis,31,F,6-8,213,"FEB 25, 1958",33.0,9,Santa Clara,77905,,0
+1610612756,1990,00,Mark West,Mark,mark-west,41,C,6-10,230,"NOV 05, 1960",30.0,7,Old Dominion,770,,0

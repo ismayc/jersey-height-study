@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1989,00,Ron Anderson,Ron,ron-anderson,20,F,6-7,215,"OCT 15, 1958",31.0,5,Fresno State,76046,,0
+1610612755,1989,00,Charles Barkley,Charles,charles-barkley,34,F,6-6,252,"FEB 20, 1963",27.0,5,Auburn,787,,0
+1610612755,1989,00,Scott Brooks,Scott,scott-brooks,1,G,5-11,165,"JUL 31, 1965",24.0,1,California-Irvine,418,,0
+1610612755,1989,00,Lanard Copeland,Lanard,lanard-copeland,7,F,6-6,190,"JUL 16, 1965",24.0,R,Georgia State,76448,,0
+1610612755,1989,00,Johnny Dawkins,Johnny,johnny-dawkins,12,G,6-2,165,"SEP 28, 1963",26.0,3,Duke,1008,,0
+1610612755,1989,00,Corey Gaines,Corey,corey-gaines,8,G,6-3,195,"JUN 01, 1965",25.0,1,Loyola-Marymount,76770,,0
+1610612755,1989,00,Mike Gminski,Mike,mike-gminski,42,C,6-11,250,"AUG 03, 1959",30.0,9,Duke,76826,,0
+1610612755,1989,00,Hersey Hawkins,Hersey,hersey-hawkins,33,G,6-3,190,"SEP 29, 1966",23.0,1,Bradley,765,,0
+1610612755,1989,00,Rick Mahorn,Rick,rick-mahorn,44,F,6-10,240,"SEP 21, 1958",31.0,9,Hampton,328,,0
+1610612755,1989,00,Kurt Nimphius,Kurt,kurt-nimphius,40,C,6-10,218,"MAR 13, 1958",32.0,7,Arizona State,77719,,0
+1610612755,1989,00,Kenny Payne,Kenny,kenny-payne,18,F,6-8,195,"NOV 25, 1966",23.0,R,Louisville,77822,,0
+1610612755,1989,00,Dexter Shouse,Dexter,dexter-shouse,14,F,6-2,200,"MAR 24, 1963",27.0,R,South Alabama,78140,,0
+1610612755,1989,00,Derek Smith,Derek,derek-smith,21,G,6-6,205,"NOV 01, 1961",28.0,7,Louisville,78183,,0
+1610612755,1989,00,Bob Thornton,Bob,bob-thornton,23,F,6-10,225,"JUL 10, 1962",27.0,4,California-Irvine,738,,0

@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1991,00,John Bagley,John,john-bagley,5,G,6-0,185,"APR 23, 1960",32.0,8,Boston College,76082,,0
+1610612738,1991,00,Larry Bird,Larry,larry-bird,33,F,6-9,220,"DEC 07, 1956",35.0,12,Indiana State,1449,,0
+1610612738,1991,00,Dee Brown,Dee,dee-brown,,G,, ,"NOV 29, 1968",23.0,1,Jacksonville,244,,0
+1610612738,1991,00,Sherman Douglas,Sherman,sherman-douglas,4-20,G,6-0,180,"SEP 15, 1966",25.0,2,Syracuse,428,,0
+1610612738,1991,00,Rick Fox,Rick,rick-fox,44,F-G,6-7,250,"JUL 24, 1969",22.0,R,North Carolina,296,,0
+1610612738,1991,00,Kevin Gamble,Kevin,kevin-gamble,34,F,6-6,210,"NOV 13, 1965",26.0,4,Iowa,333,,0
+1610612738,1991,00,Rickey Green,Rickey,rickey-green,13,G,6-0,170,"AUG 18, 1954",37.0,13,Michigan,76874,,0
+1610612738,1991,00,Joe Kleine,Joe,joe-kleine,53,C,6-11,255,"JAN 04, 1962",30.0,6,Arkansas,170,,0
+1610612738,1991,00,Reggie Lewis,Reggie,reggie-lewis,35,G,6-7,195,"NOV 21, 1965",26.0,4,Northeastern,77384,,0
+1610612738,1991,00,Kevin McHale,Kevin,kevin-mchale,32,F,6-10,210,"DEC 19, 1957",34.0,11,Minnesota,1450,,0
+1610612738,1991,00,Robert Parish,Robert,robert-parish,00,C,7-1,230,"AUG 30, 1953",38.0,15,Centenary-Louisiana,305,,0
+1610612738,1991,00,Ed Pinckney,Ed,ed-pinckney,54,F,6-9,195,"MAR 27, 1963",29.0,6,Villanova,291,,0
+1610612738,1991,00,Kevin Pritchard,Kevin,kevin-pritchard,12,G,6-3,180,"JUL 17, 1967",24.0,1,Kansas,340,,0
+1610612738,1991,00,Larry Robinson,Larry,larry-robinson,4,G,6-3,180,"JAN 11, 1968",24.0,1,Centenary-Louisiana,1683,,0
+1610612738,1991,00,Stojko Vrankovic,Stojko,stojko-vrankovic,11,C,7-2,260,"JAN 22, 1964",28.0,1,Aris,1037,,0

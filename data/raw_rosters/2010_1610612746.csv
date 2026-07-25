@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612746,2010,00,Craig Smith,Craig,craig-smith,1,F,6-7,265,"NOV 10, 1983",27.0,4,Boston College,200783,,0
+1610612746,2010,00,Al-Farouq Aminu,Al-Farouq,al-farouq-aminu,3,F,6-9,215,"SEP 21, 1990",20.0,R,Wake Forest,202329,,0
+1610612746,2010,00,Randy Foye,Randy,randy-foye,4,G,6-4,213,"SEP 24, 1983",27.0,4,Villanova,200751,,0
+1610612746,2010,00,Jamario Moon,Jamario,jamario-moon,8,F,6-8,205,"JUN 13, 1980",31.0,3,Meridian CC,200081,,0
+1610612746,2010,00,DeAndre Jordan,DeAndre,deandre-jordan,9,C,6-11,265,"JUL 21, 1988",22.0,2,Texas A&M,201599,,0
+1610612746,2010,00,Eric Gordon,Eric,eric-gordon,10,G,6-3,215,"DEC 25, 1988",22.0,2,Indiana,201569,,0
+1610612746,2010,00,Eric Bledsoe,Eric,eric-bledsoe,12,G,6-1,195,"DEC 09, 1989",21.0,R,Kentucky,202339,,0
+1610612746,2010,00,Willie Warren,Willie,willie-warren,13,G,6-4,203,"OCT 22, 1989",21.0,R,Oklahoma,202378,,0
+1610612746,2010,00,Ryan Gomes,Ryan,ryan-gomes,15,F,6-7,245,"SEP 01, 1982",28.0,5,Providence,101155,,0
+1610612746,2010,00,Mo Williams,Mo,mo-williams,25,G,6-1,195,"DEC 19, 1982",28.0,7,Alabama,2590,,0
+1610612746,2010,00,Blake Griffin,Blake,blake-griffin,32,F,6-10,251,"MAR 16, 1989",22.0,R,Oklahoma,201933,,0
+1610612746,2010,00,Brian Cook,Brian,brian-cook,34,F,6-9,250,"DEC 04, 1980",30.0,7,Illinois,2567,,0
+1610612746,2010,00,Chris Kaman,Chris,chris-kaman,35,C,7-0,265,"APR 28, 1982",29.0,7,Central Michigan,2549,,0
+1610612746,2010,00,Ike Diogu,Ike,ike-diogu,50,F,6-9,250,"SEP 11, 1983",27.0,4,Arizona State,101113,,0

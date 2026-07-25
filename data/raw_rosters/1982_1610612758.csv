@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1982,00,Kenny Dennard,Kenny,kenny-dennard,9,F,6-8,220,"OCT 18, 1958",24.0,1,Duke,76556,,0
+1610612758,1982,00,Leon Douglas,Leon,leon-douglas,13,C,6-10,230,"AUG 26, 1954",28.0,6,Alabama,76590,,0
+1610612758,1982,00,Larry Drew,Larry,larry-drew,22,G,6-1,170,"APR 02, 1958",25.0,2,Missouri,76599,,0
+1610612758,1982,00,Eddie Johnson,Eddie,eddie-johnson,,F,, ,"MAY 01, 1959",24.0,1,Illinois,698,,0
+1610612758,1982,00,Steve Johnson,Steve,steve-johnson,33,C,6-10,235,"NOV 03, 1957",25.0,1,Oregon State,77134,,0
+1610612758,1982,00,Reggie King,Reggie,reggie-king,51,F,6-6,225,"FEB 14, 1957",26.0,3,Alabama,77273,,0
+1610612758,1982,00,Kevin Loder,Kevin,kevin-loder,30,F,6-6,205,"MAR 15, 1959",24.0,1,Alabama State,77401,,0
+1610612758,1982,00,Joe Meriweather,Joe,joe-meriweather,50,C,6-10,215,"OCT 26, 1953",29.0,7,Southern Illinois,77582,,0
+1610612758,1982,00,Ed Nealy,Ed,ed-nealy,20,F,6-7,238,"FEB 19, 1960",23.0,R,Kansas State,77697,,0
+1610612758,1982,00,Brook Steppe,Brook,brook-steppe,14,G,6-5,195,"NOV 07, 1959",23.0,R,Georgia Tech,78250,,0
+1610612758,1982,00,LaSalle Thompson,LaSalle,lasalle-thompson,41,C,6-10,245,"JUN 23, 1961",22.0,R,Texas,78,,0
+1610612758,1982,00,Ray Williams,Ray,ray-williams,25,G,6-3,188,"OCT 14, 1954",28.0,5,Minnesota,78571,,0
+1610612758,1982,00,Mike Woodson,Mike,mike-woodson,42,G,6-5,195,"MAR 24, 1958",25.0,2,Indiana,78614,,0

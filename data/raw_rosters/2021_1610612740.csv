@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612740,2021,00,Zion Williamson,Zion,zion-williamson,1,F,6-6,284,"JUL 06, 2000",21.0,2,Duke,1629627,#1 Pick in 2019 Draft
+1610612740,2021,00,Jared Harper,Jared,jared-harper,2,G,5-10,175,"SEP 14, 1997",24.0,2,Auburn,1629607,
+1610612740,2021,00,CJ McCollum,CJ,cj-mccollum,3,G,6-3,190,"SEP 19, 1991",30.0,8,Lehigh,203468,
+1610612740,2021,00,Devonte' Graham,Devonte',devonte-graham,4,G,6-1,195,"FEB 22, 1995",27.0,3,Kansas,1628984,
+1610612740,2021,00,Herbert Jones,Herbert,herbert-jones,5,F,6-7,206,"OCT 06, 1998",23.0,R,Alabama,1630529,#35 Pick in 2021 Draft
+1610612740,2021,00,Naji Marshall,Naji,naji-marshall,8,F,6-7,220,"JAN 24, 1998",24.0,1,Xavier,1630230,
+1610612740,2021,00,Willy Hernangomez,Willy,willy-hernangomez,9,C-F,6-11,250,"MAY 27, 1994",28.0,5,Cajasol Sevilla,1626195,
+1610612740,2021,00,Jaxson Hayes,Jaxson,jaxson-hayes,10,C-F,6-11,220,"MAY 23, 2000",22.0,2,Texas,1629637,
+1610612740,2021,00,Gary Clark,Gary,gary-clark,12,F,6-6,225,"NOV 16, 1994",27.0,3,Cincinnati,1629109,
+1610612740,2021,00,Kira Lewis Jr.,Kira,kira-lewis-jr,13,G,6-1,170,"APR 06, 2001",21.0,1,Alabama,1630184,
+1610612740,2021,00,Brandon Ingram,Brandon,brandon-ingram,14,F,6-8,190,"SEP 02, 1997",24.0,5,Duke,1627742,
+1610612740,2021,00,Jose Alvarado,Jose,jose-alvarado,15,G,6-0,179,"APR 12, 1998",24.0,R,Georgia Tech,1630631,Signed on 08/18/21
+1610612740,2021,00,Jonas Valančiūnas,Jonas,jonas-valančiūnas,17,C,6-11,265,"MAY 06, 1992",30.0,9,Lietuvos rytas Vilnius,202685,
+1610612740,2021,00,Tony Snell,Tony,tony-snell,21,G,6-6,213,"NOV 10, 1991",30.0,8,New Mexico,203503,
+1610612740,2021,00,Larry Nance Jr.,Larry,larry-nance-jr,22,F-C,6-7,245,"JAN 01, 1993",29.0,6,Wyoming,1626204,
+1610612740,2021,00,Trey Murphy III,Trey,trey-murphy-iii,25,F,6-8,206,"JUN 18, 2000",22.0,R,Virginia,1630530,Draft Rights Traded from MEM on 08/07/21
+1610612740,2021,00,Garrett Temple,Garrett,garrett-temple,41,G-F,6-5,195,"MAY 08, 1986",36.0,11,Louisiana State,202066,

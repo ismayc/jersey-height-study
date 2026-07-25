@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612751,1999,00,Evan Eschmeyer,Evan,evan-eschmeyer,00,C,6-11,255,"MAY 30, 1975",25.0,R,Northwestern,1915,,0
+1610612751,1999,00,Elliot Perry,Elliot,elliot-perry,1,G,6-0,152,"MAR 28, 1969",31.0,8,Memphis,386,,0
+1610612751,1999,00,Sherman Douglas,Sherman,sherman-douglas,11,G,6-1,195,"SEP 15, 1966",33.0,10,Syracuse,428,,0
+1610612751,1999,00,Lucious Harris,Lucious,lucious-harris,12,G,6-5,205,"DEC 18, 1970",29.0,6,Long Beach State,446,,0
+1610612751,1999,00,Kendall Gill,Kendall,kendall-gill,13,G,6-5,216,"MAY 25, 1968",32.0,9,Illinois,383,,0
+1610612751,1999,00,Jamie Feick,Jamie,jamie-feick,14,C-F,6-8,255,"JUL 03, 1974",25.0,3,Michigan State,994,,0
+1610612751,1999,00,Johnny Newman,Johnny,johnny-newman,20,F,6-7,210,"NOV 28, 1963",36.0,12,Richmond,271,,0
+1610612751,1999,00,Jim McIlvaine,Jim,jim-mcilvaine,22,C,7-1,264,"JUL 30, 1972",27.0,5,Marquette,29,,0
+1610612751,1999,00,Scott Burrell,Scott,scott-burrell,24,F-G,6-7,218,"JAN 12, 1971",29.0,6,Connecticut,197,,0
+1610612751,1999,00,Stephon Marbury,Stephon,stephon-marbury,33,G,6-2,180,"FEB 20, 1977",23.0,3,Georgia Tech,950,,0
+1610612751,1999,00,Keith Van Horn,Keith,keith-van-horn,44,F,6-10,250,"OCT 23, 1975",24.0,2,Utah,1496,,0
+1610612751,1999,00,Gheorghe Muresan,Gheorghe,gheorghe-muresan,77,C,7-7,303,"FEB 14, 1971",29.0,6,Pau Orthez,49,,0

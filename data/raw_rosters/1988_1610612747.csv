@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1988,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",42.0,19,UCLA,76003,,0
+1610612747,1988,00,Tony Campbell,Tony,tony-campbell,19,F,6-7,215,"MAY 07, 1962",27.0,4,Ohio State,76338,,0
+1610612747,1988,00,Michael Cooper,Michael,michael-cooper,21,G,6-7,170,"APR 15, 1956",33.0,10,New Mexico,76444,,0
+1610612747,1988,00,A.C. Green,A.C.,ac-green,45,F,6-9,220,"OCT 04, 1963",25.0,3,Oregon State,920,,0
+1610612747,1988,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",29.0,9,Michigan State,77142,,0
+1610612747,1988,00,Jeff Lamp,Jeff,jeff-lamp,3,G,6-6,195,"MAR 09, 1959",30.0,5,Virginia,77332,,0
+1610612747,1988,00,Mark McNamara,Mark,mark-mcnamara,31,C,6-11,235,"JUN 08, 1959",30.0,5,California,77558,,0
+1610612747,1988,00,David Rivers,David,david-rivers,14,G,6-0,170,"JAN 20, 1965",24.0,R,Notre Dame,77970,,0
+1610612747,1988,00,Byron Scott,Byron,byron-scott,4,G,6-3,195,"MAR 28, 1961",28.0,5,Arizona State,2,,0
+1610612747,1988,00,Mychal Thompson,Mychal,mychal-thompson,43,C,6-10,226,"JAN 30, 1955",34.0,9,Minnesota,78331,,0
+1610612747,1988,00,Orlando Woolridge,Orlando,orlando-woolridge,0,F,6-9,215,"DEC 16, 1959",29.0,7,Notre Dame,78615,,0
+1610612747,1988,00,James Worthy,James,james-worthy,42,F,6-9,225,"FEB 27, 1961",28.0,6,North Carolina,1460,,0

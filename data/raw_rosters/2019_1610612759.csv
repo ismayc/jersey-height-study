@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612759,2019,00,Lonnie Walker IV,Lonnie,lonnie-walker-iv,1,G-F,6-5,204,"DEC 14, 1998",21.0,1,Miami,1629022,
+1610612759,2019,00,Keldon Johnson,Keldon,keldon-johnson,3,F-G,6-5,220,"OCT 11, 1999",20.0,R,Kentucky,1629640,#29 Pick in 2019 Draft
+1610612759,2019,00,Derrick White,Derrick,derrick-white,4,G,6-4,190,"JUL 02, 1994",25.0,2,Colorado,1628401,
+1610612759,2019,00,Dejounte Murray,Dejounte,dejounte-murray,5,G,6-4,180,"SEP 19, 1996",23.0,3,Washington,1627749,
+1610612759,2019,00,Chimezie Metu,Chimezie,chimezie-metu,7,F-C,6-9,225,"MAR 22, 1997",23.0,1,USC,1629002,
+1610612759,2019,00,Patty Mills,Patty,patty-mills,8,G,6-1,180,"AUG 11, 1988",31.0,10,St. Mary's,201988,
+1610612759,2019,00,DeMar DeRozan,DeMar,demar-derozan,10,G-F,6-6,220,"AUG 07, 1989",30.0,10,Southern California,201942,
+1610612759,2019,00,Bryn Forbes,Bryn,bryn-forbes,11,G,6-2,205,"JUL 23, 1993",26.0,3,Michigan State,1627854,
+1610612759,2019,00,LaMarcus Aldridge,LaMarcus,lamarcus-aldridge,12,C-F,6-11,250,"JUL 19, 1985",34.0,13,University of Texas at Austin,200746,
+1610612759,2019,00,Drew Eubanks,Drew,drew-eubanks,14,F-C,6-9,245,"FEB 01, 1997",23.0,1,Oregon State,1629234,
+1610612759,2019,00,Quinndary Weatherspoon,Quinndary,quinndary-weatherspoon,15,G,6-3,205,"SEP 10, 1996",23.0,R,Mississippi State,1629683,
+1610612759,2019,00,Marco Belinelli,Marco,marco-belinelli,18,G,6-5,220,"MAR 25, 1986",34.0,12,Fortitudo Bologna,201158,
+1610612759,2019,00,Luka Samanic,Luka,luka-samanic,19,F,6-10,227,"JAN 09, 2000",20.0,R,Union Olimpija,1629677,
+1610612759,2019,00,Rudy Gay,Rudy,rudy-gay,22,F-G,6-8,250,"AUG 17, 1986",33.0,13,Connecticut,200752,
+1610612759,2019,00,Jakob Poeltl,Jakob,jakob-poeltl,25,C,7-1,245,"OCT 15, 1995",24.0,3,Utah,1627751,
+1610612759,2019,00,Tyler Zeller,Tyler,tyler-zeller,40,F-C,6-11,250,"JAN 17, 1990",30.0,7,North Carolina,203092,
+1610612759,2019,00,Trey Lyles,Trey,trey-lyles,41,F,6-9,234,"NOV 05, 1995",24.0,4,Kentucky,1626168,

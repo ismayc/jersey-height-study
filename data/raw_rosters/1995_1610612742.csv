@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612742,1995,00,Scott Brooks,Scott,scott-brooks,1,G,5-11,165,"JUL 31, 1965",30.0,7,California-Irvine,418,,0
+1610612742,1995,00,Cherokee Parks,Cherokee,cherokee-parks,4,C,6-11,275,"OCT 11, 1972",23.0,R,Duke,685,,0
+1610612742,1995,00,Jason Kidd,Jason,jason-kidd,5,G,6-4,208,"MAR 23, 1973",23.0,1,California,467,,0
+1610612742,1995,00,Tony Dumas,Tony,tony-dumas,7,G,6-6,190,"AUG 25, 1972",23.0,1,Missouri-Kansas City,434,,0
+1610612742,1995,00,David Wood,David,david-wood,10,F,6-9,230,"NOV 30, 1964",31.0,5,Nevada,116,,0
+1610612742,1995,00,George McCloud,George,george-mccloud,21,F-G,6-8,225,"MAY 27, 1967",29.0,5,Florida State,45,,0
+1610612742,1995,00,Jim Jackson,Jim,jim-jackson,24,G,6-6,215,"OCT 14, 1970",25.0,3,Ohio State,754,,0
+1610612742,1995,00,Lucious Harris,Lucious,lucious-harris,30,G,6-5,205,"DEC 18, 1970",25.0,2,Long Beach State,446,,0
+1610612742,1995,00,Jamal Mashburn,Jamal,jamal-mashburn,32,F,6-8,250,"NOV 29, 1972",23.0,2,Kentucky,469,,0
+1610612742,1995,00,Loren Meyer,Loren,loren-meyer,40,C,6-10,260,"DEC 30, 1972",23.0,R,Iowa State,684,,0
+1610612742,1995,00,Terry Davis,Terry,terry-davis,43,F-C,6-10,250,"JUN 17, 1967",29.0,6,Virginia Union,426,,0
+1610612742,1995,00,Lorenzo Williams,Lorenzo,lorenzo-williams,44,C-F,6-9,220,"JUL 15, 1969",26.0,3,Stetson,31,,0
+1610612742,1995,00,Popeye Jones,Popeye,popeye-jones,54,F,6-8,265,"JUN 17, 1970",26.0,2,Murray State,461,,0

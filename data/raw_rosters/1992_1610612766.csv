@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612766,1992,00,Tony Bennett,Tony,tony-bennett,25,G,6-0,175,"JUN 01, 1969",24.0,R,Wisconsin-Green Bay,76148,,0
+1610612766,1992,00,Muggsy Bogues,Muggsy,muggsy-bogues,1,G,5-3,136,"JAN 09, 1965",28.0,5,Wake Forest,177,,0
+1610612766,1992,00,Dell Curry,Dell,dell-curry,30,G,6-4,190,"JUN 25, 1964",29.0,6,Virginia Tech,209,,0
+1610612766,1992,00,Kenny Gattison,Kenny,kenny-gattison,44,F,6-8,225,"MAY 23, 1964",29.0,5,Old Dominion,930,,0
+1610612766,1992,00,Kendall Gill,Kendall,kendall-gill,13,G,6-5,216,"MAY 25, 1968",25.0,2,Illinois,383,,0
+1610612766,1992,00,Mike Gminski,Mike,mike-gminski,42,C,6-11,250,"AUG 03, 1959",33.0,12,Duke,76826,,0
+1610612766,1992,00,Sidney Green,Sidney,sidney-green,21,F,6-9,220,"JAN 04, 1961",32.0,9,UNLV,76876,,0
+1610612766,1992,00,Larry Johnson,Larry,larry-johnson,2,F,6-7,250,"MAR 14, 1969",24.0,1,UNLV,913,,0
+1610612766,1992,00,Kevin Lynch,Kevin,kevin-lynch,9,F,6-5,195,"DEC 24, 1968",24.0,1,Minnesota,77426,,0
+1610612766,1992,00,Alonzo Mourning,Alonzo,alonzo-mourning,33,C,6-10,262,"FEB 08, 1970",23.0,R,Georgetown,297,,0
+1610612766,1992,00,Johnny Newman,Johnny,johnny-newman,22,F,6-7,190,"NOV 28, 1963",29.0,6,Richmond,271,,0
+1610612766,1992,00,David Wingate,David,david-wingate,55,G,6-5,185,"DEC 15, 1963",29.0,6,Georgetown,766,,0

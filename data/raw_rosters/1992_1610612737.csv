@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1992,00,Stacey Augmon,Stacey,stacey-augmon,2,G-F,6-8,213,"AUG 01, 1968",24.0,1,UNLV,278,,0
+1610612737,1992,00,Mookie Blaylock,Mookie,mookie-blaylock,10,G,6-0,180,"MAR 20, 1967",26.0,3,Oklahoma,302,,0
+1610612737,1992,00,Randy Breuer,Randy,randy-breuer,45,C,7-3,230,"OCT 11, 1960",32.0,9,Minnesota,76247,,0
+1610612737,1992,00,Duane Ferrell,Duane,duane-ferrell,33,F,6-7,209,"FEB 28, 1965",28.0,4,Georgia Tech,273,,0
+1610612737,1992,00,Greg Foster,Greg,greg-foster,44,C,6-11,240,"OCT 03, 1968",24.0,2,Texas-El Paso,323,,0
+1610612737,1992,00,Paul Graham,Paul,paul-graham,25,G,6-6,200,"NOV 28, 1967",25.0,1,Ohio,76842,,0
+1610612737,1992,00,Steve Henson,Steve,steve-henson,12,G,5-11,177,"FEB 02, 1968",25.0,2,Kansas State,1667,,0
+1610612737,1992,00,Adam Keefe,Adam,adam-keefe,31,F,6-9,230,"FEB 22, 1970",23.0,R,Stanford,228,,0
+1610612737,1992,00,Jon Koncak,Jon,jon-koncak,32,C,7-0,250,"MAY 17, 1963",30.0,7,Southern Methodist,402,,0
+1610612737,1992,00,Travis Mays,Travis,travis-mays,1,G,6-2,190,"JUN 19, 1968",25.0,2,Texas,77496,,0
+1610612737,1992,00,Blair Rasmussen,Blair,blair-rasmussen,41,F,6-4,172,"NOV 13, 1962",30.0,7,Oregon,78656,,0
+1610612737,1992,00,Jeff Sanders,Jeff,jeff-sanders,34,F,6-8,225,"JAN 14, 1966",27.0,3,Georgia Southern,1874,,0
+1610612737,1992,00,Dominique Wilkins,Dominique,dominique-wilkins,21,F,6-8,200,"JAN 12, 1960",33.0,10,Georgia,1122,,0
+1610612737,1992,00,Kevin Willis,Kevin,kevin-willis,42,F-C,7-0,245,"SEP 06, 1962",30.0,7,Michigan State,788,,0

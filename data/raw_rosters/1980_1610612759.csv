@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612759,1980,00,Ron Brewer,Ron,ron-brewer,10,G,6-4,180,"SEP 16, 1955",25.0,2,Arkansas,76249,,0
+1610612759,1980,00,Dave Corzine,Dave,dave-corzine,40,C,6-11,250,"APR 25, 1956",25.0,2,DePaul,76453,,0
+1610612759,1980,00,Mike Gale,Mike,mike-gale,12,G,6-4,185,"JUL 18, 1950",30.0,4,Elizabeth City State,76771,,0
+1610612759,1980,00,Gus Gerard,Gus,gus-gerard,22,F,6-8,200,"JUL 27, 1953",27.0,4,Virginia,76802,,0
+1610612759,1980,00,George Gervin,George,george-gervin,44,G,6-7,180,"APR 27, 1952",29.0,4,Eastern Michigan,76804,,0
+1610612759,1980,00,Paul Griffin,Paul,paul-griffin,30,F,6-9,205,"JAN 20, 1954",27.0,4,Western Michigan,76889,,0
+1610612759,1980,00,George Johnson,George,george-johnson,,C,6-11,205,"DEC 18, 1948",32.0,8,Dillard,77149,,0
+1610612759,1980,00,Reggie Johnson,Reggie,reggie-johnson,32,F,6-9,205,"JUN 25, 1957",24.0,R,Tennessee,77163,,0
+1610612759,1980,00,Johnny Moore,Johnny,johnny-moore,00-10,G,6-1,175,"MAR 03, 1958",23.0,R,Texas,77633,,0
+1610612759,1980,00,Mark Olberding,Mark,mark-olberding,53,F,6-8,225,"APR 21, 1956",25.0,4,Minnesota,77756,,0
+1610612759,1980,00,Kevin Restani,Kevin,kevin-restani,31,F,6-9,225,"DEC 23, 1951",29.0,6,San Francisco,77944,,0
+1610612759,1980,00,James Silas,James,james-silas,13,G,6-1,180,"FEB 11, 1949",32.0,4,Stephen F. Austin,78150,,0
+1610612759,1980,00,Michael Wiley,Michael,michael-wiley,33,F,6-9,200,"OCT 16, 1957",23.0,R,Long Beach State,78527,,0

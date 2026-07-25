@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1991,00,Anthony Bonner,Anthony,anthony-bonner,24,F,6-8,215,"JUN 08, 1968",24.0,1,St. Louis,41,,0
+1610612758,1991,00,Randy Brown,Randy,randy-brown,3,G,6-2,191,"MAY 22, 1968",24.0,R,New Mexico State,753,,0
+1610612758,1991,00,Duane Causwell,Duane,duane-causwell,31,C,7-0,240,"MAY 31, 1968",24.0,1,Temple,190,,0
+1610612758,1991,00,Pete Chilcutt,Pete,pete-chilcutt,32,F,6-10,230,"SEP 14, 1968",23.0,R,North Carolina,432,,0
+1610612758,1991,00,Dennis Hopson,Dennis,dennis-hopson,20,F,6-5,200,"APR 22, 1965",27.0,4,Ohio State,77054,,0
+1610612758,1991,00,Les Jepsen,Les,les-jepsen,51,G,7-0,237,"JUN 24, 1967",25.0,1,Iowa,77129,,0
+1610612758,1991,00,Jim Les,Jim,jim-les,33,G,5-11,165,"AUG 18, 1963",28.0,3,Bradley,77372,,0
+1610612758,1991,00,Mitch Richmond,Mitch,mitch-richmond,2,G,6-5,215,"JUN 30, 1965",27.0,3,Kansas State,782,,0
+1610612758,1991,00,Dwayne Schintzius,Dwayne,dwayne-schintzius,42,C,7-1,260,"OCT 14, 1968",23.0,1,Florida,368,,0
+1610612758,1991,00,Lionel Simmons,Lionel,lionel-simmons,22,F,6-7,210,"NOV 14, 1968",23.0,1,La Salle,1489,,0
+1610612758,1991,00,Carl Thomas,Carl,carl-thomas,21,G,6-4,175,"OCT 03, 1969",22.0,R,Eastern Michigan,1063,,0
+1610612758,1991,00,Stephen Thompson,Stephen,stephen-thompson,5,F,6-4,185,"DEC 02, 1968",23.0,R,Syracuse,78333,,0
+1610612758,1991,00,Wayman Tisdale,Wayman,wayman-tisdale,23,F,6-9,240,"JUN 09, 1964",28.0,6,Oklahoma,47,,0
+1610612758,1991,00,Spud Webb,Spud,spud-webb,4,G,5-7,133,"JUL 13, 1963",28.0,6,North Carolina State,892,,0

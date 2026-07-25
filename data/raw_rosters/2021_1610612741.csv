@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612741,2021,00,Coby White,Coby,coby-white,0,G,6-4,195,"FEB 16, 2000",22.0,2,North Carolina,1629632,#7 Pick in 2019 Draft
+1610612741,2021,00,Lonzo Ball,Lonzo,lonzo-ball,2,G,6-6,190,"OCT 27, 1997",24.0,4,UCLA,1628366,
+1610612741,2021,00,Tristan Thompson,Tristan,tristan-thompson,3,C-F,6-9,254,"MAR 13, 1991",31.0,10,Texas-Austin,202684,
+1610612741,2021,00,Derrick Jones Jr.,Derrick,derrick-jones-jr,5,F,6-6,210,"FEB 15, 1997",25.0,5,UNLV,1627884,
+1610612741,2021,00,Alex Caruso,Alex,alex-caruso,6,G,6-5,186,"FEB 28, 1994",28.0,4,Texas A&M,1627936,
+1610612741,2021,00,Troy Brown Jr.,Troy,troy-brown-jr,7,G-F,6-6,215,"JUL 28, 1999",22.0,3,Oregon,1628972,
+1610612741,2021,00,Zach LaVine,Zach,zach-lavine,8,G-F,6-5,200,"MAR 10, 1995",27.0,7,UCLA,203897,
+1610612741,2021,00,Nikola Vučević,Nikola,nikola-vučević,9,C,6-10,260,"OCT 24, 1990",31.0,10,Southern California,202696,Traded from ORL on 03/25/21
+1610612741,2021,00,DeMar DeRozan,DeMar,demar-derozan,11,G-F,6-6,220,"AUG 07, 1989",32.0,12,Southern California,201942,
+1610612741,2021,00,Ayo Dosunmu,Ayo,ayo-dosunmu,12,G,6-4,200,"JAN 17, 2000",22.0,R,Illinois,1630245,#38 Pick in 2021 Draft
+1610612741,2021,00,Tony Bradley,Tony,tony-bradley,13,C-F,6-10,248,"JAN 08, 1998",24.0,4,North Carolina,1628396,
+1610612741,2021,00,Malcolm Hill,Malcolm,malcolm-hill,14,F,6-6,220,"OCT 26, 1995",26.0,R,Illinois,1630792,
+1610612741,2021,00,Marko Simonovic,Marko,marko-simonovic,19,C,6-11,220,"OCT 15, 1999",22.0,R,Mega Basket,1630250,
+1610612741,2021,00,Matt Thomas,Matt,matt-thomas,21,G,6-3,190,"AUG 04, 1994",27.0,2,Iowa State,1629744,
+1610612741,2021,00,Javonte Green,Javonte,javonte-green,24,G-F,6-5,205,"JUL 23, 1993",28.0,2,Radford,1629750,
+1610612741,2021,00,Tyler Cook,Tyler,tyler-cook,25,F,6-8,255,"SEP 23, 1997",24.0,2,Iowa,1629076,
+1610612741,2021,00,Patrick Williams,Patrick,patrick-williams,44,F,6-7,215,"AUG 26, 2001",20.0,1,Florida State,1630172,#4 Pick in 2020 Draft

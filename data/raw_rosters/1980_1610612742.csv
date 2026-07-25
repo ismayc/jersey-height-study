@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612742,1980,00,Darrell Allums,Darrell,darrell-allums,32,F,6-8,220,"SEP 12, 1958",22.0,R,UCLA,76030,,0
+1610612742,1980,00,Winford Boynes,Winford,winford-boynes,6,G,6-6,185,"MAY 17, 1957",24.0,2,San Francisco,76225,,0
+1610612742,1980,00,Marty Byrnes,Marty,marty-byrnes,45,F,6-7,215,"APR 30, 1956",25.0,2,Syracuse,76321,,0
+1610612742,1980,00,Brad Davis,Brad,brad-davis,15,G,6-3,180,"DEC 17, 1955",25.0,3,Maryland,76516,,0
+1610612742,1980,00,Monti Davis,Monti,monti-davis,43,F,6-7,205,"JUL 26, 1958",22.0,R,Tennessee State,76520,,0
+1610612742,1980,00,Ralph Drollinger,Ralph,ralph-drollinger,52,C,7-2,250,"APR 20, 1954",27.0,R,UCLA,76604,,0
+1610612742,1980,00,Terry Duerod,Terry,terry-duerod,42,G,6-2,180,"JUL 29, 1956",24.0,1,Detroit,76608,,0
+1610612742,1980,00,Abdul Jeelani,Abdul,abdul-jeelani,11,F,6-8,210,"FEB 10, 1954",27.0,1,Wisconsin-Parkside,77126,,0
+1610612742,1980,00,Clarence Kea,Clarence,clarence-kea,53,F,6-6,218,"FEB 02, 1959",22.0,R,Lamar,77229,,0
+1610612742,1980,00,Chad Kinch,Chad,chad-kinch,21,G,6-4,190,"MAY 22, 1958",23.0,R,North Carolina-Charlotte,77262,,0
+1610612742,1980,00,Tom LaGarde,Tom,tom-lagarde,25,C,6-10,220,"FEB 10, 1955",26.0,3,North Carolina,77328,,0
+1610612742,1980,00,Scott Lloyd,Scott,scott-lloyd,44,C,6-10,230,"DEC 19, 1952",28.0,3,Arizona State,77396,,0
+1610612742,1980,00,Ollie Mack,Ollie,ollie-mack,17,G,6-3,185,"JUN 06, 1957",24.0,1,East Carolina,77432,,0
+1610612742,1980,00,Stan Pietkiewicz,Stan,stan-pietkiewicz,43,G,6-5,200,"JUL 14, 1956",24.0,2,Auburn,77858,,0
+1610612742,1980,00,Bill Robinzine,Bill,bill-robinzine,54,F,6-7,230,"JAN 20, 1953",28.0,5,DePaul,77997,,0
+1610612742,1980,00,Jim Spanarkel,Jim,jim-spanarkel,33-34,G,6-5,190,"JUN 28, 1957",24.0,1,Duke,78222,,0

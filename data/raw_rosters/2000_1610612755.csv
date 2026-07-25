@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,2000,00,Allen Iverson,Allen,allen-iverson,3,G,6-0,165,"JUN 07, 1975",26.0,4,Georgetown,947,,0
+1610612755,2000,00,Kevin Ollie,Kevin,kevin-ollie,5,G,6-2,195,"DEC 27, 1972",28.0,3,Connecticut,1563,,0
+1610612755,2000,00,Aaron McKie,Aaron,aaron-mckie,8,G,6-5,209,"OCT 02, 1972",28.0,6,Temple,243,,0
+1610612755,2000,00,George Lynch,George,george-lynch,9,F,6-8,228,"SEP 03, 1970",30.0,7,North Carolina,248,,0
+1610612755,2000,00,Raja Bell,Raja,raja-bell,11,G,6-5,204,"SEP 19, 1976",24.0,R,Florida International,1952,,0
+1610612755,2000,00,Eric Snow,Eric,eric-snow,20,G,6-3,204,"APR 24, 1973",28.0,5,Michigan State,727,,0
+1610612755,2000,00,Rodney Buford,Rodney,rodney-buford,23,G-F,6-5,189,"NOV 02, 1977",23.0,1,Creighton,1934,,0
+1610612755,2000,00,Jumaine Jones,Jumaine,jumaine-jones,33,C,6-8,218,"FEB 10, 1979",22.0,1,Georgia,1908,,0
+1610612755,2000,00,Tyrone Hill,Tyrone,tyrone-hill,40,F,6-9,250,"MAR 19, 1968",33.0,10,Xavier,238,,0
+1610612755,2000,00,Todd MacCulloch,Todd,todd-macculloch,50,C,7-0,255,"JAN 27, 1976",25.0,1,Washington,1928,,0
+1610612755,2000,00,Matt Geiger,Matt,matt-geiger,52,C,7-1,248,"SEP 10, 1969",31.0,8,Georgia Tech,761,,0
+1610612755,2000,00,Dikembe Mutombo,Dikembe,dikembe-mutombo,55,C,7-2,265,"JUN 25, 1966",35.0,9,Georgetown,87,,0

@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612738,2019,00,Jayson Tatum,Jayson,jayson-tatum,0,F-G,6-8,210,"MAR 03, 1998",22.0,2,Duke,1628369,#3 Pick in 2017 Draft
+1610612738,2019,00,Carsen Edwards,Carsen,carsen-edwards,4,G,5-11,200,"MAR 12, 1998",22.0,R,Purdue,1629035,
+1610612738,2019,00,Jaylen Brown,Jaylen,jaylen-brown,7,G-F,6-6,223,"OCT 24, 1996",23.0,3,California,1627759,#3 Pick in 2016 Draft
+1610612738,2019,00,Kemba Walker,Kemba,kemba-walker,8,G,6-0,184,"MAY 08, 1990",30.0,8,Connecticut,202689,
+1610612738,2019,00,Brad Wanamaker,Brad,brad-wanamaker,9,G,6-3,210,"JUL 25, 1989",30.0,1,Pittsburgh,202954,
+1610612738,2019,00,Enes Freedom,Enes,enes-freedom,11,C,6-10,250,"MAY 20, 1992",28.0,8,Fenerbahce,202683,
+1610612738,2019,00,Grant Williams,Grant,grant-williams,12,F,6-6,236,"NOV 30, 1998",21.0,R,Tennessee,1629684,
+1610612738,2019,00,Gordon Hayward,Gordon,gordon-hayward,20,F,6-7,225,"MAR 23, 1990",30.0,9,Butler,202330,
+1610612738,2019,00,Daniel Theis,Daniel,daniel-theis,27,F-C,6-8,245,"APR 04, 1992",28.0,2,Brose Bamberg,1628464,
+1610612738,2019,00,Marcus Smart,Marcus,marcus-smart,36,G,6-3,220,"MAR 06, 1994",26.0,5,Oklahoma State,203935,
+1610612738,2019,00,Semi Ojeleye,Semi,semi-ojeleye,37,F,6-6,240,"DEC 05, 1994",25.0,2,Southern Methodist,1628400,
+1610612738,2019,00,Javonte Green,Javonte,javonte-green,43,G-F,6-4,205,"JUL 23, 1993",26.0,R,Radford,1629750,
+1610612738,2019,00,Robert Williams III,Robert,robert-williams-iii,44,C-F,6-8,237,"OCT 17, 1997",22.0,1,Texas A&M,1629057,
+1610612738,2019,00,Romeo Langford,Romeo,romeo-langford,45,G-F,6-4,216,"OCT 25, 1999",20.0,R,Indiana,1629641,
+1610612738,2019,00,Tremont Waters,Tremont,tremont-waters,51,G,5-10,175,"JAN 10, 1998",22.0,R,Louisiana State,1629682,
+1610612738,2019,00,Vincent Poirier,Vincent,vincent-poirier,77,C-F,7-0,235,"OCT 17, 1993",26.0,R,Baskonia,1629738,
+1610612738,2019,00,Tacko Fall,Tacko,tacko-fall,99,C,7-5,311,"DEC 10, 1995",24.0,R,UCF,1629605,

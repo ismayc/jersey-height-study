@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1989,00,Dana Barros,Dana,dana-barros,11,G,5-11,165,"APR 13, 1967",23.0,R,Boston College,344,,0
+1610612760,1989,00,Michael Cage,Michael,michael-cage,44,C,6-9,224,"JAN 28, 1962",28.0,5,San Diego State,262,,0
+1610612760,1989,00,Quintin Dailey,Quintin,quintin-dailey,20,G,6-3,180,"JAN 22, 1961",29.0,7,San Francisco,76497,,0
+1610612760,1989,00,Dale Ellis,Dale,dale-ellis,3,G,6-7,205,"AUG 06, 1960",29.0,6,Tennessee,107,,0
+1610612760,1989,00,Jim Farmer,Jim,jim-farmer,21,F,6-4,190,"SEP 23, 1964",25.0,2,Alabama,76695,,0
+1610612760,1989,00,Avery Johnson,Avery,avery-johnson,15,G,5-11,185,"MAR 25, 1965",25.0,1,Southern,422,,0
+1610612760,1989,00,Steve Johnson,Steve,steve-johnson,33,C,6-10,235,"NOV 03, 1957",32.0,8,Oregon State,77134,,0
+1610612760,1989,00,Shawn Kemp,Shawn,shawn-kemp,40,F,6-10,280,"NOV 26, 1969",20.0,R,Concord HS (IN),431,,0
+1610612760,1989,00,Xavier McDaniel,Xavier,xavier-mcdaniel,34,F,6-7,205,"JUN 04, 1963",27.0,4,Wichita State,1365,,0
+1610612760,1989,00,Derrick McKey,Derrick,derrick-mckey,31,F,6-9,205,"OCT 10, 1966",23.0,2,Alabama,365,,0
+1610612760,1989,00,Nate McMillan,Nate,nate-mcmillan,10,G,6-5,195,"AUG 03, 1964",25.0,3,North Carolina State,203,,0
+1610612760,1989,00,Scott Meents,Scott,scott-meents,50,F,6-10,225,"JAN 04, 1964",26.0,R,Illinois,77571,,0
+1610612760,1989,00,Olden Polynice,Olden,olden-polynice,23,C-F,7-0,250,"NOV 21, 1964",25.0,2,Virginia,178,,0
+1610612760,1989,00,Sedale Threatt,Sedale,sedale-threatt,4,G,6-2,175,"SEP 10, 1961",28.0,6,West Virginia Tech,9,,0

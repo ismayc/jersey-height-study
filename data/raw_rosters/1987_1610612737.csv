@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1987,00,John Battle,John,john-battle,12,G,6-2,175,"NOV 09, 1962",25.0,2,Rutgers,174,,0
+1610612737,1987,00,Antoine Carr,Antoine,antoine-carr,33,F,6-9,225,"JUL 23, 1961",26.0,3,Wichita State,156,,0
+1610612737,1987,00,Scott Hastings,Scott,scott-hastings,44,F,6-10,235,"JUN 03, 1960",28.0,5,Arkansas,76968,,0
+1610612737,1987,00,Jon Koncak,Jon,jon-koncak,32,C,7-0,250,"MAY 17, 1963",25.0,2,Southern Methodist,402,,0
+1610612737,1987,00,Cliff Levingston,Cliff,cliff-levingston,53,F,6-8,210,"JAN 04, 1961",27.0,5,Wichita State,77377,,0
+1610612737,1987,00,Doc Rivers,Doc,doc-rivers,25,G,6-4,185,"OCT 13, 1961",26.0,4,Marquette,470,,0
+1610612737,1987,00,Tree Rollins,Tree,tree-rollins,30,C,7-1,235,"JUN 16, 1955",33.0,10,Clemson,78014,,0
+1610612737,1987,00,Chris Washburn,Chris,chris-washburn,50,C,6-11,225,"MAY 13, 1965",23.0,1,North Carolina State,78463,,0
+1610612737,1987,00,Spud Webb,Spud,spud-webb,4,G,5-7,133,"JUL 13, 1963",24.0,2,North Carolina State,892,,0
+1610612737,1987,00,Ennis Whatley,Ennis,ennis-whatley,1,G,6-3,177,"AUG 11, 1962",25.0,4,Alabama,941,,0
+1610612737,1987,00,Dominique Wilkins,Dominique,dominique-wilkins,21,F,6-8,200,"JAN 12, 1960",28.0,5,Georgia,1122,,0
+1610612737,1987,00,Kevin Willis,Kevin,kevin-willis,42,F-C,7-0,245,"SEP 06, 1962",25.0,3,Michigan State,788,,0
+1610612737,1987,00,Randy Wittman,Randy,randy-wittman,10,G,6-6,210,"OCT 28, 1959",28.0,4,Indiana,1456,,0
+1610612737,1987,00,Leon Wood,Leon,leon-wood,1,G,6-3,185,"MAR 25, 1962",26.0,3,California State-Fullerton,78611,,0

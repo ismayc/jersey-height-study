@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612758,2020,00,Tyrese Haliburton,Tyrese,tyrese-haliburton,0,G,6-5,185,"FEB 29, 2000",21.0,R,Iowa State,1630169,
+1610612758,2020,00,Jahmi'us Ramsey,Jahmi'us,jahmius-ramsey,3,G,6-3,190,"JUN 09, 2001",20.0,R,Texas Tech,1630186,
+1610612758,2020,00,De'Aaron Fox,De'Aaron,deaaron-fox,5,G,6-3,185,"DEC 20, 1997",23.0,3,Kentucky,1628368,
+1610612758,2020,00,Kyle Guy,Kyle,kyle-guy,7,G,6-1,167,"AUG 11, 1997",23.0,1,Virginia,1629657,
+1610612758,2020,00,Maurice Harkless,Maurice,maurice-harkless,8,F-G,6-7,220,"MAY 11, 1993",28.0,8,"St. John's, N.Y.",203090,
+1610612758,2020,00,Terence Davis,Terence,terence-davis,9,G,6-4,201,"MAY 16, 1997",24.0,1,Mississippi,1629056,Signed on 04/09/25
+1610612758,2020,00,Justin James,Justin,justin-james,10,G-F,6-7,190,"JAN 24, 1997",24.0,1,Wyoming,1629713,
+1610612758,2020,00,Robert Woodard II,Robert,robert-woodard-ii,13,F,6-6,235,"SEP 22, 1999",21.0,R,Mississippi State,1630218,
+1610612758,2020,00,Damian Jones,Damian,damian-jones,15,C,6-11,245,"JUN 30, 1995",26.0,4,Vanderbilt,1627745,
+1610612758,2020,00,Hassan Whiteside,Hassan,hassan-whiteside,20,C,7-0,265,"JUN 13, 1989",32.0,8,Marshall,202355,
+1610612758,2020,00,Richaun Holmes,Richaun,richaun-holmes,22,F,6-10,235,"OCT 15, 1993",27.0,5,Bowling Green,1626158,
+1610612758,2020,00,Louis King,Louis,louis-king,23,F,6-7,205,"APR 06, 1999",22.0,1,Oregon,1629663,
+1610612758,2020,00,Buddy Hield,Buddy,buddy-hield,24,G,6-4,220,"DEC 17, 1992",28.0,4,Oklahoma,1627741,
+1610612758,2020,00,Chimezie Metu,Chimezie,chimezie-metu,25,F-C,6-9,225,"MAR 22, 1997",24.0,2,USC,1629002,
+1610612758,2020,00,Marvin Bagley III,Marvin,marvin-bagley-iii,35,F,6-11,235,"MAR 14, 1999",22.0,2,Duke,1628963,
+1610612758,2020,00,Harrison Barnes,Harrison,harrison-barnes,40,F,6-8,225,"MAY 30, 1992",29.0,8,North Carolina,203084,
+1610612758,2020,00,Delon Wright,Delon,delon-wright,55,G,6-5,185,"APR 26, 1992",29.0,5,Utah,1626153,

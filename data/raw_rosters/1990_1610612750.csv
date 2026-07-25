@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612750,1990,00,Randy Breuer,Randy,randy-breuer,45,C,7-3,230,"OCT 11, 1960",30.0,7,Minnesota,76247,,0
+1610612750,1990,00,Scott Brooks,Scott,scott-brooks,1,G,5-11,165,"JUL 31, 1965",25.0,2,California-Irvine,418,,0
+1610612750,1990,00,Tony Campbell,Tony,tony-campbell,19,F,6-7,215,"MAY 07, 1962",29.0,6,Ohio State,76338,,0
+1610612750,1990,00,Richard Coffey,Richard,richard-coffey,33,G,6-6,212,"SEP 02, 1965",25.0,R,Minnesota,76410,,0
+1610612750,1990,00,Tyrone Corbin,Tyrone,tyrone-corbin,23,F,6-6,210,"DEC 31, 1962",28.0,5,DePaul,895,,0
+1610612750,1990,00,Gerald Glass,Gerald,gerald-glass,22,F,6-5,221,"NOV 12, 1967",23.0,R,Mississippi,76821,,0
+1610612750,1990,00,Dan Godfread,Dan,dan-godfread,52,F,6-10,250,"JUN 14, 1967",24.0,R,Evansville,76827,,0
+1610612750,1990,00,Sam Mitchell,Sam,sam-mitchell,42,F,6-6,210,"SEP 02, 1963",27.0,1,Mercer,417,,0
+1610612750,1990,00,Tod Murphy,Tod,tod-murphy,4,C,6-9,220,"DEC 24, 1963",27.0,2,California-Irvine,77674,,0
+1610612750,1990,00,Pooh Richardson,Pooh,pooh-richardson,24,G,6-1,180,"MAY 14, 1966",25.0,1,UCLA,71,,0
+1610612750,1990,00,Felton Spencer,Felton,felton-spencer,50,C,7-0,265,"JAN 05, 1968",23.0,R,Louisville,280,,0
+1610612750,1990,00,Jim Thomas,Jim,jim-thomas,20,G,6-3,190,"OCT 19, 1960",30.0,3,Indiana,78320,,0
+1610612750,1990,00,Bob Thornton,Bob,bob-thornton,25,F,6-10,225,"JUL 10, 1962",28.0,5,California-Irvine,738,,0
+1610612750,1990,00,Doug West,Doug,doug-west,5,G,6-6,200,"MAY 27, 1967",24.0,1,Villanova,28,,0

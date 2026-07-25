@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612766,2021,00,Miles Bridges,Miles,miles-bridges,0,F,6-7,225,"MAR 21, 1998",24.0,3,Michigan State,1628970,Draft Rights Traded from LAC on 06/21/18
+1610612766,2021,00,LaMelo Ball,LaMelo,lamelo-ball,2,G,6-7,180,"AUG 22, 2001",20.0,1,Illawarra,1630163,#3 Pick in 2020 Draft
+1610612766,2021,00,Terry Rozier,Terry,terry-rozier,3,G,6-1,190,"MAR 17, 1994",28.0,6,Louisville,1626179,
+1610612766,2021,00,Isaiah Thomas,Isaiah,isaiah-thomas,4,G,5-9,185,"FEB 07, 1989",33.0,10,Washington,202738,
+1610612766,2021,00,James Bouknight,James,james-bouknight,5,G,6-4,190,"SEP 18, 2000",21.0,R,Connecticut,1630547,
+1610612766,2021,00,Jalen McDaniels,Jalen,jalen-mcdaniels,6,F-C,6-9,205,"JAN 31, 1998",24.0,2,San Diego State,1629667,
+1610612766,2021,00,Montrezl Harrell,Montrezl,montrezl-harrell,8,F-C,6-7,240,"JAN 26, 1994",28.0,6,Louisville,1626149,
+1610612766,2021,00,Cody Martin,Cody,cody-martin,11,F,6-6,205,"SEP 28, 1995",26.0,2,Nevada,1628998,
+1610612766,2021,00,Kelly Oubre Jr.,Kelly,kelly-oubre-jr,12,F-G,6-6,203,"DEC 09, 1995",26.0,6,Kansas,1626162,
+1610612766,2021,00,Nick Richards,Nick,nick-richards,14,C,7-0,245,"NOV 29, 1997",24.0,1,Kentucky,1630208,
+1610612766,2021,00,Scottie Lewis,Scottie,scottie-lewis,16,G,6-5,185,"MAR 12, 2000",22.0,R,Florida,1630575,
+1610612766,2021,00,Gordon Hayward,Gordon,gordon-hayward,20,F,6-7,225,"MAR 23, 1990",32.0,11,Butler,202330,
+1610612766,2021,00,JT Thor,JT,jt-thor,21,F,6-9,203,"AUG 26, 2002",19.0,R,Auburn,1630550,
+1610612766,2021,00,Kai Jones,Kai,kai-jones,23,C-F,6-10,221,"JAN 19, 2001",21.0,R,Texas,1630539,
+1610612766,2021,00,Mason Plumlee,Mason,mason-plumlee,24,F-C,6-11,254,"MAR 05, 1990",32.0,8,Duke,203486,Signed on 07/13/25
+1610612766,2021,00,P.J. Washington,P.J.,pj-washington,25,F,6-7,230,"AUG 23, 1998",23.0,2,Kentucky,1629023,
+1610612766,2021,00,Arnoldas Kulboka,Arnoldas,arnoldas-kulboka,98,F,6-10,209,"JAN 04, 1998",24.0,R,Bilbao,1629083,

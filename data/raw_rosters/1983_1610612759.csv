@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612759,1983,00,Gene Banks,Gene,gene-banks,20,F,6-7,215,"MAY 15, 1959",25.0,2,Duke,76093,,0
+1610612759,1983,00,Dave Batton,Dave,dave-batton,45,C,6-10,240,"MAR 26, 1956",28.0,1,Notre Dame,76124,,0
+1610612759,1983,00,Ron Brewer,Ron,ron-brewer,10,G,6-4,180,"SEP 16, 1955",28.0,5,Arkansas,76249,,0
+1610612759,1983,00,George Gervin,George,george-gervin,44,G,6-7,180,"APR 27, 1952",32.0,7,Eastern Michigan,76804,,0
+1610612759,1983,00,Artis Gilmore,Artis,artis-gilmore,53,C,7-2,240,"SEP 21, 1948",35.0,7,Jacksonville,600014,,0
+1610612759,1983,00,Edgar Jones,Edgar,edgar-jones,42,F,6-10,225,"JUN 17, 1956",28.0,3,Nevada,77184,,0
+1610612759,1983,00,Steve Lingenfelter,Steve,steve-lingenfelter,25,F,6-9,225,"JUN 10, 1958",26.0,1,South Dakota State,77389,,0
+1610612759,1983,00,Darrell Lockhart,Darrell,darrell-lockhart,32,F,6-9,245,"SEP 14, 1960",23.0,R,Auburn,77399,,0
+1610612759,1983,00,John Lucas,John,john-lucas,15,G,6-3,175,"OCT 31, 1953",30.0,7,Maryland,77419,,0
+1610612759,1983,00,Mark McNamara,Mark,mark-mcnamara,31,C,6-11,235,"JUN 08, 1959",25.0,1,California,77558,,0
+1610612759,1983,00,Bob Miller,Bob,bob-miller,41,F,6-10,230,"JUL 09, 1956",27.0,R,Cincinnati,77603,,0
+1610612759,1983,00,Mike Mitchell,Mike,mike-mitchell,34,F,6-7,215,"JAN 01, 1956",28.0,5,Auburn,77615,,0
+1610612759,1983,00,Johnny Moore,Johnny,johnny-moore,0,G,6-1,175,"MAR 03, 1958",26.0,3,Texas,77633,,0
+1610612759,1983,00,John Paxson,John,john-paxson,4,G,6-2,185,"SEP 29, 1960",23.0,R,Notre Dame,77820,,0
+1610612759,1983,00,Fred Roberts,Fred,fred-roberts,11,F,6-10,218,"AUG 14, 1960",23.0,R,Brigham Young,122,,0
+1610612759,1983,00,Brant Weidner,Brant,brant-weidner,25,F,6-9,230,"OCT 28, 1960",23.0,R,William & Mary,78484,,0
+1610612759,1983,00,Kevin Williams,Kevin,kevin-williams,12,G,6-2,175,"SEP 11, 1961",22.0,R,St. John's (NY),78556,,0

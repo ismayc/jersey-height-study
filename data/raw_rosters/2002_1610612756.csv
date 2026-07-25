@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,2002,00,Randy Brown,Randy,randy-brown,0,G,6-2,190,"MAY 22, 1968",35.0,11,New Mexico State,753,,0
+1610612756,2002,00,Anfernee Hardaway,Anfernee,anfernee-hardaway,1,G-F,6-7,215,"JUL 18, 1971",31.0,9,Memphis State,358,,0
+1610612756,2002,00,Joe Johnson,Joe,joe-johnson,2,G-F,6-7,235,"JUN 29, 1981",22.0,1,Arkansas,2207,,0
+1610612756,2002,00,Stephon Marbury,Stephon,stephon-marbury,3,G,6-2,205,"FEB 20, 1977",26.0,6,Georgia Tech,950,,0
+1610612756,2002,00,Alton Ford,Alton,alton-ford,4,F,6-9,280,"MAY 29, 1981",22.0,1,Houston,2228,,0
+1610612756,2002,00,Anthony Goldwire,Anthony,anthony-goldwire,10,G,6-2,182,"SEP 06, 1971",31.0,4,Houston,924,,0
+1610612756,2002,00,Maurice Baker,Maurice,maurice-baker,12,G,6-1,185,"JUL 28, 1979",23.0,R,Oklahoma State,2486,,0
+1610612756,2002,00,Dan Langhi,Dan,dan-langhi,14,F,6-11,220,"NOV 28, 1977",25.0,2,Vanderbilt,2061,,0
+1610612756,2002,00,Casey Jacobsen,Casey,casey-jacobsen,23,G-F,6-6,215,"MAR 19, 1981",22.0,R,Stanford,2418,,0
+1610612756,2002,00,Tom Gugliotta,Tom,tom-gugliotta,24,F,6-10,250,"DEC 19, 1969",33.0,10,North Carolina State,339,,0
+1610612756,2002,00,Jake Tsakalidis,Jake,jake-tsakalidis,25,C,7-2,290,"JUN 10, 1979",24.0,2,AEK Athens,2054,,0
+1610612756,2002,00,Shawn Marion,Shawn,shawn-marion,31,F,6-7,215,"MAY 07, 1978",25.0,3,UNLV,1890,,0
+1610612756,2002,00,Amar'e Stoudemire,Amar'e,amare-stoudemire,32,F,6-10,245,"NOV 16, 1982",20.0,R,Cypress Creek HS (FL),2405,,0
+1610612756,2002,00,Jake Voskuhl,Jake,jake-voskuhl,43,C,6-11,245,"NOV 01, 1977",25.0,2,Connecticut,2063,,0
+1610612756,2002,00,Bo Outlaw,Bo,bo-outlaw,45,F,6-8,220,"APR 13, 1971",32.0,9,Houston,448,,0
+1610612756,2002,00,Scott Williams,Scott,scott-williams,47,F-C,6-10,260,"MAR 21, 1968",35.0,12,North Carolina,281,,0

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612739,1982,00,John Bagley,John,john-bagley,5,G,6-0,185,"APR 23, 1960",23.0,R,Boston College,76082,,0
+1610612739,1982,00,Jeff Cook,Jeff,jeff-cook,44,F,6-10,215,"OCT 21, 1956",26.0,3,Idaho State,76436,,0
+1610612739,1982,00,Bruce Flowers,Bruce,bruce-flowers,23,F,6-8,225,"JUN 13, 1957",26.0,R,Notre Dame,76725,,0
+1610612739,1982,00,World Free,World,world-free,21,G,6-3,185,"DEC 09, 1953",29.0,7,Guilford,76753,,0
+1610612739,1982,00,Steve Hayes,Steve,steve-hayes,41,C,7-0,205,"AUG 02, 1955",27.0,1,Idaho State,76980,,0
+1610612739,1982,00,Phil Hubbard,Phil,phil-hubbard,35,F,6-8,215,"DEC 13, 1956",26.0,3,Michigan,77071,,0
+1610612739,1982,00,Geoff Huston,Geoff,geoff-huston,20,G,6-2,175,"NOV 08, 1957",25.0,3,Texas Tech,77087,,0
+1610612739,1982,00,Larry Kenon,Larry,larry-kenon,9,F,6-9,205,"DEC 13, 1952",30.0,6,Memphis,77246,,0
+1610612739,1982,00,Sam Lacey,Sam,sam-lacey,52,C,6-10,235,"MAR 28, 1948",35.0,12,New Mexico State,77326,,0
+1610612739,1982,00,Dave Magley,Dave,dave-magley,30,F,6-8,202,"NOV 24, 1959",23.0,R,Kansas,77442,,0
+1610612739,1982,00,Carl Nicks,Carl,carl-nicks,24,G,6-1,175,"OCT 06, 1958",24.0,2,Indiana State,77715,,0
+1610612739,1982,00,Cliff T. Robinson,Cliff T.,cliff-t-robinson,11,F,6-9,220,"MAR 13, 1960",23.0,3,Southern California,77986,,0
+1610612739,1982,00,Darren Tillis,Darren,darren-tillis,25,C,6-11,215,"FEB 23, 1960",23.0,R,Cleveland State,78343,,0
+1610612739,1982,00,Bob Wilkerson,Bob,bob-wilkerson,33,G,6-6,195,"AUG 15, 1954",28.0,6,Indiana,78531,,0

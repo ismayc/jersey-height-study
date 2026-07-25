@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612742,2007,00,Jason Kidd,Jason,jason-kidd,2,G,6-4,210,"MAR 23, 1973",35.0,13,California,467,,0
+1610612742,2007,00,Josh Howard,Josh,josh-howard,5,F-G,6-5,210,"APR 28, 1980",28.0,4,Wake Forest,2572,,0
+1610612742,2007,00,Eddie Jones,Eddie,eddie-jones,6,G-F,6-6,200,"OCT 20, 1971",36.0,13,Temple,224,,0
+1610612742,2007,00,Tyronn Lue,Tyronn,tyronn-lue,10,G,6-0,175,"MAY 03, 1977",31.0,9,Nebraska,1731,,0
+1610612742,2007,00,J.J. Barea,J.J.,jj-barea,11,G,6-0,175,"JUN 26, 1984",24.0,1,Northeastern,200826,,0
+1610612742,2007,00,Jamaal Magloire,Jamaal,jamaal-magloire,20,C,6-11,265,"MAY 21, 1978",30.0,7,Kentucky,2048,,0
+1610612742,2007,00,Antoine Wright,Antoine,antoine-wright,21,G-F,6-7,215,"FEB 06, 1984",24.0,2,Texas A&M,101120,,0
+1610612742,2007,00,Erick Dampier,Erick,erick-dampier,25,C,6-11,265,"JUL 14, 1975",32.0,11,Mississippi State,956,,0
+1610612742,2007,00,Malik Allen,Malik,malik-allen,30,F,6-10,255,"JUN 27, 1978",30.0,6,Villanova,2124,,0
+1610612742,2007,00,Jason Terry,Jason,jason-terry,31,G,6-2,180,"SEP 15, 1977",30.0,8,Arizona,1891,,0
+1610612742,2007,00,Brandon Bass,Brandon,brandon-bass,32,F,6-8,240,"APR 30, 1985",23.0,2,Louisiana State,101138,,0
+1610612742,2007,00,Devean George,Devean,devean-george,40,F-G,6-8,235,"AUG 29, 1977",30.0,8,Augsburg,1904,,0
+1610612742,2007,00,Dirk Nowitzki,Dirk,dirk-nowitzki,41,F,7-0,245,"JUN 19, 1978",30.0,9,DJK Wurzburg,1717,,0
+1610612742,2007,00,Jerry Stackhouse,Jerry,jerry-stackhouse,42,G-F,6-6,218,"NOV 05, 1974",33.0,12,North Carolina,711,,0
+1610612742,2007,00,Juwan Howard,Juwan,juwan-howard,55,F,6-9,253,"FEB 07, 1973",35.0,13,Michigan,436,,0

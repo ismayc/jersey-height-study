@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612751,1981,00,James Bailey,James,james-bailey,33,F,6-9,220,"MAY 21, 1957",25.0,2,Rutgers,76085,,0
+1610612751,1981,00,Otis Birdsong,Otis,otis-birdsong,10,G,6-3,190,"DEC 09, 1955",26.0,4,Houston,76170,,0
+1610612751,1981,00,Darwin Cook,Darwin,darwin-cook,12,G,6-3,184,"AUG 06, 1958",23.0,1,Portland,76435,,0
+1610612751,1981,00,Joe Cooper,Joe,joe-cooper,44,C,6-10,230,"SEP 01, 1957",24.0,R,Colorado,76443,,0
+1610612751,1981,00,Len Elmore,Len,len-elmore,44,C,6-10,220,"MAR 28, 1952",30.0,5,Maryland,600010,,0
+1610612751,1981,00,Mike Gminski,Mike,mike-gminski,42,C,6-11,250,"AUG 03, 1959",22.0,1,Duke,76826,,0
+1610612751,1981,00,Albert King,Albert,albert-king,55,F,6-6,190,"DEC 17, 1959",22.0,R,Maryland,77263,,0
+1610612751,1981,00,Sam Lacey,Sam,sam-lacey,40,C,6-10,235,"MAR 28, 1948",34.0,11,New Mexico State,77326,,0
+1610612751,1981,00,Mike O'Koren,Mike,mike-okoren,31,F,6-7,207,"FEB 07, 1958",24.0,1,North Carolina,77754,,0
+1610612751,1981,00,Ray Tolbert,Ray,ray-tolbert,30,F,6-9,225,"SEP 10, 1958",23.0,R,Indiana,78348,,0
+1610612751,1981,00,Jan Van Breda Kolff,Jan,jan-van-breda-kolff,20,F,6-7,195,"DEC 16, 1951",30.0,5,Vanderbilt,78400,,0
+1610612751,1981,00,Foots Walker,Foots,foots-walker,1,G,6-1,172,"MAY 21, 1951",31.0,7,West Georgia,78436,,0
+1610612751,1981,00,Buck Williams,Buck,buck-williams,52,F,6-8,215,"MAR 08, 1960",22.0,R,Maryland,433,,0
+1610612751,1981,00,Ray Williams,Ray,ray-williams,13,G,6-3,188,"OCT 14, 1954",27.0,4,Minnesota,78571,,0

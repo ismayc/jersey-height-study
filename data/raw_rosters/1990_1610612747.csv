@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1990,00,Elden Campbell,Elden,elden-campbell,41,F-C,7-0,279,"JUL 23, 1968",22.0,R,Clemson,922,,0
+1610612747,1990,00,Vlade Divac,Vlade,vlade-divac,12,C,7-1,260,"FEB 03, 1968",23.0,1,Partizan,124,,0
+1610612747,1990,00,Larry Drew,Larry,larry-drew,10,G,6-1,170,"APR 02, 1958",33.0,9,Missouri,76599,,0
+1610612747,1990,00,A.C. Green,A.C.,ac-green,45,F,6-9,220,"OCT 04, 1963",27.0,5,Oregon State,920,,0
+1610612747,1990,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",31.0,11,Michigan State,77142,,0
+1610612747,1990,00,Sam Perkins,Sam,sam-perkins,14,F,6-9,235,"JUN 14, 1961",30.0,6,North Carolina,64,,0
+1610612747,1990,00,Byron Scott,Byron,byron-scott,4,G,6-3,195,"MAR 28, 1961",30.0,7,Arizona State,2,,0
+1610612747,1990,00,Tony Smith,Tony,tony-smith,34,G,6-3,185,"JUN 14, 1968",23.0,R,Marquette,380,,0
+1610612747,1990,00,Terry Teagle,Terry,terry-teagle,20,G,6-5,195,"APR 10, 1960",31.0,8,Baylor,78304,,0
+1610612747,1990,00,Irving Thomas,Irving,irving-thomas,30,F,6-8,225,"JAN 02, 1966",25.0,R,Florida State,78317,,0
+1610612747,1990,00,Mychal Thompson,Mychal,mychal-thompson,43,C,6-10,226,"JAN 30, 1955",36.0,11,Minnesota,78331,,0
+1610612747,1990,00,James Worthy,James,james-worthy,42,F,6-9,225,"FEB 27, 1961",30.0,8,North Carolina,1460,,0

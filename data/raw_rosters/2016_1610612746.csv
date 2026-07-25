@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612746,2016,00,Diamond Stone,Diamond,diamond-stone,0,C,6-11,255,"FEB 10, 1997",20.0,R,Maryland,1627754,
+1610612746,2016,00,Raymond Felton,Raymond,raymond-felton,2,G,6-1,205,"JUN 26, 1984",33.0,11,North Carolina,101109,
+1610612746,2016,00,Chris Paul,Chris,chris-paul,3,G,6-0,175,"MAY 06, 1985",32.0,11,Wake Forest,101108,Signed on 07/21/25
+1610612746,2016,00,JJ Redick,JJ,jj-redick,4,G,6-4,190,"JUN 24, 1984",33.0,10,Duke,200755,
+1610612746,2016,00,Marreese Speights,Marreese,marreese-speights,5,F-C,6-10,255,"AUG 04, 1987",29.0,8,Florida,201578,
+1610612746,2016,00,DeAndre Jordan,DeAndre,deandre-jordan,6,C,6-11,265,"JUL 21, 1988",28.0,8,Texas A&M,201599,
+1610612746,2016,00,Alan Anderson,Alan,alan-anderson,9,F-G,6-6,220,"OCT 16, 1982",34.0,7,Michigan State,101187,
+1610612746,2016,00,Brice Johnson,Brice,brice-johnson,10,F,6-10,230,"JUN 27, 1994",23.0,R,North Carolina,1627744,
+1610612746,2016,00,Jamal Crawford,Jamal,jamal-crawford,11,G,6-5,195,"MAR 20, 1980",37.0,16,Michigan,2037,
+1610612746,2016,00,Luc Mbah a Moute,Luc,luc-mbah-a-moute,12,F,6-8,230,"SEP 09, 1986",30.0,8,UCLA,201601,
+1610612746,2016,00,Austin Rivers,Austin,austin-rivers,25,G,6-4,200,"AUG 01, 1992",24.0,4,Duke,203085,
+1610612746,2016,00,Brandon Bass,Brandon,brandon-bass,30,F,6-8,250,"APR 30, 1985",32.0,11,Louisiana State,101138,
+1610612746,2016,00,Blake Griffin,Blake,blake-griffin,32,F,6-10,251,"MAR 16, 1989",28.0,6,Oklahoma,201933,
+1610612746,2016,00,Wesley Johnson,Wesley,wesley-johnson,33,F,6-7,215,"JUL 11, 1987",29.0,6,Syracuse,202325,
+1610612746,2016,00,Paul Pierce,Paul,paul-pierce,34,F,6-7,235,"OCT 13, 1977",39.0,18,Kansas,1718,

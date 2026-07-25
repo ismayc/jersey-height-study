@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1984,00,Don Buse,Don,don-buse,10,G,6-4,190,"AUG 10, 1950",34.0,8,Evansville,76317,,0
+1610612758,1984,00,Larry Drew,Larry,larry-drew,22,G,6-1,170,"APR 02, 1958",27.0,4,Missouri,76599,,0
+1610612758,1984,00,Eddie Johnson,Eddie,eddie-johnson,,F,, ,"MAY 01, 1959",26.0,3,Illinois,698,,0
+1610612758,1984,00,Billy Knight,Billy,billy-knight,25,F,6-6,195,"JUN 09, 1952",33.0,8,Pittsburgh,77290,,0
+1610612758,1984,00,Mark McNamara,Mark,mark-mcnamara,35,C,6-11,235,"JUN 08, 1959",26.0,2,California,77558,,0
+1610612758,1984,00,Joe Meriweather,Joe,joe-meriweather,50,C,6-10,215,"OCT 26, 1953",31.0,9,Southern Illinois,77582,,0
+1610612758,1984,00,Kenny Natt,Kenny,kenny-natt,2,G,6-3,185,"OCT 05, 1958",26.0,2,Louisiana-Monroe,77692,,0
+1610612758,1984,00,Ed Nealy,Ed,ed-nealy,20,F,6-7,238,"FEB 19, 1960",25.0,2,Kansas State,77697,,0
+1610612758,1984,00,Mark Olberding,Mark,mark-olberding,53,F,6-8,225,"APR 21, 1956",29.0,8,Minnesota,77756,,0
+1610612758,1984,00,David Pope,David,david-pope,30,F,6-7,220,"APR 15, 1962",23.0,R,Norfolk State,77870,,0
+1610612758,1984,00,Dane Suttle,Dane,dane-suttle,2,G,6-3,190,"AUG 09, 1961",23.0,1,Pepperdine,78281,,0
+1610612758,1984,00,Reggie Theus,Reggie,reggie-theus,24,G,6-6,190,"OCT 13, 1957",27.0,6,UNLV,78310,,0
+1610612758,1984,00,LaSalle Thompson,LaSalle,lasalle-thompson,41,C,6-10,245,"JUN 23, 1961",24.0,2,Texas,78,,0
+1610612758,1984,00,Otis Thorpe,Otis,otis-thorpe,33,F,6-9,225,"AUG 05, 1962",22.0,R,Providence,901,,0
+1610612758,1984,00,Peter Verhoeven,Peter,peter-verhoeven,40,F,6-9,215,"FEB 15, 1959",26.0,3,Fresno State,78414,,0
+1610612758,1984,00,Mike Woodson,Mike,mike-woodson,42,G,6-5,195,"MAR 24, 1958",27.0,4,Indiana,78614,,0

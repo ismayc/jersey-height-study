@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,1995,00,Elliot Perry,Elliot,elliot-perry,2,G,6-0,160,"MAR 28, 1969",27.0,3,Memphis,386,,0
+1610612756,1995,00,Michael Finley,Michael,michael-finley,4,F,6-7,215,"MAR 06, 1973",23.0,R,Wisconsin,714,,0
+1610612756,1995,00,Kevin Johnson,Kevin,kevin-johnson,7,G,6-1,190,"MAR 04, 1966",30.0,8,California,134,,0
+1610612756,1995,00,Mario Bennett,Mario,mario-bennett,8,F,6-9,235,"AUG 01, 1973",22.0,R,Arizona State,712,,0
+1610612756,1995,00,Wesley Person,Wesley,wesley-person,11,G,6-6,195,"MAR 28, 1971",25.0,1,Auburn,445,,0
+1610612756,1995,00,Danny Manning,Danny,danny-manning,15,F,6-10,234,"MAY 17, 1966",30.0,7,Kansas,330,,0
+1610612756,1995,00,Hot Rod Williams,Hot Rod,hot-rod-williams,18,C-F,6-11,245,"AUG 09, 1962",33.0,9,Tulane,73,,0
+1610612756,1995,00,Wayman Tisdale,Wayman,wayman-tisdale,23,C-F,6-9,260,"JUN 09, 1964",32.0,10,Oklahoma,47,,0
+1610612756,1995,00,Charles Barkley,Charles,charles-barkley,34,F,6-6,252,"FEB 20, 1963",33.0,11,Auburn,787,,0
+1610612756,1995,00,Joe Kleine,Joe,joe-kleine,35,C,7-0,271,"JAN 04, 1962",34.0,10,Arkansas,170,,0
+1610612756,1995,00,John Coker,John,john-coker,40,C,7-0,253,"OCT 28, 1971",24.0,R,Boise State,715,,0
+1610612756,1995,00,Chris Carr,Chris,chris-carr,43,G,6-6,207,"MAR 12, 1974",22.0,R,Southern Illinois,713,,0
+1610612756,1995,00,A.C. Green,A.C.,ac-green,45,F,6-9,225,"OCT 04, 1963",32.0,10,Oregon State,920,,0
+1610612756,1995,00,Stefano Rusconi,Stefano,stefano-rusconi,51,F,6-9,240,"FEB 10, 1968",28.0,R,Benetton Treviso,474,,0

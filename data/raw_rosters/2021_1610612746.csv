@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+1610612746,2021,00,Jay Scrubb,Jay,jay-scrubb,0,G,6-5,220,"SEP 01, 2000",21.0,1,John A. Logan,1630206,
+1610612746,2021,00,Reggie Jackson,Reggie,reggie-jackson,1,G,6-2,208,"APR 16, 1990",32.0,10,Boston College,202704,
+1610612746,2021,00,Kawhi Leonard,Kawhi,kawhi-leonard,2,F,6-7,225,"JUN 29, 1991",31.0,10,San Diego State,202695,Signed on 07/09/19
+1610612746,2021,00,Brandon Boston,Brandon,brandon-boston,4,G,6-6,188,"NOV 28, 2001",20.0,R,Kentucky,1630527,
+1610612746,2021,00,Luke Kennard,Luke,luke-kennard,5,G,6-5,206,"JUN 24, 1996",26.0,4,Duke,1628379,
+1610612746,2021,00,Amir Coffey,Amir,amir-coffey,7,G-F,6-7,210,"JUN 17, 1997",25.0,2,Minnesota,1629599,
+1610612746,2021,00,Marcus Morris Sr.,Marcus,marcus-morris-sr,8,F,6-8,218,"SEP 02, 1989",32.0,10,Kansas,202694,
+1610612746,2021,00,Paul George,Paul,paul-george,13,F,6-8,220,"MAY 02, 1990",32.0,11,Fresno State,202331,
+1610612746,2021,00,Terance Mann,Terance,terance-mann,14,G-F,6-5,215,"OCT 18, 1996",25.0,2,Florida State,1629611,
+1610612746,2021,00,Xavier Moon,Xavier,xavier-moon,15,G,6-2,165,"JAN 02, 1995",27.0,R,Morehead State,1629875,
+1610612746,2021,00,Jason Preston,Jason,jason-preston,17,G,6-3,181,"AUG 10, 1999",22.0,R,Ohio,1630554,Signed on 08/11/25
+1610612746,2021,00,Rodney Hood,Rodney,rodney-hood,22,G-F,6-8,208,"OCT 20, 1992",29.0,7,Duke,203918,
+1610612746,2021,00,Robert Covington,Robert,robert-covington,23,F,6-7,209,"DEC 14, 1990",31.0,8,Tennessee State,203496,
+1610612746,2021,00,Norman Powell,Norman,norman-powell,24,G,6-3,215,"MAY 25, 1993",29.0,6,UCLA,1626181,
+1610612746,2021,00,Nicolas Batum,Nicolas,nicolas-batum,33,G-F,6-8,230,"DEC 14, 1988",33.0,13,Le Mans,201587,Signed on 07/09/24
+1610612746,2021,00,Ivica Zubac,Ivica,ivica-zubac,40,C,7-0,240,"MAR 18, 1997",25.0,5,Mega Basket,1627826,Traded from LAL on 02/07/19
+1610612746,2021,00,Isaiah Hartenstein,Isaiah,isaiah-hartenstein,55,C-F,7-0,250,"MAY 05, 1998",24.0,3,Zalgiris,1628392,

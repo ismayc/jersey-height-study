@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,2010,00,Russell Westbrook,Russell,russell-westbrook,0,G,6-3,187,"NOV 12, 1988",22.0,2,UCLA,201566,,0
+1610612760,2010,00,Thabo Sefolosha,Thabo,thabo-sefolosha,2,G,6-7,215,"MAY 02, 1984",27.0,4,Angelico Biella,200757,,0
+1610612760,2010,00,Nate Robinson,Nate,nate-robinson,3,G,5-9,180,"MAY 31, 1984",27.0,5,Washington,101126,,0
+1610612760,2010,00,Nick Collison,Nick,nick-collison,4,F-C,6-10,255,"OCT 26, 1980",30.0,6,Kansas,2555,,0
+1610612760,2010,00,Kendrick Perkins,Kendrick,kendrick-perkins,5,C,6-10,280,"NOV 10, 1984",26.0,7,Clifton J. Ozen HS (TX),2570,,0
+1610612760,2010,00,Eric Maynor,Eric,eric-maynor,6,G,6-3,175,"JUN 11, 1987",24.0,1,Va Commonwealth,201953,,0
+1610612760,2010,00,Royal Ivey,Royal,royal-ivey,7,G,6-4,215,"DEC 20, 1981",29.0,6,Texas,2767,,0
+1610612760,2010,00,Nazr Mohammed,Nazr,nazr-mohammed,8,C,6-10,250,"SEP 05, 1977",33.0,12,Kentucky,1737,,0
+1610612760,2010,00,Serge Ibaka,Serge,serge-ibaka,9,F-C,6-10,235,"SEP 18, 1989",21.0,1,Ricoh Manresa,201586,,0
+1610612760,2010,00,James Harden,James,james-harden,13,G,6-5,220,"AUG 26, 1989",21.0,1,Arizona State,201935,,0
+1610612760,2010,00,Daequan Cook,Daequan,daequan-cook,14,G,6-5,210,"APR 28, 1987",24.0,3,Ohio State,201161,,0
+1610612760,2010,00,Byron Mullens,Byron,byron-mullens,23,C,7-0,275,"FEB 14, 1989",22.0,1,Ohio State,201957,,0
+1610612760,2010,00,Robert Vaden,Robert,robert-vaden,30,G-F,6-5,205,"MAR 03, 1985",26.0,R,Alabama-Birmingham,201987,,0
+1610612760,2010,00,Kevin Durant,Kevin,kevin-durant,35,F,6-9,230,"SEP 29, 1988",22.0,3,Texas,201142,,0
+1610612760,2010,00,Cole Aldrich,Cole,cole-aldrich,45,C,6-11,245,"OCT 31, 1988",22.0,R,Kansas,202332,,0

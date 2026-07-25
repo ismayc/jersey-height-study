@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1984,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",38.0,15,UCLA,76003,,0
+1610612747,1984,00,Michael Cooper,Michael,michael-cooper,21,G,6-7,170,"APR 15, 1956",29.0,6,New Mexico,76444,,0
+1610612747,1984,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",25.0,5,Michigan State,77142,,0
+1610612747,1984,00,Earl Jones,Earl,earl-jones,1,C,7-0,210,"JAN 13, 1961",24.0,R,District of Columbia,77183,,0
+1610612747,1984,00,Mitch Kupchak,Mitch,mitch-kupchak,25,F,6-9,230,"MAY 24, 1954",31.0,7,North Carolina,77324,,0
+1610612747,1984,00,Ronnie Lester,Ronnie,ronnie-lester,12,G,6-2,175,"JAN 01, 1959",26.0,4,Iowa,77373,,0
+1610612747,1984,00,Bob McAdoo,Bob,bob-mcadoo,11,C,6-9,210,"SEP 25, 1951",33.0,12,North Carolina,77498,,0
+1610612747,1984,00,Mike McGee,Mike,mike-mcgee,40,F,6-5,190,"JUL 29, 1959",25.0,3,Michigan,77530,,0
+1610612747,1984,00,Chuck Nevitt,Chuck,chuck-nevitt,43,C,7-5,217,"JUN 13, 1959",26.0,1,North Carolina State,77707,,0
+1610612747,1984,00,Kurt Rambis,Kurt,kurt-rambis,31,F,6-8,213,"FEB 25, 1958",27.0,3,Santa Clara,77905,,0
+1610612747,1984,00,Byron Scott,Byron,byron-scott,4,G,6-3,195,"MAR 28, 1961",24.0,1,Arizona State,2,,0
+1610612747,1984,00,Larry Spriggs,Larry,larry-spriggs,35,F,6-7,230,"SEP 08, 1959",25.0,3,Howard,78233,,0
+1610612747,1984,00,Jamaal Wilkes,Jamaal,jamaal-wilkes,52,F,6-6,190,"MAY 02, 1953",32.0,10,UCLA,78532,,0
+1610612747,1984,00,James Worthy,James,james-worthy,42,F,6-9,225,"FEB 27, 1961",24.0,2,North Carolina,1460,,0

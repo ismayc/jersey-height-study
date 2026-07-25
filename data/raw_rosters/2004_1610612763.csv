@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612763,2004,00,Antonio Burks,Antonio,antonio-burks,1,G,6-0,195,"FEB 25, 1980",25.0,R,Memphis,2766,,0
+1610612763,2004,00,Jason Williams,Jason,jason-williams,2,G,6-1,190,"NOV 18, 1975",29.0,6,Florida,1715,,0
+1610612763,2004,00,Stromile Swift,Stromile,stromile-swift,4,F,6-9,230,"NOV 21, 1979",25.0,4,Louisiana State,2031,,0
+1610612763,2004,00,Bonzi Wells,Bonzi,bonzi-wells,6,G-F,6-5,210,"SEP 28, 1976",28.0,6,Ball State,1719,,0
+1610612763,2004,00,Pau Gasol,Pau,pau-gasol,16,F,7-0,240,"JUL 06, 1980",24.0,3,FC Barcelona,2200,,0
+1610612763,2004,00,Earl Watson,Earl,earl-watson,25,G,6-1,190,"JUN 12, 1979",26.0,3,UCLA,2248,,0
+1610612763,2004,00,Dahntay Jones,Dahntay,dahntay-jones,30,G-F,6-6,210,"DEC 27, 1980",24.0,1,Duke,2563,,0
+1610612763,2004,00,Shane Battier,Shane,shane-battier,31,F,6-8,220,"SEP 09, 1978",26.0,3,Duke,2203,,0
+1610612763,2004,00,Mike Miller,Mike,mike-miller,33,G,6-8,218,"FEB 19, 1980",25.0,4,Florida,2034,,0
+1610612763,2004,00,Brian Cardinal,Brian,brian-cardinal,35,F,6-8,245,"MAY 02, 1977",28.0,4,Purdue,2073,,0
+1610612763,2004,00,James Posey,James,james-posey,41,F-G,6-8,215,"JAN 13, 1977",28.0,5,Xavier,1899,,0
+1610612763,2004,00,Lorenzen Wright,Lorenzen,lorenzen-wright,42,C,6-11,240,"NOV 04, 1975",29.0,8,Memphis,953,,0

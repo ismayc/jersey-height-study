@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612754,1981,00,Don Buse,Don,don-buse,10,G,6-4,190,"AUG 10, 1950",31.0,5,Evansville,76317,,0
+1610612754,1981,00,Butch Carter,Butch,butch-carter,12,G,6-5,180,"JUN 11, 1958",24.0,1,Indiana,76355,,0
+1610612754,1981,00,Johnny Davis,Johnny,johnny-davis,16,G,6-2,170,"OCT 21, 1955",26.0,5,Dayton,76526,,0
+1610612754,1981,00,Clemon Johnson,Clemon,clemon-johnson,45,C,6-10,240,"SEP 12, 1956",25.0,3,Florida A&M,77136,,0
+1610612754,1981,00,George Johnson,George,george-johnson,,F,6-7,210,"DEC 08, 1956",25.0,3,St. John's (NY),77148,,0
+1610612754,1981,00,Billy Knight,Billy,billy-knight,25,F,6-6,195,"JUN 09, 1952",30.0,5,Pittsburgh,77290,,0
+1610612754,1981,00,George McGinnis,George,george-mcginnis,30,F,6-8,235,"AUG 12, 1950",31.0,6,Indiana,77532,,0
+1610612754,1981,00,Louis Orr,Louis,louis-orr,55,F,6-8,175,"MAY 07, 1958",24.0,1,Syracuse,77770,,0
+1610612754,1981,00,Tom Owens,Tom,tom-owens,26,C,6-10,215,"JUN 28, 1949",33.0,5,South Carolina,77786,,0
+1610612754,1981,00,Jerry Sichting,Jerry,jerry-sichting,14,G,6-1,168,"NOV 29, 1956",25.0,1,Purdue,78146,,0
+1610612754,1981,00,Raymond Townsend,Raymond,raymond-townsend,11,G,6-3,175,"DEC 20, 1955",26.0,2,UCLA,78365,,0
+1610612754,1981,00,Herb Williams,Herb,herb-williams,32,C,6-10,242,"FEB 16, 1958",24.0,R,Ohio State,1006,,0

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1981,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",35.0,12,UCLA,76003,,0
+1610612747,1981,00,Jim Brewer,Jim,jim-brewer,8,F,6-9,210,"DEC 03, 1951",30.0,8,Minnesota,76248,,0
+1610612747,1981,00,Michael Cooper,Michael,michael-cooper,21,G,6-7,170,"APR 15, 1956",26.0,3,New Mexico,76444,,0
+1610612747,1981,00,Clay Johnson,Clay,clay-johnson,34,G,6-4,175,"JUL 18, 1956",25.0,R,Missouri,77135,,0
+1610612747,1981,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",22.0,2,Michigan State,77142,,0
+1610612747,1981,00,Eddie Jordan,Eddie,eddie-jordan,5,G,6-1,170,"JAN 29, 1955",27.0,4,Rutgers,77205,,0
+1610612747,1981,00,Mitch Kupchak,Mitch,mitch-kupchak,41,F,6-9,230,"MAY 24, 1954",28.0,5,North Carolina,77324,,0
+1610612747,1981,00,Mark Landsberger,Mark,mark-landsberger,54,F,6-8,215,"MAY 21, 1955",27.0,4,Arizona State,77334,,0
+1610612747,1981,00,Bob McAdoo,Bob,bob-mcadoo,11,C,6-9,210,"SEP 25, 1951",30.0,9,North Carolina,77498,,0
+1610612747,1981,00,Mike McGee,Mike,mike-mcgee,40,F,6-5,190,"JUL 29, 1959",22.0,R,Michigan,77530,,0
+1610612747,1981,00,Kevin McKenna,Kevin,kevin-mckenna,30,F,6-5,195,"JAN 08, 1959",23.0,R,Creighton,77541,,0
+1610612747,1981,00,Norm Nixon,Norm,norm-nixon,10,G,6-2,170,"OCT 11, 1955",26.0,4,Duquesne,77721,,0
+1610612747,1981,00,Kurt Rambis,Kurt,kurt-rambis,31,F,6-8,213,"FEB 25, 1958",24.0,R,Santa Clara,77905,,0
+1610612747,1981,00,Jamaal Wilkes,Jamaal,jamaal-wilkes,52,F,6-6,190,"MAY 02, 1953",29.0,7,UCLA,78532,,0

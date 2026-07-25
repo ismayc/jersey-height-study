@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1982,00,Fred Brown,Fred,fred-brown,32,G,6-3,182,"AUG 07, 1948",34.0,11,Iowa,76272,,0
+1610612760,1982,00,James Donaldson,James,james-donaldson,40,C,7-2,275,"AUG 16, 1957",25.0,2,Washington State,76583,,0
+1610612760,1982,00,John Greig,John,john-greig,22,F,6-7,215,"APR 28, 1961",22.0,R,Oregon,76885,,0
+1610612760,1982,00,Steve Hawes,Steve,steve-hawes,10,C,6-9,220,"MAY 26, 1950",33.0,8,Washington,76971,,0
+1610612760,1982,00,Greg Kelser,Greg,greg-kelser,3,F,6-7,190,"SEP 17, 1957",25.0,3,Michigan State,77239,,0
+1610612760,1982,00,Mark Radford,Mark,mark-radford,30,G,6-4,190,"JUL 05, 1959",23.0,1,Oregon State,77896,,0
+1610612760,1982,00,Lonnie Shelton,Lonnie,lonnie-shelton,8,F,6-8,240,"OCT 19, 1955",27.0,6,Oregon State,78133,,0
+1610612760,1982,00,Jack Sikma,Jack,jack-sikma,43,C,6-11,230,"NOV 14, 1955",27.0,5,Illinois Wesleyan,78149,,0
+1610612760,1982,00,Phil Smith,Phil,phil-smith,20,G,6-4,185,"APR 22, 1952",31.0,8,San Francisco,78199,,0
+1610612760,1982,00,David Thompson,David,david-thompson,44,G,6-4,195,"JUL 13, 1954",28.0,6,North Carolina State,78326,,0
+1610612760,1982,00,Danny Vranes,Danny,danny-vranes,23,F,6-7,210,"OCT 29, 1958",24.0,1,Utah,78423,,0
+1610612760,1982,00,Gus Williams,Gus,gus-williams,1,G,6-2,175,"OCT 10, 1953",29.0,6,Southern California,78549,,0

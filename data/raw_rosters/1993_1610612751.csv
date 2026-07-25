@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612751,1993,00,Kenny Anderson,Kenny,kenny-anderson,7,G,6-1,168,"OCT 09, 1970",23.0,2,Georgia Tech,72,,0
+1610612751,1993,00,Benoit Benjamin,Benoit,benoit-benjamin,0,C,7-0,250,"NOV 22, 1964",29.0,8,Creighton,104,,0
+1610612751,1993,00,P.J. Brown,P.J.,pj-brown,42,F-C,6-11,240,"OCT 14, 1969",24.0,R,Louisiana Tech,136,,0
+1610612751,1993,00,Derrick Coleman,Derrick,derrick-coleman,44,F,6-10,270,"JUN 21, 1967",27.0,3,Syracuse,934,,0
+1610612751,1993,00,Kevin Edwards,Kevin,kevin-edwards,21,G,6-3,190,"OCT 30, 1965",28.0,5,DePaul,236,,0
+1610612751,1993,00,Armen Gilliam,Armen,armen-gilliam,43,F,6-9,230,"MAY 28, 1964",30.0,6,UNLV,288,,0
+1610612751,1993,00,Dave Jamerson,Dave,dave-jamerson,24,G,6-5,190,"AUG 13, 1967",26.0,2,Ohio,77114,,0
+1610612751,1993,00,Rick Mahorn,Rick,rick-mahorn,4,F,6-10,240,"SEP 21, 1958",35.0,12,Hampton,328,,0
+1610612751,1993,00,Chris Morris,Chris,chris-morris,34,F,6-8,210,"JAN 20, 1966",28.0,5,Auburn,356,,0
+1610612751,1993,00,Johnny Newman,Johnny,johnny-newman,20,F,6-7,190,"NOV 28, 1963",30.0,7,Richmond,271,,0
+1610612751,1993,00,Dwayne Schintzius,Dwayne,dwayne-schintzius,33,C,7-1,260,"OCT 14, 1968",25.0,3,Florida,368,,0
+1610612751,1993,00,Rex Walters,Rex,rex-walters,2,G,6-4,190,"MAR 12, 1970",24.0,R,Kansas,777,,0
+1610612751,1993,00,David Wesley,David,david-wesley,1,G,6-1,211,"NOV 14, 1970",23.0,R,Baylor,133,,0
+1610612751,1993,00,Jayson Williams,Jayson,jayson-williams,55,F,6-9,240,"FEB 22, 1968",26.0,3,St. John's (NY),420,,0

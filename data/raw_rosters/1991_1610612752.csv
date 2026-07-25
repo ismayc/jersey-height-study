@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1991,00,Greg Anthony,Greg,greg-anthony,2,G,6-0,176,"NOV 15, 1967",24.0,R,UNLV,21,,0
+1610612752,1991,00,James Donaldson,James,james-donaldson,35,C,7-2,275,"AUG 16, 1957",34.0,11,Washington State,76583,,0
+1610612752,1991,00,Patrick Eddie,Patrick,patrick-eddie,41,C,6-11,240,"DEC 27, 1967",24.0,R,Mississippi,76635,,0
+1610612752,1991,00,Patrick Ewing,Patrick,patrick-ewing,33,C,7-0,240,"AUG 05, 1962",29.0,6,Georgetown,121,,0
+1610612752,1991,00,Mark Jackson,Mark,mark-jackson,13,G,6-3,205,"APR 01, 1965",27.0,4,St. John's (NY),349,,0
+1610612752,1991,00,Anthony Mason,Anthony,anthony-mason,14,F,6-8,270,"DEC 14, 1966",25.0,2,Tennessee State,193,,0
+1610612752,1991,00,Tim McCormick,Tim,tim-mccormick,44,C,6-11,240,"MAR 10, 1962",30.0,7,Michigan,77516,,0
+1610612752,1991,00,Xavier McDaniel,Xavier,xavier-mcdaniel,32,F,6-7,205,"JUN 04, 1963",29.0,6,Wichita State,1365,,0
+1610612752,1991,00,Carlton McKinney,Carlton,carlton-mckinney,4,F,6-4,190,"OCT 21, 1964",27.0,1,Southern Methodist,77545,,0
+1610612752,1991,00,Charles Oakley,Charles,charles-oakley,34,F-C,6-9,248,"DEC 18, 1963",28.0,6,Virginia Union,891,,0
+1610612752,1991,00,John Starks,John,john-starks,3,G,6-3,180,"AUG 10, 1965",26.0,2,Oklahoma State,317,,0
+1610612752,1991,00,Kiki Vandeweghe,Kiki,kiki-vandeweghe,55,F,6-8,220,"AUG 01, 1958",33.0,11,UCLA,78404,,0
+1610612752,1991,00,Gerald Wilkins,Gerald,gerald-wilkins,21,G,6-6,185,"SEP 11, 1963",28.0,6,Tennessee-Chattanooga,786,,0
+1610612752,1991,00,Kennard Winchester,Kennard,kennard-winchester,7-20,F,6-5,210,"SEP 03, 1966",25.0,1,Averett,78589,,0

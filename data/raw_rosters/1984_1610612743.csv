@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612743,1984,00,Wayne Cooper,Wayne,wayne-cooper,42,C,6-10,220,"NOV 16, 1956",28.0,6,New Orleans,76441,,0
+1610612743,1984,00,T.R. Dunn,T.R.,tr-dunn,23,G,6-4,192,"FEB 01, 1955",30.0,7,Alabama,76618,,0
+1610612743,1984,00,Alex English,Alex,alex-english,2,F,6-8,190,"JAN 05, 1954",31.0,8,South Carolina,76673,,0
+1610612743,1984,00,Mike Evans,Mike,mike-evans,5,G,6-1,170,"APR 19, 1955",30.0,5,Kansas State,76686,,0
+1610612743,1984,00,Bill Hanzlik,Bill,bill-hanzlik,24,F,6-7,185,"DEC 06, 1957",27.0,4,Notre Dame,76944,,0
+1610612743,1984,00,Dan Issel,Dan,dan-issel,44,C,6-9,235,"OCT 25, 1948",36.0,8,Kentucky,77097,,0
+1610612743,1984,00,Joe Kopicki,Joe,joe-kopicki,50,F,6-9,240,"JUN 12, 1960",25.0,2,Detroit,77300,,0
+1610612743,1984,00,Lafayette Lever,Lafayette,lafayette-lever,12,G,6-3,170,"AUG 18, 1960",24.0,2,Arizona State,77376,,0
+1610612743,1984,00,Calvin Natt,Calvin,calvin-natt,33,F,6-6,220,"JAN 08, 1957",28.0,5,Louisiana-Monroe,77691,,0
+1610612743,1984,00,Dan Schayes,Dan,dan-schayes,34,C,6-11,235,"MAY 10, 1959",26.0,3,Syracuse,7,,0
+1610612743,1984,00,Elston Turner,Elston,elston-turner,20,G,6-5,190,"JUN 10, 1959",26.0,3,Mississippi,78378,,0
+1610612743,1984,00,Willie White,Willie,willie-white,10,G,6-3,195,"AUG 20, 1962",22.0,R,Tennessee-Chattanooga,78515,,0
