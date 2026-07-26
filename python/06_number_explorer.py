@@ -51,7 +51,7 @@ def load_numbers() -> tuple[pl.DataFrame, dict]:
     df = (parsed.filter(pl.col("first_tok").is_not_null())
           .with_columns(number=pl.col("first_tok").cast(pl.Int64),
                         season_start=pl.col("season_start").cast(pl.Int64))
-          .select("season_start", "number"))
+          .select("season_start", "number", "PLAYER", "team_abbrev"))
     notes = {"dropped_blank": dropped, "multi_number_entries": multi,
              "pooled_0": pooled_0, "pooled_00": pooled_00,
              "kept": df.height, "raw": raw.height}
@@ -138,28 +138,41 @@ def figures(df: pl.DataFrame, seasons: pl.DataFrame) -> None:
     fig.write_html(FIG / "fig5_median_number.html", include_plotlyjs="cdn")
 
     # --- fig6: per-season histogram with slider + play ----------------------
-    counts = (df.group_by("season_start", "number").agg(n=pl.len()))
+    # When exactly one player wore a number that season, hover names him.
+    counts = (df.group_by("season_start", "number")
+              .agg(n=pl.len(),
+                   lone=pl.when(pl.len() == 1)
+                   .then(pl.format("<br>only wearer: {} ({})",
+                                   pl.col("PLAYER").first(),
+                                   pl.col("team_abbrev").first()))
+                   .otherwise(pl.lit(""))
+                   .first()))
     season_list = sorted(seasons["season_start"].to_list())
     label = {s: seasons.filter(pl.col("season_start") == s)["season"][0]
              for s in season_list}
     xs = list(range(100))
     ticktext = ["0/00"] + [str(i) for i in range(1, 100)]
 
-    def bars(s: int) -> list[int]:
-        c = dict(counts.filter(pl.col("season_start") == s)
-                 .select("number", "n").iter_rows())
-        return [c.get(i, 0) for i in xs]
+    def bars(s: int) -> tuple[list[int], list[list[str]]]:
+        rows = {num: (n, lone) for num, n, lone in
+                counts.filter(pl.col("season_start") == s)
+                .select("number", "n", "lone").iter_rows()}
+        ys = [rows.get(i, (0, ""))[0] for i in xs]
+        custom = [[ticktext[i], rows.get(i, (0, ""))[1]] for i in xs]
+        return ys, custom
 
     ymax = int(counts.group_by("season_start", "number").agg(
         pl.col("n").sum()).select(pl.col("n").max())[0, 0]) + 4
 
-    frames = [go.Frame(
-        name=label[s],
-        data=[go.Bar(x=xs, y=bars(s), marker_color="#1E3A5F",
-                     hovertemplate="number %{customdata}<br>%{y} players"
-                     "<extra></extra>",
-                     customdata=ticktext)])
-        for s in season_list]
+    def frame_bar(s: int) -> go.Bar:
+        ys, custom = bars(s)
+        return go.Bar(x=xs, y=ys, marker_color="#1E3A5F",
+                      customdata=custom,
+                      hovertemplate="number %{customdata[0]}<br>"
+                      "%{y} players%{customdata[1]}<extra></extra>")
+
+    frames = [go.Frame(name=label[s], data=[frame_bar(s)])
+              for s in season_list]
     first = season_list[0]
     fig = go.Figure(data=frames[0].data, frames=frames)
     fig.update_layout(
