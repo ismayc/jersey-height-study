@@ -172,6 +172,19 @@ lineup value. The sibling studies in the family cover those.
 
 ---
 
+## Exploratory: the numbers season by season
+
+`python/06_number_explorer.py` adds two explorable views (gated, wired
+into `run_checks.sh`): the median jersey number by season with quartile
+band (`figures/fig5_median_number.html`) and a slider/play histogram of
+the full number distribution per season
+(`figures/fig6_number_histogram.html`). Parsing rules, gated: **0 and 00
+are pooled** (noted on every surface that shows it), multi-number
+season entries use the first listed number, and blank entries are
+dropped and counted. Headline: the median number halved from 25
+(1980-81) to 13 (2024-25); the 0/00 share is at its all-time peak in
+2024-25.
+
 ## Findings
 
 Covering 1980-81 through 2024-25. Every number

@@ -46,6 +46,17 @@ The correlation between a player's number and his height fell from **+0.44
 to +0.12** across the sample: a quiet, steady cultural change that, unlike
 the height "decline," is exactly what it appears to be.
 
+The numbers themselves deserve a season-by-season look, not just a
+correlation. Two explorable views below (0 and 00 are pooled into a
+single bucket throughout: distinct uniforms, same cultural choice; the
+pooling is noted on each figure). The median tells the story in one line:
+**the typical jersey number has halved, from 25 in 1980-81 to 13 in
+2024-25.** The low numbers won.
+
+{{fig:fig5_median_number|The median jersey number by season, with the middle-50% band. Necessary because the correlation chart above says the number-height link dissolved but not what players chose instead: the entire distribution slid steadily toward low numbers, with the median halving over 45 seasons. Hover any season for the 0/00 and 50+ shares.}}
+
+{{fig:fig6_number_histogram|The full jersey-number distribution, one season at a time: drag the slider or press play to walk 45 seasons. This is the exploratory view the medians compress away: watch the high-number right tail thin out and the 0/00 bar (first bar, pooled) grow from 1.1% of the league in 1980-81 to 6.8% in 2024-25, its all-time peak. Numbers 50 and up went from 7.7% of players to 4.7%.}}
+
 Why does any of this matter beyond trivia? Because it is a clean, low-stakes
 rehearsal of a high-stakes failure mode: a headline metric moved, the
 obvious narrative was ready, and the obvious narrative was wrong in a way

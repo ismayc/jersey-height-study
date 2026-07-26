@@ -1,0 +1,5 @@
+check,value,threshold,passed
+kept + dropped rows account for every roster row,0.0,0.0,true
+per-season counts sum to the kept total,0.0,0.0,true
+pooled 0/00 bucket equals the raw '0' + '00' counts,0.0,0.0,true
+independent median re-derivation agrees (max |diff|),0.0,1e-9,true

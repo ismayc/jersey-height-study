@@ -16,3 +16,7 @@ Rscript tests/R/run_tests.R
 echo
 echo "=== reconciliation / validation ==="
 $PY python/04_reconcile.py | tail -1
+
+echo
+echo "=== number explorer: offline gate replay ==="
+$PY python/06_number_explorer.py --check | tail -1
