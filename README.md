@@ -3,7 +3,8 @@
 How have NBA jersey numbers and player heights changed over four decades, and has
 the relationship between the two changed?
 
-Written as a work sample for the Phoenix Suns Basketball Data Scientist role. The
+Part of the [basketball-data-science](https://github.com/ismayc/basketball-data-science)
+family of studies. The
 analysis is implemented **twice — once in R with the tidyverse, once in Python
 with polars and plotly** — and a reconciliation step checks that the two agree
 before any result is reported.
@@ -16,7 +17,7 @@ measured heights without shoes, not a change in who plays. Separating those two 
 the main analytical result. Full numbers in *Findings* below.
 
 <!-- terms -->
-> **Terms used in this analysis.** Dotted-underlined terms anywhere below repeat these definitions on hover ([full glossary](../docs/glossary.md)).
+> **Terms used in this analysis.** Dotted-underlined terms anywhere below repeat these definitions on hover ([full glossary](https://github.com/ismayc/basketball-data-science/blob/main/docs/glossary.md)).
 >
 > - **CI** — Confidence interval.
 <!-- /terms -->
@@ -136,8 +137,8 @@ box, since one of the three sits below 3:1 contrast against the chart surface.
 
 ## Limitations
 
-Stated plainly, because a work sample that hides its weaknesses isn't a good work
-sample.
+Stated plainly, because an analysis that hides its weaknesses isn't a good
+analysis.
 
 1. **Listed heights are not measured heights.** Teams historically listed players
    generously or in shoes; the NBA began requiring measured heights without shoes
@@ -167,8 +168,7 @@ quantified uncertainty, an independent validation step, and documented
 limitations.
 
 It is **not** tracking or play-by-play work, and it does not model player or
-lineup value. Those are the parts of the role this study cannot speak to, and
-`../skills_matrix.md` says so explicitly.
+lineup value — the sibling studies in the family cover those.
 
 ---
 
