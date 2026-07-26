@@ -133,7 +133,10 @@ def figures(df: pl.DataFrame, seasons: pl.DataFrame) -> None:
         xaxis_title="season", yaxis_title="jersey number",
         template="plotly_white", legend=dict(orientation="h", y=1.02,
                                              x=0, yanchor="bottom"))
-    fig.update_xaxes(tickvals=[s for s in seasons["season"]
+    # type="category" is load-bearing: plotly parses "2010-11" as the date
+    # November 2010 otherwise, mangling the axis into months and days
+    fig.update_xaxes(type="category",
+                     tickvals=[s for s in seasons["season"]
                                if int(s[:4]) % 5 == 0])
     fig.write_html(FIG / "fig5_median_number.html", include_plotlyjs="cdn")
 
