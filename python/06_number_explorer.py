@@ -181,6 +181,7 @@ def figures(df: pl.DataFrame, seasons: pl.DataFrame) -> None:
     def frame_bar(s: int) -> go.Bar:
         ys, custom = bars(s)
         return go.Bar(x=xs, y=ys, marker_color="#1E3A5F",
+                      marker_line=dict(color="white", width=1),
                       customdata=custom,
                       hovertemplate="number %{customdata[0]}<br>"
                       "%{y} players%{customdata[1]}<extra></extra>")
