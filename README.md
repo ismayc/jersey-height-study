@@ -181,7 +181,12 @@ the full number distribution per season
 (`figures/fig6_number_histogram.html`). Parsing rules, gated: **0 and 00
 are pooled** (noted on every surface that shows it), multi-number
 season entries use the first listed number, and blank entries are
-dropped and counted. Headline: the median number nearly halved from 25
+dropped and counted. Data note: `CommonTeamRoster` archives END-OF-SEASON rosters, so a
+traded player appears once, on his final team (Dončić is LAL-only in
+2024-25); the one exception in 46 seasons is Spencer Dinwiddie's 2015-16
+double listing (CHI and DET), which the wearer list logic aggregates into a single entry
+(that bar has too many wearers to display a list, so the case is moot
+on screen, and gated in the code). Headline: the median number nearly halved from 25
 (1980-81) to 14 (2025-26); the 0/00 share peaked at 6.8% in 2024-25.
 
 ## Findings

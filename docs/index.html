@@ -64,8 +64,14 @@ th { text-align: left; color: var(--ink-2); font-weight: 600;
   border-bottom: 2px solid var(--rule); padding: .4rem .6rem; }
 td { border-bottom: 1px solid var(--rule); padding: .4rem .6rem;
   vertical-align: top; }
-abbr[title] { text-decoration: underline dotted var(--accent);
-  text-underline-offset: 2px; cursor: help; }
+abbr[data-tip] { text-decoration: underline dotted var(--accent);
+  text-underline-offset: 2px; cursor: help; position: relative; }
+abbr[data-tip]:hover::after { content: attr(data-tip); position: absolute;
+  left: 0; top: 1.5em; z-index: 40; background: var(--ink);
+  color: var(--surface); padding: .5rem .75rem; border-radius: 7px;
+  width: max-content; max-width: min(340px, 80vw); font-size: .82rem;
+  line-height: 1.45; font-weight: 400; white-space: normal;
+  box-shadow: 0 4px 16px rgba(0,0,0,.28); pointer-events: none; }
 hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 .figure-card { background: #fff; border: 1px solid var(--rule);
   border-radius: 10px; margin: 1.4rem 0; overflow: hidden; }
@@ -128,7 +134,7 @@ do.</p>
 <p>2019-20 is precisely when the league began requiring measured heights
 without shoes. Two checks pin the attribution down. A regime-aware model
 (piecewise trends with an explicit level-shift term at 2019) estimates the
-rule-change step at −0.64 inches (95% <abbr title="Confidence interval.">CI</abbr> [−0.80, −0.47]), and fitting the
+rule-change step at −0.64 inches (95% <abbr data-tip="Confidence interval.">CI</abbr> [−0.80, −0.47]), and fitting the
 step explicitly keeps it from contaminating the trend slopes on either
 side. And among the 388 players rostered in <strong>both</strong> 2018-19 and 2019-20,
 the same drop appears within the same human beings. So roster turnover,
@@ -153,7 +159,7 @@ pooling is noted on each figure). The median tells the story in one line:
 <strong>the typical jersey number nearly halved, from 25 in 1980-81 to 14 in
 2025-26 (13 the season before).</strong> The low numbers won.</p>
 <figure class="figure-card"><iframe src="figures/fig5_median_number.html" loading="lazy" title="Median number"></iframe><figcaption>The median jersey number by season, with the middle-50% band. Necessary because the correlation chart above says the number-height link dissolved but not what players chose instead: the entire distribution slid steadily toward low numbers, with the median nearly halving over 46 seasons. Hover any season for the 0/00 and 50+ shares.</figcaption></figure>
-<figure class="figure-card"><iframe src="figures/fig6_number_histogram.html" loading="lazy" title="Number histogram"></iframe><figcaption>The full jersey-number distribution, one season at a time: drag the slider or press play to walk 46 seasons. This is the exploratory view the medians compress away: when exactly one player wore a number that season, hovering the bar names him. Watch the high-number right tail thin out and the 0/00 bar (first bar, pooled) grow from 1.1% of the league in 1980-81 to its 6.8% all-time peak in 2024-25 (5.6% in 2025-26). Numbers 50 and up went from 7.7% of players to 4.8%.</figcaption></figure>
+<figure class="figure-card"><iframe src="figures/fig6_number_histogram.html" loading="lazy" title="Number histogram"></iframe><figcaption>The full jersey-number distribution, one season at a time: drag the slider or press play to walk 46 seasons. This is the exploratory view the medians compress away: any bar with ten or fewer wearers lists them on hover (a player traded mid-season shows once, with his final team, because the roster archive is end-of-season). Watch the high-number right tail thin out and the 0/00 bar (first bar, pooled) grow from 1.1% of the league in 1980-81 to its 6.8% all-time peak in 2024-25 (5.6% in 2025-26). Numbers 50 and up went from 7.7% of players to 4.8%.</figcaption></figure>
 <p>Why does any of this matter beyond trivia? Because it is a low-stakes
 rehearsal of a high-stakes failure mode. A headline metric moved, and the
 obvious narrative was ready. The narrative was wrong. And the error only
