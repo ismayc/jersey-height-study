@@ -107,6 +107,103 @@ def gates(df: pl.DataFrame, seasons: pl.DataFrame, notes: dict
         passed=pl.col("value") <= pl.col("threshold"))
 
 
+FIG6_TEMPLATE = """<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;height:100%;font:14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;color:#2a3f5f}
+.controls{display:flex;gap:.8rem;align-items:center;padding:.5rem .9rem 0;flex-wrap:wrap}
+.controls input[type=range]{flex:1;min-width:180px}
+.controls button{border:1px solid #c8d4e3;background:#fff;border-radius:6px;padding:.25rem .6rem;cursor:pointer;color:#2a3f5f}
+.controls button.on{background:#1E3A5F;color:#fff;border-color:#1E3A5F}
+.seasonlab{font-weight:700;min-width:5.2em}
+#plot{width:100%;height:calc(100% - 44px)}
+</style>
+<script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+</head><body>
+<div class="controls">
+  <button id="play">Play</button>
+  <span class="seasonlab" id="lab"></span>
+  <input type="range" id="season" min="0" max="45" value="0" step="1">
+  <span>bin size:</span>
+  <button class="bin on" data-b="1">1</button>
+  <button class="bin" data-b="5">5</button>
+  <button class="bin" data-b="10">10</button>
+</div>
+<div id="plot"></div>
+<script>
+const P = __PAYLOAD__;
+let season = 0, bin = 1, timer = null;
+const gd = document.getElementById('plot');
+document.getElementById('season').max = P.labels.length - 1;
+const ymax = {};
+for (const b of [1,5,10]) {
+  let m = 0;
+  for (const d of P.data)
+    for (let i = 0; i < 100; i += b)
+      m = Math.max(m, d.c.slice(i, i+b).reduce((a,v)=>a+v,0));
+  ymax[b] = m + 4;
+}
+function binLabel(i, b){
+  if (b === 1) return i === 0 ? '0/00' : String(i);
+  const hi = Math.min(i+b-1, 99);
+  return (i === 0 ? '0/00' : String(i)) + '\u2013' + hi;
+}
+function render(){
+  const d = P.data[season], xs = [], ys = [], cd = [];
+  for (let i = 0; i < 100; i += bin) {
+    const n = d.c.slice(i, i+bin).reduce((a,v)=>a+v,0);
+    let names = [];
+    for (let j = i; j < Math.min(i+bin,100); j++) {
+      if (d.w[j] === null) { names = null; break; }
+      names = names.concat(d.w[j]);
+    }
+    let extra = '';
+    if (names && n > 0 && names.length <= P.maxList)
+      extra = names.length === 1 ? '<br>only wearer: ' + names[0]
+            : '<br>wearers:<br>' + names.join('<br>');
+    xs.push(binLabel(i, bin)); ys.push(n);
+    cd.push([binLabel(i, bin), extra]);
+  }
+  const tickEvery = bin === 1 ? 5 : 1;
+  Plotly.react(gd, [{type:'bar', x:xs, y:ys, customdata:cd,
+    marker:{color:'#1E3A5F', line:{color:'white', width:1}},
+    hovertemplate:'number %{customdata[0]}<br>%{y} players%{customdata[1]}<extra></extra>'}],
+   {title:{text:'Who wears what: jersey-number distribution, one season at a time (0 and 00 pooled)'},
+    xaxis:{title:{text:'jersey number'}, type:'category',
+           tickmode:'array',
+           tickvals:xs.filter((_,k)=>k % tickEvery === 0)},
+    yaxis:{title:{text:'players'}, range:[0, ymax[bin]]},
+    template:'plotly_white', plot_bgcolor:'#fff', paper_bgcolor:'#fff',
+    margin:{l:60,r:30,t:60,b:60}},
+   {responsive:true, displaylogo:false});
+  document.getElementById('lab').textContent = P.labels[season];
+  document.getElementById('season').value = season;
+}
+document.getElementById('season').addEventListener('input', e => {
+  season = +e.target.value; render();
+});
+for (const btn of document.querySelectorAll('.bin'))
+  btn.addEventListener('click', () => {
+    bin = +btn.dataset.b;
+    document.querySelectorAll('.bin').forEach(b => b.classList.toggle('on', b === btn));
+    render();
+  });
+document.getElementById('play').addEventListener('click', () => {
+  if (timer) { clearInterval(timer); timer = null;
+    document.getElementById('play').textContent = 'Play'; return; }
+  document.getElementById('play').textContent = 'Pause';
+  timer = setInterval(() => {
+    season = (season + 1) % P.labels.length;
+    render();
+    if (season === P.labels.length - 1) { clearInterval(timer); timer = null;
+      document.getElementById('play').textContent = 'Play'; }
+  }, 350);
+});
+render();
+</script></body></html>
+"""
+
+
 def figures(df: pl.DataFrame, seasons: pl.DataFrame) -> None:
     import plotly.graph_objects as go
 
@@ -141,85 +238,41 @@ def figures(df: pl.DataFrame, seasons: pl.DataFrame) -> None:
                                if int(s[:4]) % 5 == 0])
     fig.write_html(FIG / "fig5_median_number.html", include_plotlyjs="cdn")
 
-    # --- fig6: per-season histogram with slider + play ----------------------
-    # Any bar with WEARER_LIST_MAX or fewer wearers lists them on hover.
-    # Players are aggregated first so a rare double-listing (one player on
-    # two teams in a season's archived rosters) shows once with both teams.
+    # --- fig6: per-season histogram, custom HTML -----------------------------
+    # Season slider + play + ADJUSTABLE BIN SIZE (1/5/10). Plotly frames
+    # cannot carry a second control dimension, so the raw per-number counts
+    # are embedded and a small vanilla-JS layer recomputes bins on the fly.
+    # Wearer names are kept per number (when 10 or fewer wore it) so a
+    # coarser bin can still list its wearers when the aggregate stays <= 10.
+    import json
+
     per_player = (df.group_by("season_start", "number", "PLAYER")
                   .agg(teams=pl.col("team_abbrev").unique().sort()
                        .str.join(", "))
                   .with_columns(entry=pl.format("{} ({})", pl.col("PLAYER"),
                                                 pl.col("teams"))))
-    counts = (per_player.group_by("season_start", "number")
-              .agg(n_rows=pl.len(),
-                   names=pl.col("entry").sort().str.join("<br>"))
-              .join(df.group_by("season_start", "number").agg(n=pl.len()),
-                    on=["season_start", "number"])
-              .with_columns(
-                  lone=pl.when(pl.col("n_rows") == 1)
-                  .then(pl.format("<br>only wearer: {}", pl.col("names")))
-                  .when(pl.col("n_rows") <= WEARER_LIST_MAX)
-                  .then(pl.format("<br>wearers:<br>{}", pl.col("names")))
-                  .otherwise(pl.lit(""))))
+    grouped = (per_player.group_by("season_start", "number")
+               .agg(n_players=pl.len(), entries=pl.col("entry").sort())
+               .join(df.group_by("season_start", "number").agg(n=pl.len()),
+                     on=["season_start", "number"]))
+
     season_list = sorted(seasons["season_start"].to_list())
-    label = {s: seasons.filter(pl.col("season_start") == s)["season"][0]
-             for s in season_list}
-    xs = list(range(100))
-    ticktext = ["0/00"] + [str(i) for i in range(1, 100)]
+    labels = [seasons.filter(pl.col("season_start") == s0)["season"][0]
+              for s0 in season_list]
+    data = []
+    for s0 in season_list:
+        g = {num: (n, ent if len(ent) <= WEARER_LIST_MAX else None)
+             for num, ent, n in grouped.filter(
+                 pl.col("season_start") == s0)
+             .select("number", "entries", "n").iter_rows()}
+        counts = [g.get(i, (0, []))[0] for i in range(100)]
+        wearers = [g.get(i, (0, []))[1] for i in range(100)]
+        data.append({"c": counts, "w": wearers})
 
-    def bars(s: int) -> tuple[list[int], list[list[str]]]:
-        rows = {num: (n, lone) for num, n, lone in
-                counts.filter(pl.col("season_start") == s)
-                .select("number", "n", "lone").iter_rows()}
-        ys = [rows.get(i, (0, ""))[0] for i in xs]
-        custom = [[ticktext[i], rows.get(i, (0, ""))[1]] for i in xs]
-        return ys, custom
-
-    ymax = int(counts.group_by("season_start", "number").agg(
-        pl.col("n").sum()).select(pl.col("n").max())[0, 0]) + 4
-
-    def frame_bar(s: int) -> go.Bar:
-        ys, custom = bars(s)
-        return go.Bar(x=xs, y=ys, marker_color="#1E3A5F",
-                      marker_line=dict(color="white", width=1),
-                      customdata=custom,
-                      hovertemplate="number %{customdata[0]}<br>"
-                      "%{y} players%{customdata[1]}<extra></extra>")
-
-    frames = [go.Frame(name=label[s], data=[frame_bar(s)])
-              for s in season_list]
-    first = season_list[0]
-    fig = go.Figure(data=frames[0].data, frames=frames)
-    fig.update_layout(
-        title="Who wears what: jersey-number distribution, one season at a "
-              "time (0 and 00 pooled into the first bar)",
-        xaxis=dict(title="jersey number", tickmode="array",
-                   tickvals=list(range(0, 100, 5)),
-                   ticktext=[ticktext[i] for i in range(0, 100, 5)]),
-        yaxis=dict(title="players", range=[0, ymax]),
-        template="plotly_white",
-        updatemenus=[dict(type="buttons", x=0, y=1.12, xanchor="left",
-                          buttons=[
-                              dict(label="Play", method="animate",
-                                   args=[None, dict(
-                                       frame=dict(duration=350,
-                                                  redraw=True),
-                                       fromcurrent=True)]),
-                              dict(label="Pause", method="animate",
-                                   args=[[None], dict(
-                                       mode="immediate",
-                                       frame=dict(duration=0))]),
-                          ])],
-        sliders=[dict(
-            active=0, x=0, len=1.0,
-            currentvalue=dict(prefix="season: "),
-            steps=[dict(label=label[s], method="animate",
-                        args=[[label[s]],
-                              dict(mode="immediate",
-                                   frame=dict(duration=0, redraw=True))])
-                   for s in season_list])])
-    fig.write_html(FIG / "fig6_number_histogram.html",
-                   include_plotlyjs="cdn")
+    payload = json.dumps({"labels": labels, "data": data,
+                          "maxList": WEARER_LIST_MAX})
+    html = FIG6_TEMPLATE.replace("__PAYLOAD__", payload)
+    (FIG / "fig6_number_histogram.html").write_text(html)
 
 
 def main(argv: list[str]) -> int:
