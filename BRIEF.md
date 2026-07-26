@@ -15,8 +15,11 @@ listed height peaked in 2002-03 and is down almost an inch since.
 reported: measured, without shoes. That one change accounts for about
 **70% of the entire "decline."** We can prove it isn't about who's in the
 league: we tracked the *same 388 players* across that one offseason, and
-**55% of them "got shorter" on paper** — in a normal offseason that number is
-1–6%. Same players, new tape measure.
+**55% of them "got shorter" on paper** — in a typical offseason about 2% of
+continuing players' listed heights change at all, and no other offseason since
+1980 comes close. Same players, new tape measure. (The two runner-up churn
+years, 2021–2023, are the rule change's own aftershocks — corrections still
+trickling in.)
 
 **What's left after removing the rule change:** a slow drift down of about a
 third of an inch across 16 seasons, then flat. Real, but small — and worth
