@@ -11,7 +11,7 @@ before any result is reported.
 
 **Headline:** across 45 seasons and 18,399 player-seasons, the correlation between
 jersey number and listed height collapsed from **+0.44 to +0.12**. Big men no
-longer monopolise the high numbers. Heights look like they peaked in 2002-03 and
+longer monopolize the high numbers. Heights look like they peaked in 2002-03 and
 fell sharply, but **71% of that decline is a single 2019-20 rule change** requiring
 measured heights without shoes, not a change in who plays. Separating those two is
 the main analytical result. Full numbers in *Findings* below.
@@ -33,7 +33,7 @@ commit.
 
 It has already caught one real issue: on a partial harvest the piecewise knot term
 was constant zero, which R aliases to `NA` while `statsmodels` silently returns
-`0.0` on the singular design. Same input, different silent behaviour: the kind of
+`0.0` on the singular design. Same input, different silent behavior: the kind of
 thing that survives a single-implementation review.
 
 ## Pipeline
@@ -132,7 +132,7 @@ grandfathered tail. If it doesn't, something upstream is wrong.
 Static PNG from both languages, plus interactive HTML with hover tooltips from
 the plotly implementation. The three-colour categorical palette
 (`#2a78d6`, `#eb6834`, `#1baf7a`) was checked for colour-vision separation across
-all pairs before use; series are direct-labelled rather than relying on a legend
+all pairs before use; series are direct-labeled rather than relying on a legend
 box, since one of the three sits below 3:1 contrast against the chart surface.
 
 ## Limitations

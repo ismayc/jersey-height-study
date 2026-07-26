@@ -35,7 +35,7 @@ reproduces league history it was never told about.
 45 seasons of `CommonTeamRoster` (18,399 player-seasons), cleaned with
 documented rules, implemented independently in R/tidyverse and Python/polars
 with a reconciliation gate (1e-9 on metrics, 1e-6 on coefficients, non-zero
-exit on mismatch). Height trend modelled two ways: the descriptive piecewise
+exit on mismatch). Height trend modeled two ways: the descriptive piecewise
 fit, and a regime-aware model (knots 1990/2002 + level shift at 2019) that
 estimates the measurement break directly at **−0.64 in [−0.80, −0.47]** with
 R² 0.85 vs 0.30 for the single-knot version. Attribution confirmed
