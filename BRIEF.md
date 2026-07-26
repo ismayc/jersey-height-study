@@ -50,5 +50,5 @@ only, roster presence not minutes, association ≠ mechanism.
   change, not basketball; the true drift is ~0.35 in over 16 seasons, then flat.
 - The link between jersey numbers and player size has largely dissolved since
   the 1980s (correlation +0.44 → +0.12).
-- Every number is machine-generated from the pipeline, verified by two
+- Every number comes from the pipeline's committed outputs, verified by two
   independent implementations that must agree before publication.
