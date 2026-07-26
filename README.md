@@ -181,7 +181,8 @@ lineup value. The sibling studies in the family cover those.
 <!-- gen:explorer -->
 `python/06_number_explorer.py` adds two explorable views (gated, wired
 into `run_checks.sh`): the median jersey number by season with quartile
-band (`figures/fig5_median_number.html`) and a slider/play histogram of
+band (`figures/fig5_median_number.html`) and a slider/play histogram
+with adjustable bin size (1, 5, or 10 numbers per bar) of
 the full number distribution per season
 (`figures/fig6_number_histogram.html`). Parsing rules, gated: **0 and 00
 are pooled** (noted on every surface that shows it), multi-number season
