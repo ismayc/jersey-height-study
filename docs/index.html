@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NBA jersey numbers and player heights, 1980–2024</title>
+
+<style>
+:root {
+  --ink: #1a1d24; --ink-2: #4a4f5c; --ink-3: #767b88;
+  --surface: #ffffff; --surface-2: #f5f6f8; --rule: #e3e5ea;
+  --accent: #1452cc; --accent-ink: #1452cc;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #e8eaf0; --ink-2: #b5bac6; --ink-3: #878d9c;
+    --surface: #14161c; --surface-2: #1d2029; --rule: #2c303c;
+    --accent: #6f9bff; --accent-ink: #8db0ff;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--surface); color: var(--ink);
+  font: 17px/1.65 -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+.masthead { border-bottom: 1px solid var(--rule); }
+.masthead .inner { max-width: 76ch; margin: 0 auto; padding: .8rem 1.25rem;
+  display: flex; gap: 1rem; align-items: baseline; flex-wrap: wrap; }
+.masthead a { color: var(--ink-2); text-decoration: none; font-size: .88rem; }
+.masthead a:hover { color: var(--accent-ink); }
+.masthead .family { font-weight: 700; letter-spacing: .02em; color: var(--ink); }
+.masthead .spacer { flex: 1; }
+main { max-width: 76ch; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+h1 { font-size: 2rem; line-height: 1.2; letter-spacing: -.01em;
+  margin: 1.2rem 0 .6rem; }
+h2 { font-size: 1.35rem; margin: 2.2rem 0 .6rem; padding-top: 1rem;
+  border-top: 1px solid var(--rule); }
+h3 { font-size: 1.08rem; margin: 1.6rem 0 .4rem; }
+a { color: var(--accent-ink); text-decoration-thickness: 1px;
+  text-underline-offset: 2px; }
+p, li { color: var(--ink); }
+code { background: var(--surface-2); border: 1px solid var(--rule);
+  border-radius: 4px; padding: .08em .35em; font-size: .86em; }
+pre { background: var(--surface-2); border: 1px solid var(--rule);
+  border-radius: 8px; padding: .8rem 1rem; overflow-x: auto; }
+pre code { background: none; border: none; padding: 0; }
+blockquote { margin: 1.2rem 0; padding: .8rem 1.1rem;
+  background: var(--surface-2); border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0; font-size: .92rem; }
+blockquote p { margin: .3rem 0; }
+.tablewrap { overflow-x: auto; margin: 1rem 0; }
+table { border-collapse: collapse; width: 100%; font-size: .9rem;
+  font-variant-numeric: tabular-nums; }
+th { text-align: left; color: var(--ink-2); font-weight: 600;
+  border-bottom: 2px solid var(--rule); padding: .4rem .6rem; }
+td { border-bottom: 1px solid var(--rule); padding: .4rem .6rem;
+  vertical-align: top; }
+abbr[title] { text-decoration: underline dotted var(--accent);
+  text-underline-offset: 2px; cursor: help; }
+hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+.figure-card { background: #fff; border: 1px solid var(--rule);
+  border-radius: 10px; margin: 1.4rem 0; overflow: hidden; }
+.figure-card iframe { display: block; width: 100%; height: 520px;
+  border: none; }
+.figure-card figcaption { padding: .55rem .9rem; font-size: .85rem;
+  color: var(--ink-3); border-top: 1px solid var(--rule);
+  background: var(--surface); }
+footer { border-top: 1px solid var(--rule); margin-top: 3rem;
+  padding: 1rem 1.25rem; font-size: .85rem; color: var(--ink-3);
+  text-align: center; }
+footer a { color: var(--ink-2); }
+/* hub cards */
+.cards { display: grid; grid-template-columns:
+  repeat(auto-fit, minmax(290px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+.card { border: 1px solid var(--rule); border-radius: 10px;
+  padding: 1rem 1.1rem; background: var(--surface-2);
+  display: flex; flex-direction: column; gap: .45rem; }
+.card .kicker { font-size: .78rem; text-transform: uppercase;
+  letter-spacing: .06em; color: var(--ink-3); }
+.card h3 { margin: 0; font-size: 1.05rem; }
+.card p { margin: 0; font-size: .92rem; color: var(--ink-2); flex: 1; }
+.card .links { font-size: .88rem; }
+.hero { padding: 2.2rem 0 .6rem; }
+.hero p.deck { font-size: 1.12rem; color: var(--ink-2); max-width: 64ch; }
+</style>
+</head>
+<body>
+<header class="masthead"><div class="inner">
+  <a class="family" href="https://ismayc.github.io/basketball-data-science/">Basketball Data Science</a>
+  <span class="spacer"></span>
+  <a href="https://ismayc.github.io/nba-scouting-onepagers/">Scouting one-pagers</a>
+  <a href="https://github.com/ismayc/basketball-data-science">GitHub</a>
+</div></header>
+<main>
+<h1>NBA jersey numbers and player heights, 1980–2024</h1>
+<p>How have NBA jersey numbers and player heights changed over four decades, and has
+the relationship between the two changed?</p>
+<p>Part of the <a href="https://github.com/ismayc/basketball-data-science">basketball-data-science</a>
+family of studies. The
+analysis is implemented <strong>twice — once in R with the tidyverse, once in Python
+with polars and plotly</strong> — and a reconciliation step checks that the two agree
+before any result is reported.</p>
+<p><strong>Headline:</strong> across 45 seasons and 18,399 player-seasons, the correlation between
+jersey number and listed height collapsed from <strong>+0.44 to +0.12</strong> — big men no
+longer monopolise the high numbers. Heights look like they peaked in 2002-03 and
+fell sharply, but <strong>71% of that decline is a single 2019-20 rule change</strong> requiring
+measured heights without shoes, not a change in who plays. Separating those two is
+the main analytical result. Full numbers in <em>Findings</em> below.</p>
+<!-- terms -->
+<blockquote>
+<p><strong>Terms used in this analysis.</strong> Dotted-underlined terms anywhere below repeat these definitions on hover (<a href="https://github.com/ismayc/basketball-data-science/blob/main/docs/glossary.md">full glossary</a>).</p>
+<ul>
+<li><strong>CI</strong> — Confidence interval.</li>
+</ul>
+</blockquote>
+<!-- /terms -->
+
+<h2>Why two implementations</h2>
+<p>Not to show off two languages. Two independent implementations of the same metric
+definitions disagree exactly where a definition was ambiguous, and an ambiguous
+definition is the most common way an analysis is quietly wrong. <code>04_reconcile.py</code>
+compares every season-level metric to a <code>1e-9</code> tolerance and every model
+coefficient to <code>1e-6</code>, and exits non-zero on any mismatch, so it can gate a
+commit.</p>
+<p>It has already caught one real issue: on a partial harvest the piecewise knot term
+was constant zero, which R aliases to <code>NA</code> while <code>statsmodels</code> silently returns
+<code>0.0</code> on the singular design. Same input, different silent behaviour — the kind of
+thing that survives a single-implementation review.</p>
+<h2>Pipeline</h2>
+<pre><code>python/01_harvest_rosters.py   stats.nba.com -&gt; data/raw_rosters/*.csv   (resumable, cached)
+python/02_combine.py           raw cache     -&gt; data/nba_rosters.csv
+R/03_analysis.R                             -&gt; output/results_r.csv,      figures/*_r.png
+python/03_analysis.py                       -&gt; output/results_python.csv, figures/*_py.{png,html}
+python/04_reconcile.py         compares the two, non-zero exit on mismatch
+python/05_findings.py          writes the Findings section of this README
+</code></pre>
+<p>Each stage is independently re-runnable. The harvest caches one CSV per
+team-season, so an interrupted run resumes and the analysis never re-hits the
+network.</p>
+<h3>Reproducing</h3>
+<pre><code class="language-bash">pip install nba_api polars plotly kaleido statsmodels scipy numpy pandas
+Rscript -e 'install.packages(c(&quot;tidyverse&quot;,&quot;broom&quot;))'
+
+python python/01_harvest_rosters.py --start 1980 --end 2024   # ~90 min, rate-limited
+python python/02_combine.py
+Rscript R/03_analysis.R
+python python/03_analysis.py
+python python/04_reconcile.py    # exits non-zero if the two disagree
+python python/05_findings.py     # rewrites the Findings section below
+</code></pre>
+<h2>Data</h2>
+<p><strong>Source:</strong> <code>stats.nba.com</code> <code>CommonTeamRoster</code>, via the <code>nba_api</code> package. One
+request returns a full team-season roster with jersey number, listed height,
+position, weight, age, and experience.</p>
+<p>Choosing this endpoint was the main efficiency decision: assembling the same table
+from per-player endpoints would need thousands of calls instead of ~1,350.</p>
+<p><strong>Scope:</strong> the 30 current franchises, 1980-81 through 2024-25.</p>
+<h3>Cleaning rules</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Rule</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>HEIGHT</code></td>
+<td>Arrives as <code>"6-9"</code>; parsed to inches. Rows without a parseable height are dropped</td>
+</tr>
+<tr>
+<td><code>NUM</code></td>
+<td>Read as text so <code>"00"</code> stays distinct from <code>"0"</code>. Blanks and nulls are dropped from number-based metrics but <strong>retained for height metrics</strong></td>
+</tr>
+<tr>
+<td><code>POSITION</code></td>
+<td><code>"G"</code>/<code>"F"</code>/<code>"C"</code> in early seasons, <code>"G-F"</code> later; the leading letter is used so the grouping is comparable across the whole span</td>
+</tr>
+<tr>
+<td>Duplicates</td>
+<td>A player traded mid-season appears on two rosters; the first row per <code>(PLAYER_ID, season)</code> is kept</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Metric definitions</h3>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>mean_height_in</code></td>
+<td>Mean listed height, inches</td>
+</tr>
+<tr>
+<td><code>share_above_55</code></td>
+<td>Share of numbered players wearing a number above 55</td>
+</tr>
+<tr>
+<td><code>share_zero</code></td>
+<td>Share wearing <code>"0"</code> or <code>"00"</code></td>
+</tr>
+<tr>
+<td><code>jersey_height_cor</code></td>
+<td>Pearson correlation between jersey number and listed height</td>
+</tr>
+<tr>
+<td><code>num6_count</code></td>
+<td>Players wearing number 6</td>
+</tr>
+</tbody>
+</table></div>
+<p><code>share_above_55</code> uses 55 as the boundary because the NBA's referee hand-signal
+convention is built on digits 0–5, which is why numbers above 55 were historically
+unusual and required special accommodation.</p>
+<p><code>num6_count</code> is a <strong>validation check, not a finding</strong>: the NBA retired number 6
+league-wide for Bill Russell ahead of 2022-23, with existing wearers
+grandfathered. A correct pipeline should show a sharp drop after 2022 and a small
+grandfathered tail. If it doesn't, something upstream is wrong.</p>
+<h2>Models</h2>
+<ol>
+<li><strong>Height trend</strong> — piecewise-linear with a knot at 1990, weighted by roster
+   size. A single straight line across four decades would be the wrong model:
+   heights rose and then <em>reversed</em> (+0.067 in/season before 1990, −0.015 after),
+   and one slope would average those into a claim matching neither era.</li>
+<li><strong>Regime-aware height model</strong> — the same idea taken seriously: knots at 1990
+   and the 2002 peak, plus a <strong>level-shift term at the 2019-20 measurement rule
+   change</strong>. The shift term estimates the rule-change step directly (with a <abbr title="Confidence interval.">CI</abbr>)
+   instead of reading it off consecutive seasons, and keeps the break from
+   contaminating the trend slopes. It fits far better than the single-knot model
+   (R² 0.85 vs 0.30), which is itself evidence that the break is structural.</li>
+<li><strong>Within-player check</strong> — year-over-year listed-height change for players
+   rostered in consecutive seasons. The aggregate mean moves when <em>who plays</em>
+   changes; a continuing player's listed height only moves when the measurement
+   does. This isolates the 2019 step from roster composition entirely.</li>
+<li><strong>Association trend</strong> — per-season jersey/height correlation regressed on
+   season, weighted by roster size.</li>
+<li><strong>Bootstrap</strong> — 2,000 resamples of the change in jersey/height correlation
+   between the first and last five seasons, reported as a 95% percentile
+   interval. Seeded for reproducibility. The R and Python runs use different RNGs,
+   so reconciliation checks that their intervals <em>overlap</em> rather than match.</li>
+</ol>
+<h2>Figures</h2>
+<p>Static PNG from both languages, plus interactive HTML with hover tooltips from
+the plotly implementation. The three-colour categorical palette
+(<code>#2a78d6</code>, <code>#eb6834</code>, <code>#1baf7a</code>) was checked for colour-vision separation across
+all pairs before use; series are direct-labelled rather than relying on a legend
+box, since one of the three sits below 3:1 contrast against the chart surface.</p>
+<h2>Limitations</h2>
+<p>Stated plainly, because an analysis that hides its weaknesses isn't a good
+analysis.</p>
+<ol>
+<li><strong>Listed heights are not measured heights.</strong> Teams historically listed players
+   generously or in shoes; the NBA began requiring measured heights without shoes
+   in 2019-20. This is not a hypothetical concern — it is <strong>visible in the data as
+   a −0.61 in single-season step</strong>, the largest year-over-year move in the entire
+   45-season series and 2.3× the next largest. It accounts for 71% of the apparent
+   post-2002 decline. The series is best read as <strong>two regimes spliced together</strong>,
+   and the study does not attempt to correct or bridge them; it quantifies the
+   break and restricts the claims accordingly (see Finding 1). Any comparison
+   spanning 2019 is comparing two different measuring conventions.</li>
+<li><strong>Current franchises only.</strong> Teams that folded or relocated under a different
+   franchise ID are missing, so the earliest seasons are slightly under-covered.</li>
+<li><strong>Roster presence, not playing time.</strong> Every rostered player counts equally; a
+   12th man weighs the same as a starter. A minutes-weighted version would answer
+   a different and arguably more useful question.</li>
+<li><strong>Position labels are coarse and drifting.</strong> "Center" in 1985 and "Center" in
+   2024 describe different jobs, so the position comparison partly measures
+   relabeling rather than change in personnel.</li>
+<li><strong>Association is not mechanism.</strong> A falling jersey/height correlation is
+   consistent with loosening number conventions, positional convergence, or both.
+   This analysis does not separate them.</li>
+</ol>
+<h2>What this is and isn't</h2>
+<p>It is a demonstration of how a question gets turned into defined metrics,
+quantified uncertainty, an independent validation step, and documented
+limitations.</p>
+<p>It is <strong>not</strong> tracking or play-by-play work, and it does not model player or
+lineup value — the sibling studies in the family cover those.</p>
+<hr />
+<h2>Findings</h2>
+<p>Covering 1980-81 through 2024-25. Every number
+below is generated by <code>python/05_findings.py</code> from <code>output/</code>, not typed by hand.</p>
+<h3>1. Height rose, peaked — and then mostly changed measuring tape</h3>
+<p>Mean listed height went from <strong>78.45 in</strong> in 1980-81 to
+<strong>78.52 in</strong> in 2024-25, peaking at <strong>79.37 in</strong> in
+2002-03. The piecewise fit puts the pre-1990 trend at
+<strong>+0.0669 in/season</strong> and the post-1990 trend at <strong>-0.0152 in/season</strong>.</p>
+<p><strong>The obvious read of that is wrong, and this is the most important result here.</strong>
+Decomposing the 0.856 in decline from 2002-03 to
+2024-25:</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>Period</th>
+<th>Change</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2002-03 → 2018-19</td>
+<td><strong>-0.353 in</strong></td>
+<td>gradual, over 16 seasons</td>
+</tr>
+<tr>
+<td>2018-19 → 2019-20</td>
+<td><strong>-0.606 in</strong></td>
+<td><strong>one season</strong></td>
+</tr>
+<tr>
+<td>2019-20 → 2024-25</td>
+<td><strong>+0.103 in</strong></td>
+<td>flat to slightly rising</td>
+</tr>
+</tbody>
+</table></div>
+<p>That single 2019-20 step is <strong>71% of the
+entire decline</strong>, and it is the largest year-over-year move in all
+45 seasons — 2.3× the next largest
+(-0.258 in, 2017-18).</p>
+<p>2019-20 is exactly when the NBA began requiring measured heights without
+shoes. The league did not get shorter that summer; the ruler changed. Players have
+been <em>slightly taller</em> since.</p>
+<p>Two further checks pin that attribution down:</p>
+<ul>
+<li><strong>Modelled, not eyeballed.</strong> A regime-aware model (piecewise trend, knots at
+  1990 and 2002, plus a level-shift term at 2019) estimates the rule-change step
+  at <strong>-0.636 in</strong> (95% <abbr title="Confidence interval.">CI</abbr> [-0.801, -0.472]).
+  Fitting the shift explicitly also stops the break from contaminating the trend
+  slopes on either side of it.</li>
+<li><strong>Within-player, so roster turnover cannot explain it.</strong> Among the
+  <strong>388</strong> players rostered in both 2018-19 and 2019-20,
+  <strong>55%</strong> got shorter on paper, with a mean change of
+  <strong>-0.57 in</strong> — against a typical offseason, where the median
+  share of continuing players whose listed height changes downward is
+  <strong>0%</strong>. The same players, measured two ways, account for
+  essentially the whole aggregate step.</li>
+<li><strong>The 2019 break has echoes.</strong> The next-largest within-player churn years are
+  both immediately after the rule change (2021-22 → 2022-23: 26% changed (net +0.08 in); 2022-23 → 2023-24: 18% changed (net -0.06 in)) — consistent with
+  follow-on re-measurements and corrections trickling in, the 2021-22 wave
+  skewing <em>upward</em>. No other offseason since 1980 exceeds 12%. Any
+  within-player analysis spanning 2019-2023 is looking at a settling process,
+  not a stable series.</li>
+</ul>
+<p>The defensible claim is narrow: heights rose into the early 2000s, drifted down
+modestly through the 2010s (-0.353 in over 16 seasons), and have been
+stable since. Anyone quoting the raw peak-to-today number as a basketball trend is
+quoting a measurement change.</p>
+<h3>2. Number conventions loosened</h3>
+<p>Numbers above 55 went from <strong>0.0%</strong> of numbered players to <strong>2.5%</strong>.
+Players wearing 0 or 00 went from <strong>0.7%</strong> to <strong>6.8%</strong>.</p>
+<h3>3. The jersey/height link has weakened</h3>
+<p>The per-season correlation between jersey number and listed height moved from
+<strong>+0.442</strong> to <strong>+0.119</strong>, trending <strong>-0.00878 per season</strong>
+(p &lt; 0.0001). A bootstrap of the change between the first and last five seasons puts it at <strong>-0.283</strong> (95% <abbr title="Confidence interval.">CI</abbr> [-0.337, -0.228], 2,000 resamples). The interval excludes zero, so the weakening is not an artifact of sampling.</p>
+<p>Interpretation, with the caveat from limitation 5: the old convention of big men in
+the 50s and guards in single digits has decayed. Whether that is looser number
+rules, positional convergence, or both, this analysis cannot separate.</p>
+<h3>4. Validation: the Bill Russell check</h3>
+<p>Players wearing number 6, by season: <strong>15</strong> (2018-19) → <strong>14</strong> (2019-20) → <strong>13</strong> (2020-21) → <strong>17</strong> (2021-22) → <strong>12</strong> (2022-23) → <strong>4</strong> (2023-24) → <strong>2</strong> (2024-25).</p>
+<p>The count averaged <strong>14.8</strong> per season across the four seasons before the rule (2018-19 to 2021-22) and <strong>3.0</strong> in the two seasons after it took full effect. That is the expected signature: the NBA retired number 6 league-wide for Bill Russell ahead of 2022-23 but grandfathered existing wearers, so the decline is an attrition curve rather than a cliff.</p>
+<p>The pipeline was never told about this rule. Reproducing a known external fact from the data is the cheapest evidence available that the harvest, de-duplication, and number parsing are behaving.</p>
+<h2>Interactive figures</h2>
+<p>Rendered by the Python implementation; hover for values. Static R twins live in the repo.</p>
+<figure class="figure-card"><iframe src="figures/fig1_height_trend_py.html" loading="lazy" title="Height trend"></iframe><figcaption>Height trend</figcaption></figure>
+<figure class="figure-card"><iframe src="figures/fig2_height_by_position_py.html" loading="lazy" title="Height by position"></iframe><figcaption>Height by position</figcaption></figure>
+<figure class="figure-card"><iframe src="figures/fig3_number_conventions_py.html" loading="lazy" title="Number conventions"></iframe><figcaption>Number conventions</figcaption></figure>
+<figure class="figure-card"><iframe src="figures/fig4_jersey_height_cor_py.html" loading="lazy" title="Jersey height cor"></iframe><figcaption>Jersey height cor</figcaption></figure>
+</main>
+<footer>Public data · dual-implementation reconciled · every gate scripted ·
+<a href="https://github.com/ismayc/basketball-data-science">the family on GitHub</a></footer>
+</body>
+</html>
