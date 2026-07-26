@@ -99,40 +99,40 @@ details.terms li { margin: .3rem 0; color: var(--ink-2); }
 <h1>The NBA didn't get shorter. The ruler changed.</h1>
 <p>Ask a basketball fan what happened to NBA height over the last twenty years
 and you will hear a confident story: the game spread out, centers gave way
-to wings, and the league got smaller. Forty-five seasons of roster data —
-18,399 player-seasons, 1980-81 through 2024-25 — say the confident story is
+to wings, and the league got smaller. Forty-five seasons of roster data
+(18,399 player-seasons, 1980-81 through 2024-25) say the confident story is
 about seventy percent measurement artifact.</p>
-<details class="terms"><summary>Terms used in this analysis</summary><ul><li><strong>CI</strong> — Confidence interval.</li></ul></details>
+<details class="terms"><summary>Terms used in this analysis</summary><ul><li><strong>CI</strong>: Confidence interval.</li></ul></details>
 <p>Mean listed height did rise for two decades, peaking at 79.4 inches in
 2002-03, and it has drifted down since. The question is <em>how</em> it came down,
 and that is exactly the kind of question a summary statistic hides and a
 time series answers. The figure below is the study's centerpiece for one
-reason: the decline is not a slope, it is a <strong>cliff</strong> — a single-season
+reason. The decline is not a slope, it is a <strong>cliff</strong>: a single-season
 drop of 0.61 inches between 2018-19 and 2019-20, the largest year-over-year
 move in the entire 45-season record and 2.3 times larger than the runner-up.
 Trends produced by basketball evolution do not move like that. Rule changes
 do.</p>
 <figure class="figure-card"><iframe src="figures/fig1_height_trend_py.html" loading="lazy" title="Height trend"></iframe><figcaption>Mean listed height by season. The reason this chart exists: the 2019-20 cliff is visible to the naked eye, and no smooth "the game got smaller" story survives contact with it. Hover any season for the exact value.</figcaption></figure>
 <p>2019-20 is precisely when the league began requiring measured heights
-without shoes. Two checks pin the attribution down. A regime-aware model —
-piecewise trends with an explicit level-shift term at 2019 — estimates the
+without shoes. Two checks pin the attribution down. A regime-aware model
+(piecewise trends with an explicit level-shift term at 2019) estimates the
 rule-change step at −0.64 inches (95% <abbr title="Confidence interval.">CI</abbr> [−0.80, −0.47]), and fitting the
 step explicitly keeps it from contaminating the trend slopes on either
 side. And among the 388 players rostered in <strong>both</strong> 2018-19 and 2019-20,
-the same drop appears within the same human beings — so roster turnover,
+the same drop appears within the same human beings. So roster turnover,
 the one mundane alternative explanation, cannot account for it. Since the
 rule change, the league has actually been getting slightly <em>taller</em>.</p>
 <p>Height by position tells the second half of the story. Positional
-convergence is real — but it is gradual and modest next to the step, which
+convergence is real. But it is gradual and modest next to the step, which
 is why the two need to be separated before either can be read.</p>
-<figure class="figure-card"><iframe src="figures/fig2_height_by_position_py.html" loading="lazy" title="Height by position"></iframe><figcaption>Height by listed position over time. Necessary because "the league got smaller" and "positions converged" are different claims — this figure shows the second is real but gradual, which is what isolates the step in the first figure as a measurement event.</figcaption></figure>
-<p>The study's original question — jersey numbers — turns out to carry the
+<figure class="figure-card"><iframe src="figures/fig2_height_by_position_py.html" loading="lazy" title="Height by position"></iframe><figcaption>Height by listed position over time. Necessary because "the league got smaller" and "positions converged" are different claims. This figure shows the second is real but gradual, which is what isolates the step in the first figure as a measurement event.</figcaption></figure>
+<p>The study's original question, jersey numbers, turns out to carry the
 cultural signal. Number choice used to encode position: big men wore big
 numbers. That convention has dissolved.</p>
 <figure class="figure-card"><iframe src="figures/fig3_number_conventions_py.html" loading="lazy" title="Number conventions"></iframe><figcaption>Jersey-number conventions by era. The cultural companion to the height story: which numbers players choose, and how the old big-man-big-number convention faded.</figcaption></figure>
-<figure class="figure-card"><iframe src="figures/fig4_jersey_height_cor_py.html" loading="lazy" title="Jersey height cor"></iframe><figcaption>The correlation between jersey number and height, by season — from +0.44 to +0.12. This is the single chart that summarizes the study's answer: the number on the jersey used to tell you how tall its wearer was, and now it barely does.</figcaption></figure>
+<figure class="figure-card"><iframe src="figures/fig4_jersey_height_cor_py.html" loading="lazy" title="Jersey height cor"></iframe><figcaption>The correlation between jersey number and height, by season: from +0.44 to +0.12. This is the single chart that summarizes the study's answer: the number on the jersey used to tell you how tall its wearer was, and now it barely does.</figcaption></figure>
 <p>The correlation between a player's number and his height fell from <strong>+0.44
-to +0.12</strong> across the sample — a quiet, steady cultural change that, unlike
+to +0.12</strong> across the sample: a quiet, steady cultural change that, unlike
 the height "decline," is exactly what it appears to be.</p>
 <p>Why does any of this matter beyond trivia? Because it is a clean, low-stakes
 rehearsal of a high-stakes failure mode: a headline metric moved, the
@@ -141,7 +141,7 @@ that only shows up when you decompose the change, model the break
 explicitly, and check it within-player. Every study in this family runs on
 that discipline; this one just happens to make the lesson visible in a
 single picture.</p>
-<h2>Method, code, and verification</h2><p>The full technical write-up — data provenance, model specification, validation gates, and stated limitations — is the <a href="https://github.com/ismayc/jersey-height-study#readme">README</a>. The analysis is implemented independently in R and Python and reconciled to numeric tolerance; <code>run_checks.sh</code> replays every gate.</p>
+<h2>Method, code, and verification</h2><p>The full technical write-up (data provenance, model specification, validation gates, and stated limitations) is the <a href="https://github.com/ismayc/jersey-height-study#readme">README</a>. The analysis is implemented independently in R and Python and reconciled to numeric tolerance; <code>run_checks.sh</code> replays every gate.</p>
 </main>
 <footer>Public data · dual-implementation reconciled · every gate scripted ·
 <a href="https://github.com/ismayc/basketball-data-science">the family on GitHub</a></footer>

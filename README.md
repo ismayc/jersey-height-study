@@ -5,12 +5,12 @@ the relationship between the two changed?
 
 Part of the [basketball-data-science](https://github.com/ismayc/basketball-data-science)
 family of studies. The
-analysis is implemented **twice — once in R with the tidyverse, once in Python
-with polars and plotly** — and a reconciliation step checks that the two agree
+analysis is implemented **twice: once in R with the tidyverse, once in Python
+with polars and plotly**, and a reconciliation step checks that the two agree
 before any result is reported.
 
 **Headline:** across 45 seasons and 18,399 player-seasons, the correlation between
-jersey number and listed height collapsed from **+0.44 to +0.12** — big men no
+jersey number and listed height collapsed from **+0.44 to +0.12**. Big men no
 longer monopolise the high numbers. Heights look like they peaked in 2002-03 and
 fell sharply, but **71% of that decline is a single 2019-20 rule change** requiring
 measured heights without shoes, not a change in who plays. Separating those two is
@@ -19,7 +19,7 @@ the main analytical result. Full numbers in *Findings* below.
 <!-- terms -->
 > **Terms used in this analysis.** Dotted-underlined terms anywhere below repeat these definitions on hover ([full glossary](https://github.com/ismayc/basketball-data-science/blob/main/docs/glossary.md)).
 >
-> - **CI** — Confidence interval.
+> - **CI**: Confidence interval.
 <!-- /terms -->
 
 ## Why two implementations
@@ -33,7 +33,7 @@ commit.
 
 It has already caught one real issue: on a partial harvest the piecewise knot term
 was constant zero, which R aliases to `NA` while `statsmodels` silently returns
-`0.0` on the singular design. Same input, different silent behaviour — the kind of
+`0.0` on the singular design. Same input, different silent behaviour: the kind of
 thing that survives a single-implementation review.
 
 ## Pipeline
@@ -106,23 +106,23 @@ grandfathered tail. If it doesn't, something upstream is wrong.
 
 ## Models
 
-1. **Height trend** — piecewise-linear with a knot at 1990, weighted by roster
+1. **Height trend**: piecewise-linear with a knot at 1990, weighted by roster
    size. A single straight line across four decades would be the wrong model:
    heights rose and then *reversed* (+0.067 in/season before 1990, −0.015 after),
    and one slope would average those into a claim matching neither era.
-2. **Regime-aware height model** — the same idea taken seriously: knots at 1990
-   and the 2002 peak, plus a **level-shift term at the 2019-20 measurement rule
+2. **Regime-aware height model**: the same idea taken seriously, with knots at
+   1990 and the 2002 peak, plus a **level-shift term at the 2019-20 measurement rule
    change**. The shift term estimates the rule-change step directly (with a <abbr title="Confidence interval.">CI</abbr>)
    instead of reading it off consecutive seasons, and keeps the break from
    contaminating the trend slopes. It fits far better than the single-knot model
    (R² 0.85 vs 0.30), which is itself evidence that the break is structural.
-3. **Within-player check** — year-over-year listed-height change for players
+3. **Within-player check**: year-over-year listed-height change for players
    rostered in consecutive seasons. The aggregate mean moves when *who plays*
    changes; a continuing player's listed height only moves when the measurement
    does. This isolates the 2019 step from roster composition entirely.
-4. **Association trend** — per-season jersey/height correlation regressed on
+4. **Association trend**: per-season jersey/height correlation regressed on
    season, weighted by roster size.
-5. **Bootstrap** — 2,000 resamples of the change in jersey/height correlation
+5. **Bootstrap**: 2,000 resamples of the change in jersey/height correlation
    between the first and last five seasons, reported as a 95% percentile
    interval. Seeded for reproducibility. The R and Python runs use different RNGs,
    so reconciliation checks that their intervals *overlap* rather than match.
@@ -142,7 +142,7 @@ analysis.
 
 1. **Listed heights are not measured heights.** Teams historically listed players
    generously or in shoes; the NBA began requiring measured heights without shoes
-   in 2019-20. This is not a hypothetical concern — it is **visible in the data as
+   in 2019-20. This is not a hypothetical concern. It is **visible in the data as
    a −0.61 in single-season step**, the largest year-over-year move in the entire
    45-season series and 2.3× the next largest. It accounts for 71% of the apparent
    post-2002 decline. The series is best read as **two regimes spliced together**,
@@ -168,7 +168,7 @@ quantified uncertainty, an independent validation step, and documented
 limitations.
 
 It is **not** tracking or play-by-play work, and it does not model player or
-lineup value — the sibling studies in the family cover those.
+lineup value. The sibling studies in the family cover those.
 
 ---
 
@@ -177,7 +177,7 @@ lineup value — the sibling studies in the family cover those.
 Covering 1980-81 through 2024-25. Every number
 below is generated by `python/05_findings.py` from `output/`, not typed by hand.
 
-### 1. Height rose, peaked — and then mostly changed measuring tape
+### 1. Height rose, peaked, and then mostly changed measuring tape
 
 Mean listed height went from **78.45 in** in 1980-81 to
 **78.52 in** in 2024-25, peaking at **79.37 in** in
@@ -196,7 +196,7 @@ Decomposing the 0.856 in decline from 2002-03 to
 
 That single 2019-20 step is **71% of the
 entire decline**, and it is the largest year-over-year move in all
-45 seasons — 2.3× the next largest
+45 seasons: 2.3× the next largest
 (-0.258 in, 2017-18).
 
 2019-20 is exactly when the NBA began requiring measured heights without
@@ -213,12 +213,12 @@ Two further checks pin that attribution down:
 - **Within-player, so roster turnover cannot explain it.** Among the
   **388** players rostered in both 2018-19 and 2019-20,
   **55%** got shorter on paper, with a mean change of
-  **-0.57 in** — against a typical offseason, where the median
+  **-0.57 in**, against a typical offseason, where the median
   share of continuing players whose listed height changes downward is
   **0%**. The same players, measured two ways, account for
   essentially the whole aggregate step.
 - **The 2019 break has echoes.** The next-largest within-player churn years are
-  both immediately after the rule change (2021-22 → 2022-23: 26% changed (net +0.08 in); 2022-23 → 2023-24: 18% changed (net -0.06 in)) — consistent with
+  both immediately after the rule change (2021-22 → 2022-23: 26% changed (net +0.08 in); 2022-23 → 2023-24: 18% changed (net -0.06 in)), consistent with
   follow-on re-measurements and corrections trickling in, the 2021-22 wave
   skewing *upward*. No other offseason since 1980 exceeds 12%. Any
   within-player analysis spanning 2019-2023 is looking at a settling process,
