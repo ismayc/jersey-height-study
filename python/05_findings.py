@@ -1,21 +1,38 @@
-"""Generate the Findings section of the study README from the computed results.
+"""Generate every analysis number in the study README from computed results.
 
-Written so no number in the write-up is typed by hand. Every figure quoted in the
-prose is read from output/, which means the narrative cannot drift away from the
-analysis when the data is refreshed.
+Written so no number in the write-up is typed by hand. Every figure quoted in
+the prose is read from output/ (plus a row count from data/nba_rosters.csv),
+which means the narrative cannot drift away from the analysis when the data is
+refreshed. Ownership covers the Findings section plus three marked regions
+elsewhere in the README (<!-- gen:headline -->, <!-- gen:limitations -->,
+<!-- gen:explorer -->).
 
-Run:  python python/05_findings.py
+The generator writes plain text; hover tooltips are re-applied afterwards by
+the family glossary tool (../basketball-analysis-tools/glossary.py --sync).
+
+Run:    python python/05_findings.py            rewrite the owned regions
+        python python/05_findings.py --check    fail if the committed README
+                                                (abbr tags stripped) differs
+                                                from what a rewrite would say
 """
 from __future__ import annotations
 
+import re
+import sys
 from pathlib import Path
 
 import polars as pl
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "output"
+DATA = ROOT / "data"
 README = ROOT / "README.md"
 MARKER = "## Findings"
+ABBR = re.compile(r'<abbr title="[^"]*">([^<]*)</abbr>')
+
+
+def strip_abbr(text: str) -> str:
+    return ABBR.sub(r"\1", text)
 
 
 def fmt_season(year: int) -> str:
@@ -208,13 +225,114 @@ rules, positional convergence, or both, this analysis cannot separate.
 """
 
 
-def main() -> int:
-    text = README.read_text()
+def build_regions() -> dict[str, str]:
+    """Owned regions outside the Findings section, keyed by marker name.
+
+    Same discipline as build(): prose is fixed here, every number is computed.
+    """
+    results = pl.read_csv(OUT / "results_python.csv")
+    height = series(results, "mean_height_in")
+    cor = series(results, "jersey_height_cor")
+
+    last_season = int(height["season_start"][-1])
+    n_seasons = height.height
+    n_player_seasons = pl.read_csv(
+        DATA / "nba_rosters.csv", infer_schema_length=0).height
+
+    cor_first, cor_last = float(cor["value"][0]), float(cor["value"][-1])
+    cor_min_row = cor.sort("value").row(0, named=True)
+    cor_min = float(cor_min_row["value"])
+    cor_min_season = int(cor_min_row["season_start"])
+
+    by_year = dict(zip(height["season_start"].to_list(),
+                       height["value"].to_list()))
+    peak_season = int(height.sort("value", descending=True)
+                      .row(0, named=True)["season_start"])
+    step = by_year[2019] - by_year[2018]
+    decline = by_year[peak_season] - by_year[last_season]
+    step_share = abs(step) / abs(decline)
+    years = sorted(by_year)
+    drops = sorted(((y, by_year[y] - by_year[p])
+                    for p, y in zip(years, years[1:])), key=lambda t: t[1])
+    second_drop = next(v for y, v in drops if y != 2019)
+    ratio = abs(step) / abs(second_drop)
+
+    nbs = pl.read_csv(OUT / "number_by_season.csv").sort("season_start")
+    med_first, med_last = float(nbs["median_number"][0]), float(
+        nbs["median_number"][-1])
+    nb_first, nb_last = int(nbs["season_start"][0]), int(
+        nbs["season_start"][-1])
+    peak00 = nbs.sort("share_0_00", descending=True).row(0, named=True)
+
+    headline = f"""
+**Headline:** across {n_seasons} seasons and {n_player_seasons:,} player-seasons, the correlation
+between jersey number and listed height collapsed from **{cor_first:+.2f}** to a low
+of **{cor_min:+.2f}** in {fmt_season(cor_min_season)} (**{cor_last:+.2f}** in {fmt_season(last_season)}). Big men no longer
+monopolize the high numbers. Heights look like they peaked in {fmt_season(peak_season)} and
+fell sharply, but **{step_share:.0%} of that decline is a single {fmt_season(2019)} rule change**
+requiring measured heights without shoes, not a change in who plays.
+Separating those two is the main analytical result. Full numbers in
+*Findings* below.
+"""
+
+    limitations = f"""It is **visible in the data as
+   a {step:+.2f} in single-season step**, the largest year-over-year move in
+   the entire {n_seasons}-season series and {ratio:.1f}× the next largest. It
+   accounts for {step_share:.0%} of the apparent post-{peak_season} decline."""
+
+    explorer = f"""
+`python/06_number_explorer.py` adds two explorable views (gated, wired
+into `run_checks.sh`): the median jersey number by season with quartile
+band (`figures/fig5_median_number.html`) and a slider/play histogram of
+the full number distribution per season
+(`figures/fig6_number_histogram.html`). Parsing rules, gated: **0 and 00
+are pooled** (noted on every surface that shows it), multi-number season
+entries use the first listed number, and blank entries are dropped and
+counted. Data note: `CommonTeamRoster` archives END-OF-SEASON rosters,
+so a traded player appears once, on his final team (Dončić is LAL-only
+in 2024-25); the one exception in {n_seasons} seasons is Spencer Dinwiddie's
+2015-16 double listing (CHI and DET), which the wearer list logic
+aggregates into a single entry (that bar has too many wearers to display
+a list, so the case is moot on screen, and gated in the code). Headline:
+the median number nearly halved from {med_first:g} ({fmt_season(nb_first)}) to
+{med_last:g} ({fmt_season(nb_last)}); the 0/00 share peaked at
+{peak00['share_0_00']:.1%} in {fmt_season(int(peak00['season_start']))}.
+"""
+    return {"headline": headline, "limitations": limitations,
+            "explorer": explorer}
+
+
+def regenerate(text: str) -> str:
+    """The whole README with every owned region rebuilt from output/."""
+    for name, body in build_regions().items():
+        pattern = re.compile(
+            rf"<!-- gen:{name} -->.*?<!-- /gen:{name} -->", re.S)
+        if not pattern.search(text):
+            raise SystemExit(f"README.md is missing the gen:{name} markers")
+        text = pattern.sub(
+            lambda _m: f"<!-- gen:{name} -->{body}<!-- /gen:{name} -->",
+            text, count=1)
     head = text.split(MARKER)[0].rstrip()
-    README.write_text(head + "\n\n" + build())
-    print(f"Updated Findings in {README}")
+    return head + "\n\n" + build()
+
+
+def main(argv: list[str]) -> int:
+    current = README.read_text()
+    if "--check" in argv:
+        plain = strip_abbr(current)
+        if plain != regenerate(plain):
+            print("Committed README analysis numbers differ from what "
+                  "output/ supports. Fix: python python/05_findings.py, "
+                  "then glossary.py --sync.")
+            print("JERSEY-HEIGHT FINDINGS CHECK FAILED")
+            return 1
+        print("JERSEY-HEIGHT FINDINGS CHECK PASSED (headline, limitations, "
+              "explorer, and Findings all regenerate from output/)")
+        return 0
+    README.write_text(regenerate(current))
+    print(f"Updated generated regions + Findings in {README}")
     return 0
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    raise SystemExit(main(sys.argv[1:]))
