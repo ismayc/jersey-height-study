@@ -63,14 +63,11 @@ theme_study <- function() {
 #   * A player traded mid-season appears on two rosters; the first row per
 #     (PLAYER_ID, season) is kept so players are not double counted.
 
-raw <- read_csv(DATA_CSV, col_types = cols(.default = col_character()), progress = FALSE)
+# Pure functions live in functions.R so the test suite (tests/R) can source
+# them without running this pipeline.
+source(file.path(ROOT, "R", "functions.R"))
 
-parse_height_in <- function(x) {
-  parts <- str_split_fixed(x, "-", 2)
-  feet <- suppressWarnings(as.numeric(parts[, 1]))
-  inches <- suppressWarnings(as.numeric(parts[, 2]))
-  ifelse(is.na(feet) | is.na(inches), NA_real_, feet * 12 + inches)
-}
+raw <- read_csv(DATA_CSV, col_types = cols(.default = col_character()), progress = FALSE)
 
 players <- raw %>%
   mutate(
@@ -176,29 +173,8 @@ write_csv(models, file.path(OUT_DIR, "models_r.csv"))
 # 2b) Within-player year-over-year height change: the composition-free check on
 #     the 2019-20 measurement step. The aggregate mean can move because WHO
 #     plays changed; a continuing player's listed height only moves when the
-#     measurement itself does. In a normal offseason 1-6% of continuing players'
-#     listed heights change; if the rule change is real, a majority should
-#     "shrink" in the single 2018-19 -> 2019-20 offseason.
-seasons_sorted <- sort(unique(players$season_start))
-within_player <- map_dfr(
-  seq_len(length(seasons_sorted) - 1),
-  function(i) {
-    s0 <- seasons_sorted[i]; s1 <- seasons_sorted[i + 1]
-    a <- players %>% filter(season_start == s0) %>% select(PLAYER_ID, h0 = height_in)
-    b <- players %>% filter(season_start == s1) %>% select(PLAYER_ID, h1 = height_in)
-    j <- inner_join(a, b, by = "PLAYER_ID") %>% mutate(delta = h1 - h0)
-    if (nrow(j) == 0) return(NULL)
-    tibble(
-      pair_start = s0,
-      n_matched = nrow(j),
-      mean_delta = mean(j$delta),
-      share_shrunk = mean(j$delta < 0),
-      share_same = mean(j$delta == 0),
-      share_grew = mean(j$delta > 0)
-    )
-  }
-)
-write_csv(within_player, file.path(OUT_DIR, "within_player_r.csv"))
+#     measurement itself does. (Implementation in R/functions.R, unit-tested.)
+write_csv(within_player_changes(players), file.path(OUT_DIR, "within_player_r.csv"))
 
 # 3) Uncertainty without a distributional assumption: bootstrap the difference in
 #    the jersey/height correlation between the first and last five seasons.
