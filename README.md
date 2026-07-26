@@ -15,6 +15,12 @@ fell sharply, but **71% of that decline is a single 2019-20 rule change** requir
 measured heights without shoes, not a change in who plays. Separating those two is
 the main analytical result. Full numbers in *Findings* below.
 
+<!-- terms -->
+> **Terms used in this analysis.** Dotted-underlined terms anywhere below repeat these definitions on hover ([full glossary](../docs/glossary.md)).
+>
+> - **CI** — Confidence interval.
+<!-- /terms -->
+
 ## Why two implementations
 
 Not to show off two languages. Two independent implementations of the same metric
@@ -105,7 +111,7 @@ grandfathered tail. If it doesn't, something upstream is wrong.
    and one slope would average those into a claim matching neither era.
 2. **Regime-aware height model** — the same idea taken seriously: knots at 1990
    and the 2002 peak, plus a **level-shift term at the 2019-20 measurement rule
-   change**. The shift term estimates the rule-change step directly (with a CI)
+   change**. The shift term estimates the rule-change step directly (with a <abbr title="Confidence interval.">CI</abbr>)
    instead of reading it off consecutive seasons, and keeps the break from
    contaminating the trend slopes. It fits far better than the single-knot model
    (R² 0.85 vs 0.30), which is itself evidence that the break is structural.
@@ -201,7 +207,7 @@ Two further checks pin that attribution down:
 
 - **Modelled, not eyeballed.** A regime-aware model (piecewise trend, knots at
   1990 and 2002, plus a level-shift term at 2019) estimates the rule-change step
-  at **-0.636 in** (95% CI [-0.801, -0.472]).
+  at **-0.636 in** (95% <abbr title="Confidence interval.">CI</abbr> [-0.801, -0.472]).
   Fitting the shift explicitly also stops the break from contaminating the trend
   slopes on either side of it.
 - **Within-player, so roster turnover cannot explain it.** Among the
@@ -232,7 +238,7 @@ Players wearing 0 or 00 went from **0.7%** to **6.8%**.
 
 The per-season correlation between jersey number and listed height moved from
 **+0.442** to **+0.119**, trending **-0.00878 per season**
-(p < 0.0001). A bootstrap of the change between the first and last five seasons puts it at **-0.283** (95% CI [-0.337, -0.228], 2,000 resamples). The interval excludes zero, so the weakening is not an artifact of sampling.
+(p < 0.0001). A bootstrap of the change between the first and last five seasons puts it at **-0.283** (95% <abbr title="Confidence interval.">CI</abbr> [-0.337, -0.228], 2,000 resamples). The interval excludes zero, so the weakening is not an artifact of sampling.
 
 Interpretation, with the caveat from limitation 5: the old convention of big men in
 the 50s and guards in single digits has decayed. Whether that is looser number
