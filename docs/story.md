@@ -55,7 +55,7 @@ pooling is noted on each figure). The median tells the story in one line:
 
 {{fig:fig5_median_number|The median jersey number by season, with the middle-50% band. Necessary because the correlation chart above says the number-height link dissolved but not what players chose instead: the entire distribution slid steadily toward low numbers, with the median nearly halving over 46 seasons. Hover any season for the 0/00 and 50+ shares.}}
 
-{{fig:fig6_number_histogram|The full jersey-number distribution, one season at a time: drag the slider or press play to walk 46 seasons. This is the exploratory view the medians compress away: when exactly one player wore a number that season, hovering the bar names him. Watch the high-number right tail thin out and the 0/00 bar (first bar, pooled) grow from 1.1% of the league in 1980-81 to its 6.8% all-time peak in 2024-25 (5.6% in 2025-26). Numbers 50 and up went from 7.7% of players to 4.8%.}}
+{{fig:fig6_number_histogram|The full jersey-number distribution, one season at a time: drag the slider or press play to walk 46 seasons. This is the exploratory view the medians compress away: any bar with ten or fewer wearers lists them on hover (a player traded mid-season shows once, with his final team, because the roster archive is end-of-season). Watch the high-number right tail thin out and the 0/00 bar (first bar, pooled) grow from 1.1% of the league in 1980-81 to its 6.8% all-time peak in 2024-25 (5.6% in 2025-26). Numbers 50 and up went from 7.7% of players to 4.8%.}}
 
 Why does any of this matter beyond trivia? Because it is a low-stakes
 rehearsal of a high-stakes failure mode. A headline metric moved, and the

@@ -34,6 +34,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data" / "nba_rosters.csv"
 OUT = ROOT / "output"
 FIG = ROOT / "figures"
+WEARER_LIST_MAX = 10
 
 
 def load_numbers() -> tuple[pl.DataFrame, dict]:
@@ -141,15 +142,25 @@ def figures(df: pl.DataFrame, seasons: pl.DataFrame) -> None:
     fig.write_html(FIG / "fig5_median_number.html", include_plotlyjs="cdn")
 
     # --- fig6: per-season histogram with slider + play ----------------------
-    # When exactly one player wore a number that season, hover names him.
-    counts = (df.group_by("season_start", "number")
-              .agg(n=pl.len(),
-                   lone=pl.when(pl.len() == 1)
-                   .then(pl.format("<br>only wearer: {} ({})",
-                                   pl.col("PLAYER").first(),
-                                   pl.col("team_abbrev").first()))
-                   .otherwise(pl.lit(""))
-                   .first()))
+    # Any bar with WEARER_LIST_MAX or fewer wearers lists them on hover.
+    # Players are aggregated first so a rare double-listing (one player on
+    # two teams in a season's archived rosters) shows once with both teams.
+    per_player = (df.group_by("season_start", "number", "PLAYER")
+                  .agg(teams=pl.col("team_abbrev").unique().sort()
+                       .str.join(", "))
+                  .with_columns(entry=pl.format("{} ({})", pl.col("PLAYER"),
+                                                pl.col("teams"))))
+    counts = (per_player.group_by("season_start", "number")
+              .agg(n_rows=pl.len(),
+                   names=pl.col("entry").sort().str.join("<br>"))
+              .join(df.group_by("season_start", "number").agg(n=pl.len()),
+                    on=["season_start", "number"])
+              .with_columns(
+                  lone=pl.when(pl.col("n_rows") == 1)
+                  .then(pl.format("<br>only wearer: {}", pl.col("names")))
+                  .when(pl.col("n_rows") <= WEARER_LIST_MAX)
+                  .then(pl.format("<br>wearers:<br>{}", pl.col("names")))
+                  .otherwise(pl.lit(""))))
     season_list = sorted(seasons["season_start"].to_list())
     label = {s: seasons.filter(pl.col("season_start") == s)["season"][0]
              for s in season_list}
