@@ -1,6 +1,6 @@
 # Unit tests for jersey-height-study/R/functions.R
 
-source(file.path(REPO, "jersey-height-study", "R", "functions.R"))
+source(file.path(REPO, "R", "functions.R"))
 
 test_that("parse_height_in handles the feed's formats", {
   expect_equal(parse_height_in(c("6-9", "7-0", "5-11")), c(81, 84, 71))

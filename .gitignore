@@ -1,3 +1,5 @@
-
-# Local Python environment (recreate from requirements.txt)
+__pycache__/
+*.pyc
 .venv/
+.DS_Store
+.~lock.*#
