@@ -68,10 +68,19 @@ def build() -> str:
 
     # Within-player check on the same step: continuing players only, so roster
     # composition cannot explain it.
-    wp = pl.read_csv(OUT / "within_player_python.csv").sort("pair_start")
+    wp = (pl.read_csv(OUT / "within_player_python.csv").sort("pair_start")
+          .with_columns(share_changed=pl.col("share_shrunk") + pl.col("share_grew")))
     wp2018 = wp.filter(pl.col("pair_start") == 2018).row(0, named=True)
     wp_other = wp.filter(pl.col("pair_start") != 2018)
     typical_shrunk = float(wp_other["share_shrunk"].median())
+    # Secondary re-measurement waves: the largest churn years besides 2018.
+    waves = wp_other.sort("share_changed", descending=True).head(2).sort("pair_start")
+    wave_txt = "; ".join(
+        f"{fmt_season(int(r['pair_start']))} → {fmt_season(int(r['pair_start']) + 1)}: "
+        f"{r['share_changed']:.0%} changed (net {r['mean_delta']:+.2f} in)"
+        for r in waves.iter_rows(named=True))
+    rest_max = float(wp_other.sort("share_changed", descending=True)
+                     ["share_changed"][2])
 
     cm = models.filter(pl.col("model") == "jersey_height_cor_trend")
     cor_slope = float(cm.filter(pl.col("term") == "season_start")["estimate"][0])
@@ -166,6 +175,12 @@ Two further checks pin that attribution down:
   share of continuing players whose listed height changes downward is
   **{typical_shrunk:.0%}**. The same players, measured two ways, account for
   essentially the whole aggregate step.
+- **The 2019 break has echoes.** The next-largest within-player churn years are
+  both immediately after the rule change ({wave_txt}) — consistent with
+  follow-on re-measurements and corrections trickling in, the 2021-22 wave
+  skewing *upward*. No other offseason since 1980 exceeds {rest_max:.0%}. Any
+  within-player analysis spanning 2019-2023 is looking at a settling process,
+  not a stable series.
 
 The defensible claim is narrow: heights rose into the early 2000s, drifted down
 modestly through the 2010s ({d2018 - d2002:+.3f} in over 16 seasons), and have been

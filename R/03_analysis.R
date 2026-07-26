@@ -173,7 +173,8 @@ write_csv(models, file.path(OUT_DIR, "models_r.csv"))
 # 2b) Within-player year-over-year height change: the composition-free check on
 #     the 2019-20 measurement step. The aggregate mean can move because WHO
 #     plays changed; a continuing player's listed height only moves when the
-#     measurement itself does. (Implementation in R/functions.R, unit-tested.)
+#     measurement itself does. Median offseason churn ~2%; the 2019 break 61%.
+#     (Implementation in R/functions.R, unit-tested.)
 write_csv(within_player_changes(players), file.path(OUT_DIR, "within_player_r.csv"))
 
 # 3) Uncertainty without a distributional assumption: bootstrap the difference in

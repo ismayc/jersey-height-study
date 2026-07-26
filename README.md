@@ -211,6 +211,12 @@ Two further checks pin that attribution down:
   share of continuing players whose listed height changes downward is
   **0%**. The same players, measured two ways, account for
   essentially the whole aggregate step.
+- **The 2019 break has echoes.** The next-largest within-player churn years are
+  both immediately after the rule change (2021-22 → 2022-23: 26% changed (net +0.08 in); 2022-23 → 2023-24: 18% changed (net -0.06 in)) — consistent with
+  follow-on re-measurements and corrections trickling in, the 2021-22 wave
+  skewing *upward*. No other offseason since 1980 exceeds 12%. Any
+  within-player analysis spanning 2019-2023 is looking at a settling process,
+  not a stable series.
 
 The defensible claim is narrow: heights rose into the early 2000s, drifted down
 modestly through the 2010s (-0.353 in over 16 seasons), and have been

@@ -178,8 +178,9 @@ def within_player_changes(players: pl.DataFrame) -> pl.DataFrame:
 
     This is the composition-free check on the 2019-20 measurement step: the
     aggregate mean can move because WHO plays changed, but a continuing player's
-    listed height only moves when the measurement itself does. In a normal
-    offseason 1-6% of continuing players' listed heights change; if the rule
+    listed height only moves when the measurement itself does. In the median
+    offseason ~2% of continuing players' listed heights change (no other
+    offseason since 1980 exceeds 27%, and most sit under 5%); if the rule
     change is real it should show up as a majority of continuing players
     'shrinking' in a single offseason.
     """
