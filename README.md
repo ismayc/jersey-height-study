@@ -9,12 +9,16 @@ analysis is implemented **twice: once in R with the tidyverse, once in Python
 with polars and plotly**, and a reconciliation step checks that the two agree
 before any result is reported.
 
-**Headline:** across 46 seasons and 18,947 player-seasons, the correlation between
-jersey number and listed height collapsed from **+0.44 to +0.12**. Big men no
-longer monopolize the high numbers. Heights look like they peaked in 2002-03 and
-fell sharply, but **71% of that decline is a single 2019-20 rule change** requiring
-measured heights without shoes, not a change in who plays. Separating those two is
-the main analytical result. Full numbers in *Findings* below.
+<!-- gen:headline -->
+**Headline:** across 46 seasons and 18,947 player-seasons, the correlation
+between jersey number and listed height collapsed from **+0.44** to a low
+of **+0.12** in 2024-25 (**+0.17** in 2025-26). Big men no longer
+monopolize the high numbers. Heights look like they peaked in 2002-03 and
+fell sharply, but **75% of that decline is a single 2019-20 rule change**
+requiring measured heights without shoes, not a change in who plays.
+Separating those two is the main analytical result. Full numbers in
+*Findings* below.
+<!-- /gen:headline -->
 
 <!-- terms -->
 > **Terms used in this analysis.** Dotted-underlined terms anywhere below repeat these definitions on hover ([full glossary](https://github.com/ismayc/basketball-data-science/blob/main/docs/glossary.md)).
@@ -108,14 +112,14 @@ grandfathered tail. If it doesn't, something upstream is wrong.
 
 1. **Height trend**: piecewise-linear with a knot at 1990, weighted by roster
    size. A single straight line across four decades would be the wrong model:
-   heights rose and then *reversed* (+0.067 in/season before 1990, −0.015 after),
+   heights rose and then *reversed* (exact slopes in the Findings below),
    and one slope would average those into a claim matching neither era.
 2. **Regime-aware height model**: the same idea taken seriously, with knots at
    1990 and the 2002 peak, plus a **level-shift term at the 2019-20 measurement rule
    change**. The shift term estimates the rule-change step directly (with a <abbr title="Confidence interval.">CI</abbr>)
    instead of reading it off consecutive seasons, and keeps the break from
    contaminating the trend slopes. It fits far better than the single-knot model
-   (R² 0.85 vs 0.30), which is itself evidence that the break is structural.
+   by a wide margin, which is itself evidence that the break is structural.
 3. **Within-player check**: year-over-year listed-height change for players
    rostered in consecutive seasons. The aggregate mean moves when *who plays*
    changes; a continuing player's listed height only moves when the measurement
@@ -142,10 +146,10 @@ analysis.
 
 1. **Listed heights are not measured heights.** Teams historically listed players
    generously or in shoes; the NBA began requiring measured heights without shoes
-   in 2019-20. This is not a hypothetical concern. It is **visible in the data as
-   a −0.61 in single-season step**, the largest year-over-year move in the entire
-   45-season series and 2.3× the next largest. It accounts for 71% of the apparent
-   post-2002 decline. The series is best read as **two regimes spliced together**,
+   in 2019-20. This is not a hypothetical concern. <!-- gen:limitations -->It is **visible in the data as
+   a -0.61 in single-season step**, the largest year-over-year move in
+   the entire 46-season series and 2.3× the next largest. It
+   accounts for 75% of the apparent post-2002 decline.<!-- /gen:limitations --> The series is best read as **two regimes spliced together**,
    and the study does not attempt to correct or bridge them; it quantifies the
    break and restricts the claims accordingly (see Finding 1). Any comparison
    spanning 2019 is comparing two different measuring conventions.
@@ -174,20 +178,24 @@ lineup value. The sibling studies in the family cover those.
 
 ## Exploratory: the numbers season by season
 
+<!-- gen:explorer -->
 `python/06_number_explorer.py` adds two explorable views (gated, wired
 into `run_checks.sh`): the median jersey number by season with quartile
 band (`figures/fig5_median_number.html`) and a slider/play histogram of
 the full number distribution per season
 (`figures/fig6_number_histogram.html`). Parsing rules, gated: **0 and 00
-are pooled** (noted on every surface that shows it), multi-number
-season entries use the first listed number, and blank entries are
-dropped and counted. Data note: `CommonTeamRoster` archives END-OF-SEASON rosters, so a
-traded player appears once, on his final team (Dončić is LAL-only in
-2024-25); the one exception in 46 seasons is Spencer Dinwiddie's 2015-16
-double listing (CHI and DET), which the wearer list logic aggregates into a single entry
-(that bar has too many wearers to display a list, so the case is moot
-on screen, and gated in the code). Headline: the median number nearly halved from 25
-(1980-81) to 14 (2025-26); the 0/00 share peaked at 6.8% in 2024-25.
+are pooled** (noted on every surface that shows it), multi-number season
+entries use the first listed number, and blank entries are dropped and
+counted. Data note: `CommonTeamRoster` archives END-OF-SEASON rosters,
+so a traded player appears once, on his final team (Dončić is LAL-only
+in 2024-25); the one exception in 46 seasons is Spencer Dinwiddie's
+2015-16 double listing (CHI and DET), which the wearer list logic
+aggregates into a single entry (that bar has too many wearers to display
+a list, so the case is moot on screen, and gated in the code). Headline:
+the median number nearly halved from 25 (1980-81) to
+14 (2025-26); the 0/00 share peaked at
+6.8% in 2024-25.
+<!-- /gen:explorer -->
 
 ## Findings
 
