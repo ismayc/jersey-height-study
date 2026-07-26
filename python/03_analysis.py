@@ -55,7 +55,7 @@ def base_layout(title: str, subtitle: str, y_title: str | None) -> go.Layout:
         yaxis=dict(title=dict(text=y_title, font=dict(color=INK2, size=12)) if y_title else None,
                    showgrid=True, gridcolor=GRID, gridwidth=0.5, zeroline=False,
                    linecolor=AXIS, linewidth=1, tickfont=dict(color=MUTED, size=11)),
-        showlegend=False,          # series are direct-labelled instead
+        showlegend=False,          # series are direct-labeled instead
         hovermode="x unified",
         margin=dict(l=70, r=130, t=80, b=50),
         width=900, height=500,
@@ -136,7 +136,7 @@ def fit_models(results: pl.DataFrame) -> pl.DataFrame:
 
     # Regime-aware model: piecewise trend with knots at 1990 and the 2002 peak,
     # plus a LEVEL SHIFT at the 2019-20 measurement rule change. The shift term
-    # turns the eyeballed "-0.61 in step" into a modelled estimate with a CI,
+    # turns the eyeballed "-0.61 in step" into a modeled estimate with a CI,
     # and keeps the trend slopes from being contaminated by the break.
     # (Fit comparison on this data: R^2 0.85 vs 0.30 for the single-knot model.)
     hr = h.with_columns(
@@ -266,7 +266,7 @@ def make_figures(players: pl.DataFrame, results: pl.DataFrame) -> None:
                            font=dict(color=ORANGE, size=11))
     save(fig, "fig1_height_trend_py")
 
-    # --- Figure 2: by position, direct-labelled at the right edge.
+    # --- Figure 2: by position, direct-labeled at the right edge.
     pos = (players.filter(pl.col("position_group").is_in(["G", "F", "C"]))
            .group_by("season_start", "position_group")
            .agg(value=pl.col("height_in").mean())
