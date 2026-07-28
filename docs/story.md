@@ -1,10 +1,29 @@
-# The NBA didn't get shorter. The ruler changed.
+# The players didn't shrink. The jersey numbers did.
 
 Ask a basketball fan what happened to NBA height over the last twenty years
 and you will hear a confident story: the game spread out, centers gave way
 to wings, and the league got smaller. Forty-six seasons of roster data
 (18,947 player-seasons, 1980-81 through 2025-26) say the confident story is
 about seventy percent measurement artifact.
+
+<div class="tiles">
+<div class="tile"><div class="label">The 2019-20 height cliff</div>
+<div class="value">&minus;0.61<small> in</small></div>
+<div class="sub">Largest year-over-year move in the 45-season record</div></div>
+<div class="tile"><div class="label">Number-height correlation</div>
+<div class="value">.44 &rarr; .12</div>
+<div class="sub">The jersey number used to tell you the height. It barely does now.</div></div>
+<div class="tile"><div class="label">Median jersey number</div>
+<div class="value">25 &rarr; 14</div>
+<div class="sub">1980-81 to 2025-26. The low numbers won.</div></div>
+<div class="tile"><div class="label">Sample</div>
+<div class="value">18,947</div>
+<div class="sub">Player-seasons across 46 years of rosters</div></div>
+</div>
+
+<div class="eyebrow beat">The height story</div>
+
+## Not a slope. A cliff.
 
 Mean listed height did rise for two decades, peaking at 79.4 inches in
 2002-03, and it has drifted down since. The question is *how* it came down,
@@ -28,11 +47,19 @@ the same drop appears within the same human beings. So roster turnover,
 the one mundane alternative explanation, cannot account for it. Since the
 rule change, the league has actually been getting slightly *taller*.
 
+<div class="eyebrow beat">Positions</div>
+
+## Convergence is real. It just isn't the story.
+
 Height by position tells the second half of the story. Positional
 convergence is real. But it is gradual and modest next to the step, which
 is why the two need to be separated before either can be read.
 
 {{fig:fig2_height_by_position_py|Height by listed position over time. Necessary because "the league got smaller" and "positions converged" are different claims. This figure shows the second is real but gradual, which is what isolates the step in the first figure as a measurement event.}}
+
+<div class="eyebrow beat">The cultural signal</div>
+
+## Big men no longer wear big numbers
 
 The study's original question, jersey numbers, turns out to carry the
 cultural signal. Number choice used to encode position: big men wore big
@@ -46,6 +73,10 @@ The correlation between a player's number and his height fell from **+0.44
 to +0.17** across the sample (its 2024-25 floor was +0.12): a quiet, steady cultural change that, unlike
 the height "decline," is exactly what it appears to be.
 
+<div class="eyebrow beat">46 seasons of number choices</div>
+
+## The low numbers won
+
 The numbers themselves deserve a season-by-season look, not just a
 correlation. Two explorable views below (0 and 00 are pooled into a
 single bucket throughout: distinct uniforms, same cultural choice; the
@@ -56,6 +87,10 @@ pooling is noted on each figure). The median tells the story in one line:
 {{fig:fig5_median_number|The median jersey number by season, with the middle-50% band. Necessary because the correlation chart above says the number-height link dissolved but not what players chose instead: the entire distribution slid steadily toward low numbers, with the median nearly halving over 46 seasons. Hover any season for the 0/00 and 50+ shares.}}
 
 {{fig:fig6_number_histogram|The full jersey-number distribution, one season at a time: drag the slider or press play to walk 46 seasons, and switch the bin size (1, 5, or 10 numbers per bar) to trade detail for shape. This is the exploratory view the medians compress away: any bar with ten or fewer wearers lists them on hover (a player traded mid-season shows once, with his final team, because the roster archive is end-of-season). Watch the high-number right tail thin out and the 0/00 bar (first bar, pooled) grow from 1.1% of the league in 1980-81 to its 6.8% all-time peak in 2024-25 (5.6% in 2025-26). Numbers 50 and up went from 7.7% of players to 4.8%.}}
+
+<div class="eyebrow beat">The lesson</div>
+
+## A rehearsal for every "the metric moved" argument
 
 Why does any of this matter beyond trivia? Because it is a low-stakes
 rehearsal of a high-stakes failure mode. A headline metric moved, and the
