@@ -64,9 +64,18 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
     ["x", "y", "customdata"].forEach(function (k) {
       if (tr[k] != null) tr[k] = decode(tr[k]);
     });
-    if (tr.marker && tr.marker.color != null) {
-      tr.marker.color = decode(tr.marker.color);
+    if (tr.marker) {
+      ["color", "size", "opacity"].forEach(function (k) {
+        if (tr.marker[k] != null) tr.marker[k] = decode(tr.marker[k]);
+      });
     }
+    ["error_x", "error_y"].forEach(function (k) {
+      var e = tr[k];
+      if (!e) return;
+      ["array", "arrayminus"].forEach(function (a) {
+        if (e[a] != null) e[a] = decode(e[a]);
+      });
+    });
     return tr;
   }
 
@@ -162,6 +171,13 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
       else if (path.indexOf("customdata[") === 0) {
         var idx = +path.slice(11, -1);
         val = tr.customdata && tr.customdata[i] ? tr.customdata[i][idx] : "";
+      } else if (path === "text" || path === "hovertext") {
+        /* Scatter traces carry the point's label in `text` and lead their
+         * template with it ("%{text}<br>xPPS %{x}"). Without this branch it
+         * resolved to "" and every tooltip lost the player's name. */
+        var src = path === "text" ? tr.text : (tr.hovertext || tr.text);
+        val = Array.isArray(src) ? (src[i] == null ? "" : src[i])
+          : (src == null ? "" : src);
       } else if (path === "fullData.name") val = tr.name || "";
       else val = "";
       return typeof val === "number" ? fmt(f, val) : String(val);
@@ -177,6 +193,38 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
     var f = function (v) { return r0 + (v - d0) / (d1 - d0 || 1) * (r1 - r0); };
     f.d0 = d0; f.d1 = d1;
     return f;
+  }
+  /* A log axis carries its domain in log10 units (plotly's convention for
+   * `range` on `type:"log"`) while the data stays in linear units, so the
+   * scale takes the log here rather than at every call site. */
+  function log10(v) { return Math.log(v) / Math.LN10; }
+  function logScale(d0, d1, r0, r1) {
+    var f = function (v) {
+      if (!(v > 0)) return NaN;
+      return r0 + (log10(v) - d0) / (d1 - d0 || 1) * (r1 - r0);
+    };
+    f.d0 = d0; f.d1 = d1;
+    return f;
+  }
+  /* Decade ticks, subdivided when the span is short enough to read. Values
+   * come back in data units so the existing formatter labels them 100,
+   * 1,000 rather than 2, 3. */
+  function logTicks(d0, d1) {
+    var lo = Math.floor(Math.min(d0, d1)), hi = Math.ceil(Math.max(d0, d1));
+    var decades = hi - lo;
+    var mant = decades <= 1 ? [1, 2, 3, 5, 7]
+      : decades <= 4 ? [1, 2, 5] : [1];
+    var out = [];
+    for (var e = lo; e <= hi; e++) {
+      for (var i = 0; i < mant.length; i++) {
+        var v = mant[i] * Math.pow(10, e);
+        var l = log10(v);
+        if (l >= Math.min(d0, d1) - 1e-9 && l <= Math.max(d0, d1) + 1e-9) {
+          out.push(v);
+        }
+      }
+    }
+    return out;
   }
   function niceTicks(d0, d1, n) {
     var span = d1 - d0 || 1;
@@ -319,6 +367,7 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
     }
     var bars = [], hbars = [], lines = [], points = [], bands = [];
     var catX = XA.type === "category";
+    var catY = YA.type === "category";
     var xCats = [], yCats = [];
     data.forEach(function (tr) {
       if (tr.visible === false) return;
@@ -353,7 +402,14 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
               if (catX || typeof xv === "string") {
                 xCats.indexOf(xv) < 0 && xCats.push(xv);
               }
-              points.push({ tr: tr, x: xv, y: tr.y[i], i: i });
+              /* A dot plot against named rows (players, teams) arrives as a
+               * scatter whose y values are strings; band them like the
+               * horizontal-bar path rather than scaling them as numbers. */
+              var yv = tr.y ? tr.y[i] : null;
+              if (catY || typeof yv === "string") {
+                yCats.indexOf(yv) < 0 && yCats.push(yv);
+              }
+              points.push({ tr: tr, x: xv, y: yv, i: i });
             });
           }
         }
@@ -382,7 +438,24 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
     var xs = [], ys = [];
     bands.forEach(function (b) { xs = xs.concat(b.xs); ys = ys.concat(b.ys); });
     lines.forEach(function (tr) { xs = xs.concat(tr.x); ys = ys.concat(tr.y); });
-    points.forEach(function (p) { xs.push(p.x); ys.push(p.y); });
+    /* Error bars widen the axis they run along: a CI whisker that reaches
+     * past the last dot must still land inside the plotting surface. */
+    function errSpan(tr, key, v, i) {
+      var e = tr[key];
+      if (!e || e.visible === false ||
+          typeof v !== "number" || !isFinite(v)) return [v];
+      var plus = Array.isArray(e.array) ? e.array[i] : e.array;
+      var minus = e.symmetric === false
+        ? (Array.isArray(e.arrayminus) ? e.arrayminus[i] : e.arrayminus)
+        : plus;
+      if (typeof plus !== "number" || !isFinite(plus)) plus = 0;
+      if (typeof minus !== "number" || !isFinite(minus)) minus = 0;
+      return [v - minus, v + plus];
+    }
+    points.forEach(function (p) {
+      xs = xs.concat(errSpan(p.tr, "error_x", p.x, p.i));
+      ys = ys.concat(errSpan(p.tr, "error_y", p.y, p.i));
+    });
     bars.forEach(function (b) {
       if (typeof b.x === "number") { xs.push(b.x - (b.w || 1) / 2); xs.push(b.x + (b.w || 1) / 2); }
       ys.push(b.y);
@@ -390,24 +463,43 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
     hbars.forEach(function (b) { xs.push(b.v); });
 
     var zeroY = bars.length > 0, zeroX = hbars.length > 0;
-    var xd = XA.range ? XA.range.slice() : extent(xs, 0.04, zeroX);
-    var yd = YA.range ? YA.range.slice() : extent(ys, 0.06, zeroY);
+    /* On a log axis the domain lives in log10 units, so the extent is taken
+     * over the logged values. Non-positive values have no place on one and
+     * drop out rather than poisoning the range. */
+    var logX = XA.type === "log", logY = YA.type === "log";
+    function logged(vals) {
+      var out = [];
+      vals.forEach(function (v) {
+        if (typeof v === "number" && isFinite(v) && v > 0) out.push(log10(v));
+      });
+      return out;
+    }
+    var xd = XA.range ? XA.range.slice()
+      : logX ? extent(logged(xs), 0.04, false) : extent(xs, 0.04, zeroX);
+    var yd = YA.range ? YA.range.slice()
+      : logY ? extent(logged(ys), 0.06, false) : extent(ys, 0.06, zeroY);
 
     var usingXCats = xCats.length > 0 && (bars.length || points.length);
     var usingYCats = yCats.length > 0;
-    if (usingYCats && YA.autorange !== "reversed") yCats = yCats.slice();
+    /* Plotly puts the first category at the BOTTOM of a y axis, and
+     * autorange:"reversed" puts it at the top. Row index 0 is drawn at the
+     * top here, so an un-reversed axis has to be flipped or the ranking
+     * reads upside down. */
+    if (usingYCats && YA.autorange !== "reversed") {
+      yCats = yCats.slice().reverse();
+    }
     var X, Y, xBand = 0, yBand = 0;
     if (usingXCats) {
       xBand = pw / xCats.length;
       X = function (v) { return M.l + xCats.indexOf(v) * xBand + xBand / 2; };
     } else {
-      X = linScale(xd[0], xd[1], M.l, M.l + pw);
+      X = (logX ? logScale : linScale)(xd[0], xd[1], M.l, M.l + pw);
     }
     if (usingYCats) {
       yBand = ph / yCats.length;
       Y = function (v) { return M.t + yCats.indexOf(v) * yBand + yBand / 2; };
     } else {
-      Y = linScale(yd[0], yd[1], M.t + ph, M.t);
+      Y = (logY ? logScale : linScale)(yd[0], yd[1], M.t + ph, M.t);
     }
 
     /* ---- grid + ticks ---- */
@@ -420,7 +512,9 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
       return t;
     }
     if (!usingYCats) {
-      niceTicks(yd[0], yd[1], Math.max(3, Math.round(ph / 70))).forEach(function (v) {
+      (logY ? logTicks(yd[0], yd[1])
+        : niceTicks(yd[0], yd[1], Math.max(3, Math.round(ph / 70)))
+      ).forEach(function (v) {
         var y = Y(v);
         if (y < M.t - 1 || y > M.t + ph + 1) return;
         el("line", { x1: M.l, y1: y, x2: M.l + pw, y2: y,
@@ -437,10 +531,12 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
       });
     }
     if (!usingXCats) {
-      niceTicks(xd[0], xd[1], Math.max(3, Math.round(pw / 90))).forEach(function (v) {
+      (logX ? logTicks(xd[0], xd[1])
+        : niceTicks(xd[0], xd[1], Math.max(3, Math.round(pw / 90)))
+      ).forEach(function (v) {
         var x = X(v);
         if (x < M.l - 1 || x > M.l + pw + 1) return;
-        if (hbars.length) {
+        if (hbars.length || usingYCats) {
           el("line", { x1: x, y1: M.t, x2: x, y2: M.t + ph,
                        stroke: grid, "stroke-width": 1 }, plot);
         }
@@ -456,7 +552,8 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
     }
     el("line", { x1: M.l, y1: M.t + ph, x2: M.l + pw, y2: M.t + ph,
                  stroke: axline, "stroke-width": 1 }, plot);
-    if (hbars.length || (!usingXCats && xd[0] < 0 && xd[1] > 0)) {
+    if (hbars.length || usingYCats ||
+        (!usingXCats && xd[0] < 0 && xd[1] > 0)) {
       el("line", { x1: M.l, y1: M.t, x2: M.l, y2: M.t + ph,
                    stroke: axline, "stroke-width": 1 }, plot);
     }
@@ -488,6 +585,42 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
         "rgba(42,120,214,0.15)", stroke: "none" }, plot);
     });
 
+    /* Value labels on a bar. Only bars: on a scatter, `text` is the hover
+     * payload unless the mode explicitly asks for "text", and drawing it
+     * would stamp 450 player names across a scatterplot. */
+    function barLabel(tr, i, cx, top, value) {
+      if (!tr.text || tr.textposition === "none") return;
+      var lab = Array.isArray(tr.text) ? tr.text[i] : tr.text;
+      if (lab == null || lab === "") return;
+      var tf = tr.textfont || {};
+      var size = tf.size || 11;
+      var inside = tr.textposition === "inside";
+      var t = el("text", {
+        x: cx, y: inside ? top + size + 4 : top - 5,
+        fill: tf.color || fontCol, "font-size": size + "px",
+        "text-anchor": "middle"
+      }, svg);
+      t.textContent = stripTags(lab);
+      return t;
+    }
+
+    /* The same, past the end of a horizontal bar. */
+    function hbarLabel(tr, i, endX, midY) {
+      if (!tr.text || tr.textposition === "none") return;
+      var lab = Array.isArray(tr.text) ? tr.text[i] : tr.text;
+      if (lab == null || lab === "") return;
+      var tf = tr.textfont || {};
+      var size = tf.size || 11;
+      var inside = tr.textposition === "inside";
+      var t = el("text", {
+        x: inside ? endX - 6 : endX + 6, y: midY + size * 0.35,
+        fill: tf.color || fontCol, "font-size": size + "px",
+        "text-anchor": inside ? "end" : "start"
+      }, svg);
+      t.textContent = stripTags(lab);
+      return t;
+    }
+
     /* ---- vertical bars (incl. histogram, grouped) ---- */
     if (bars.length) {
       var groups = barTraces.filter(function (t) {
@@ -512,6 +645,7 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
           "V" + (top + hgt) + "Z";
         var node = el("path", { d: dPath, fill: traceColor(b.tr) }, plot);
         attachHover(node, b.tr, b.i, b.x, b.y);
+        barLabel(b.tr, b.i, cx + bw / 2, top, b.y);
       });
     }
 
@@ -536,6 +670,7 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
         "H" + left + "Z";
       var node = el("path", { d: dPath, fill: traceColor(b.tr) }, plot);
       attachHover(node, b.tr, b.i, b.v, b.cat, true);
+      hbarLabel(b.tr, b.i, left + wid, cy + bh / 2);
     });
 
     /* ---- lines ---- */
@@ -556,13 +691,47 @@ body.fam-dark .seasonlab{color:#f5f3ec}</style><meta charset="utf-8" /></head>
           : ln.dash === "dash" ? "7,4" : "none" }, plot);
     });
 
+    /* ---- error bars (drawn under the markers they belong to) ---- */
+    points.forEach(function (p) {
+      if (p.y == null) return;
+      ["error_x", "error_y"].forEach(function (key) {
+        var e = p.tr[key];
+        if (!e || e.visible === false) return;
+        var horiz = key === "error_x";
+        var v = horiz ? p.x : p.y;
+        if (typeof v !== "number" || !isFinite(v)) return;
+        var plus = Array.isArray(e.array) ? e.array[p.i] : e.array;
+        var minus = e.symmetric === false
+          ? (Array.isArray(e.arrayminus) ? e.arrayminus[p.i] : e.arrayminus)
+          : plus;
+        if (typeof plus !== "number" || !isFinite(plus)) plus = 0;
+        if (typeof minus !== "number" || !isFinite(minus)) minus = 0;
+        if (!plus && !minus) return;
+        var lo = horiz ? X(v - minus) : Y(v - minus);
+        var hi = horiz ? X(v + plus) : Y(v + plus);
+        var at = horiz ? Y(p.y) : X(p.x);
+        el("line", {
+          x1: horiz ? lo : at, y1: horiz ? at : lo,
+          x2: horiz ? hi : at, y2: horiz ? at : hi,
+          stroke: e.color || axline,
+          "stroke-width": e.thickness != null ? e.thickness : 1,
+          "stroke-linecap": "round"
+        }, plot);
+      });
+    });
+
     /* ---- markers ---- */
     points.forEach(function (p) {
       if (p.y == null) return;
       var mk = p.tr.marker || {};
-      var r = Math.max(3.5, (mk.size || 8) / 2);
+      var msize = Array.isArray(mk.size) ? mk.size[p.i] : mk.size;
+      if (typeof msize !== "number" || !isFinite(msize)) msize = 8;
+      var r = Math.max(3.5, msize / 2);
       var fill;
-      if (Array.isArray(mk.color)) {
+      if (Array.isArray(mk.color) && typeof mk.color[0] === "string") {
+        /* Per-point literal colors (a sign split, a highlight set). */
+        fill = mk.color[p.i] || traceColor(p.tr);
+      } else if (Array.isArray(mk.color)) {
         var vals = mk.color;
         var lo = mk.cmin != null ? mk.cmin : Math.min.apply(null, vals);
         var hi = mk.cmax != null ? mk.cmax : Math.max.apply(null, vals);
