@@ -13,7 +13,7 @@ listed height peaked in 2002-03 and is down almost an inch since.
 
 **Mostly, no.** In 2019 the league changed the rule for how heights are
 reported: measured, without shoes. That one change accounts for about
-**70% of the entire "decline."** We can prove it isn't about who's in the
+**75% of the entire "decline."** We can prove it isn't about who's in the
 league: we tracked the *same 388 players* across that one offseason, and
 **55% of them "got shorter" on paper**. In a typical offseason about 2% of
 continuing players' listed heights change at all, and no other offseason since
@@ -32,21 +32,21 @@ reproduces league history it was never told about.
 
 ## For analytics peers (methods in one paragraph)
 
-45 seasons of `CommonTeamRoster` (18,399 player-seasons), cleaned with
+46 seasons of `CommonTeamRoster` (18,947 player-seasons), cleaned with
 documented rules, implemented independently in R/tidyverse and Python/polars
 with a reconciliation gate (1e-9 on metrics, 1e-6 on coefficients, non-zero
 exit on mismatch). Height trend modeled two ways: the descriptive piecewise
 fit, and a regime-aware model (knots 1990/2002 + level shift at 2019) that
-estimates the measurement break directly at **−0.64 in [−0.80, −0.47]** with
-R² 0.85 vs 0.30 for the single-knot version. Attribution confirmed
+estimates the measurement break directly at **−0.62 in [−0.79, −0.46]** with
+R² 0.84 vs 0.33 for the single-knot version. Attribution confirmed
 within-player (composition-free). Jersey/height correlation fell +0.44 → +0.12;
-bootstrap on the first-five vs last-five season change: −0.28 [−0.34, −0.23].
+bootstrap on the first-five vs last-five season change: −0.30 [−0.35, −0.25].
 Known limitations: listed ≠ measured heights pre-2019, current franchises
 only, roster presence not minutes, association ≠ mechanism.
 
 ## For the executive summary (three bullets)
 
-- The reported post-2002 height decline is ~70% a 2019 measurement-rule
+- The reported post-2002 height decline is ~75% a 2019 measurement-rule
   change, not basketball; the true drift is ~0.35 in over 16 seasons, then flat.
 - The link between jersey numbers and player size has largely dissolved since
   the 1980s (correlation +0.44 → +0.12).

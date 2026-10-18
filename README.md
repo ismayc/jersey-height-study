@@ -76,7 +76,7 @@ request returns a full team-season roster with jersey number, listed height,
 position, weight, age, and experience.
 
 Choosing this endpoint was the main efficiency decision: assembling the same table
-from per-player endpoints would need thousands of calls instead of ~1,350.
+from per-player endpoints would need thousands of calls instead of ~1,380.
 
 **Scope:** the 30 current franchises, 1980-81 through 2025-26.
 
@@ -134,8 +134,8 @@ grandfathered tail. If it doesn't, something upstream is wrong.
 ## Figures
 
 Static PNG from both languages, plus interactive HTML with hover tooltips from
-the plotly implementation. The three-colour categorical palette
-(`#2a78d6`, `#eb6834`, `#1baf7a`) was checked for colour-vision separation across
+the plotly implementation. The three-color categorical palette
+(`#2a78d6`, `#eb6834`, `#1baf7a`) was checked for color-vision separation across
 all pairs before use; series are direct-labeled rather than relying on a legend
 box, since one of the three sits below 3:1 contrast against the chart surface.
 
@@ -148,7 +148,7 @@ analysis.
    generously or in shoes; the NBA began requiring measured heights without shoes
    in 2019-20. This is not a hypothetical concern. <!-- gen:limitations -->It is **visible in the data as
    a -0.61 in single-season step**, the largest year-over-year move in
-   the entire 46-season series and 2.3× the next largest. It
+   the entire 46-season series and 2.3× the next-largest drop. It
    accounts for 75% of the apparent post-2002 decline.<!-- /gen:limitations --> The series is best read as **two regimes spliced together**,
    and the study does not attempt to correct or bridge them; it quantifies the
    break and restricts the claims accordingly (see Finding 1). Any comparison
@@ -222,7 +222,7 @@ Decomposing the 0.805 in decline from 2002-03 to
 
 That single 2019-20 step is **75% of the
 entire decline**, and it is the largest year-over-year move in all
-46 seasons: 2.3× the next largest
+46 seasons: 2.3× the next-largest drop
 (-0.258 in, 2017-18).
 
 2019-20 is exactly when the NBA began requiring measured heights without

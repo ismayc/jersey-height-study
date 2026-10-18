@@ -148,7 +148,7 @@ m_height <- lm(value ~ season_start + post, data = h, weights = n)
 #     plus a LEVEL SHIFT at the 2019-20 measurement rule change. The shift term
 #     turns the eyeballed "-0.61 in step" into a modelled estimate with a CI,
 #     and keeps the trend slopes from being contaminated by the break.
-#     (Fit comparison on this data: R^2 0.85 vs 0.30 for the single-knot model.)
+#     The fit comparison with the single-knot model is written to models_fit_r.csv.
 hr <- height_by_season %>% mutate(
   k1990 = pmax(season_start - 1990, 0),
   k2002 = pmax(season_start - 2002, 0),
@@ -169,6 +169,13 @@ models <- bind_rows(
   select(model, term, estimate, std.error, statistic, p.value, conf.low, conf.high)
 
 write_csv(models, file.path(OUT_DIR, "models_r.csv"))
+
+fits <- list(height_piecewise = m_height, height_regime = m_regime,
+             jersey_height_cor_trend = m_cor)
+tibble(model = names(fits),
+       r_squared = vapply(fits, function(m) summary(m)$r.squared, numeric(1)),
+       n_obs = vapply(fits, function(m) as.integer(nobs(m)), integer(1))) %>%
+  write_csv(file.path(OUT_DIR, "models_fit_r.csv"))
 
 # 2b) Within-player year-over-year height change: the composition-free check on
 #     the 2019-20 measurement step. The aggregate mean can move because WHO

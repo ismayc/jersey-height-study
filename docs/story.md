@@ -4,7 +4,7 @@ Ask a basketball fan what happened to NBA height over the last twenty years
 and you will hear a confident story: the game spread out, centers gave way
 to wings, and the league got smaller. Forty-six seasons of roster data
 (18,947 player-seasons, 1980-81 through 2025-26) say the confident story is
-about seventy percent measurement artifact.
+about three-quarters measurement artifact.
 
 <div class="tiles">
 <div class="tile"><div class="label">The 2019-20 height cliff</div>
@@ -31,7 +31,7 @@ and that is exactly the kind of question a summary statistic hides and a
 time series answers. The figure below is the study's centerpiece for one
 reason. The decline is not a slope, it is a **cliff**: a single-season
 drop of 0.61 inches between 2018-19 and 2019-20, the largest year-over-year
-move in the entire 45-season record and 2.3 times larger than the runner-up.
+move in the entire 45-season record and 2.3 times the next-largest drop.
 Trends produced by basketball evolution do not move like that. Rule changes
 do.
 
@@ -40,7 +40,7 @@ do.
 2019-20 is precisely when the league began requiring measured heights
 without shoes. Two checks pin the attribution down. A regime-aware model
 (piecewise trends with an explicit level-shift term at 2019) estimates the
-rule-change step at −0.64 inches (95% CI [−0.80, −0.47]), and fitting the
+rule-change step at −0.62 inches (95% CI [−0.79, −0.46]), and fitting the
 step explicitly keeps it from contaminating the trend slopes on either
 side. And among the 388 players rostered in **both** 2018-19 and 2019-20,
 the same drop appears within the same human beings. So roster turnover,

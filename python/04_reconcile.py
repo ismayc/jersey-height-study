@@ -111,6 +111,22 @@ def compare_models() -> tuple[bool, pl.DataFrame]:
                                    "est_diff", "se_diff", "status")
 
 
+def compare_fit() -> tuple[bool, pl.DataFrame]:
+    """Weighted R-squared and seasons per model must agree."""
+    r = pl.read_csv(OUT / "models_fit_r.csv")
+    p = pl.read_csv(OUT / "models_fit_python.csv")
+    if set(r["model"]) != set(p["model"]):
+        print(f"  models present in only one implementation: {sorted(set(r['model']) ^ set(p['model']))}")
+        return False, pl.DataFrame()
+    merged = (r.join(p, on="model", suffix="_py")
+              .with_columns(r2_diff=(pl.col("r_squared") - pl.col("r_squared_py")).abs(),
+                            n_same=pl.col("n_obs") == pl.col("n_obs_py"))
+              .with_columns(status=pl.when((pl.col("r2_diff") <= TOL_MODELS) & pl.col("n_same"))
+                            .then(pl.lit("PASS")).otherwise(pl.lit("FAIL"))))
+    return bool((merged["status"] == "PASS").all()), merged.select(
+        "model", "r_squared", "r_squared_py", "r2_diff", "n_obs", "status")
+
+
 def compare_bootstrap() -> bool:
     fr, fp = OUT / "bootstrap_r.csv", OUT / "bootstrap_python.csv"
     if not (fr.exists() and fp.exists()):
@@ -141,9 +157,13 @@ def main() -> int:
     models_ok, models = compare_models()
     print(models)
 
+    print(f"\nModel fit (tolerance {TOL_MODELS:g}):")
+    fit_ok, fit = compare_fit()
+    print(fit)
+
     boot_ok = compare_bootstrap()
 
-    all_ok = metrics_ok and wp_ok and models_ok and boot_ok
+    all_ok = metrics_ok and wp_ok and models_ok and fit_ok and boot_ok
     print("\n" + ("ALL CHECKS PASS" if all_ok else "MISMATCHES FOUND"))
     return 0 if all_ok else 1
 

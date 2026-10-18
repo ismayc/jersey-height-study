@@ -124,11 +124,9 @@ def season_metrics(players: pl.DataFrame) -> pl.DataFrame:
     return pl.concat([height, nums]).sort(["metric", "season_start"])
 
 
-def fit_models(results: pl.DataFrame) -> pl.DataFrame:
+def _fits(results: pl.DataFrame) -> dict:
     """Piecewise height trend (knot at 1990), a regime-aware height model, and
-    the correlation trend."""
-    rows: list[dict] = []
-
+    the correlation trend, as {name: (fitted model, term names)}."""
     h = (results.filter(pl.col("metric") == "mean_height_in")
          .with_columns(post=(pl.col("season_start") - 1990).clip(lower_bound=0)))
     X1 = sm.add_constant(h.select("season_start", "post").to_numpy())
@@ -138,7 +136,7 @@ def fit_models(results: pl.DataFrame) -> pl.DataFrame:
     # plus a LEVEL SHIFT at the 2019-20 measurement rule change. The shift term
     # turns the eyeballed "-0.61 in step" into a modeled estimate with a CI,
     # and keeps the trend slopes from being contaminated by the break.
-    # (Fit comparison on this data: R^2 0.85 vs 0.30 for the single-knot model.)
+    # The fit comparison with the single-knot model is written to models_fit_*.csv.
     hr = h.with_columns(
         k1990=(pl.col("season_start") - 1990).clip(lower_bound=0),
         k2002=(pl.col("season_start") - 2002).clip(lower_bound=0),
@@ -152,12 +150,17 @@ def fit_models(results: pl.DataFrame) -> pl.DataFrame:
     X2 = sm.add_constant(c.select("season_start").to_numpy())
     m2 = sm.WLS(c["value"].to_numpy(), X2, weights=c["n"].to_numpy()).fit()
 
-    naming = {
+    return {
         "height_piecewise": (m1, ["(Intercept)", "season_start", "post"]),
         "height_regime": (m1b, ["(Intercept)", "season_start", "k1990", "k2002", "shift2019"]),
         "jersey_height_cor_trend": (m2, ["(Intercept)", "season_start"]),
     }
-    for model_name, (model, terms) in naming.items():
+
+
+def fit_models(results: pl.DataFrame) -> pl.DataFrame:
+    """Coefficients of every model in _fits, one row per term."""
+    rows: list[dict] = []
+    for model_name, (model, terms) in _fits(results).items():
         ci = model.conf_int()
         for i, term in enumerate(terms):
             rows.append({
@@ -171,6 +174,12 @@ def fit_models(results: pl.DataFrame) -> pl.DataFrame:
                 "conf.high": float(ci[i][1]),
             })
     return pl.DataFrame(rows)
+
+
+def fit_stats(results: pl.DataFrame) -> pl.DataFrame:
+    """Weighted R-squared and seasons per model (R's summary.lm r.squared)."""
+    return pl.DataFrame([{"model": name, "r_squared": float(m.rsquared), "n_obs": int(m.nobs)}
+                         for name, (m, _) in _fits(results).items()])
 
 
 def within_player_changes(players: pl.DataFrame) -> pl.DataFrame:
@@ -334,6 +343,7 @@ def main() -> int:
     results.write_csv(OUT_DIR / "results_python.csv")
 
     fit_models(results).write_csv(OUT_DIR / "models_python.csv")
+    fit_stats(results).write_csv(OUT_DIR / "models_fit_python.csv")
 
     within_player_changes(players).write_csv(OUT_DIR / "within_player_python.csv")
 

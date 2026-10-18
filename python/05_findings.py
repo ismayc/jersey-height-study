@@ -171,7 +171,7 @@ Decomposing the {d2002 - d2024:.3f} in decline from {fmt_season(peak_season)} to
 
 That single {fmt_season(2019)} step is **{abs(d2019 - d2018) / abs(d2024 - d2002):.0%} of the
 entire decline**, and it is the largest year-over-year move in all
-{n_seasons} seasons: {abs(d2019 - d2018) / abs(second_drop):.1f}× the next largest
+{n_seasons} seasons: {abs(d2019 - d2018) / abs(second_drop):.1f}× the next-largest drop
 ({second_drop:+.3f} in, {fmt_season(second_year)}).
 
 {fmt_season(2019)} is exactly when the NBA began requiring measured heights without
@@ -277,7 +277,7 @@ Separating those two is the main analytical result. Full numbers in
 
     limitations = f"""It is **visible in the data as
    a {step:+.2f} in single-season step**, the largest year-over-year move in
-   the entire {n_seasons}-season series and {ratio:.1f}× the next largest. It
+   the entire {n_seasons}-season series and {ratio:.1f}× the next-largest drop. It
    accounts for {step_share:.0%} of the apparent post-{peak_season} decline."""
 
     explorer = f"""
