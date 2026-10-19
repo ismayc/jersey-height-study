@@ -8,6 +8,8 @@ from pathlib import Path
 import pytest
 
 REPO = Path(__file__).resolve().parents[2]
+# the pipeline scripts import each other (roster_guard) as top-level modules
+sys.path.insert(0, str(REPO / "python"))
 
 
 def load_script(rel_path: str, name: str):
@@ -26,3 +28,13 @@ def jersey():
 @pytest.fixture(scope="session")
 def wnba():
     return load_script("python/08_wnba_analysis.py", "wnba_analysis")
+
+
+@pytest.fixture(scope="session")
+def guard():
+    return load_script("python/roster_guard.py", "roster_guard")
+
+
+@pytest.fixture(scope="session")
+def participation():
+    return load_script("python/11_participation_check.py", "participation_check")

@@ -14,6 +14,8 @@ from pathlib import Path
 import polars as pl
 from nba_api.stats.static import teams
 
+from roster_guard import require_clean
+
 ROOT = Path(__file__).resolve().parents[1]
 RAW_DIR = ROOT / "data" / "raw_rosters"
 OUT_CSV = ROOT / "data" / "nba_rosters.csv"
@@ -26,12 +28,16 @@ def main() -> int:
     if not files:
         raise SystemExit(f"No cached rosters in {RAW_DIR}. Run 01_harvest_rosters.py first.")
 
+    # An empty file is skipped below only after the guard has shown the team did
+    # not play that season; any other empty file stops the run with the list.
+    require_clean(RAW_DIR, "nba")
+
     frames: list[pl.DataFrame] = []
     for path in files:
         season_start, team_id = path.stem.split("_")
         df = pl.read_csv(path, infer_schema_length=0)
         if df.height == 0:
-            continue  # franchise did not exist that season
+            continue  # verified above: the team did not play that season
         team = TEAM_BY_ID.get(int(team_id), {})
         frames.append(df.with_columns(
             season_start=pl.lit(int(season_start), dtype=pl.Int32),

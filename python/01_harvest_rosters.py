@@ -25,6 +25,8 @@ import pandas as pd
 from nba_api.stats.endpoints import CommonTeamRoster
 from nba_api.stats.static import teams
 
+from roster_guard import validate_roster
+
 ROOT = Path(__file__).resolve().parents[1]
 RAW_DIR = ROOT / "data" / "raw_rosters"
 OUT_CSV = ROOT / "data" / "nba_rosters.csv"
@@ -46,21 +48,34 @@ def fetch_team_season(team_id: int, team_name: str, start_year: int) -> pd.DataF
     cache = RAW_DIR / f"{start_year}_{team_id}.csv"
 
     if cache.exists():
-        return pd.read_csv(cache)
+        cached = pd.read_csv(cache)
+        why = validate_roster("nba", team_id, start_year, len(cached))
+        if why is None:
+            return cached
+        # A cache file written before the guard existed (or edited by hand) that
+        # fails the check is not trusted: fetch it again.
+        print(f"    discarding cache {cache.name}: {why}", flush=True)
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             resp = CommonTeamRoster(team_id=team_id, season=season, timeout=TIMEOUT)
             df = resp.get_data_frames()[0]
-            # A franchise that did not exist yet returns an empty frame; cache the
-            # empty result so we do not retry it on the next run.
+            # An empty frame means "franchise did not exist" ONLY when the team did
+            # not play that season (roster_guard). Any other empty frame, or a roster
+            # for a team that did not play, is not cached: it is retried, then
+            # reported as FAILED so the run exits non-zero.
+            why = validate_roster("nba", team_id, start_year, len(df))
+            if why is not None:
+                raise ValueError(why)
             df.to_csv(cache, index=False)
             time.sleep(BASE_SLEEP + random.uniform(0, 0.3))
             return df
         except Exception as exc:  # noqa: BLE001 - endpoint raises many error types
             wait = BASE_SLEEP * (2 ** attempt) + random.uniform(0, 1)
+            detail = f"{type(exc).__name__}: {exc}" if isinstance(exc, ValueError) \
+                else type(exc).__name__
             print(f"    retry {attempt}/{MAX_RETRIES} {team_name} {season}: "
-                  f"{type(exc).__name__} (waiting {wait:.1f}s)", flush=True)
+                  f"{detail} (waiting {wait:.1f}s)", flush=True)
             time.sleep(wait)
 
     print(f"    FAILED {team_name} {season}", flush=True)
@@ -104,7 +119,7 @@ def main() -> int:
     combined.to_csv(OUT_CSV, index=False)
     print(f"\nWrote {len(combined):,} player-seasons to {OUT_CSV}")
     print(f"Failed team-seasons: {failures}")
-    return 0
+    return 1 if failures else 0
 
 
 if __name__ == "__main__":

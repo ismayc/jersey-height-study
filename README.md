@@ -57,6 +57,12 @@ R/08_wnba_analysis.R                        -> output/wnba/*_r.csv
 python/08_wnba_analysis.py                  -> output/wnba/*_python.csv, figures/fig7..fig13 (HTML)
 python/09_reconcile_wnba.py    compares the two, non-zero exit on mismatch
 python/10_wnba_findings.py     writes the Extension section of this README
+
+Roster-completeness checks (added October 19, 2026):
+python/roster_guard.py         an empty CommonTeamRoster is accepted only for a team that did not play
+python/12_build_active_seasons.py   rebuilds data/franchise_active_seasons.csv (the guard's source)
+python/11_participation_check.py    roster players vs LeagueDashPlayerStats, per league and season
+python/13_participation_impact.py   the missing players added back, per cached season -> output/participation_impact.csv
 ```
 
 Each stage is independently re-runnable. The harvest caches one CSV per
@@ -179,6 +185,25 @@ analysis.
 5. **Association is not mechanism.** A falling jersey/height correlation is
    consistent with loosening number conventions, positional convergence, or both.
    This analysis does not separate them.
+6. **The roster snapshot omits some players who appeared.** `CommonTeamRoster`
+   lists who is on a team when the roster is read, so a player who played for a
+   team and left before that moment is absent. An October 19, 2026 audit found
+   this in NBA 2024-25 (41 of 569 players in `LeagueDashPlayerStats` are missing,
+   1.8% of games played) and WNBA 2025 (21 of 182). Adding the 41 back, with
+   height and number from `PlayerIndex`, moves that season's jersey/height
+   correlation by +0.005, its mean height by +0.003 inches, and its share of numbers
+   above 55 by +0.002. The published numbers are unchanged, and no finding turns
+   on a gap that size. Other seasons are unmeasured until `python/11_participation_check.py
+   --fetch` has been run when `stats.nba.com` is reachable.
+
+   **Empty rosters (October 19, 2026).** The harvest used to cache an empty
+   response as "franchise did not exist" and the combine step skipped it, which
+   would have hidden a failed call. All 88 cached empty NBA rosters (1980-81
+   through 2025-26) were checked against `data/franchise_active_seasons.csv`
+   (regular-season team-seasons from the sibling `playoff-series-study`): each is a
+   team-season in which the franchise did not play, and none was a lost roster.
+   The harvest now refuses to cache any other empty response and the combine step
+   fails with the list.
 
 ## What this is and isn't
 

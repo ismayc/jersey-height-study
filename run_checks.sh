@@ -32,3 +32,11 @@ $PY python/09_reconcile_wnba.py | tail -1
 echo
 echo "=== WNBA extension: README section regenerates from outputs ==="
 $PY python/10_wnba_findings.py --check | tail -1
+
+echo
+echo "=== roster completeness: participation check (informational, not a gate) ==="
+# Compares roster players with LeagueDashPlayerStats per season. Only NBA 2024-25 is
+# cached so far; every other league-season prints NOT RUN and the summary says so.
+# Exit is 0 here on purpose. Once every season is cached (python/11_participation_check.py
+# --fetch), switch this line to add --require-all --fail-on-flags and make it a gate.
+$PY python/11_participation_check.py | tail -3

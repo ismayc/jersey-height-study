@@ -37,6 +37,8 @@ import polars as pl
 from nba_api.stats.endpoints import CommonTeamRoster, FranchiseHistory, LeagueGameFinder
 from nba_api.stats.library import http
 
+from roster_guard import require_clean, validate_roster
+
 # nba_api's shipped Firefox/72 User-Agent hangs on stats.nba.com; a generic one
 # returns at once (basketball-analysis-tools' nba_api_compat.fix_user_agent).
 http.STATS_HEADERS["User-Agent"] = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -100,7 +102,11 @@ def nba_franchise_spans() -> dict[int, tuple[int, int]]:
 def fetch_roster(raw_dir: Path, team_id: int, year: int, league: str) -> bool:
     cache = raw_dir / f"{year}_{team_id}.csv"
     if cache.exists():
-        return True
+        n = max(len(pl.read_csv(cache, infer_schema_length=0)), 0)
+        why = validate_roster(league, team_id, year, n)
+        if why is None:
+            return True
+        print(f"    discarding cache {cache.name}: {why}", flush=True)
     if league == "wnba":
         fn = lambda: CommonTeamRoster(team_id=team_id, season=str(year),  # noqa: E731
                                       league_id_nullable="10", timeout=TIMEOUT)
@@ -110,11 +116,18 @@ def fetch_roster(raw_dir: Path, team_id: int, year: int, league: str) -> bool:
     df = call(lambda: fn().get_data_frames()[0], f"{league} {year} team {team_id}")
     if df is None:
         return False
-    df.to_csv(cache, index=False)  # an empty frame is cached too: no retry next run
+    # An empty frame is cached (no retry next run) only when the team did not
+    # play that season; any other empty frame is a failed call, not cached.
+    why = validate_roster(league, team_id, year, len(df))
+    if why is not None:
+        print(f"    REFUSED to cache: {why}", flush=True)
+        return False
+    df.to_csv(cache, index=False)
     return True
 
 
-def combine(raw_dir: Path, out_csv: Path) -> int:
+def combine(raw_dir: Path, out_csv: Path, league: str = "nba") -> int:
+    require_clean(raw_dir, league)  # exits with the list if an empty file is not shown to be empty
     frames = []
     for path in sorted(raw_dir.glob("*.csv")):
         year, team_id = path.stem.split("_")
@@ -158,7 +171,7 @@ def main() -> int:
         failures += len(team_ids) - ok
         print(f"  {year}: {ok}/{len(team_ids)} team rosters", flush=True)
 
-    combine(raw_dir, out_csv)
+    combine(raw_dir, out_csv, "wnba" if args.set == "wnba" else "nba")
     print(f"Failed requests: {failures}")
     return 1 if failures else 0
 
