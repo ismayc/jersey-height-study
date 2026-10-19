@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1974,00,Fred Boyd,Fred,fred-boyd,11,G,6-2,180,"JUN 13, 1950",25.0,2,Oregon State,76222,,0
+1610612755,1974,00,Allan Bristow,Allan,allan-bristow,44,F,6-7,210,"AUG 23, 1951",23.0,1,Virginia Tech,76257,,0
+1610612755,1974,00,Fred Carter,Fred,fred-carter,3,G,6-3,185,"FEB 14, 1945",30.0,5,Mount St. Mary's,76356,,0
+1610612755,1974,00,Harvey Catchings,Harvey,harvey-catchings,42,C,6-9,218,"SEP 02, 1951",23.0,R,Hardin-Simmons,76365,,0
+1610612755,1974,00,Doug Collins,Doug,doug-collins,20,G,6-6,180,"JUL 28, 1951",23.0,1,Illinois State,76421,,0
+1610612755,1974,00,Billy Cunningham,Billy,billy-cunningham,32,F,6-6,210,"JUN 03, 1943",32.0,7,North Carolina,76487,,0
+1610612755,1974,00,Ken Durrett,Ken,ken-durrett,33,F,6-7,190,"DEC 08, 1948",26.0,3,La Salle,76622,,0
+1610612755,1974,00,Leroy Ellis,Leroy,leroy-ellis,25,F,6-11,210,"MAR 10, 1940",35.0,12,St. John's (NY),76663,,0
+1610612755,1974,00,Clyde Lee,Clyde,clyde-lee,34,F,6-10,205,"MAR 14, 1944",31.0,8,Vanderbilt,77357,,0
+1610612755,1974,00,Steve Mix,Steve,steve-mix,50,F,6-7,215,"DEC 30, 1947",27.0,4,Toledo,77618,,0
+1610612755,1974,00,Connie Norman,Connie,connie-norman,22,G,6-3,175,"SEP 24, 1953",21.0,R,Arizona,77729,,0
+1610612755,1974,00,Don Smith,Don,don-smith,10,G,6-0,160,"OCT 10, 1951",23.0,R,Dayton,78184,,0
+1610612755,1974,00,John Tschogl,John,john-tschogl,26,F,6-6,206,"APR 25, 1950",25.0,2,California-Santa Barbara,78370,,0
+1610612755,1974,00,Perry Warbington,Perry,perry-warbington,22,G,6-2,165,"SEP 07, 1952",22.0,R,Georgia Southern,78454,,0

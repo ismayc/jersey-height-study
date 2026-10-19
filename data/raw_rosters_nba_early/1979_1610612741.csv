@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1979,00,Dennis Awtrey,Dennis,dennis-awtrey,20,C,6-10,235,"FEB 22, 1948",32.0,9,Santa Clara,76078,,0
+1610612741,1979,00,Del Beshore,Del,del-beshore,1,G,5-11,165,"NOV 29, 1956",23.0,1,California (PA),76159,,0
+1610612741,1979,00,Roger Brown,Roger,roger-brown,55,C,6-11,225,"FEB 23, 1950",30.0,3,Kansas,76286,,0
+1610612741,1979,00,Coby Dietrick,Coby,coby-dietrick,26,C,6-11,220,"JUL 23, 1948",31.0,3,San Jose State,76567,,0
+1610612741,1979,00,Artis Gilmore,Artis,artis-gilmore,53,C,7-2,240,"SEP 21, 1948",31.0,3,Jacksonville,600014,,0
+1610612741,1979,00,David Greenwood,David,david-greenwood,34,F,6-9,222,"MAY 27, 1957",23.0,R,UCLA,76881,,0
+1610612741,1979,00,Ollie Johnson,Ollie,ollie-johnson,27,F,6-6,200,"MAY 11, 1949",31.0,7,Temple,77162,,0
+1610612741,1979,00,Mark Landsberger,Mark,mark-landsberger,54,F,6-8,215,"MAY 21, 1955",25.0,2,Arizona State,77334,,0
+1610612741,1979,00,Ollie Mack,Ollie,ollie-mack,23,G,6-3,185,"JUN 06, 1957",23.0,R,East Carolina,77432,,0
+1610612741,1979,00,Scott May,Scott,scott-may,17,F,6-6,215,"MAR 19, 1954",26.0,3,Indiana,77490,,0
+1610612741,1979,00,John Mengelt,John,john-mengelt,15,G,6-2,195,"OCT 16, 1949",30.0,8,Auburn,77580,,0
+1610612741,1979,00,Sammy Smith,Sammy,sammy-smith,28,F,6-4,200,"JAN 08, 1955",25.0,1,UNLV,78205,,0
+1610612741,1979,00,Ricky Sobers,Ricky,ricky-sobers,40,G,6-3,198,"JAN 15, 1953",27.0,4,UNLV,78215,,0
+1610612741,1979,00,Reggie Theus,Reggie,reggie-theus,24,G,6-6,190,"OCT 13, 1957",22.0,1,UNLV,78310,,0

@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1952,00,Jim Brasco,Jim,jim-brasco,15,G,6-1,170,"FEB 03, 1931",22.0,R,New York University,76241,,0
+1610612755,1952,00,Al Cervi,Al,al-cervi,15,G,5-11,170,"FEB 12, 1917",36.0,3,East HS (NY),76373,,0
+1610612755,1952,00,Billy Gabor,Billy,billy-gabor,7,G,5-11,170,"MAY 13, 1922",31.0,3,Syracuse,76768,,0
+1610612755,1952,00,Noble Jorgensen,Noble,noble-jorgensen,6,C,6-9,228,"MAY 18, 1925",28.0,4,Iowa,77212,,0
+1610612755,1952,00,George King,George,george-king,3,G,6-0,175,"AUG 16, 1928",24.0,1,University of Charleston,77268,,0
+1610612755,1952,00,Earl Lloyd,Earl,earl-lloyd,11,F,6-6,200,"APR 03, 1928",25.0,1,West Virginia State,77394,,0
+1610612755,1952,00,Bob Lochmueller,Bob,bob-lochmueller,14,F,6-5,185,"JUN 05, 1927",26.0,R,Louisville,77397,,0
+1610612755,1952,00,Wally Osterkorn,Wally,wally-osterkorn,8,F,6-5,215,"JUL 06, 1928",24.0,1,Illinois,77775,,0
+1610612755,1952,00,Red Rocha,Red,red-rocha,16,C,6-9,185,"SEP 18, 1923",29.0,5,Oregon State,77999,,0
+1610612755,1952,00,Dolph Schayes,Dolph,dolph-schayes,4,F,6-8,195,"MAY 19, 1928",25.0,3,New York University,78076,,0
+1610612755,1952,00,Paul Seymour,Paul,paul-seymour,5,G,6-1,180,"JAN 30, 1928",25.0,4,Toledo,78117,,0

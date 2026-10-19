@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1961,00,George Blaney,George,george-blaney,15,G,6-1,175,"NOV 12, 1939",22.0,R,Holy Cross,76182,,0
+1610612752,1961,00,Cleveland Buckner,Cleveland,cleveland-buckner,12,F,6-9,210,"AUG 17, 1938",23.0,R,Jackson State,76295,,0
+1610612752,1961,00,Dave Budd,Dave,dave-budd,10,F,6-6,205,"OCT 28, 1938",23.0,1,Wake Forest,76297,,0
+1610612752,1961,00,Ed Burton,Ed,ed-burton,14,F,6-6,225,"AUG 13, 1939",22.0,R,Michigan State,76314,,0
+1610612752,1961,00,Donnie Butcher,Donnie,donnie-butcher,19,G,6-2,200,"FEB 08, 1936",26.0,R,Pikeville,76318,,0
+1610612752,1961,00,Al Butler,Al,al-butler,3,G,6-2,175,"JUL 09, 1938",23.0,R,Niagara,76319,,0
+1610612752,1961,00,Johnny Green,Johnny,johnny-green,11,F,6-5,200,"DEC 08, 1933",28.0,2,Michigan State,76867,,0
+1610612752,1961,00,Richie Guerin,Richie,richie-guerin,9,G,6-4,195,"MAY 29, 1932",30.0,5,Iona,76902,,0
+1610612752,1961,00,Darrall Imhoff,Darrall,darrall-imhoff,18,C,6-10,220,"OCT 11, 1938",23.0,1,California,77093,,0
+1610612752,1961,00,Phil Jordon,Phil,phil-jordon,8,C,6-10,205,"SEP 12, 1933",28.0,5,Whitworth,77210,,0
+1610612752,1961,00,Doug Kistler,Doug,doug-kistler,5,F,6-9,210,"MAR 21, 1938",24.0,R,Duke,77279,,0
+1610612752,1961,00,Ronald Martin,Ronald,ronald-martin,7,G,6-2,185,"APR 11, 1939",23.0,R,St. Bonaventure,77479,,0
+1610612752,1961,00,Willie Naulls,Willie,willie-naulls,6,F,6-6,225,"OCT 07, 1934",27.0,5,UCLA,77693,,0
+1610612752,1961,00,Bill Smith,Bill,bill-smith,,F,6-5,190,"APR 26, 1939",23.0,R,St. Peter's,78209,,0
+1610612752,1961,00,Sam Stith,Sam,sam-stith,17,G,6-2,185,"JUL 22, 1937",24.0,R,St. Bonaventure,78259,,0

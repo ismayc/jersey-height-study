@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1954,00,Don Barksdale,Don,don-barksdale,17,F,6-6,200,"MAR 31, 1923",32.0,3,UCLA,76102,,0
+1610612738,1954,00,Bob Brannum,Bob,bob-brannum,18,F,6-6,215,"MAY 28, 1925",30.0,4,Michigan State,76238,,0
+1610612738,1954,00,Bob Cousy,Bob,bob-cousy,14,G,6-1,175,"AUG 09, 1928",26.0,4,Holy Cross,600003,,0
+1610612738,1954,00,Ed Macauley,Ed,ed-macauley,22,C,6-8,185,"MAR 22, 1928",27.0,5,St. Louis,77429,,0
+1610612738,1954,00,Dwight Morrison,Dwight,dwight-morrison,15,F,6-8,220,"APR 26, 1932",23.0,R,Idaho,77648,,0
+1610612738,1954,00,Jack Nichols,Jack,jack-nichols,16,C,6-7,222,"APR 09, 1926",29.0,5,Washington,77713,,0
+1610612738,1954,00,Togo Palazzi,Togo,togo-palazzi,12,F,6-4,205,"AUG 08, 1932",22.0,R,Holy Cross,77791,,0
+1610612738,1954,00,Frank Ramsey,Frank,frank-ramsey,23,F,6-3,190,"JUL 13, 1931",23.0,R,Kentucky,77907,,0
+1610612738,1954,00,Freddie Scolari,Freddie,freddie-scolari,24,G,5-11,180,"MAR 01, 1922",33.0,8,San Francisco,78094,,0
+1610612738,1954,00,Bill Sharman,Bill,bill-sharman,21,G,6-1,175,"MAY 25, 1926",29.0,4,Southern California,78126,,0
+1610612738,1954,00,Lucian Whitaker,Lucian,lucian-whitaker,5,G,6-1,180,"AUG 29, 1930",24.0,R,Kentucky,78506,,0

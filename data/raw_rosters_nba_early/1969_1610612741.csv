@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1969,00,Johnny Baum,Johnny,johnny-baum,9,F,6-5,200,"JUN 17, 1946",24.0,R,Temple,76125,,0
+1610612741,1969,00,Tom Boerwinkle,Tom,tom-boerwinkle,18,C,7-0,265,"AUG 23, 1945",24.0,1,Tennessee,76192,,0
+1610612741,1969,00,Shaler Halimon,Shaler,shaler-halimon,19,G,6-5,199,"MAR 30, 1945",25.0,1,Utah State,76922,,0
+1610612741,1969,00,Clem Haskins,Clem,clem-haskins,11,G,6-3,195,"JUL 11, 1943",26.0,2,Western Kentucky,76965,,0
+1610612741,1969,00,Bob Kauffman,Bob,bob-kauffman,6,F,6-8,240,"JUL 13, 1946",23.0,1,Guilford,77227,,0
+1610612741,1969,00,Bob Love,Bob,bob-love,10,F,6-8,215,"DEC 08, 1942",27.0,3,Southern,77412,,0
+1610612741,1969,00,Loy Petersen,Loy,loy-petersen,15,G,6-5,205,"JUL 26, 1945",24.0,1,Oregon State,77840,,0
+1610612741,1969,00,Jerry Sloan,Jerry,jerry-sloan,4,G,6-5,195,"MAR 28, 1942",28.0,4,Evansville,78173,,0
+1610612741,1969,00,Al Tucker,Al,al-tucker,16,F,6-8,190,"FEB 24, 1943",27.0,2,Oklahoma Baptist,78372,,0
+1610612741,1969,00,Chet Walker,Chet,chet-walker,25,F,6-7,212,"FEB 22, 1940",30.0,7,Bradley,78435,,0
+1610612741,1969,00,Bob Weiss,Bob,bob-weiss,8,G,6-3,180,"MAY 07, 1942",28.0,4,Penn State,78485,,0
+1610612741,1969,00,Walt Wesley,Walt,walt-wesley,20,C,6-11,220,"JAN 25, 1945",25.0,3,Kansas,78495,,0

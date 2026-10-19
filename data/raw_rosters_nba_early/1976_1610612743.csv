@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612743,1976,00,Byron Beck,Byron,byron-beck,40,C,6-9,225,"JAN 25, 1945",32.0,R,Denver,76134,,0
+1610612743,1976,00,Mack Calvin,Mack,mack-calvin,20,G,6-0,165,"JUL 27, 1947",29.0,R,Southern California,76336,,0
+1610612743,1976,00,Dan Issel,Dan,dan-issel,25-44,C,6-9,235,"OCT 25, 1948",28.0,R,Kentucky,77097,,0
+1610612743,1976,00,Bobby Jones,Bobby,bobby-jones,,F,6-9,210,"DEC 18, 1951",25.0,R,North Carolina,77193,,0
+1610612743,1976,00,"Ted, Hound Dog McClain","Ted, Hound Dog","ted,-hound-dog-mcclain",12,G,6-1,180,"AUG 30, 1947",29.0,R,Tennessee State,77510,,0
+1610612743,1976,00,Jim Price,Jim,jim-price,11-15,G,6-3,195,"NOV 27, 1949",27.0,4,Louisville,77883,,0
+1610612743,1976,00,Paul Silas,Paul,paul-silas,35,F,6-7,220,"JUL 12, 1943",33.0,12,Creighton,78151,,0
+1610612743,1976,00,Roland Taylor,Roland,roland-taylor,,G,6-0,175,"MAR 13, 1946",31.0,R,La Salle,78302,,0
+1610612743,1976,00,David Thompson,David,david-thompson,33,G,6-4,195,"JUL 13, 1954",22.0,R,North Carolina State,78326,,0
+1610612743,1976,00,Monte Towe,Monte,monte-towe,13,G,5-7,150,"SEP 27, 1953",23.0,R,North Carolina State,78361,,0
+1610612743,1976,00,Marvin Webster,Marvin,marvin-webster,10,C,7-1,225,"APR 13, 1952",25.0,R,Morgan State,78481,,0
+1610612743,1976,00,Willie Wise,Willie,willie-wise,42,F,6-6,210,"MAR 03, 1947",30.0,R,Drake,78602,,0

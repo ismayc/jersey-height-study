@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1977,00,Greg Ballard,Greg,greg-ballard,42,F,6-7,215,"JAN 29, 1955",23.0,R,Oregon,76091,,0
+1610612764,1977,00,Phil Chenier,Phil,phil-chenier,45,G,6-3,180,"OCT 30, 1950",27.0,6,California,76386,,0
+1610612764,1977,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",30.0,8,Norfolk State,76500,,0
+1610612764,1977,00,Kevin Grevey,Kevin,kevin-grevey,35,G,6-5,210,"MAY 12, 1953",25.0,2,Kentucky,76887,,0
+1610612764,1977,00,Elvin Hayes,Elvin,elvin-hayes,11,F,6-9,235,"NOV 17, 1945",32.0,9,Houston,76979,,0
+1610612764,1977,00,Tom Henderson,Tom,tom-henderson,14,G,6-3,190,"JAN 26, 1952",26.0,3,Hawaii,76996,,0
+1610612764,1977,00,Mitch Kupchak,Mitch,mitch-kupchak,25,F,6-9,230,"MAY 24, 1954",24.0,1,North Carolina,77324,,0
+1610612764,1977,00,Joe Pace,Joe,joe-pace,44,C,6-10,220,"DEC 18, 1953",24.0,1,Coppin State,77788,,0
+1610612764,1977,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",32.0,9,Louisville,78392,,0
+1610612764,1977,00,Phil Walker,Phil,phil-walker,20,G,6-3,180,"MAR 20, 1956",22.0,R,Millersville,78441,,0
+1610612764,1977,00,Larry Wright,Larry,larry-wright,32,G,6-1,160,"NOV 23, 1954",23.0,1,Grambling,78623,,0

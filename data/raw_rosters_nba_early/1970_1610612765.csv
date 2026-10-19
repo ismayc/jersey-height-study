@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1970,00,Dave Bing,Dave,dave-bing,21,G,6-3,180,"NOV 24, 1943",27.0,4,Syracuse,76166,,0
+1610612765,1970,00,Terry Dischinger,Terry,terry-dischinger,43,F,6-7,189,"NOV 21, 1940",30.0,6,Purdue,76577,,0
+1610612765,1970,00,Terry Driscoll,Terry,terry-driscoll,17,F,6-7,215,"AUG 28, 1947",23.0,R,Boston College,76603,,0
+1610612765,1970,00,Bill Hewitt,Bill,bill-hewitt,31,F,6-7,210,"AUG 08, 1944",26.0,2,Southern California,77013,,0
+1610612765,1970,00,Howard Komives,Howard,howard-komives,30,G,6-1,185,"MAY 09, 1941",30.0,6,Bowling Green,77297,,0
+1610612765,1970,00,Bob Lanier,Bob,bob-lanier,16,C,6-11,250,"SEP 10, 1948",22.0,R,St. Bonaventure,600005,,0
+1610612765,1970,00,Harvey Marlatt,Harvey,harvey-marlatt,26,G,6-3,185,"AUG 26, 1948",22.0,R,Eastern Michigan,77464,,0
+1610612765,1970,00,Steve Mix,Steve,steve-mix,23,F,6-7,215,"DEC 30, 1947",23.0,1,Toledo,77618,,0
+1610612765,1970,00,Otto Moore,Otto,otto-moore,20,C,6-11,205,"AUG 27, 1946",24.0,2,Texas-Pan American,77636,,0
+1610612765,1970,00,Erwin Mueller,Erwin,erwin-mueller,51,F,6-8,230,"MAR 12, 1944",27.0,4,San Francisco,77658,,0
+1610612765,1970,00,Bob Quick,Bob,bob-quick,14,F,6-5,215,"MAR 05, 1946",25.0,2,Xavier,77892,,0
+1610612765,1970,00,Jimmy Walker,Jimmy,jimmy-walker,24,G,6-3,195,"APR 08, 1944",27.0,3,Providence,78439,,0

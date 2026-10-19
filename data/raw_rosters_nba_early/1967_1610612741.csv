@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1967,00,Bob Boozer,Bob,bob-boozer,19,F,6-8,215,"APR 26, 1937",31.0,7,Kansas State,76206,,0
+1610612741,1967,00,Jim Burns,Jim,jim-burns,6,G,6-3,195,"SEP 21, 1945",22.0,R,Northwestern,76309,,0
+1610612741,1967,00,John Clemens,John,john-clemens,16,F,6-6,210,"MAY 01, 1943",25.0,2,Ohio Wesleyan,76403,,0
+1610612741,1967,00,Keith Erickson,Keith,keith-erickson,15,F,6-5,195,"APR 19, 1944",24.0,2,UCLA,76680,,0
+1610612741,1967,00,Reggie Harding,Reggie,reggie-harding,17,C,7-0,249,"MAY 04, 1942",26.0,3,Eastern HS (MI),76945,,0
+1610612741,1967,00,Clem Haskins,Clem,clem-haskins,11,G,6-3,195,"JUL 11, 1943",24.0,R,Western Kentucky,76965,,0
+1610612741,1967,00,Mccoy McLemore,Mccoy,mccoy-mclemore,18,F,6-7,230,"APR 03, 1942",26.0,3,Drake,77548,,0
+1610612741,1967,00,Erwin Mueller,Erwin,erwin-mueller,14,F,6-8,230,"MAR 12, 1944",24.0,1,San Francisco,77658,,0
+1610612741,1967,00,Dave Schellhase,Dave,dave-schellhase,8,G,6-3,205,"OCT 14, 1944",23.0,1,Purdue,78081,,0
+1610612741,1967,00,Jerry Sloan,Jerry,jerry-sloan,4,G,6-5,195,"MAR 28, 1942",26.0,2,Evansville,78173,,0
+1610612741,1967,00,Craig Spitzer,Craig,craig-spitzer,17,C,7-0,225,"DEC 18, 1945",22.0,R,Tulane,78231,,0
+1610612741,1967,00,Jim Washington,Jim,jim-washington,7,F,6-7,210,"JUL 01, 1943",24.0,2,Villanova,78466,,0
+1610612741,1967,00,Ken Wilburn,Ken,ken-wilburn,6-9,F,6-6,195,"JUN 08, 1944",24.0,R,Central State,78524,,0

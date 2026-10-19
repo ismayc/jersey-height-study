@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,1969,00,Jerry Chambers,Jerry,jerry-chambers,44,F,6-5,185,"JUL 18, 1943",26.0,1,Utah,76376,,0
+1610612756,1969,00,Jim Fox,Jim,jim-fox,31,C,6-10,230,"APR 07, 1943",27.0,2,South Carolina,76747,,0
+1610612756,1969,00,Gail Goodrich,Gail,gail-goodrich,25,G,6-1,170,"APR 23, 1943",27.0,4,UCLA,76832,,0
+1610612756,1969,00,Lamar Green,Lamar,lamar-green,16,F,6-7,210,"MAR 22, 1947",23.0,R,Morehead State,600011,,0
+1610612756,1969,00,Connie Hawkins,Connie,connie-hawkins,42,F,6-8,210,"JUL 17, 1942",27.0,R,Iowa,76972,,0
+1610612756,1969,00,Neil Johnson,Neil,neil-johnson,11,F,6-7,220,"APR 17, 1943",27.0,3,Creighton,77161,,0
+1610612756,1969,00,Stan McKenzie,Stan,stan-mckenzie,40,F,6-5,195,"OCT 06, 1944",25.0,2,New York University,77543,,0
+1610612756,1969,00,Paul Silas,Paul,paul-silas,29,F,6-7,220,"JUL 12, 1943",26.0,5,Creighton,78151,,0
+1610612756,1969,00,Dick Van Arsdale,Dick,dick-van-arsdale,5,G,6-5,210,"FEB 22, 1943",27.0,4,Indiana,78398,,0
+1610612756,1969,00,Neal Walk,Neal,neal-walk,41,C,6-10,220,"JUL 29, 1948",21.0,R,Florida,78432,,0

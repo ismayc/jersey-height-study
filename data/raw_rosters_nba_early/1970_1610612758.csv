@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1970,00,Nate Archibald,Nate,nate-archibald,10,G,6-1,150,"SEP 02, 1948",22.0,R,Texas-El Paso,76054,,0
+1610612758,1970,00,Bob Arnzen,Bob,bob-arnzen,21-30,F,6-5,205,"NOV 03, 1947",23.0,R,Notre Dame,76064,,0
+1610612758,1970,00,Thomas Barr,Thomas,thomas-barr,19,G,6-4,195,"JUN 19, 1944",27.0,R,Duquesne,76113,,0
+1610612758,1970,00,Tom Black,Tom,tom-black,24,C,6-10,220,"JUL 09, 1941",29.0,R,South Dakota State,76175,,0
+1610612758,1970,00,Fred Foster,Fred,fred-foster,15,F,6-5,210,"MAR 18, 1946",25.0,2,Miami (Ohio),76740,,0
+1610612758,1970,00,Johnny Green,Johnny,johnny-green,20,F,6-5,200,"DEC 08, 1933",37.0,11,Michigan State,76867,,0
+1610612758,1970,00,Greg Hyder,Greg,greg-hyder,16,F,6-6,215,"JUN 21, 1948",23.0,R,Eastern New Mexico,77091,,0
+1610612758,1970,00,Darrall Imhoff,Darrall,darrall-imhoff,22,C,6-10,220,"OCT 11, 1938",32.0,10,California,77093,,0
+1610612758,1970,00,Sam Lacey,Sam,sam-lacey,44,C,6-10,235,"MAR 28, 1948",23.0,R,New Mexico State,77326,,0
+1610612758,1970,00,Charlie Paulk,Charlie,charlie-paulk,18,F,6-8,219,"JUN 14, 1946",25.0,1,Northeastern State,77815,,0
+1610612758,1970,00,Flynn Robinson,Flynn,flynn-robinson,21-30,G,6-1,185,"APR 28, 1941",30.0,4,Wyoming,77988,,0
+1610612758,1970,00,Tom Van Arsdale,Tom,tom-van-arsdale,5,F,6-5,202,"FEB 22, 1943",28.0,5,Indiana,78399,,0
+1610612758,1970,00,Norm Van Lier,Norm,norm-van-lier,23,G,6-1,173,"APR 01, 1947",24.0,1,St. Francis (PA),78406,,0
+1610612758,1970,00,Willie Williams,Willie,willie-williams,11  15,F,6-7,200,"JUL 28, 1946",24.0,R,Florida State,78574,,0

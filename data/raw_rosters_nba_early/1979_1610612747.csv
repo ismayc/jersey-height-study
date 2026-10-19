@@ -1,0 +1,10 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1979,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",33.0,10,UCLA,76003,,0
+1610612747,1979,00,Marty Byrnes,Marty,marty-byrnes,7,F,6-7,215,"APR 30, 1956",24.0,1,Syracuse,76321,,0
+1610612747,1979,00,Jim Chones,Jim,jim-chones,9,C,6-11,220,"NOV 30, 1949",30.0,5,Marquette,76392,,0
+1610612747,1979,00,Michael Cooper,Michael,michael-cooper,21,G,6-7,170,"APR 15, 1956",24.0,1,New Mexico,76444,,0
+1610612747,1979,00,Spencer Haywood,Spencer,spencer-haywood,31,F,6-8,225,"APR 22, 1949",31.0,9,Detroit,76981,,0
+1610612747,1979,00,Brad Holland,Brad,brad-holland,14,G,6-3,180,"DEC 06, 1956",23.0,R,UCLA,77040,,0
+1610612747,1979,00,Magic Johnson,Magic,magic-johnson,32,G,6-9,215,"AUG 14, 1959",20.0,R,Michigan State,77142,,0
+1610612747,1979,00,Norm Nixon,Norm,norm-nixon,10,G,6-2,170,"OCT 11, 1955",24.0,2,Duquesne,77721,,0
+1610612747,1979,00,Jamaal Wilkes,Jamaal,jamaal-wilkes,52,F,6-6,190,"MAY 02, 1953",27.0,5,UCLA,78532,,0

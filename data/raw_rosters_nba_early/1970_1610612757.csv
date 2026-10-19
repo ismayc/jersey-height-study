@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612757,1970,00,Rick Adelman,Rick,rick-adelman,12,G,6-2,175,"JUN 16, 1946",25.0,2,Loyola-Marymount,76015,,0
+1610612757,1970,00,Jim Barnett,Jim,jim-barnett,33,G,6-4,170,"JUL 07, 1944",26.0,4,Oregon,76106,,0
+1610612757,1970,00,Leroy Ellis,Leroy,leroy-ellis,25,F,6-11,210,"MAR 10, 1940",31.0,8,St. John's (NY),76663,,0
+1610612757,1970,00,Claude English,Claude,claude-english,15,G,6-4,185,"DEC 26, 1946",24.0,R,Rhode Island,76674,,0
+1610612757,1970,00,Walt Gilmore,Walt,walt-gilmore,48,F,6-6,225,"FEB 27, 1947",24.0,R,Fort Valley State,76817,,0
+1610612757,1970,00,Gary Gregor,Gary,gary-gregor,44,F,6-7,225,"AUG 13, 1945",25.0,2,South Carolina,76883,,0
+1610612757,1970,00,Shaler Halimon,Shaler,shaler-halimon,11,G,6-5,199,"MAR 30, 1945",26.0,2,Utah State,76922,,0
+1610612757,1970,00,Ron Knight,Ron,ron-knight,38,F,6-7,215,"AUG 04, 1947",23.0,R,California State-Los Angeles,77288,,0
+1610612757,1970,00,Ed Manning,Ed,ed-manning,35,F,6-7,210,"JAN 02, 1944",27.0,3,Jackson State,77454,,0
+1610612757,1970,00,Stan McKenzie,Stan,stan-mckenzie,40,F,6-5,195,"OCT 06, 1944",26.0,3,New York University,77543,,0
+1610612757,1970,00,Dorie Murrey,Dorie,dorie-murrey,41,F,6-8,215,"SEP 07, 1943",27.0,4,Detroit,77676,,0
+1610612757,1970,00,Geoff Petrie,Geoff,geoff-petrie,45,G,6-4,190,"APR 17, 1948",23.0,R,Princeton,77844,,0
+1610612757,1970,00,Dale Schlueter,Dale,dale-schlueter,54,C,6-10,225,"NOV 12, 1945",25.0,2,Colorado State,78084,,0
+1610612757,1970,00,Bill Stricker,Bill,bill-stricker,34,F,6-8,210,"JAN 22, 1948",23.0,R,Pacific,78269,,0

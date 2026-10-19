@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1975,00,John Brown,John,john-brown,50,F,6-7,220,"DEC 14, 1951",24.0,2,Missouri,76276,,0
+1610612737,1975,00,Jim Creighton,Jim,jim-creighton,24,F,6-8,200,"APR 18, 1950",26.0,R,Colorado,76468,,0
+1610612737,1975,00,John Drew,John,john-drew,22,F,6-6,205,"SEP 30, 1954",21.0,1,Gardner-Webb,76598,,0
+1610612737,1975,00,Dennis DuVal,Dennis,dennis-duval,21,G,6-3,175,"MAR 31, 1952",24.0,1,Syracuse,76623,,0
+1610612737,1975,00,Connie Hawkins,Connie,connie-hawkins,42,F,6-8,210,"JUL 17, 1942",33.0,6,Iowa,76972,,0
+1610612737,1975,00,Tom Henderson,Tom,tom-henderson,14,G,6-3,190,"JAN 26, 1952",24.0,1,Hawaii,76996,,0
+1610612737,1975,00,Wilbur Holland,Wilbur,wilbur-holland,20,G,6-0,175,"NOV 08, 1951",24.0,R,New Orleans,77042,,0
+1610612737,1975,00,Lou Hudson,Lou,lou-hudson,23,F,6-5,210,"JUL 11, 1944",31.0,9,Minnesota,77074,,0
+1610612737,1975,00,Dwight Jones,Dwight,dwight-jones,13,F,6-10,210,"FEB 27, 1952",24.0,2,Houston,77182,,0
+1610612737,1975,00,Dean Meminger,Dean,dean-meminger,7,G,6-1,175,"MAY 13, 1948",28.0,4,Marquette,77578,,0
+1610612737,1975,00,Mike Sojourner,Mike,mike-sojourner,40,C,6-9,225,"OCT 16, 1953",22.0,1,Utah,78217,,0
+1610612737,1975,00,Tom Van Arsdale,Tom,tom-van-arsdale,5,F,6-5,202,"FEB 22, 1943",33.0,10,Indiana,78399,,0
+1610612737,1975,00,Bill Willoughby,Bill,bill-willoughby,32,F,6-8,205,"MAY 20, 1957",19.0,R,Dwight Morrow HS (NJ),78577,,0

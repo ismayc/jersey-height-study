@@ -1,0 +1,19 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1950,00,Ed Beach,Ed,ed-beach, ,F,6-3,200,"JAN 25, 1929",22.0,R,West Virginia,76129,,0
+1610612737,1950,00,Harry Boykoff,Harry,harry-boykoff,16,C,6-9,225,"JUL 24, 1922",28.0,1,St. John's (NY),76224,,0
+1610612737,1950,00,Frank Brian,Frank,frank-brian,13,G,6-1,180,"MAY 01, 1923",28.0,1,Louisiana State,76250,,0
+1610612737,1950,00,Tommy Byrnes,Tommy,tommy-byrnes,12,G,6-3,175,"FEB 19, 1923",28.0,4,Seton Hall,76322,,0
+1610612737,1950,00,Bob Carpenter,Bob,bob-carpenter,10-15,F,6-5,200,"NOV 06, 1917",33.0,1,Texas A&M-Commerce,76346,,0
+1610612737,1950,00,Cal Christensen,Cal,cal-christensen,14,F,6-5,210,"JUN 08, 1927",24.0,R,Toledo,76394,,0
+1610612737,1950,00,Ray Corley,Ray,ray-corley,12,G,6-0,180,"JAN 01, 1928",23.0,1,Georgetown,76452,,0
+1610612737,1950,00,Hank DeZonie,Hank,hank-dezonie,10,F,6-5,215,"FEB 12, 1922",29.0,R,Clark Atlanta,76562,,0
+1610612737,1950,00,Thomas Eddleman,Thomas,thomas-eddleman,18,F,6-2,189,"DEC 27, 1922",28.0,1,Illinois,76636,,0
+1610612737,1950,00,Ed Gayda,Ed,ed-gayda,10,G,6-4,210,"MAY 11, 1927",24.0,R,Washington State,76797,,0
+1610612737,1950,00,John Hargis,John,john-hargis,9,G,6-2,180,"AUG 20, 1920",30.0,1,Texas,76949,,0
+1610612737,1950,00,Johnny Logan,Johnny,johnny-logan,17,G,6-2,175,"JAN 01, 1921",30.0,4,Indiana,77403,,0
+1610612737,1950,00,Jack Nichols,Jack,jack-nichols,15,C,6-7,222,"APR 09, 1926",25.0,2,Washington,77713,,0
+1610612737,1950,00,Warren Perkins,Warren,warren-perkins,11,G,6-3,190,"FEB 02, 1924",27.0,1,Tulane,77834,,0
+1610612737,1950,00,Ed Peterson,Ed,ed-peterson,20,C,6-9,220,"JUN 27, 1924",27.0,1,Cornell,77841,,0
+1610612737,1950,00,Herb Scherer,Herb,herb-scherer,9,C,6-9,212,"DEC 21, 1929",21.0,R,Long Island-Brooklyn,78082,,0
+1610612737,1950,00,Marko Todorovich,Marko,marko-todorovich,19,F,6-5,220,"JUN 11, 1923",28.0,1,Wyoming,78346,,0
+1610612737,1950,00,Gene Vance,Gene,gene-vance,12,G,6-3,195,"FEB 25, 1923",28.0,3,Illinois,78402,,0

@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,1977,00,Alvan Adams,Alvan,alvan-adams,33,C,6-9,210,"JUL 19, 1954",23.0,2,Oklahoma,76011,,0
+1610612756,1977,00,Dennis Awtrey,Dennis,dennis-awtrey,21,C,6-10,235,"FEB 22, 1948",30.0,7,Santa Clara,76078,,0
+1610612756,1977,00,Mike Bratz,Mike,mike-bratz,23,G,6-2,185,"OCT 17, 1955",22.0,R,Stanford,76242,,0
+1610612756,1977,00,Don Buse,Don,don-buse,10,G,6-4,190,"AUG 10, 1950",27.0,1,Evansville,76317,,0
+1610612756,1977,00,Walter Davis,Walter,walter-davis,6,G,6-6,193,"SEP 09, 1954",23.0,R,North Carolina,1453,,0
+1610612756,1977,00,Bayard Forrest,Bayard,bayard-forrest,35,C,6-10,235,"JUL 08, 1954",23.0,R,Grand Canyon,76739,,0
+1610612756,1977,00,Greg Griffin,Greg,greg-griffin,25,F,6-7,190,"SEP 06, 1952",25.0,R,Idaho State,76888,,0
+1610612756,1977,00,Garfield Heard,Garfield,garfield-heard,24,F,6-6,219,"MAY 03, 1948",30.0,7,Oklahoma,76985,,0
+1610612756,1977,00,Ron Lee,Ron,ron-lee,30,G,6-3,193,"NOV 02, 1952",25.0,1,Oregon,77364,,0
+1610612756,1977,00,Curtis Perry,Curtis,curtis-perry,18,F,6-7,220,"SEP 13, 1948",29.0,7,Missouri State,77835,,0
+1610612756,1977,00,Alvin Scott,Alvin,alvin-scott,14,F,6-7,185,"SEP 14, 1955",22.0,R,Oral Roberts,78095,,0
+1610612756,1977,00,Paul Westphal,Paul,paul-westphal,44,G,6-4,195,"NOV 30, 1950",27.0,5,Southern California,78500,,0

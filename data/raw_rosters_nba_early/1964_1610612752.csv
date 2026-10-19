@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1964,00,Jim Barnes,Jim,jim-barnes,22,C,6-8,210,"APR 13, 1941",24.0,R,Texas-El Paso,76105,,0
+1610612752,1964,00,Bob Boozer,Bob,bob-boozer,14,F,6-8,215,"APR 26, 1937",28.0,4,Kansas State,76206,,0
+1610612752,1964,00,Emmette Bryant,Emmette,emmette-bryant,7,G,6-1,175,"NOV 04, 1938",26.0,R,DePaul,76289,,0
+1610612752,1964,00,Dave Budd,Dave,dave-budd,10,F,6-6,205,"OCT 28, 1938",26.0,4,Wake Forest,76297,,0
+1610612752,1964,00,Len Chappell,Len,len-chappell,24,F,6-8,240,"JAN 31, 1941",24.0,2,Wake Forest,76382,,0
+1610612752,1964,00,Johnny Egan,Johnny,johnny-egan,15,G,6-0,180,"JAN 31, 1939",26.0,3,Providence,76647,,0
+1610612752,1964,00,Tom Gola,Tom,tom-gola,6,G,6-6,205,"JAN 13, 1933",32.0,8,La Salle,76828,,0
+1610612752,1964,00,Johnny Green,Johnny,johnny-green,11,F,6-5,200,"DEC 08, 1933",31.0,5,Michigan State,76867,,0
+1610612752,1964,00,Art Heyman,Art,art-heyman,4,G,6-5,205,"JUN 24, 1941",24.0,1,Duke,77015,,0
+1610612752,1964,00,Tom Hoover,Tom,tom-hoover,23,C,6-9,230,"JAN 23, 1941",24.0,1,Villanova,77051,,0
+1610612752,1964,00,Howard Komives,Howard,howard-komives,16,G,6-1,185,"MAY 09, 1941",24.0,R,Bowling Green,77297,,0
+1610612752,1964,00,Barry Kramer,Barry,barry-kramer,21,F,6-4,200,"NOV 10, 1942",22.0,R,New York University,77307,,0
+1610612752,1964,00,Willis Reed,Willis,willis-reed,19,C,6-10,235,"JUN 25, 1942",23.0,R,Grambling,77929,,0

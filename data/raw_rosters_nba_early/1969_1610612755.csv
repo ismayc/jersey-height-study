@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1969,00,Archie Clark,Archie,archie-clark,21,G,6-2,175,"JUL 15, 1941",28.0,3,Minnesota,76397,,0
+1610612755,1969,00,Billy Cunningham,Billy,billy-cunningham,32,F,6-6,210,"JUN 03, 1943",27.0,4,North Carolina,76487,,0
+1610612755,1969,00,Hal Greer,Hal,hal-greer,15,G,6-2,175,"JUN 26, 1936",34.0,11,Marshall,76882,,0
+1610612755,1969,00,Matt Guokas,Matt,matt-guokas,14,G,6-6,175,"FEB 25, 1944",26.0,3,St. Joseph's (PA),76908,,0
+1610612755,1969,00,Fred Hetzel,Fred,fred-hetzel,20,F,6-8,220,"JUL 21, 1942",27.0,4,Davidson,77012,,0
+1610612755,1969,00,Darrall Imhoff,Darrall,darrall-imhoff,18,C,6-10,220,"OCT 11, 1938",31.0,9,California,77093,,0
+1610612755,1969,00,Lucious Jackson,Lucious,lucious-jackson,,F,6-9,240,"OCT 31, 1941",28.0,5,Texas-Pan American,77103,,0
+1610612755,1969,00,Wali Jones,Wali,wali-jones,24,G,6-2,180,"FEB 14, 1942",28.0,5,Villanova,77198,,0
+1610612755,1969,00,Carlos Ogden,Carlos,carlos-ogden,28,F,6-6,215,"DEC 29, 1946",23.0,R,Santa Clara,77747,,0
+1610612755,1969,00,Dave Scholz,Dave,dave-scholz,25,F,6-8,220,"APR 12, 1948",22.0,R,Illinois,78088,,0
+1610612755,1969,00,Jim Washington,Jim,jim-washington,12,F,6-7,210,"JUL 01, 1943",26.0,4,Villanova,78466,,0
+1610612755,1969,00,George Wilson,George,george-wilson,16,C,6-8,225,"MAY 09, 1942",28.0,5,Cincinnati,78579,,0

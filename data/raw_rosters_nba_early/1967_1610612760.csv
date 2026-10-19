@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1967,00,Henry Akin,Henry,henry-akin,10,C,6-10,225,"JUL 31, 1944",23.0,1,Morehead State,76018,,0
+1610612760,1967,00,Walt Hazzard,Walt,walt-hazzard,42,G,6-2,185,"APR 15, 1942",26.0,3,UCLA,76983,,0
+1610612760,1967,00,Tom Kron,Tom,tom-kron,11,G,6-5,200,"FEB 28, 1943",25.0,1,Kentucky,77313,,0
+1610612760,1967,00,Plummer Lott,Plummer,plummer-lott,43,F,6-5,210,"DEC 11, 1945",22.0,R,Seattle,77410,,0
+1610612760,1967,00,Tom Meschery,Tom,tom-meschery,14,F,6-6,215,"OCT 26, 1938",29.0,6,Saint Mary's,77584,,0
+1610612760,1967,00,Dorie Murrey,Dorie,dorie-murrey,41,F,6-8,215,"SEP 07, 1943",24.0,1,Detroit,77676,,0
+1610612760,1967,00,Enoch Olsen,Enoch,enoch-olsen,24,F,6-8,220,"JUL 25, 1940",27.0,5,Louisville,77765,,0
+1610612760,1967,00,Bob Rule,Bob,bob-rule,45,C,6-9,220,"JUN 29, 1944",24.0,R,Colorado State,78042,,0
+1610612760,1967,00,Rod Thorn,Rod,rod-thorn,44,G,6-4,195,"MAY 23, 1941",27.0,4,West Virginia,78335,,0
+1610612760,1967,00,Al Tucker,Al,al-tucker,33,F,6-8,190,"FEB 24, 1943",25.0,R,Oklahoma Baptist,78372,,0
+1610612760,1967,00,Bob Weiss,Bob,bob-weiss,12,G,6-3,180,"MAY 07, 1942",26.0,2,Penn State,78485,,0
+1610612760,1967,00,George Wilson,George,george-wilson,15,C,6-8,225,"MAY 09, 1942",26.0,3,Cincinnati,78579,,0

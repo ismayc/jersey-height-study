@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1967,00,Dave Bing,Dave,dave-bing,21,G,6-3,180,"NOV 24, 1943",24.0,1,Syracuse,76166,,0
+1610612765,1967,00,George Carter,George,george-carter,12,F,6-4,210,"JAN 18, 1944",24.0,R,St. Bonaventure,76357,,0
+1610612765,1967,00,Dave DeBusschere,Dave,dave-debusschere,22,F,6-6,220,"OCT 16, 1940",27.0,5,Detroit,76545,,0
+1610612765,1967,00,Terry Dischinger,Terry,terry-dischinger,43,F,6-7,189,"NOV 21, 1940",27.0,3,Purdue,76577,,0
+1610612765,1967,00,Lloyd Dove,Lloyd,lloyd-dove,44,F,6-8,198,"AUG 16, 1945",22.0,R,St. John's (NY),76592,,0
+1610612765,1967,00,Paul Long,Paul,paul-long,10,G,6-2,180,"FEB 08, 1944",24.0,R,Wake Forest,77406,,0
+1610612765,1967,00,Eddie Miles,Eddie,eddie-miles,14,G,6-4,195,"JUL 05, 1940",27.0,4,Seattle,77596,,0
+1610612765,1967,00,George Patterson,George,george-patterson,20,C,6-7,230,"NOV 26, 1939",28.0,R,Toledo,77811,,0
+1610612765,1967,00,Joe Strawder,Joe,joe-strawder,16,C,6-10,235,"SEP 21, 1940",27.0,2,Bradley,78268,,0
+1610612765,1967,00,Jimmy Walker,Jimmy,jimmy-walker,24,G,6-3,195,"APR 08, 1944",24.0,R,Providence,78439,,0

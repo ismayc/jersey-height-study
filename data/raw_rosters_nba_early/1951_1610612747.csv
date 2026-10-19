@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1951,00,Bob Harrison,Bob,bob-harrison,16,G,6-1,190,"AUG 12, 1927",24.0,2,Michigan,76962,,0
+1610612747,1951,00,Lew Hitch,Lew,lew-hitch,11,F,6-8,200,"JUL 16, 1929",22.0,R,Kansas State,77032,,0
+1610612747,1951,00,Joe Hutton,Joe,joe-hutton,4-15,G,6-1,170,"OCT 06, 1928",23.0,1,Hamline,77090,,0
+1610612747,1951,00,Slater Martin,Slater,slater-martin,22,G,5-10,170,"OCT 22, 1925",26.0,2,Texas,77480,,0
+1610612747,1951,00,George Mikan,George,george-mikan,99,C,6-10,245,"JUN 18, 1924",28.0,3,DePaul,600012,,0
+1610612747,1951,00,Vern Mikkelsen,Vern,vern-mikkelsen,19,F,6-7,230,"OCT 21, 1928",23.0,2,Hamline,77593,,0
+1610612747,1951,00,John Pilch,John,john-pilch, ,F,6-3,185,"JUL 11, 1925",26.0,R,Wyoming,77859,,0
+1610612747,1951,00,Jim Pollard,Jim,jim-pollard,17,F,6-3,185,"JUL 09, 1922",29.0,3,Stanford,77867,,0
+1610612747,1951,00,Frank Saul,Frank,frank-saul,18,G,6-2,185,"FEB 16, 1924",28.0,2,Seton Hall,78063,,0
+1610612747,1951,00,Howie Schultz,Howie,howie-schultz,12,F,6-6,200,"JUL 03, 1922",29.0,1,Hamline,78091,,0
+1610612747,1951,00,Whitey Skoog,Whitey,whitey-skoog,20,G,5-11,180,"NOV 02, 1926",25.0,R,Minnesota,78169,,0

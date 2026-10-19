@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1952,00,Nelson Bobb,Nelson,nelson-bobb,5,G,6-0,170,"FEB 25, 1924",29.0,3,Temple,76190,,0
+1610612744,1952,00,Danny Finn,Danny,danny-finn,12-14,G,6-1,185,"MAY 27, 1928",25.0,R,St. John's (NY),76717,,0
+1610612744,1952,00,Jerry Fleishman,Jerry,jerry-fleishman,4,G,6-2,190,"FEB 14, 1922",31.0,4,New York University,76721,,0
+1610612744,1952,00,Joe Fulks,Joe,joe-fulks,10,F,6-5,190,"OCT 26, 1921",31.0,6,Murray State,76764,,0
+1610612744,1952,00,Neil Johnston,Neil,neil-johnston,6,C,6-8,210,"FEB 04, 1929",24.0,1,Ohio State,77169,,0
+1610612744,1952,00,Frank Kudelka,Frank,frank-kudelka,14,G,6-2,193,"JUN 25, 1925",28.0,3,Saint Mary's,77319,,0
+1610612744,1952,00,Don Lofgran,Don,don-lofgran,9,F,6-5,200,"NOV 18, 1928",24.0,2,San Francisco,77402,,0
+1610612744,1952,00,Jack McCloskey,Jack,jack-mccloskey, ,G,6-2,190,"SEP 19, 1925",27.0,R,Pennsylvania,77512,,0
+1610612744,1952,00,Bill Mlkvy,Bill,bill-mlkvy,16,F,6-4,190,"JAN 19, 1931",22.0,R,Temple,77619,,0
+1610612744,1952,00,Jim Mooney,Jim,jim-mooney,7,F,6-5,215,"JUL 08, 1930",22.0,R,Villanova,77631,,0
+1610612744,1952,00,Claude Overton,Claude,claude-overton,14,G,6-2,195,"DEC 16, 1927",25.0,R,East Central,77780,,0
+1610612744,1952,00,Ralph Polson,Ralph,ralph-polson,15,F,6-7,200,"OCT 26, 1929",23.0,R,Whitworth,77868,,0
+1610612744,1952,00,Moe Radovich,Moe,moe-radovich,4,G,6-0,160,"MAY 05, 1929",24.0,R,Wyoming,77900,,0
+1610612744,1952,00,George Senesky,George,george-senesky,8,G,6-2,179,"APR 04, 1922",31.0,6,St. Joseph's (PA),78115,,0
+1610612744,1952,00,Mark Workman,Mark,mark-workman,12,C,6-9,215,"MAR 10, 1930",23.0,R,West Virginia,78616,,0

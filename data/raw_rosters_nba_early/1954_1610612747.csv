@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1954,00,Bob Carney,Bob,bob-carney,18,C,6-3,170,"AUG 03, 1932",22.0,R,Bradley,76345,,0
+1610612747,1954,00,Lew Hitch,Lew,lew-hitch,11,F,6-8,200,"JUL 16, 1929",25.0,3,Kansas State,77032,,0
+1610612747,1954,00,Jim Holstein,Jim,jim-holstein,12,F,6-3,180,"SEP 24, 1930",24.0,2,Cincinnati,77045,,0
+1610612747,1954,00,Ed Kalafat,Ed,ed-kalafat,23,C,6-6,245,"OCT 13, 1932",22.0,R,Minnesota,77219,,0
+1610612747,1954,00,Clyde Lovellette,Clyde,clyde-lovellette,34,C,6-9,234,"SEP 07, 1929",25.0,1,Kansas,77414,,0
+1610612747,1954,00,Slater Martin,Slater,slater-martin,22,G,5-10,170,"OCT 22, 1925",29.0,5,Texas,77480,,0
+1610612747,1954,00,Vern Mikkelsen,Vern,vern-mikkelsen,19,F,6-7,230,"OCT 21, 1928",26.0,5,Hamline,77593,,0
+1610612747,1954,00,Jim Pollard,Jim,jim-pollard,17,F,6-3,185,"JUL 09, 1922",32.0,6,Stanford,77867,,0
+1610612747,1954,00,Dick Schnittker,Dick,dick-schnittker,15,F,6-5,200,"MAY 27, 1928",27.0,2,Ohio State,78086,,0
+1610612747,1954,00,Whitey Skoog,Whitey,whitey-skoog,20,G,5-11,180,"NOV 02, 1926",28.0,3,Minnesota,78169,,0
+1610612747,1954,00,Don Sunderlage,Don,don-sunderlage,18,G,6-1,180,"DEC 20, 1929",25.0,1,Illinois,78278,,0

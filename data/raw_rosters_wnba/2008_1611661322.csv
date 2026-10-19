@@ -1,0 +1,19 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1611661322,2008,10,Chasity Melvin,Chasity,chasity-melvin,,C-F,6-3,185,"MAY 03, 1976",33.0,10,North Carolina State,100433,,0
+1611661322,2008,10,Kristen Mann,Kristen,kristen-mann,,F,6-1,185,"AUG 10, 1983",25.0,4,California-Santa Barbara,101029,,0
+1611661322,2008,10,Lindsey Harding,Lindsey,lindsey-harding,,G,5-8,139,"JUN 12, 1984",25.0,2,Duke,201046,,0
+1611661322,2008,10,Matee Ajavon,Matee,matee-ajavon,,G,5-8,160,"MAY 07, 1986",23.0,1,Rutgers,201492,,0
+1611661322,2008,10,Crystal Langhorne,Crystal,crystal-langhorne,1,C,6-2,184,"OCT 27, 1986",22.0,R,Maryland,201518,,0
+1611661322,2008,10,Krystal Vaughn,Krystal,krystal-vaughn,5,F,6-1,160,"SEP 08, 1986",22.0,R,Virginia Commonwealth,201520,,0
+1611661322,2008,10,Coco Miller,Coco,coco-miller,9,G,5-9,140,"SEP 06, 1978",30.0,7,Georgia,100690,,0
+1611661322,2008,10,Laurie Koehn,Laurie,laurie-koehn,12,G,5-8,145,"MAY 13, 1982",27.0,3,Kansas State,101084,,0
+1611661322,2008,10,Shay Murphy,Shay,shay-murphy,14,G,5-11,164,"APR 15, 1985",24.0,1,USC,201062,,0
+1611661322,2008,10,Crystal Smith,Crystal,crystal-smith,15,G,5-6,121,"MAR 12, 1984",25.0,2,Iowa,200702,,0
+1611661322,2008,10,Alana Beard,Alana,alana-beard,20,G-F,5-11,160,"MAY 14, 1982",27.0,4,Duke,100949,,0
+1611661322,2008,10,Monique Currie,Monique,monique-currie,25,F,6-0,177,"FEB 25, 1983",26.0,2,Duke,200673,,0
+1611661322,2008,10,Nikki Blue,Nikki,nikki-blue,32,G,5-8,163,"APR 29, 1984",25.0,2,UCLA,200689,,0
+1611661322,2008,10,Bernice Mosby,Bernice,bernice-mosby,33,F,6-1,172,"FEB 14, 1984",25.0,1,Baylor,201051,,0
+1611661322,2008,10,Tasha Humphrey,Tasha,tasha-humphrey,34,C,6-3, ,"DEC 29, 1985",23.0,R,Georgia,201488,,0
+1611661322,2008,10,Nakia Sanford,Nakia,nakia-sanford,43,C,6-4,200,"MAY 10, 1976",33.0,5,Kansas,100556,,0
+1611661322,2008,10,Andrea Gardner,Andrea,andrea-gardner,52,F-C,6-3,190,"DEC 23, 1979",29.0,R,Howard,100747,,0
+1611661322,2008,10,Kendra Wecker,Kendra,kendra-wecker,53,F,5-11,172,"DEC 16, 1982",26.0,3,Kansas State,101022,,0

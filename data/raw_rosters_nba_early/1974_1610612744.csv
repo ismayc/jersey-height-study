@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1974,00,Rick Barry,Rick,rick-barry,24,F,6-7,205,"MAR 28, 1944",31.0,4,Miami,600013,,0
+1610612744,1974,00,Butch Beard,Butch,butch-beard,21,G,6-3,185,"MAY 04, 1947",28.0,4,Louisville,76130,,0
+1610612744,1974,00,Steve Bracey,Steve,steve-bracey,22,G,6-1,175,"AUG 01, 1950",24.0,2,Tulsa,76226,,0
+1610612744,1974,00,Derrek Dickey,Derrek,derrek-dickey,40,F,6-7,218,"MAR 20, 1951",24.0,1,Cincinnati,76564,,0
+1610612744,1974,00,Charles Dudley,Charles,charles-dudley,15,G,6-2,180,"MAR 05, 1950",25.0,1,Washington,76607,,0
+1610612744,1974,00,Charlie Johnson,Charlie,charlie-johnson,10,G,6-0,170,"MAR 31, 1949",26.0,2,California,77133,,0
+1610612744,1974,00,George Johnson,George,george-johnson,,C,6-11,205,"DEC 18, 1948",26.0,2,Dillard,77149,,0
+1610612744,1974,00,Frank Kendrick,Frank,frank-kendrick,34,F,6-6,198,"SEP 11, 1950",24.0,R,Purdue,77242,,0
+1610612744,1974,00,Jeff Mullins,Jeff,jeff-mullins,23,G,6-4,190,"MAR 18, 1942",33.0,10,Duke,77662,,0
+1610612744,1974,00,Clifford Ray,Clifford,clifford-ray,44,C,6-9,230,"JAN 21, 1949",26.0,3,Oklahoma,77917,,0
+1610612744,1974,00,Phil Smith,Phil,phil-smith,20,G,6-4,185,"APR 22, 1952",23.0,R,San Francisco,78199,,0
+1610612744,1974,00,Jamaal Wilkes,Jamaal,jamaal-wilkes,41,F,6-6,190,"MAY 02, 1953",22.0,R,UCLA,78532,,0

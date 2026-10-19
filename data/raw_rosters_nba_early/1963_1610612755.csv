@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1963,00,Al Bianchi,Al,al-bianchi,24,G,6-3,185,"MAR 26, 1932",32.0,7,Bowling Green,76160,,0
+1610612755,1963,00,Larry Costello,Larry,larry-costello,21,G,6-1,186,"JUL 02, 1931",32.0,8,Niagara,76454,,0
+1610612755,1963,00,Connie Dierking,Connie,connie-dierking,29,C,6-10,222,"OCT 02, 1936",27.0,2,Cincinnati,76566,,0
+1610612755,1963,00,Dave Gambee,Dave,dave-gambee,20,F,6-6,215,"APR 16, 1937",27.0,5,Oregon State,76774,,0
+1610612755,1963,00,Jerry Greenspan,Jerry,jerry-greenspan,22,F,6-5,195,"NOV 22, 1941",22.0,R,Maryland,76880,,0
+1610612755,1963,00,Hal Greer,Hal,hal-greer,15,G,6-2,175,"JUN 26, 1936",28.0,5,Marshall,76882,,0
+1610612755,1963,00,Johnny Kerr,Johnny,johnny-kerr,10,C,6-9,230,"AUG 17, 1932",31.0,9,Illinois,77248,,0
+1610612755,1963,00,Paul Neumann,Paul,paul-neumann,5,G,6-1,175,"JAN 30, 1938",26.0,2,Stanford,77706,,0
+1610612755,1963,00,Dolph Schayes,Dolph,dolph-schayes,4,F,6-8,195,"MAY 19, 1928",36.0,14,New York University,78076,,0
+1610612755,1963,00,Lee Shaffer,Lee,lee-shaffer,22,F,6-7,220,"FEB 23, 1939",25.0,2,North Carolina,78121,,0
+1610612755,1963,00,Chet Walker,Chet,chet-walker,25,F,6-7,212,"FEB 22, 1940",24.0,1,Bradley,78435,,0
+1610612755,1963,00,Ben Warley,Ben,ben-warley,14,F,6-5,200,"SEP 04, 1936",27.0,1,Tennessee State,78458,,0
+1610612755,1963,00,Hubie White,Hubie,hubie-white,23,G,6-4,205,"JAN 26, 1940",24.0,1,Villanova,78509,,0

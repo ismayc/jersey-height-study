@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612757,1973,00,Charlie Davis,Charlie,charlie-davis,,G,6-1,160,"SEP 07, 1949",24.0,2,Wake Forest,76519,,0
+1610612757,1973,00,Bernie Fryer,Bernie,bernie-fryer,13,G,6-3,185,"DEC 25, 1949",24.0,R,Brigham Young,76761,,0
+1610612757,1973,00,John Johnson,John,john-johnson,27,F,6-7,200,"OCT 18, 1947",26.0,3,Iowa,77152,,0
+1610612757,1973,00,Ollie Johnson,Ollie,ollie-johnson,44,F,6-6,200,"MAY 11, 1949",25.0,1,Temple,77162,,0
+1610612757,1973,00,Dennis Layton,Dennis,dennis-layton,12,G,6-1,180,"DEC 24, 1948",25.0,2,Southern California,77350,,0
+1610612757,1973,00,Larue Martin,Larue,larue-martin,35,C,6-11,208,"MAR 26, 1950",24.0,1,Loyola-Chicago,77475,,0
+1610612757,1973,00,Lloyd Neal,Lloyd,lloyd-neal,36,F,6-7,225,"DEC 10, 1950",23.0,1,Tennessee State,77696,,0
+1610612757,1973,00,Geoff Petrie,Geoff,geoff-petrie,45,G,6-4,190,"APR 17, 1948",26.0,3,Princeton,77844,,0
+1610612757,1973,00,Rick Roberson,Rick,rick-roberson,30,C,6-9,231,"JUL 07, 1947",26.0,4,Cincinnati,77973,,0
+1610612757,1973,00,Mark Sibley,Mark,mark-sibley,11,G,6-2,175,"NOV 13, 1950",23.0,R,Northwestern,78145,,0
+1610612757,1973,00,Greg Smith,Greg,greg-smith,4,F,6-5,195,"JAN 28, 1947",27.0,5,Western Kentucky,78190,,0
+1610612757,1973,00,Larry Steele,Larry,larry-steele,15,G,6-5,180,"MAY 05, 1949",25.0,2,Kentucky,78245,,0
+1610612757,1973,00,Bob Verga,Bob,bob-verga,17,G,6-1,190,"SEP 07, 1945",28.0,R,Duke,78413,,0
+1610612757,1973,00,Sidney Wicks,Sidney,sidney-wicks,21,F,6-9,225,"SEP 19, 1949",24.0,2,UCLA,78520,,0

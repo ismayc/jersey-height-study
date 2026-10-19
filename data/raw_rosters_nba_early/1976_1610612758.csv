@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1976,00,Mike Barr,Mike,mike-barr,34,G,6-3,180,"OCT 19, 1950",26.0,R,Duquesne,76112,,0
+1610612758,1976,00,Bob Bigelow,Bob,bob-bigelow,11,F,6-7,215,"DEC 26, 1953",23.0,1,Pennsylvania,76165,,0
+1610612758,1976,00,Ron Boone,Ron,ron-boone,24,G,6-2,200,"SEP 06, 1946",30.0,R,Idaho State,76204,,0
+1610612758,1976,00,Jim Eakins,Jim,jim-eakins,25,C,6-11,215,"MAY 24, 1946",31.0,R,Brigham Young,76628,,0
+1610612758,1976,00,Glenn Hansen,Glenn,glenn-hansen,35,G,6-4,205,"APR 21, 1952",25.0,1,Louisiana State,76940,,0
+1610612758,1976,00,Ollie Johnson,Ollie,ollie-johnson,33,F,6-6,200,"MAY 11, 1949",28.0,4,Temple,77162,,0
+1610612758,1976,00,Sam Lacey,Sam,sam-lacey,44,C,6-10,235,"MAR 28, 1948",29.0,6,New Mexico State,77326,,0
+1610612758,1976,00,Andre McCarter,Andre,andre-mccarter,20,G,6-3,190,"AUG 25, 1953",23.0,R,UCLA,77504,,0
+1610612758,1976,00,Bill Robinzine,Bill,bill-robinzine,52,F,6-7,230,"JAN 20, 1953",24.0,1,DePaul,77997,,0
+1610612758,1976,00,Brian Taylor,Brian,brian-taylor,14,G,6-2,185,"JUN 09, 1951",26.0,R,Princeton,78296,,0
+1610612758,1976,00,Richard Washington,Richard,richard-washington,31,F,6-10,220,"JUL 15, 1955",21.0,R,UCLA,78468,,0
+1610612758,1976,00,Scott Wedman,Scott,scott-wedman,15,F,6-7,215,"JUL 29, 1952",24.0,2,Colorado,78482,,0

@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1973,00,Bill Bridges,Bill,bill-bridges,32,F,6-5,228,"APR 04, 1939",35.0,11,Kansas,76253,,0
+1610612747,1973,00,Mel Counts,Mel,mel-counts,31,C,7-0,230,"OCT 16, 1941",32.0,9,Oregon State,76458,,0
+1610612747,1973,00,Gail Goodrich,Gail,gail-goodrich,25,G,6-1,170,"APR 23, 1943",31.0,8,UCLA,76832,,0
+1610612747,1973,00,Travis Grant,Travis,travis-grant,33,F,6-7,215,"JAN 01, 1950",24.0,1,Kentucky State,76853,,0
+1610612747,1973,00,Happy Hairston,Happy,happy-hairston,52,F,6-7,225,"MAY 31, 1942",32.0,9,New York University,76916,,0
+1610612747,1973,00,Nate Hawthorne,Nate,nate-hawthorne,20,G,6-4,190,"JAN 19, 1951",23.0,R,Southern Illinois,76978,,0
+1610612747,1973,00,Stan Love,Stan,stan-love,34,F,6-9,215,"APR 09, 1949",25.0,2,Oregon,77413,,0
+1610612747,1973,00,Jim Price,Jim,jim-price,15,G,6-3,195,"NOV 27, 1949",24.0,1,Louisville,77883,,0
+1610612747,1973,00,Pat Riley,Pat,pat-riley,12,G,6-4,205,"MAR 20, 1945",29.0,6,Kentucky,77962,,0
+1610612747,1973,00,Elmore Smith,Elmore,elmore-smith,3,C,7-1,250,"MAY 09, 1949",25.0,2,Kentucky State,78188,,0
+1610612747,1973,00,Kermit Washington,Kermit,kermit-washington,24,F,6-8,230,"SEP 17, 1951",22.0,R,American,78467,,0
+1610612747,1973,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",36.0,13,West Virginia,78497,,0

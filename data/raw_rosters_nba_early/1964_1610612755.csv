@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1964,00,Al Bianchi,Al,al-bianchi,24,G,6-3,185,"MAR 26, 1932",33.0,8,Bowling Green,76160,,0
+1610612755,1964,00,Larry Costello,Larry,larry-costello,21,G,6-1,186,"JUL 02, 1931",33.0,9,Niagara,76454,,0
+1610612755,1964,00,Steve Courtin,Steve,steve-courtin,5,G,6-1,188,"SEP 21, 1942",22.0,R,St. Joseph's (PA),76459,,0
+1610612755,1964,00,Dave Gambee,Dave,dave-gambee,20,F,6-6,215,"APR 16, 1937",28.0,6,Oregon State,76774,,0
+1610612755,1964,00,Jerry Greenspan,Jerry,jerry-greenspan,22,F,6-5,195,"NOV 22, 1941",23.0,1,Maryland,76880,,0
+1610612755,1964,00,Hal Greer,Hal,hal-greer,15,G,6-2,175,"JUN 26, 1936",29.0,6,Marshall,76882,,0
+1610612755,1964,00,Lucious Jackson,Lucious,lucious-jackson,,F,6-9,240,"OCT 31, 1941",23.0,R,Texas-Pan American,77103,,0
+1610612755,1964,00,Larry Jones,Larry,larry-jones,12,G,6-2,180,"SEP 22, 1942",22.0,R,Toledo,77200,,0
+1610612755,1964,00,Johnny Kerr,Johnny,johnny-kerr,10,C,6-9,230,"AUG 17, 1932",32.0,10,Illinois,77248,,0
+1610612755,1964,00,Chet Walker,Chet,chet-walker,25,F,6-7,212,"FEB 22, 1940",25.0,2,Bradley,78435,,0
+1610612755,1964,00,Ben Warley,Ben,ben-warley,14,F,6-5,200,"SEP 04, 1936",28.0,2,Tennessee State,78458,,0

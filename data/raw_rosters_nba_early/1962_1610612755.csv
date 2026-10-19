@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1962,00,Al Bianchi,Al,al-bianchi,24,G,6-3,185,"MAR 26, 1932",31.0,6,Bowling Green,76160,,0
+1610612755,1962,00,Len Chappell,Len,len-chappell,23,F,6-8,240,"JAN 31, 1941",22.0,R,Wake Forest,76382,,0
+1610612755,1962,00,Larry Costello,Larry,larry-costello,21,G,6-1,186,"JUL 02, 1931",31.0,7,Niagara,76454,,0
+1610612755,1962,00,Dave Gambee,Dave,dave-gambee,20,F,6-6,215,"APR 16, 1937",26.0,4,Oregon State,76774,,0
+1610612755,1962,00,Hal Greer,Hal,hal-greer,15,G,6-2,175,"JUN 26, 1936",27.0,4,Marshall,76882,,0
+1610612755,1962,00,Johnny Kerr,Johnny,johnny-kerr,10,C,6-9,230,"AUG 17, 1932",30.0,8,Illinois,77248,,0
+1610612755,1962,00,Porter Meriwether,Porter,porter-meriwether,14,G,6-2,180,"MAR 16, 1940",23.0,R,Tennessee State,77583,,0
+1610612755,1962,00,Paul Neumann,Paul,paul-neumann,5,G,6-1,175,"JAN 30, 1938",25.0,1,Stanford,77706,,0
+1610612755,1962,00,Joe Roberts,Joe,joe-roberts,12,F,6-6,214,"MAY 18, 1936",27.0,2,Ohio State,77977,,0
+1610612755,1962,00,Dolph Schayes,Dolph,dolph-schayes,4,F,6-8,195,"MAY 19, 1928",35.0,13,New York University,78076,,0
+1610612755,1962,00,Lee Shaffer,Lee,lee-shaffer,22,F,6-7,220,"FEB 23, 1939",24.0,1,North Carolina,78121,,0
+1610612755,1962,00,Chet Walker,Chet,chet-walker,25,F,6-7,212,"FEB 22, 1940",23.0,R,Bradley,78435,,0
+1610612755,1962,00,Ben Warley,Ben,ben-warley,14,F,6-5,200,"SEP 04, 1936",26.0,R,Tennessee State,78458,,0

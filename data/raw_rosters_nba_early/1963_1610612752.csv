@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1963,00,Bob Boozer,Bob,bob-boozer,14,F,6-8,215,"APR 26, 1937",27.0,3,Kansas State,76206,,0
+1610612752,1963,00,Dave Budd,Dave,dave-budd,10,F,6-6,205,"OCT 28, 1938",25.0,3,Wake Forest,76297,,0
+1610612752,1963,00,Al Butler,Al,al-butler,3,G,6-2,175,"JUL 09, 1938",25.0,2,Niagara,76319,,0
+1610612752,1963,00,Len Chappell,Len,len-chappell,24,F,6-8,240,"JAN 31, 1941",23.0,1,Wake Forest,76382,,0
+1610612752,1963,00,Gene Conley,Gene,gene-conley,5,C,6-8,225,"NOV 10, 1930",33.0,5,Washington State,76428,,0
+1610612752,1963,00,Johnny Egan,Johnny,johnny-egan,15,G,6-0,180,"JAN 31, 1939",25.0,2,Providence,76647,,0
+1610612752,1963,00,Tom Gola,Tom,tom-gola,6,G,6-6,205,"JAN 13, 1933",31.0,7,La Salle,76828,,0
+1610612752,1963,00,Johnny Green,Johnny,johnny-green,11,F,6-5,200,"DEC 08, 1933",30.0,4,Michigan State,76867,,0
+1610612752,1963,00,Jerry Harkness,Jerry,jerry-harkness,21,G,6-2,175,"MAY 07, 1940",24.0,R,Loyola-Chicago,76950,,0
+1610612752,1963,00,Art Heyman,Art,art-heyman,4,G,6-5,205,"JUN 24, 1941",23.0,R,Duke,77015,,0
+1610612752,1963,00,Tom Hoover,Tom,tom-hoover,23,C,6-9,230,"JAN 23, 1941",23.0,R,Villanova,77051,,0
+1610612752,1963,00,Bill McGill,Bill,bill-mcgill,12,C,6-9,225,"SEP 16, 1939",24.0,1,Utah,77531,,0
+1610612752,1963,00,John Rudometkin,John,john-rudometkin,18,F,6-6,205,"JUN 06, 1940",24.0,1,Southern California,78037,,0

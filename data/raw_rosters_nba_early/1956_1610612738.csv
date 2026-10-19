@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1956,00,Bob Cousy,Bob,bob-cousy,14,G,6-1,175,"AUG 09, 1928",28.0,6,Holy Cross,600003,,0
+1610612738,1956,00,Tom Heinsohn,Tom,tom-heinsohn,15,F,6-7,218,"AUG 26, 1934",22.0,R,Holy Cross,76988,,0
+1610612738,1956,00,Dick Hemric,Dick,dick-hemric,20,F,6-6,220,"AUG 29, 1933",23.0,1,Wake Forest,76989,,0
+1610612738,1956,00,Jim Loscutoff,Jim,jim-loscutoff,18,F,6-5,220,"FEB 04, 1930",27.0,1,Oregon,77409,,0
+1610612738,1956,00,Jack Nichols,Jack,jack-nichols,16,C,6-7,222,"APR 09, 1926",31.0,7,Washington,77713,,0
+1610612738,1956,00,Andy Phillip,Andy,andy-phillip,17,G,6-3,195,"MAR 07, 1922",35.0,9,Illinois,77853,,0
+1610612738,1956,00,Frank Ramsey,Frank,frank-ramsey,23,F,6-3,190,"JUL 13, 1931",25.0,1,Kentucky,77907,,0
+1610612738,1956,00,Arnie Risen,Arnie,arnie-risen,19,C,6-9,200,"OCT 09, 1924",32.0,8,Ohio State,77967,,0
+1610612738,1956,00,Bill Russell,Bill,bill-russell,6,C,6-10,215,"FEB 12, 1934",23.0,R,San Francisco,78049,,0
+1610612738,1956,00,Bill Sharman,Bill,bill-sharman,21,G,6-1,175,"MAY 25, 1926",31.0,6,Southern California,78126,,0
+1610612738,1956,00,Lou Tsioropoulos,Lou,lou-tsioropoulos,29,F,6-5,190,"AUG 31, 1930",26.0,R,Kentucky,78371,,0

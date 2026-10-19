@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1976,00,Butch Beard,Butch,butch-beard,9,G,6-3,185,"MAY 04, 1947",30.0,6,Louisville,76130,,0
+1610612752,1976,00,Bill Bradley,Bill,bill-bradley,24,F,6-5,205,"JUL 28, 1943",33.0,9,Princeton,76233,,0
+1610612752,1976,00,Luther Burden,Luther,luther-burden,14,G,6-2,185,"FEB 28, 1953",24.0,R,Utah,76303,,0
+1610612752,1976,00,Walt Frazier,Walt,walt-frazier,10,G,6-4,200,"MAR 29, 1945",32.0,9,Southern Illinois,76750,,0
+1610612752,1976,00,Spencer Haywood,Spencer,spencer-haywood,42,F,6-8,225,"APR 22, 1949",28.0,6,Detroit,76981,,0
+1610612752,1976,00,Phil Jackson,Phil,phil-jackson,18,F,6-8,220,"SEP 17, 1945",31.0,8,North Dakota,77106,,0
+1610612752,1976,00,Dennis Layton,Dennis,dennis-layton,35,G,6-1,180,"DEC 24, 1948",28.0,3,Southern California,77350,,0
+1610612752,1976,00,Bob McAdoo,Bob,bob-mcadoo,11,C,6-9,210,"SEP 25, 1951",25.0,4,North Carolina,77498,,0
+1610612752,1976,00,Tom McMillen,Tom,tom-mcmillen,52,F,6-11,215,"MAY 26, 1952",25.0,1,Maryland,77553,,0
+1610612752,1976,00,Jim McMillian,Jim,jim-mcmillian,5,F,6-5,215,"MAR 11, 1948",29.0,6,Columbia,77554,,0
+1610612752,1976,00,Dean Meminger,Dean,dean-meminger,7,G,6-1,175,"MAY 13, 1948",29.0,5,Marquette,77578,,0
+1610612752,1976,00,Earl Monroe,Earl,earl-monroe,15,G,6-3,185,"NOV 21, 1944",32.0,9,Winston-Salem State,600006,,0
+1610612752,1976,00,Lonnie Shelton,Lonnie,lonnie-shelton,8,F,6-8,240,"OCT 19, 1955",21.0,R,Oregon State,78133,,0
+1610612752,1976,00,Neal Walk,Neal,neal-walk,41,C,6-10,220,"JUL 29, 1948",28.0,7,Florida,78432,,0

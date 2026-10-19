@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610610030,1950,00,Cliff Barker,Cliff,cliff-barker,,G,6-2,185,"JAN 15, 1921",30.0,1,Kentucky,76098,,0
+1610610030,1950,00,Leo Barnhorst,Leo,leo-barnhorst,,F,6-4,190,"MAY 11, 1924",27.0,1,Notre Dame,76110,,0
+1610610030,1950,00,Ralph Beard,Ralph,ralph-beard,,G,5-10,175,"DEC 02, 1927",23.0,1,Kentucky,76131,,0
+1610610030,1950,00,Leon Blevins,Leon,leon-blevins,,G,6-2,160,"JUN 25, 1926",25.0,R,Arizona,76186,,0
+1610610030,1950,00,Alex Groza,Alex,alex-groza,,C,6-7,218,"OCT 07, 1926",24.0,1,Kentucky,76897,,0
+1610610030,1950,00,Bruce Hale,Bruce,bruce-hale,,G,6-1,170,"AUG 30, 1918",32.0,2,Santa Clara,76920,,0
+1610610030,1950,00,Joe Holland,Joe,joe-holland,,F,6-4,185,"SEP 26, 1925",25.0,1,Kentucky,77041,,0
+1610610030,1950,00,Wallace Jones,Wallace,wallace-jones,,F,6-4,225,"JUL 14, 1926",24.0,1,Kentucky,77199,,0
+1610610030,1950,00,Bob Lavoy,Bob,bob-lavoy,,F,6-7,185,"JUN 29, 1926",25.0,R,Western Kentucky,77347,,0
+1610610030,1950,00,Don Lofgran,Don,don-lofgran,,F,6-5,200,"NOV 18, 1928",22.0,R,San Francisco,77402,,0
+1610610030,1950,00,John Mahnken,John,john-mahnken,,C,6-8,220,"JUN 16, 1922",29.0,4,Georgetown,77443,,0
+1610610030,1950,00,Mal McMullan,Mal,mal-mcmullan,,,,,"AUG 23, 1927",23.0,1,Xavier,77556,,0
+1610610030,1950,00,Chuck Mrazovich,Chuck,chuck-mrazovich,,F,6-5,185,"FEB 26, 1924",27.0,R,Eastern Kentucky,77657,,0
+1610610030,1950,00,Carl Shaeffer,Carl,carl-shaeffer,,G,6-3,185,"OCT 25, 1924",26.0,1,Alabama,78120,,0
+1610610030,1950,00,Paul Walther,Paul,paul-walther,,G,6-2,160,"MAR 23, 1927",24.0,1,Tennessee,78447,,0

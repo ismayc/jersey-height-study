@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1967,00,Dick Barnett,Dick,dick-barnett,12,G,6-4,190,"OCT 02, 1936",31.0,7,Tennessee State,76107,,0
+1610612752,1967,00,Walt Bellamy,Walt,walt-bellamy,8,C,6-10,225,"JUL 24, 1939",28.0,6,Indiana,76144,,0
+1610612752,1967,00,Nate Bowman,Nate,nate-bowman,17,C,6-10,230,"MAR 19, 1943",25.0,1,Wichita State,76219,,0
+1610612752,1967,00,Bill Bradley,Bill,bill-bradley,24,F,6-5,205,"JUL 28, 1943",24.0,R,Princeton,76233,,0
+1610612752,1967,00,Emmette Bryant,Emmette,emmette-bryant,7,G,6-1,175,"NOV 04, 1938",29.0,3,DePaul,76289,,0
+1610612752,1967,00,Jim Caldwell,Jim,jim-caldwell,23,C,6-10,240,"JAN 28, 1943",25.0,R,Georgia Tech,76328,,0
+1610612752,1967,00,Freddie Crawford,Freddie,freddie-crawford,4,G,6-4,189,"DEC 23, 1940",27.0,1,St. Bonaventure,76466,,0
+1610612752,1967,00,Walt Frazier,Walt,walt-frazier,10,G,6-4,200,"MAR 29, 1945",23.0,R,Southern Illinois,76750,,0
+1610612752,1967,00,Phil Jackson,Phil,phil-jackson,18,F,6-8,220,"SEP 17, 1945",22.0,R,North Dakota,77106,,0
+1610612752,1967,00,Neil Johnson,Neil,neil-johnson,11,F,6-7,220,"APR 17, 1943",25.0,1,Creighton,77161,,0
+1610612752,1967,00,Howard Komives,Howard,howard-komives,16,G,6-1,185,"MAY 09, 1941",27.0,3,Bowling Green,77297,,0
+1610612752,1967,00,Willis Reed,Willis,willis-reed,19,C,6-10,235,"JUN 25, 1942",26.0,3,Grambling,77929,,0
+1610612752,1967,00,Cazzie Russell,Cazzie,cazzie-russell,14,F,6-5,218,"JUN 07, 1944",24.0,1,Michigan,78045,,0
+1610612752,1967,00,Dick Van Arsdale,Dick,dick-van-arsdale,5,G,6-5,210,"FEB 22, 1943",25.0,2,Indiana,78398,,0

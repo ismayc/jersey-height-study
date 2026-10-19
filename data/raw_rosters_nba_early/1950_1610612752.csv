@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1950,00,Vince Boryla,Vince,vince-boryla,12,F,6-5,210,"MAR 11, 1927",24.0,1,Denver,76210,,0
+1610612752,1950,00,Nat Clifton,Nat,nat-clifton,19,C,6-6,220,"OCT 13, 1922",28.0,R,Xavier of Louisiana,76404,,0
+1610612752,1950,00,Ray Ellefson,Ray,ray-ellefson, ,C,6-8,230,"NOV 18, 1922",28.0,1,West Texas A&M,76655,,0
+1610612752,1950,00,Harry Gallatin,Harry,harry-gallatin,11,F,6-6,210,"APR 26, 1927",24.0,2,Truman State,76773,,0
+1610612752,1950,00,George Kaftan,George,george-kaftan,17,F,6-3,190,"FEB 22, 1928",23.0,2,Holy Cross,77218,,0
+1610612752,1950,00,Tony Lavelli,Tony,tony-lavelli,6-16,F,6-3,185,"JUL 11, 1926",24.0,1,Yale,77346,,0
+1610612752,1950,00,Ray Lumpp,Ray,ray-lumpp,7,G,6-1,178,"JUL 11, 1923",27.0,2,New York University,77425,,0
+1610612752,1950,00,Dick McGuire,Dick,dick-mcguire,15,G,6-0,180,"JAN 25, 1926",25.0,1,St. John's (NY),77537,,0
+1610612752,1950,00,Goebel Ritter,Goebel,goebel-ritter,10,G,6-2,185,"FEB 26, 1924",27.0,2,Eastern Kentucky,77968,,0
+1610612752,1950,00,Connie Simmons,Connie,connie-simmons,18,C,6-8,222,"MAR 15, 1925",26.0,4,Flushing HS (NY),78153,,0
+1610612752,1950,00,Ernie Vandeweghe,Ernie,ernie-vandeweghe,9,F,6-3,195,"SEP 12, 1928",22.0,1,Colgate,78405,,0
+1610612752,1950,00,Max Zaslofsky,Max,max-zaslofsky,5,G,6-2,170,"DEC 07, 1925",25.0,4,St. John's (NY),78638,,0

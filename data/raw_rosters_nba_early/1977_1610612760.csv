@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1977,00,Fred Brown,Fred,fred-brown,32,G,6-3,182,"AUG 07, 1948",29.0,6,Iowa,76272,,0
+1610612760,1977,00,Al Fleming,Al,al-fleming,30,F,6-7,215,"APR 05, 1954",24.0,R,Arizona,76722,,0
+1610612760,1977,00,Mike Green,Mike,mike-green,23,C,6-10,200,"AUG 06, 1951",26.0,1,Louisiana Tech,76873,,0
+1610612760,1977,00,Joey Hassett,Joey,joey-hassett,10,G,6-5,180,"SEP 11, 1955",22.0,R,Providence,76966,,0
+1610612760,1977,00,Dennis Johnson,Dennis,dennis-johnson,24,G,6-4,185,"SEP 18, 1954",23.0,1,Pepperdine,77141,,0
+1610612760,1977,00,Bruce Seals,Bruce,bruce-seals,45,F,6-8,210,"JUN 18, 1953",25.0,2,Xavier of Louisiana,78103,,0
+1610612760,1977,00,Jack Sikma,Jack,jack-sikma,43,C,6-11,230,"NOV 14, 1955",22.0,R,Illinois Wesleyan,78149,,0
+1610612760,1977,00,Paul Silas,Paul,paul-silas,35,F,6-7,220,"JUL 12, 1943",34.0,13,Creighton,78151,,0
+1610612760,1977,00,Dean Tolson,Dean,dean-tolson,20,F,6-8,190,"NOV 25, 1951",26.0,2,Arkansas,78349,,0
+1610612760,1977,00,Marvin Webster,Marvin,marvin-webster,40,C,7-1,225,"APR 13, 1952",26.0,1,Morgan State,78481,,0
+1610612760,1977,00,Gus Williams,Gus,gus-williams,1,G,6-2,175,"OCT 10, 1953",24.0,2,Southern California,78549,,0
+1610612760,1977,00,Willie Wise,Willie,willie-wise,42,F,6-6,210,"MAR 03, 1947",31.0,1,Drake,78602,,0

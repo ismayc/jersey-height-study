@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1962,00,Cleveland Buckner,Cleveland,cleveland-buckner,12,F,6-9,210,"AUG 17, 1938",24.0,1,Jackson State,76295,,0
+1610612752,1962,00,Dave Budd,Dave,dave-budd,10,F,6-6,205,"OCT 28, 1938",24.0,2,Wake Forest,76297,,0
+1610612752,1962,00,Donnie Butcher,Donnie,donnie-butcher,19,G,6-2,200,"FEB 08, 1936",27.0,1,Pikeville,76318,,0
+1610612752,1962,00,Al Butler,Al,al-butler,3,G,6-2,175,"JUL 09, 1938",24.0,1,Niagara,76319,,0
+1610612752,1962,00,Gene Conley,Gene,gene-conley,5,C,6-8,225,"NOV 10, 1930",32.0,4,Washington State,76428,,0
+1610612752,1962,00,Jack Foley,Jack,jack-foley,7,F,6-3,170,"APR 19, 1939",24.0,R,Holy Cross,76729,,0
+1610612752,1962,00,Tom Gola,Tom,tom-gola,6,G,6-6,205,"JAN 13, 1933",30.0,6,La Salle,76828,,0
+1610612752,1962,00,Johnny Green,Johnny,johnny-green,11,F,6-5,200,"DEC 08, 1933",29.0,3,Michigan State,76867,,0
+1610612752,1962,00,Richie Guerin,Richie,richie-guerin,9,G,6-4,195,"MAY 29, 1932",31.0,6,Iona,76902,,0
+1610612752,1962,00,Paul Hogue,Paul,paul-hogue,14,C,6-9,240,"APR 28, 1940",23.0,R,Cincinnati,77038,,0
+1610612752,1962,00,John Rudometkin,John,john-rudometkin,18,F,6-6,205,"JUN 06, 1940",23.0,R,Southern California,78037,,0
+1610612752,1962,00,Gene Shue,Gene,gene-shue,21,G,6-2,170,"DEC 18, 1931",31.0,8,Maryland,78142,,0
+1610612752,1962,00,Tom Stith,Tom,tom-stith,8,F,6-5,210,"JAN 21, 1939",24.0,R,St. Bonaventure,78260,,0

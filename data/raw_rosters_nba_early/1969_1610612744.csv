@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1969,00,Alvin Attles,Alvin,alvin-attles,16,G,6-1,175,"NOV 07, 1936",33.0,9,North Carolina A&T,76070,,0
+1610612744,1969,00,Joe Ellis,Joe,joe-ellis,31,F,6-6,175,"MAY 03, 1944",26.0,3,San Francisco,76661,,0
+1610612744,1969,00,Dave Gambee,Dave,dave-gambee,20,F,6-6,215,"APR 16, 1937",33.0,11,Oregon State,76774,,0
+1610612744,1969,00,Clyde Lee,Clyde,clyde-lee,43,F,6-10,205,"MAR 14, 1944",26.0,3,Vanderbilt,77357,,0
+1610612744,1969,00,Bobby Lewis,Bobby,bobby-lewis,15,G,6-3,175,"MAR 20, 1945",25.0,2,North Carolina,77385,,0
+1610612744,1969,00,Jerry Lucas,Jerry,jerry-lucas,32-47,F,6-8,230,"MAR 30, 1940",30.0,6,Ohio State,77418,,0
+1610612744,1969,00,Jeff Mullins,Jeff,jeff-mullins,23,G,6-4,190,"MAR 18, 1942",28.0,5,Duke,77662,,0
+1610612744,1969,00,Bob Portman,Bob,bob-portman,33,F,6-5,200,"MAR 22, 1947",23.0,R,Creighton,77878,,0
+1610612744,1969,00,Dale Schlueter,Dale,dale-schlueter,54,C,6-10,225,"NOV 12, 1945",24.0,1,Colorado State,78084,,0
+1610612744,1969,00,Adrian Smith,Adrian,adrian-smith,10,G,6-1,180,"OCT 05, 1936",33.0,8,Kentucky,78178,,0
+1610612744,1969,00,Nate Thurmond,Nate,nate-thurmond,42,C,6-11,225,"JUL 25, 1941",28.0,6,Bowling Green,600001,,0
+1610612744,1969,00,Ron Williams,Ron,ron-williams,12,G,6-3,188,"SEP 24, 1944",25.0,1,West Virginia,78567,,0

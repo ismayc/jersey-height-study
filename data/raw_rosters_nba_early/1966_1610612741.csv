@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1966,00,Bob Boozer,Bob,bob-boozer,19,F,6-8,215,"APR 26, 1937",30.0,6,Kansas State,76206,,0
+1610612741,1966,00,Nate Bowman,Nate,nate-bowman,12,C,6-10,230,"MAR 19, 1943",24.0,R,Wichita State,76219,,0
+1610612741,1966,00,Len Chappell,Len,len-chappell,17,F,6-8,240,"JAN 31, 1941",26.0,4,Wake Forest,76382,,0
+1610612741,1966,00,John Clemens,John,john-clemens,16,F,6-6,210,"MAY 01, 1943",24.0,1,Ohio Wesleyan,76403,,0
+1610612741,1966,00,Keith Erickson,Keith,keith-erickson,15,F,6-5,195,"APR 19, 1944",23.0,1,UCLA,76680,,0
+1610612741,1966,00,Don Kojis,Don,don-kojis,9,F,6-3,202,"JUL 15, 1939",27.0,3,Marquette,77295,,0
+1610612741,1966,00,Mccoy McLemore,Mccoy,mccoy-mclemore,18,F,6-7,230,"APR 03, 1942",25.0,2,Drake,77548,,0
+1610612741,1966,00,Erwin Mueller,Erwin,erwin-mueller,14,F,6-8,230,"MAR 12, 1944",23.0,R,San Francisco,77658,,0
+1610612741,1966,00,Guy Rodgers,Guy,guy-rodgers,5,G,6-0,185,"SEP 01, 1935",31.0,8,Temple,78003,,0
+1610612741,1966,00,Dave Schellhase,Dave,dave-schellhase,8,G,6-3,205,"OCT 14, 1944",22.0,R,Purdue,78081,,0
+1610612741,1966,00,Jerry Sloan,Jerry,jerry-sloan,4,G,6-5,195,"MAR 28, 1942",25.0,1,Evansville,78173,,0
+1610612741,1966,00,Gerry Ward,Gerry,gerry-ward,6,G,6-4,195,"SEP 06, 1941",25.0,3,Boston College,78455,,0
+1610612741,1966,00,Jim Washington,Jim,jim-washington,7,F,6-7,210,"JUL 01, 1943",23.0,1,Villanova,78466,,0

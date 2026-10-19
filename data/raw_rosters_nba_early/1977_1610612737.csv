@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1977,00,John Brown,John,john-brown,50,F,6-7,220,"DEC 14, 1951",26.0,4,Missouri,76276,,0
+1610612737,1977,00,Ken Charles,Ken,ken-charles,44,G,6-3,180,"JUL 10, 1951",26.0,4,Fordham,76383,,0
+1610612737,1977,00,Charlie Criss,Charlie,charlie-criss,14,G,5-8,165,"NOV 06, 1948",29.0,R,New Mexico State,76471,,0
+1610612737,1977,00,John Drew,John,john-drew,22,F,6-6,205,"SEP 30, 1954",23.0,3,Gardner-Webb,76598,,0
+1610612737,1977,00,Steve Hawes,Steve,steve-hawes,10,C,6-9,220,"MAY 26, 1950",28.0,3,Washington,76971,,0
+1610612737,1977,00,Armond Hill,Armond,armond-hill,24,G,6-4,190,"MAR 31, 1953",25.0,1,Princeton,77024,,0
+1610612737,1977,00,Eddie Johnson,Eddie,eddie-johnson,3,G,6-2,180,"FEB 24, 1955",23.0,R,Auburn,77144,,0
+1610612737,1977,00,Ollie Johnson,Ollie,ollie-johnson,27,F,6-6,200,"MAY 11, 1949",29.0,5,Temple,77162,,0
+1610612737,1977,00,Tom McMillen,Tom,tom-mcmillen,54,F,6-11,215,"MAY 26, 1952",26.0,2,Maryland,77553,,0
+1610612737,1977,00,Tony Robertson,Tony,tony-robertson,4,G,6-4,195,"JAN 01, 1956",22.0,R,West Virginia,77983,,0
+1610612737,1977,00,Tree Rollins,Tree,tree-rollins,30,C,7-1,235,"JUN 16, 1955",23.0,R,Clemson,78014,,0
+1610612737,1977,00,Claude Terry,Claude,claude-terry,12,G,6-5,195,"JAN 12, 1950",28.0,1,Stanford,78308,,0

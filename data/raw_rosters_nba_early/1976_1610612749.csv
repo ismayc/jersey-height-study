@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1976,00,Junior Bridgeman,Junior,junior-bridgeman,2,F,6-5,210,"SEP 17, 1953",23.0,1,Louisville,76252,,0
+1610612749,1976,00,Gary Brokaw,Gary,gary-brokaw,25,G,6-4,178,"JAN 11, 1954",23.0,2,Notre Dame,76263,,0
+1610612749,1976,00,Quinn Buckner,Quinn,quinn-buckner,21,G,6-3,190,"AUG 20, 1954",22.0,R,Indiana,76296,,0
+1610612749,1976,00,Fred Carter,Fred,fred-carter,3-5,G,6-3,185,"FEB 14, 1945",32.0,7,Mount St. Mary's,76356,,0
+1610612749,1976,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",29.0,7,Norfolk State,76500,,0
+1610612749,1976,00,Edward Davis,Edward,edward-davis,20,F,6-7,195,"JUN 16, 1950",27.0,4,Duquesne,76522,,0
+1610612749,1976,00,Alex English,Alex,alex-english,23,F,6-8,190,"JAN 05, 1954",23.0,R,South Carolina,76673,,0
+1610612749,1976,00,Rowland Garrett,Rowland,rowland-garrett,24,F,6-6,210,"JUL 16, 1950",26.0,4,Florida State,76789,,0
+1610612749,1976,00,Scott Lloyd,Scott,scott-lloyd,45,C,6-10,230,"DEC 19, 1952",24.0,R,Arizona State,77396,,0
+1610612749,1976,00,Glenn McDonald,Glenn,glenn-mcdonald,13,F,6-6,190,"MAR 18, 1952",25.0,2,Long Beach State,77525,,0
+1610612749,1976,00,Dave Meyers,Dave,dave-meyers,22,F,6-9,215,"APR 21, 1953",24.0,1,UCLA,77586,,0
+1610612749,1976,00,Swen Nater,Swen,swen-nater,31-35,C,6-11,240,"JAN 14, 1950",27.0,R,UCLA,77689,,0
+1610612749,1976,00,Kevin Restani,Kevin,kevin-restani,18,F,6-9,225,"DEC 23, 1951",25.0,2,San Francisco,77944,,0
+1610612749,1976,00,Elmore Smith,Elmore,elmore-smith,3,C,7-1,250,"MAY 09, 1949",28.0,5,Kentucky State,78188,,0
+1610612749,1976,00,Lloyd Walton,Lloyd,lloyd-walton,11,G,6-0,160,"NOV 23, 1953",23.0,R,Marquette,78449,,0
+1610612749,1976,00,Brian Winters,Brian,brian-winters,32,G,6-4,185,"MAR 01, 1952",25.0,2,South Carolina,78600,,0

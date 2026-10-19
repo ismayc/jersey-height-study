@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1947,00,Chuck Connors,Chuck,chuck-connors,11,F,6-5,190,"APR 10, 1921",27.0,1,Seton Hall,76432,,0
+1610612738,1947,00,Eddie Ehlers,Eddie,eddie-ehlers,14,G,6-3,198,"MAR 10, 1923",25.0,R,Purdue,76649,,0
+1610612738,1947,00,Jack Garfinkel,Jack,jack-garfinkel,15-21,G,6-0,190,"JUN 13, 1918",30.0,1,St. John's (NY),76780,,0
+1610612738,1947,00,Cecil Hankins,Cecil,cecil-hankins,5,G,6-1,175,"JAN 06, 1922",26.0,1,Oklahoma State,76935,,0
+1610612738,1947,00,Jack Hewson,Jack,jack-hewson,17,F,6-6,195,"SEP 07, 1924",23.0,R,Temple,77014,,0
+1610612738,1947,00,Adolph Hoefer,Adolph,adolph-hoefer,3,G,5-9,158,"JUL 12, 1917",30.0,1,Queens,77035,,0
+1610612738,1947,00,Saul Mariaschin,Saul,saul-mariaschin,4,G,5-11,165,"SEP 01, 1924",23.0,R,Harvard,77462,,0
+1610612738,1947,00,George Munroe,George,george-munroe,6,G,5-11,170,"JAN 05, 1922",26.0,1,Dartmouth,77665,,0
+1610612738,1947,00,Stan Noszka,Stan,stan-noszka,10-11,G,6-1,185,"SEP 19, 1920",27.0,1,Duquesne,77735,,0
+1610612738,1947,00,Mel Riebe,Mel,mel-riebe,7-9,G,5-11,180,"JUL 12, 1916",31.0,1,Wooster,77958,,0
+1610612738,1947,00,Ed Sadowski,Ed,ed-sadowski,22,C,6-5,240,"JUL 11, 1917",30.0,1,Seton Hall,78050,,0
+1610612738,1947,00,Connie Simmons,Connie,connie-simmons,10,C,6-8,222,"MAR 15, 1925",23.0,1,Flushing HS (NY),78153,,0
+1610612738,1947,00,Art Spector,Art,art-spector,12,F,6-4,200,"OCT 17, 1920",27.0,1,Villanova,78226,,0
+1610612738,1947,00,Gene Stump,Gene,gene-stump,13,F,6-2,185,"NOV 13, 1923",24.0,R,DePaul,78275,,0

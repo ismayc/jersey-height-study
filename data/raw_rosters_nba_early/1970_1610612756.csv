@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,1970,00,Mel Counts,Mel,mel-counts,31,C,7-0,230,"OCT 16, 1941",29.0,6,Oregon State,76458,,0
+1610612756,1970,00,Lamar Green,Lamar,lamar-green,16,F,6-7,210,"MAR 22, 1947",24.0,1,Morehead State,600011,,0
+1610612756,1970,00,Art Harris,Art,art-harris,23,G,6-4,185,"JAN 13, 1947",24.0,2,Stanford,76956,,0
+1610612756,1970,00,Clem Haskins,Clem,clem-haskins,11,G,6-3,195,"JUL 11, 1943",27.0,3,Western Kentucky,76965,,0
+1610612756,1970,00,Connie Hawkins,Connie,connie-hawkins,42,F,6-8,210,"JUL 17, 1942",28.0,1,Iowa,76972,,0
+1610612756,1970,00,Greg Howard,Greg,greg-howard,44,F,6-9,215,"JAN 08, 1948",23.0,R,New Mexico,77066,,0
+1610612756,1970,00,Paul Silas,Paul,paul-silas,29,F,6-7,220,"JUL 12, 1943",27.0,6,Creighton,78151,,0
+1610612756,1970,00,Fred Taylor,Fred,fred-taylor,10,G,6-5,180,"FEB 05, 1948",23.0,R,Texas-Pan American,78298,,0
+1610612756,1970,00,Joe Thomas,Joe,joe-thomas,40,F,6-6,205,"JUN 27, 1948",23.0,R,Marquette,78321,,0
+1610612756,1970,00,Dick Van Arsdale,Dick,dick-van-arsdale,5,G,6-5,210,"FEB 22, 1943",28.0,5,Indiana,78398,,0
+1610612756,1970,00,Neal Walk,Neal,neal-walk,41,C,6-10,220,"JUL 29, 1948",22.0,1,Florida,78432,,0
+1610612756,1970,00,John Wetzel,John,john-wetzel,25,G,6-5,190,"OCT 22, 1944",26.0,1,Virginia Tech,78501,,0

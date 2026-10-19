@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1971,00,Nate Archibald,Nate,nate-archibald,10,G,6-1,150,"SEP 02, 1948",23.0,1,Texas-El Paso,76054,,0
+1610612758,1971,00,Sid Catlett,Sid,sid-catlett,43,F,6-6,230,"APR 18, 1948",24.0,R,Notre Dame,76367,,0
+1610612758,1971,00,Ken Durrett,Ken,ken-durrett,33,F,6-7,190,"DEC 08, 1948",23.0,R,La Salle,76622,,0
+1610612758,1971,00,Jim Fox,Jim,jim-fox,41,C,6-10,230,"APR 07, 1943",29.0,4,South Carolina,76747,,0
+1610612758,1971,00,Johnny Green,Johnny,johnny-green,20,F,6-5,200,"DEC 08, 1933",38.0,12,Michigan State,76867,,0
+1610612758,1971,00,Matt Guokas,Matt,matt-guokas,24,G,6-6,175,"FEB 25, 1944",28.0,5,St. Joseph's (PA),76908,,0
+1610612758,1971,00,Jake Jones,Jake,jake-jones,12,G,6-3,180,"MAY 09, 1949",23.0,R,Assumption,77185,,0
+1610612758,1971,00,Sam Lacey,Sam,sam-lacey,44,C,6-10,235,"MAR 28, 1948",24.0,1,New Mexico State,77326,,0
+1610612758,1971,00,Gil McGregor,Gil,gil-mcgregor,25,F,6-8,240,"JUN 14, 1949",23.0,R,Wake Forest,77534,,0
+1610612758,1971,00,John Mengelt,John,john-mengelt,15,G,6-2,195,"OCT 16, 1949",22.0,R,Auburn,77580,,0
+1610612758,1971,00,Fred Taylor,Fred,fred-taylor,23,G,6-5,180,"FEB 05, 1948",24.0,1,Texas-Pan American,78298,,0
+1610612758,1971,00,Tom Van Arsdale,Tom,tom-van-arsdale,5,F,6-5,202,"FEB 22, 1943",29.0,6,Indiana,78399,,0
+1610612758,1971,00,Norm Van Lier,Norm,norm-van-lier,23,G,6-1,173,"APR 01, 1947",25.0,2,St. Francis (PA),78406,,0
+1610612758,1971,00,Nate Williams,Nate,nate-williams,22,G,6-4,215,"MAY 02, 1950",22.0,R,Utah State,78561,,0

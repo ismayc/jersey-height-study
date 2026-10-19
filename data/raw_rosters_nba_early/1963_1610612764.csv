@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1963,00,Walt Bellamy,Walt,walt-bellamy,8,C,6-10,225,"JUL 24, 1939",24.0,2,Indiana,76144,,0
+1610612764,1963,00,Barney Cable,Barney,barney-cable,35,F,6-7,175,"JUL 29, 1935",28.0,5,Bradley,76324,,0
+1610612764,1963,00,Larry Comley,Larry,larry-comley,52,G,6-5,210,"AUG 17, 1939",24.0,R,Kansas State,76427,,0
+1610612764,1963,00,Terry Dischinger,Terry,terry-dischinger,43,F,6-7,189,"NOV 21, 1940",23.0,1,Purdue,76577,,0
+1610612764,1963,00,Si Green,Si,si-green,21,G,6-2,185,"AUG 20, 1933",30.0,6,Duquesne,76877,,0
+1610612764,1963,00,Charlie Hardnett,Charlie,charlie-hardnett,23,F,6-8,225,"SEP 13, 1938",25.0,1,Grambling,76946,,0
+1610612764,1963,00,Paul Hogue,Paul,paul-hogue,14,C,6-9,240,"APR 28, 1940",24.0,1,Cincinnati,77038,,0
+1610612764,1963,00,Gus Johnson,Gus,gus-johnson,25,F,6-6,230,"DEC 13, 1935",28.0,R,Idaho,77150,,0
+1610612764,1963,00,Don Kojis,Don,don-kojis,22,F,6-3,202,"JUL 15, 1939",24.0,R,Marquette,77295,,0
+1610612764,1963,00,Kevin Loughery,Kevin,kevin-loughery,52,G,6-3,190,"MAR 28, 1940",24.0,1,St. John's (NY),77411,,0
+1610612764,1963,00,Mel Peterson,Mel,mel-peterson,16,G,6-4,185,"MAR 23, 1938",26.0,R,Wheaton,77842,,0
+1610612764,1963,00,Gene Shue,Gene,gene-shue,12,G,6-2,170,"DEC 18, 1931",32.0,9,Maryland,78142,,0
+1610612764,1963,00,Roger Strickland,Roger,roger-strickland,16,F,6-5,200,"SEP 04, 1940",23.0,R,Jacksonville,78270,,0
+1610612764,1963,00,Rod Thorn,Rod,rod-thorn,44,G,6-4,195,"MAY 23, 1941",23.0,R,West Virginia,78335,,0

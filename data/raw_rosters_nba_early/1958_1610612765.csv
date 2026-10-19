@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1958,00,Barney Cable,Barney,barney-cable,10,F,6-7,175,"JUL 29, 1935",23.0,R,Bradley,76324,,0
+1610612765,1958,00,Walter Dukes,Walter,walter-dukes,23,C,7-0,220,"JUN 23, 1930",29.0,3,Seton Hall,76611,,0
+1610612765,1958,00,Dick Farley,Dick,dick-farley,22,G,6-4,190,"APR 13, 1932",27.0,2,Indiana,76693,,0
+1610612765,1958,00,Joe Holup,Joe,joe-holup,9,F,6-6,215,"FEB 26, 1934",25.0,2,George Washington,77049,,0
+1610612765,1958,00,Phil Jordon,Phil,phil-jordon,16,C,6-10,205,"SEP 12, 1933",25.0,2,Whitworth,77210,,0
+1610612765,1958,00,Earl Lloyd,Earl,earl-lloyd,17,F,6-6,200,"APR 03, 1928",31.0,7,West Virginia State,77394,,0
+1610612765,1958,00,Dick McGuire,Dick,dick-mcguire,15,G,6-0,180,"JAN 25, 1926",33.0,9,St. John's (NY),77537,,0
+1610612765,1958,00,Shellie McMillon,Shellie,shellie-mcmillon,6,F,6-5,205,"MAR 11, 1936",23.0,R,Bradley,77555,,0
+1610612765,1958,00,Chuck Noble,Chuck,chuck-noble,14,G,6-4,190,"JUL 24, 1931",27.0,3,Louisville,77722,,0
+1610612765,1958,00,Gene Shue,Gene,gene-shue,21,G,6-2,170,"DEC 18, 1931",27.0,4,Maryland,78142,,0
+1610612765,1958,00,George Yardley,George,george-yardley,12,F,6-5,190,"NOV 03, 1928",30.0,5,Stanford,78628,,0

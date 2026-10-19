@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1957,00,Carl Braun,Carl,carl-braun,4,G,6-5,180,"SEP 25, 1927",30.0,8,Colgate,76243,,0
+1610612752,1957,00,Ray Felix,Ray,ray-felix,19,C,6-11,220,"DEC 10, 1930",27.0,4,Long Island-Brooklyn,76704,,0
+1610612752,1957,00,Larry Friend,Larry,larry-friend,7,G,6-4,185,"APR 14, 1935",23.0,R,California,76758,,0
+1610612752,1957,00,Richie Guerin,Richie,richie-guerin,9,G,6-4,195,"MAY 29, 1932",26.0,1,Iona,76902,,0
+1610612752,1957,00,Mel Hutchins,Mel,mel-hutchins,10,F,6-6,200,"NOV 22, 1928",29.0,6,Brigham Young,77089,,0
+1610612752,1957,00,Brendan McCann,Brendan,brendan-mccann,3,G,6-2,178,"JUL 05, 1935",22.0,R,St. Bonaventure,77500,,0
+1610612752,1957,00,Willie Naulls,Willie,willie-naulls,6,F,6-6,225,"OCT 07, 1934",23.0,1,UCLA,77693,,0
+1610612752,1957,00,Ken Sears,Ken,ken-sears,12,F,6-9,198,"AUG 17, 1933",24.0,2,Santa Clara,78106,,0
+1610612752,1957,00,Ron Shavlik,Ron,ron-shavlik,16,F,6-8,200,"DEC 04, 1933",24.0,1,North Carolina State,78128,,0
+1610612752,1957,00,Ron Sobie,Ron,ron-sobie,17,G,6-3,185,"SEP 21, 1934",23.0,1,DePaul,78216,,0
+1610612752,1957,00,Guy Sparrow,Guy,guy-sparrow,5,F,6-6,218,"NOV 02, 1932",25.0,R,Detroit,78223,,0
+1610612752,1957,00,Charlie Tyra,Charlie,charlie-tyra,14,C,6-8,230,"AUG 16, 1935",22.0,R,Louisville,78391,,0

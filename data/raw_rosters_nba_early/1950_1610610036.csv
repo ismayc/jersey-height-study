@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610610036,1950,00,Ed Bartels,Ed,ed-bartels,,F,6-6,195,"OCT 08, 1925",25.0,1,North Carolina State,76117,,0
+1610610036,1950,00,Don Carlson,Don,don-carlson,,G,6-0,170,"MAR 22, 1921",30.0,3,Minnesota,76344,,0
+1610610036,1950,00,Chuck Gilmur,Chuck,chuck-gilmur,,F,6-4,225,"AUG 13, 1922",28.0,4,Washington,76818,,0
+1610610036,1950,00,Earl Lloyd,Earl,earl-lloyd,,F,6-6,200,"APR 03, 1928",23.0,R,West Virginia State,77394,,0
+1610610036,1950,00,Ariel Maughan,Ariel,ariel-maughan,,F,6-4,190,"FEB 23, 1923",28.0,4,Utah State,77485,,0
+1610610036,1950,00,Johnny Norlander,Johnny,johnny-norlander,,F,6-3,180,"MAR 05, 1921",30.0,4,Hamline,77728,,0
+1610610036,1950,00,Dick O'Keefe,Dick,dick-okeefe,,G,6-2,185,"SEP 29, 1923",27.0,3,Santa Clara,77752,,0
+1610610036,1950,00,Alan Sawyer,Alan,alan-sawyer,,F,6-5,195,"JAN 01, 1928",23.0,R,UCLA,78067,,0
+1610610036,1950,00,Dick Schnittker,Dick,dick-schnittker,,F,6-5,200,"MAY 27, 1928",23.0,R,Ohio State,78086,,0
+1610610036,1950,00,Bill Sharman,Bill,bill-sharman,,G,6-1,175,"MAY 25, 1926",25.0,R,Southern California,78126,,0

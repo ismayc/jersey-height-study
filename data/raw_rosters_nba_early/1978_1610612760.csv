@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1978,00,Dennis Awtrey,Dennis,dennis-awtrey,21,C,6-10,235,"FEB 22, 1948",31.0,8,Santa Clara,76078,,0
+1610612760,1978,00,Fred Brown,Fred,fred-brown,32,G,6-3,182,"AUG 07, 1948",30.0,7,Iowa,76272,,0
+1610612760,1978,00,Lars Hansen,Lars,lars-hansen,22,C,6-10,225,"SEP 14, 1954",24.0,R,Washington,76941,,0
+1610612760,1978,00,Joey Hassett,Joey,joey-hassett,10,G,6-5,180,"SEP 11, 1955",23.0,1,Providence,76966,,0
+1610612760,1978,00,Dennis Johnson,Dennis,dennis-johnson,24,G,6-4,185,"SEP 18, 1954",24.0,2,Pepperdine,77141,,0
+1610612760,1978,00,John Johnson,John,john-johnson,27,F,6-7,200,"OCT 18, 1947",31.0,8,Iowa,77152,,0
+1610612760,1978,00,Tom LaGarde,Tom,tom-lagarde,23,C,6-10,220,"FEB 10, 1955",24.0,1,North Carolina,77328,,0
+1610612760,1978,00,Jackie Robinson,Jackie,jackie-robinson,22,F,6-6,210,"MAY 20, 1955",24.0,R,UNLV,77989,,0
+1610612760,1978,00,Lonnie Shelton,Lonnie,lonnie-shelton,8,F,6-8,240,"OCT 19, 1955",23.0,2,Oregon State,78133,,0
+1610612760,1978,00,Jack Sikma,Jack,jack-sikma,43,C,6-11,230,"NOV 14, 1955",23.0,1,Illinois Wesleyan,78149,,0
+1610612760,1978,00,Paul Silas,Paul,paul-silas,35,F,6-7,220,"JUL 12, 1943",35.0,14,Creighton,78151,,0
+1610612760,1978,00,Dick Snyder,Dick,dick-snyder,11,G,6-5,207,"FEB 01, 1944",35.0,12,Davidson,78213,,0
+1610612760,1978,00,Wally Walker,Wally,wally-walker,42,F,6-8,190,"JUL 18, 1954",24.0,2,Virginia,78442,,0
+1610612760,1978,00,Gus Williams,Gus,gus-williams,1,G,6-2,175,"OCT 10, 1953",25.0,3,Southern California,78549,,0

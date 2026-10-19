@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1969,00,Zaid Abdul-Aziz,Zaid,zaid-abdul-aziz,35,F,6-9,235,"APR 07, 1946",24.0,1,Iowa State,76002,,0
+1610612749,1969,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",23.0,R,UCLA,76003,,0
+1610612749,1969,00,John Arthurs,John,john-arthurs,12,G,6-4,185,"AUG 15, 1947",22.0,R,Tulane,76065,,0
+1610612749,1969,00,Len Chappell,Len,len-chappell,50,F,6-8,240,"JAN 31, 1941",29.0,7,Wake Forest,76382,,0
+1610612749,1969,00,Freddie Crawford,Freddie,freddie-crawford,16,G,6-4,189,"DEC 23, 1940",29.0,3,St. Bonaventure,76466,,0
+1610612749,1969,00,Dick Cunningham,Dick,dick-cunningham,19,C,6-10,245,"JUL 11, 1946",23.0,1,Murray State,76485,,0
+1610612749,1969,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",22.0,R,Norfolk State,76500,,0
+1610612749,1969,00,Bob Greacen,Bob,bob-greacen,18,F,6-7,206,"SEP 15, 1947",22.0,R,Rutgers,76865,,0
+1610612749,1969,00,Jon McGlocklin,Jon,jon-mcglocklin,14,G,6-5,205,"JUN 10, 1943",27.0,4,Indiana,77533,,0
+1610612749,1969,00,Flynn Robinson,Flynn,flynn-robinson,21,G,6-1,185,"APR 28, 1941",29.0,3,Wyoming,77988,,0
+1610612749,1969,00,Guy Rodgers,Guy,guy-rodgers,5,G,6-0,185,"SEP 01, 1935",34.0,11,Temple,78003,,0
+1610612749,1969,00,Greg Smith,Greg,greg-smith,4,F,6-5,195,"JAN 28, 1947",23.0,1,Western Kentucky,78190,,0
+1610612749,1969,00,Sam Williams,Sam,sam-williams,3,G,6-3,180,"JAN 22, 1945",25.0,1,Iowa,78568,,0

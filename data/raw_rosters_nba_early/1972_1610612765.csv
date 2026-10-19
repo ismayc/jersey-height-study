@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1972,00,Don Adams,Don,don-adams,10,F,6-7,210,"NOV 27, 1947",25.0,2,Northwestern,76012,,0
+1610612765,1972,00,Dave Bing,Dave,dave-bing,21,G,6-3,180,"NOV 24, 1943",29.0,6,Syracuse,76166,,0
+1610612765,1972,00,Jim Davis,Jim,jim-davis,20,C,6-9,225,"DEC 18, 1941",31.0,5,Colorado,76525,,0
+1610612765,1972,00,Chris Ford,Chris,chris-ford,42,G,6-5,190,"JAN 11, 1949",24.0,R,Villanova,76733,,0
+1610612765,1972,00,Fred Foster,Fred,fred-foster,25,F,6-5,210,"MAR 18, 1946",27.0,4,Miami (Ohio),76740,,0
+1610612765,1972,00,Bob Lanier,Bob,bob-lanier,16,C,6-11,250,"SEP 10, 1948",24.0,2,St. Bonaventure,600005,,0
+1610612765,1972,00,Stu Lantz,Stu,stu-lantz,22,G,6-3,175,"JUL 13, 1946",26.0,4,Nebraska,77338,,0
+1610612765,1972,00,Harvey Marlatt,Harvey,harvey-marlatt,26,G,6-3,185,"AUG 26, 1948",24.0,2,Eastern Michigan,77464,,0
+1610612765,1972,00,John Mengelt,John,john-mengelt,15,G,6-2,195,"OCT 16, 1949",23.0,1,Auburn,77580,,0
+1610612765,1972,00,Erwin Mueller,Erwin,erwin-mueller,51,F,6-8,230,"MAR 12, 1944",29.0,6,San Francisco,77658,,0
+1610612765,1972,00,Bob Nash,Bob,bob-nash,33,F,6-8,195,"AUG 24, 1950",22.0,R,Hawaii,77688,,0
+1610612765,1972,00,Willie Norwood,Willie,willie-norwood,8,F,6-7,220,"AUG 08, 1947",25.0,1,Alcorn State,77733,,0
+1610612765,1972,00,Curtis Rowe,Curtis,curtis-rowe,18,F,6-7,225,"JUL 02, 1949",23.0,1,UCLA,78028,,0
+1610612765,1972,00,Justus Thigpen,Justus,justus-thigpen,31,G,6-1,160,"AUG 13, 1947",25.0,R,Weber State,78313,,0

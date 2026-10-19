@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612745,1976,00,Phil Hicks,Phil,phil-hicks,33,F,6-7,205,"JAN 31, 1953",24.0,R,Tulane,77017,,0
+1610612745,1976,00,John Johnson,John,john-johnson,27,F,6-7,200,"OCT 18, 1947",29.0,6,Iowa,77152,,0
+1610612745,1976,00,Dwight Jones,Dwight,dwight-jones,13,F,6-10,210,"FEB 27, 1952",25.0,3,Houston,77182,,0
+1610612745,1976,00,Eugene Kennedy,Eugene,eugene-kennedy,,F,6-5,205,"AUG 23, 1949",27.0,R,TCU,77243,,0
+1610612745,1976,00,Kevin Kunnert,Kevin,kevin-kunnert,44,C,7-0,230,"NOV 11, 1951",25.0,3,Iowa,77323,,0
+1610612745,1976,00,John Lucas,John,john-lucas,15,G,6-3,175,"OCT 31, 1953",23.0,R,Maryland,77419,,0
+1610612745,1976,00,Moses Malone,Moses,moses-malone,21,C,6-10,215,"MAR 23, 1955",22.0,R,Petersburg HS (VA),77449,,0
+1610612745,1976,00,Calvin Murphy,Calvin,calvin-murphy,23,G,5-9,165,"MAY 09, 1948",29.0,6,Niagara,77669,,0
+1610612745,1976,00,Mike Newlin,Mike,mike-newlin,14,G,6-4,200,"JAN 02, 1949",28.0,5,Utah,77710,,0
+1610612745,1976,00,Tom Owens,Tom,tom-owens,25,C,6-10,215,"JUN 28, 1949",28.0,R,South Carolina,77786,,0
+1610612745,1976,00,Ed Ratleff,Ed,ed-ratleff,42,G,6-6,195,"MAR 29, 1950",27.0,3,Long Beach State,77914,,0
+1610612745,1976,00,Rudy Tomjanovich,Rudy,rudy-tomjanovich,45,F,6-8,218,"NOV 24, 1948",28.0,6,Michigan,78350,,0
+1610612745,1976,00,Rudy White,Rudy,rudy-white,32,G,6-2,195,"JUN 23, 1953",24.0,1,Arizona State,78513,,0

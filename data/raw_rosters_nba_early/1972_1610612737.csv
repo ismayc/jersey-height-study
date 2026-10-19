@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1972,00,Walt Bellamy,Walt,walt-bellamy,8,C,6-10,225,"JUL 24, 1939",33.0,11,Indiana,76144,,0
+1610612737,1972,00,Steve Bracey,Steve,steve-bracey,20,G,6-1,175,"AUG 01, 1950",22.0,R,Tulsa,76226,,0
+1610612737,1972,00,Bob Christian,Bob,bob-christian,31,C,6-10,255,"MAY 11, 1944",29.0,2,Grambling,76395,,0
+1610612737,1972,00,Herm Gilliam,Herm,herm-gilliam,3,G,6-3,190,"MAY 05, 1946",27.0,3,Purdue,76815,,0
+1610612737,1972,00,Lou Hudson,Lou,lou-hudson,23,F,6-5,210,"JUL 11, 1944",28.0,6,Minnesota,77074,,0
+1610612737,1972,00,Pete Maravich,Pete,pete-maravich,44,G,6-5,197,"JUN 22, 1947",26.0,2,Louisiana State,77459,,0
+1610612737,1972,00,Eddie Mast,Eddie,eddie-mast,25,F,6-9,220,"OCT 03, 1948",24.0,2,Temple,77483,,0
+1610612737,1972,00,George Trapp,George,george-trapp,30,F,6-8,205,"JUL 11, 1948",24.0,1,Long Beach State,78366,,0
+1610612737,1972,00,John Tschogl,John,john-tschogl,22,F,6-6,206,"APR 25, 1950",23.0,R,California-Santa Barbara,78370,,0
+1610612737,1972,00,Jim Washington,Jim,jim-washington,12,F,6-7,210,"JUL 01, 1943",29.0,7,Villanova,78466,,0
+1610612737,1972,00,John Wetzel,John,john-wetzel,33,G,6-5,190,"OCT 22, 1944",28.0,3,Virginia Tech,78501,,0

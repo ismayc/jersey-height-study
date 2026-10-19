@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1970,00,Johnny Baum,Johnny,johnny-baum,14,F,6-5,200,"JUN 17, 1946",25.0,1,Temple,76125,,0
+1610612741,1970,00,Tom Boerwinkle,Tom,tom-boerwinkle,18,C,7-0,265,"AUG 23, 1945",25.0,2,Tennessee,76192,,0
+1610612741,1970,00,Jimmy Collins,Jimmy,jimmy-collins,22,G,6-2,175,"NOV 24, 1946",24.0,R,New Mexico State,76419,,0
+1610612741,1970,00,Jim Fox,Jim,jim-fox,31,C,6-10,230,"APR 07, 1943",28.0,3,South Carolina,76747,,0
+1610612741,1970,00,Alvin Holt,Alvin,alvin-holt,6,F,6-7,210,"AUG 26, 1946",24.0,R,Jackson State,77046,,0
+1610612741,1970,00,Jim King,Jim,jim-king,21,G,6-2,175,"FEB 07, 1941",30.0,7,Tulsa,77270,,0
+1610612741,1970,00,Bob Love,Bob,bob-love,10,F,6-8,215,"DEC 08, 1942",28.0,4,Southern,77412,,0
+1610612741,1970,00,Paul Ruffner,Paul,paul-ruffner,44,C,6-10,225,"OCT 15, 1948",22.0,R,Brigham Young,78039,,0
+1610612741,1970,00,Jerry Sloan,Jerry,jerry-sloan,4,G,6-5,195,"MAR 28, 1942",29.0,5,Evansville,78173,,0
+1610612741,1970,00,Chet Walker,Chet,chet-walker,25,F,6-7,212,"FEB 22, 1940",31.0,8,Bradley,78435,,0
+1610612741,1970,00,Bob Weiss,Bob,bob-weiss,8,G,6-3,180,"MAY 07, 1942",29.0,5,Penn State,78485,,0

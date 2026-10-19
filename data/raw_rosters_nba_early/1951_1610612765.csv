@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1951,00,Frank Brian,Frank,frank-brian,7,G,6-1,180,"MAY 01, 1923",29.0,2,Louisiana State,76250,,0
+1610612765,1951,00,Bill Closs,Bill,bill-closs,14,F,6-6,195,"JAN 08, 1922",30.0,2,Rice,76406,,0
+1610612765,1951,00,Thomas Eddleman,Thomas,thomas-eddleman,12,F,6-2,189,"DEC 27, 1922",29.0,2,Illinois,76636,,0
+1610612765,1951,00,Jake Fendley,Jake,jake-fendley,6,G,6-0,180,"JUN 12, 1929",23.0,R,Northwestern,76705,,0
+1610612765,1951,00,Larry Foust,Larry,larry-foust,16,C,6-9,215,"JUN 24, 1928",24.0,1,La Salle,76744,,0
+1610612765,1951,00,David Johnson,David,david-johnson,5,G,5-11,170,"DEC 06, 1921",30.0,2,Huntington,77139,,0
+1610612765,1951,00,Jack Kerris,Jack,jack-kerris,15,F,6-6,215,"JAN 30, 1925",27.0,2,Loyola-Chicago,77249,,0
+1610612765,1951,00,Jack Kiley,Jack,jack-kiley,11,G,6-1,170,"JAN 05, 1929",23.0,R,Syracuse,77256,,0
+1610612765,1951,00,Fred Schaus,Fred,fred-schaus,8,F,6-5,205,"JUN 30, 1925",27.0,2,West Virginia,78075,,0
+1610612765,1951,00,Charlie Share,Charlie,charlie-share,18,C,6-11,235,"MAR 14, 1927",25.0,R,Bowling Green,78125,,0
+1610612765,1951,00,Zeke Sinicola,Zeke,zeke-sinicola, ,G,5-10,165,"JAN 25, 1929",23.0,R,Niagara,78163,,0

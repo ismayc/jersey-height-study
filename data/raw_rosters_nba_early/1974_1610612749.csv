@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1974,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",28.0,5,UCLA,76003,,0
+1610612749,1974,00,Gary Brokaw,Gary,gary-brokaw,25,G,6-4,178,"JAN 11, 1954",21.0,R,Notre Dame,76263,,0
+1610612749,1974,00,Dick Cunningham,Dick,dick-cunningham,19,C,6-10,245,"JUL 11, 1946",28.0,6,Murray State,76485,,0
+1610612749,1974,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",27.0,5,Norfolk State,76500,,0
+1610612749,1974,00,Edward Davis,Edward,edward-davis,20,F,6-7,195,"JUN 16, 1950",25.0,2,Duquesne,76522,,0
+1610612749,1974,00,Terry Driscoll,Terry,terry-driscoll,7,F,6-7,215,"AUG 28, 1947",27.0,4,Boston College,76603,,0
+1610612749,1974,00,Steve Kuberski,Steve,steve-kuberski,11,F,6-8,215,"NOV 06, 1947",27.0,5,Bradley,77316,,0
+1610612749,1974,00,Jon McGlocklin,Jon,jon-mcglocklin,14,G,6-5,205,"JUN 10, 1943",32.0,9,Indiana,77533,,0
+1610612749,1974,00,Jim Price,Jim,jim-price,15,G,6-3,195,"NOV 27, 1949",25.0,2,Louisville,77883,,0
+1610612749,1974,00,Kevin Restani,Kevin,kevin-restani,18,F,6-9,225,"DEC 23, 1951",23.0,R,San Francisco,77944,,0
+1610612749,1974,00,Bob Rule,Bob,bob-rule,21,C,6-9,220,"JUN 29, 1944",31.0,7,Colorado State,78042,,0
+1610612749,1974,00,George Thompson,George,george-thompson,24,G,6-2,200,"NOV 29, 1947",27.0,R,Marquette,78327,,0
+1610612749,1974,00,Cornell Warner,Cornell,cornell-warner,35,F,6-9,220,"AUG 12, 1948",26.0,4,Jackson State,78460,,0
+1610612749,1974,00,Walt Wesley,Walt,walt-wesley,21,C,6-11,220,"JAN 25, 1945",30.0,8,Kansas,78495,,0
+1610612749,1974,00,Ron Williams,Ron,ron-williams,12,G,6-3,188,"SEP 24, 1944",30.0,6,West Virginia,78567,,0

@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1970,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",24.0,1,UCLA,76003,,0
+1610612749,1970,00,Lucius Allen,Lucius,lucius-allen,7,G,6-2,175,"SEP 26, 1947",23.0,1,UCLA,76027,,0
+1610612749,1970,00,Bob Boozer,Bob,bob-boozer,20,F,6-8,215,"APR 26, 1937",34.0,10,Kansas State,76206,,0
+1610612749,1970,00,Dick Cunningham,Dick,dick-cunningham,19,C,6-10,245,"JUL 11, 1946",24.0,2,Murray State,76485,,0
+1610612749,1970,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",23.0,1,Norfolk State,76500,,0
+1610612749,1970,00,Bob Greacen,Bob,bob-greacen,18,F,6-7,206,"SEP 15, 1947",23.0,1,Rutgers,76865,,0
+1610612749,1970,00,Jon McGlocklin,Jon,jon-mcglocklin,14,G,6-5,205,"JUN 10, 1943",28.0,5,Indiana,77533,,0
+1610612749,1970,00,Oscar Robertson,Oscar,oscar-robertson,1,G,6-5,205,"NOV 24, 1938",32.0,10,Cincinnati,600015,,0
+1610612749,1970,00,Greg Smith,Greg,greg-smith,4,F,6-5,195,"JAN 28, 1947",24.0,2,Western Kentucky,78190,,0
+1610612749,1970,00,Jeff Webb,Jeff,jeff-webb,8,G,6-4,170,"JUL 06, 1948",22.0,R,Kansas State,78477,,0
+1610612749,1970,00,Marv Winkler,Marv,marv-winkler,5,G,6-1,164,"FEB 18, 1948",23.0,R,Louisiana-Lafayette,78597,,0
+1610612749,1970,00,Bill Zopf,Bill,bill-zopf,6,G,6-1,170,"JUN 07, 1948",23.0,R,Duquesne,78648,,0

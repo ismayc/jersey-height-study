@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1967,00,Wilt Chamberlain,Wilt,wilt-chamberlain,13,C,7-1,250,"AUG 21, 1936",31.0,8,Kansas,76375,,0
+1610612755,1967,00,Larry Costello,Larry,larry-costello,21,G,6-1,186,"JUL 02, 1931",36.0,11,Niagara,76454,,0
+1610612755,1967,00,Billy Cunningham,Billy,billy-cunningham,32,F,6-6,210,"JUN 03, 1943",25.0,2,North Carolina,76487,,0
+1610612755,1967,00,Ron Filipek,Ron,ron-filipek,20,F,6-5,205,"FEB 05, 1944",24.0,R,Tennessee Tech,76714,,0
+1610612755,1967,00,Hal Greer,Hal,hal-greer,15,G,6-2,175,"JUN 26, 1936",32.0,9,Marshall,76882,,0
+1610612755,1967,00,Matt Guokas,Matt,matt-guokas,14,G,6-6,175,"FEB 25, 1944",24.0,1,St. Joseph's (PA),76908,,0
+1610612755,1967,00,Lucious Jackson,Lucious,lucious-jackson,,F,6-9,240,"OCT 31, 1941",26.0,3,Texas-Pan American,77103,,0
+1610612755,1967,00,Wali Jones,Wali,wali-jones,24,G,6-2,180,"FEB 14, 1942",26.0,3,Villanova,77198,,0
+1610612755,1967,00,Bill Melchionni,Bill,bill-melchionni,28,G,6-1,165,"OCT 19, 1944",23.0,1,Villanova,77576,,0
+1610612755,1967,00,Jim Reid,Jim,jim-reid,12,C,6-6,210,"AUG 03, 1945",22.0,R,Winston-Salem State,77935,,0
+1610612755,1967,00,Chet Walker,Chet,chet-walker,25,F,6-7,212,"FEB 22, 1940",28.0,5,Bradley,78435,,0

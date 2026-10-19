@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612743,1978,00,Tom Boswell,Tom,tom-boswell,41,F,6-8,220,"OCT 02, 1953",25.0,3,South Carolina,76213,,0
+1610612743,1978,00,Jeffrey Crompton,Jeffrey,jeffrey-crompton,22,C,6-11,280,"JUL 04, 1955",23.0,R,North Carolina,76474,,0
+1610612743,1978,00,Bo Ellis,Bo,bo-ellis,31,F,6-9,197,"AUG 08, 1954",24.0,1,Marquette,76664,,0
+1610612743,1978,00,Phil Hicks,Phil,phil-hicks,55,F,6-7,205,"JAN 31, 1953",26.0,1,Tulane,77017,,0
+1610612743,1978,00,Kim Hughes,Kim,kim-hughes,35,C,6-11,220,"JUN 04, 1952",27.0,2,Wisconsin,77078,,0
+1610612743,1978,00,Dan Issel,Dan,dan-issel,44,C,6-9,235,"OCT 25, 1948",30.0,2,Kentucky,77097,,0
+1610612743,1978,00,John Kuester,John,john-kuester,10,G,6-2,180,"FEB 06, 1955",24.0,1,North Carolina,77320,,0
+1610612743,1978,00,George McGinnis,George,george-mcginnis,30,F,6-8,235,"AUG 12, 1950",28.0,3,Indiana,77532,,0
+1610612743,1978,00,Anthony Roberts,Anthony,anthony-roberts,21,F,6-5,185,"APR 15, 1955",24.0,1,Oral Roberts,77975,,0
+1610612743,1978,00,Charlie Scott,Charlie,charlie-scott,11,G,6-5,175,"DEC 15, 1948",30.0,7,North Carolina,78097,,0
+1610612743,1978,00,Robert Smith,Robert,robert-smith,5,G,5-11,165,"MAR 10, 1955",24.0,1,UNLV,78204,,0
+1610612743,1978,00,David Thompson,David,david-thompson,33,G,6-4,195,"JUL 13, 1954",24.0,2,North Carolina State,78326,,0
+1610612743,1978,00,Bob Wilkerson,Bob,bob-wilkerson,32,G,6-6,195,"AUG 15, 1954",24.0,2,Indiana,78531,,0

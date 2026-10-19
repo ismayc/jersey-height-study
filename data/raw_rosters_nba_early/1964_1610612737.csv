@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1964,00,John Barnhill,John,john-barnhill,20,G,6-1,180,"MAR 20, 1938",27.0,2,Tennessee State,76108,,0
+1610612737,1964,00,Zelmo Beaty,Zelmo,zelmo-beaty,31,C,6-9,225,"OCT 25, 1939",25.0,2,Prairie View A&M,76133,,0
+1610612737,1964,00,Bill Bridges,Bill,bill-bridges,32,F,6-5,228,"APR 04, 1939",26.0,2,Kansas,76253,,0
+1610612737,1964,00,Ed Burton,Ed,ed-burton,34,F,6-6,225,"AUG 13, 1939",25.0,1,Michigan State,76314,,0
+1610612737,1964,00,Mike Farmer,Mike,mike-farmer,12,F,6-7,210,"SEP 26, 1936",28.0,5,San Francisco,76694,,0
+1610612737,1964,00,Richie Guerin,Richie,richie-guerin,15,G,6-4,195,"MAY 29, 1932",33.0,8,Iona,76902,,0
+1610612737,1964,00,Cliff Hagan,Cliff,cliff-hagan,16,F,6-4,210,"DEC 09, 1931",33.0,8,Kentucky,76912,,0
+1610612737,1964,00,Bill McGill,Bill,bill-mcgill,40,C,6-9,225,"SEP 16, 1939",25.0,2,Utah,77531,,0
+1610612737,1964,00,Jeff Mullins,Jeff,jeff-mullins,44,G,6-4,190,"MAR 18, 1942",23.0,R,Duke,77662,,0
+1610612737,1964,00,Bob Pettit,Bob,bob-pettit,9,F,6-9,205,"DEC 12, 1932",32.0,10,Louisiana State,77847,,0
+1610612737,1964,00,Paul Silas,Paul,paul-silas,29,F,6-7,220,"JUL 12, 1943",21.0,R,Creighton,78151,,0
+1610612737,1964,00,John Tresvant,John,john-tresvant,25,F,6-7,215,"NOV 06, 1939",25.0,R,Seattle,78651,,0
+1610612737,1964,00,Charles Vaughn,Charles,charles-vaughn,17,G,6-3,190,"FEB 19, 1940",25.0,2,Southern Illinois,78409,,0
+1610612737,1964,00,Lenny Wilkens,Lenny,lenny-wilkens,14,G,6-1,180,"OCT 28, 1937",27.0,4,Providence,78530,,0

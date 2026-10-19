@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1975,00,Dave Bing,Dave,dave-bing,21,G,6-3,180,"NOV 24, 1943",32.0,9,Syracuse,76166,,0
+1610612764,1975,00,Phil Chenier,Phil,phil-chenier,45,G,6-3,180,"OCT 30, 1950",25.0,4,California,76386,,0
+1610612764,1975,00,Kevin Grevey,Kevin,kevin-grevey,35,G,6-5,210,"MAY 12, 1953",23.0,R,Kentucky,76887,,0
+1610612764,1975,00,Clem Haskins,Clem,clem-haskins,14,G,6-3,195,"JUL 11, 1943",32.0,8,Western Kentucky,76965,,0
+1610612764,1975,00,Elvin Hayes,Elvin,elvin-hayes,11,F,6-9,235,"NOV 17, 1945",30.0,7,Houston,76979,,0
+1610612764,1975,00,Jimmy Jones,Jimmy,jimmy-jones,15,G,6-4,188,"JAN 01, 1945",31.0,1,Grambling,77186,,0
+1610612764,1975,00,Tom Kozelko,Tom,tom-kozelko,22,F,6-8,220,"JUL 01, 1951",24.0,2,Toledo,77305,,0
+1610612764,1975,00,Tom Kropp,Tom,tom-kropp,24,G,6-3,205,"FEB 12, 1953",23.0,R,Nebraska-Kearney,77314,,0
+1610612764,1975,00,Mike Riordan,Mike,mike-riordan,6,F,6-4,200,"JUL 09, 1945",30.0,7,Providence,77966,,0
+1610612764,1975,00,Truck Robinson,Truck,truck-robinson,33,F,6-7,225,"OCT 04, 1951",24.0,1,Tennessee State,77993,,0
+1610612764,1975,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",30.0,7,Louisville,78392,,0
+1610612764,1975,00,Nick Weatherspoon,Nick,nick-weatherspoon,12,F,6-7,195,"JUL 20, 1950",25.0,2,Illinois,78475,,0

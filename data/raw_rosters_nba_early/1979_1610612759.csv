@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612759,1979,00,Harry Davis,Harry,harry-davis,23,F,6-7,220,"JAN 27, 1956",24.0,1,Florida State,76523,,0
+1610612759,1979,00,Mike Evans,Mike,mike-evans,1,G,6-1,170,"APR 19, 1955",25.0,R,Kansas State,76686,,0
+1610612759,1979,00,Mike Gale,Mike,mike-gale,12,G,6-4,185,"JUL 18, 1950",29.0,3,Elizabeth City State,76771,,0
+1610612759,1979,00,George Gervin,George,george-gervin,44,G,6-7,180,"APR 27, 1952",28.0,3,Eastern Michigan,76804,,0
+1610612759,1979,00,Paul Griffin,Paul,paul-griffin,30,F,6-9,205,"JAN 20, 1954",26.0,3,Western Michigan,76889,,0
+1610612759,1979,00,Larry Kenon,Larry,larry-kenon,35,F,6-9,205,"DEC 13, 1952",27.0,3,Memphis,77246,,0
+1610612759,1979,00,Irv Kiffin,Irv,irv-kiffin,21,F,6-9,225,"AUG 08, 1951",28.0,R,Oklahoma Baptist,77255,,0
+1610612759,1979,00,Sylvester Norris,Sylvester,sylvester-norris,40,C,6-11,220,"FEB 18, 1957",23.0,R,Jackson State,77732,,0
+1610612759,1979,00,Mark Olberding,Mark,mark-olberding,53,F,6-8,225,"APR 21, 1956",24.0,3,Minnesota,77756,,0
+1610612759,1979,00,Billy Paultz,Billy,billy-paultz,5,C,6-11,235,"JUL 30, 1948",31.0,3,St. John's (NY),77817,,0
+1610612759,1979,00,Wiley Peck,Wiley,wiley-peck,54,G,6-7,220,"SEP 15, 1957",22.0,R,Mississippi State,77827,,0
+1610612759,1979,00,Kevin Restani,Kevin,kevin-restani,31,F,6-9,225,"DEC 23, 1951",28.0,5,San Francisco,77944,,0
+1610612759,1979,00,John Shumate,John,john-shumate,34,F,6-9,235,"APR 06, 1952",28.0,3,Notre Dame,78143,,0
+1610612759,1979,00,James Silas,James,james-silas,13,G,6-1,180,"FEB 11, 1949",31.0,3,Stephen F. Austin,78150,,0

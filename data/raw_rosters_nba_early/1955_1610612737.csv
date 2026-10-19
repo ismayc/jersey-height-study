@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1955,00,Jack Coleman,Jack,jack-coleman,12,F,6-7,195,"MAY 23, 1924",32.0,6,Louisville,76414,,0
+1610612737,1955,00,Al Ferrari,Al,al-ferrari,22,G,6-4,190,"JUL 06, 1933",22.0,R,Michigan State,76708,,0
+1610612737,1955,00,Alex Hannum,Alex,alex-hannum,6,F,6-7,210,"JUL 19, 1923",32.0,6,Southern California,76937,,0
+1610612737,1955,00,Bob Harrison,Bob,bob-harrison,7,G,6-1,190,"AUG 12, 1927",28.0,6,Michigan,76962,,0
+1610612737,1955,00,Jack McMahon,Jack,jack-mcmahon,24,G,6-1,185,"DEC 03, 1928",27.0,3,St. John's (NY),77551,,0
+1610612737,1955,00,Medford Park,Medford,medford-park,11-27,G,6-2,205,"APR 11, 1933",23.0,R,Missouri,77799,,0
+1610612737,1955,00,Bob Pettit,Bob,bob-pettit,9,F,6-9,205,"DEC 12, 1932",23.0,1,Louisiana State,77847,,0
+1610612737,1955,00,Bob Schafer,Bob,bob-schafer,27,G,6-3,195,"MAR 29, 1933",23.0,R,Villanova,78072,,0
+1610612737,1955,00,Frank Selvy,Frank,frank-selvy,28,G,6-2,180,"NOV 09, 1932",23.0,1,Furman,78113,,0
+1610612737,1955,00,Charlie Share,Charlie,charlie-share,5,C,6-11,235,"MAR 14, 1927",29.0,4,Bowling Green,78125,,0
+1610612737,1955,00,Jack Stephens,Jack,jack-stephens,15,G,6-3,185,"MAY 18, 1933",23.0,R,Notre Dame,78249,,0

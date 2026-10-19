@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612739,1975,00,Jim Brewer,Jim,jim-brewer,52,F,6-9,210,"DEC 03, 1951",24.0,2,Minnesota,76248,,0
+1610612739,1975,00,Austin Carr,Austin,austin-carr,34,G,6-4,200,"MAR 10, 1948",28.0,4,Notre Dame,76348,,0
+1610612739,1975,00,Jim Chones,Jim,jim-chones,22,C,6-11,220,"NOV 30, 1949",26.0,1,Marquette,76392,,0
+1610612739,1975,00,Jim Cleamons,Jim,jim-cleamons,35,G,6-3,185,"SEP 13, 1949",26.0,4,Ohio State,76402,,0
+1610612739,1975,00,John Lambert,John,john-lambert,24,C,6-10,225,"JAN 14, 1953",23.0,R,Southern California,77331,,0
+1610612739,1975,00,Campy Russell,Campy,campy-russell,20,F,6-8,215,"JAN 12, 1952",24.0,1,Michigan,78047,,0
+1610612739,1975,00,Bingo Smith,Bingo,bingo-smith,7,F,6-5,195,"FEB 26, 1946",30.0,6,Tulsa,78202,,0
+1610612739,1975,00,Dick Snyder,Dick,dick-snyder,10,G,6-5,207,"FEB 01, 1944",32.0,9,Davidson,78213,,0
+1610612739,1975,00,Foots Walker,Foots,foots-walker,14,G,6-1,172,"MAY 21, 1951",25.0,1,West Georgia,78436,,0
+1610612739,1975,00,Luke Witte,Luke,luke-witte,44,C,7-0,235,"OCT 19, 1950",25.0,2,Ohio State,78603,,0

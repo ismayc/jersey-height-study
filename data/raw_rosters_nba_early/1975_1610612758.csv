@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1975,00,Nate Archibald,Nate,nate-archibald,1,G,6-1,150,"SEP 02, 1948",27.0,5,Texas-El Paso,76054,,0
+1610612758,1975,00,Bob Bigelow,Bob,bob-bigelow,11,F,6-7,215,"DEC 26, 1953",22.0,R,Pennsylvania,76165,,0
+1610612758,1975,00,Mike D'Antoni,Mike,mike-dantoni,10,G,6-3,185,"MAY 08, 1951",25.0,2,Marshall,76505,,0
+1610612758,1975,00,Matt Guokas,Matt,matt-guokas,10,G,6-6,175,"FEB 25, 1944",32.0,9,St. Joseph's (PA),76908,,0
+1610612758,1975,00,Glenn Hansen,Glenn,glenn-hansen,35,G,6-4,205,"APR 21, 1952",24.0,R,Louisiana State,76940,,0
+1610612758,1975,00,Ollie Johnson,Ollie,ollie-johnson,33,F,6-6,200,"MAY 11, 1949",27.0,3,Temple,77162,,0
+1610612758,1975,00,Len Kosmalski,Len,len-kosmalski,55,C,6-11,245,"NOV 29, 1951",24.0,1,Tennessee,77302,,0
+1610612758,1975,00,Sam Lacey,Sam,sam-lacey,44,C,6-10,235,"MAR 28, 1948",28.0,5,New Mexico State,77326,,0
+1610612758,1975,00,Larry McNeill,Larry,larry-mcneill,31,F,6-9,195,"JAN 31, 1951",25.0,2,Marquette,77561,,0
+1610612758,1975,00,Rick Roberson,Rick,rick-roberson,50,C,6-9,231,"JUL 07, 1947",28.0,6,Cincinnati,77973,,0
+1610612758,1975,00,Bill Robinzine,Bill,bill-robinzine,52,F,6-7,230,"JAN 20, 1953",23.0,R,DePaul,77997,,0
+1610612758,1975,00,Jimmy Walker,Jimmy,jimmy-walker,24,G,6-3,195,"APR 08, 1944",32.0,8,Providence,78439,,0
+1610612758,1975,00,Scott Wedman,Scott,scott-wedman,15,F,6-7,215,"JUL 29, 1952",23.0,1,Colorado,78482,,0
+1610612758,1975,00,Lee Winfield,Lee,lee-winfield,3,G,6-2,174,"FEB 04, 1947",29.0,6,North Texas,78592,,0

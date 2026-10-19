@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1976,00,Marvin Barnes,Marvin,marvin-barnes,24,F,6-9,210,"JUL 27, 1952",24.0,R,Providence,76104,,0
+1610612765,1976,00,Roger Brown,Roger,roger-brown,20,C,6-11,225,"FEB 23, 1950",27.0,2,Kansas,76286,,0
+1610612765,1976,00,M.L. Carr,M.L.,ml-carr,30,F,6-6,205,"JAN 09, 1951",26.0,R,Guilford,76351,,0
+1610612765,1976,00,Cornelius Cash,Cornelius,cornelius-cash,45,F,6-8,215,"MAR 03, 1952",25.0,R,Bowling Green,76364,,0
+1610612765,1976,00,Leon Douglas,Leon,leon-douglas,13,C,6-10,230,"AUG 26, 1954",22.0,R,Alabama,76590,,0
+1610612765,1976,00,Al Eberhard,Al,al-eberhard,44,F,6-6,225,"MAY 10, 1952",25.0,2,Missouri,76634,,0
+1610612765,1976,00,Chris Ford,Chris,chris-ford,42,G,6-5,190,"JAN 11, 1949",28.0,4,Villanova,76733,,0
+1610612765,1976,00,Bob Lanier,Bob,bob-lanier,16,C,6-11,250,"SEP 10, 1948",28.0,6,St. Bonaventure,600005,,0
+1610612765,1976,00,Eric Money,Eric,eric-money,14,G,6-0,170,"FEB 06, 1955",22.0,2,Arizona,77627,,0
+1610612765,1976,00,Howard Porter,Howard,howard-porter,54,F,6-8,220,"AUG 31, 1948",28.0,5,Villanova,77875,,0
+1610612765,1976,00,Kevin Porter,Kevin,kevin-porter,1,G,6-0,170,"APR 17, 1950",27.0,4,St. Francis (PA),77876,,0
+1610612765,1976,00,Phil Sellers,Phil,phil-sellers,11,F,6-4,195,"NOV 20, 1953",23.0,R,Rutgers,78111,,0
+1610612765,1976,00,Ralph Simpson,Ralph,ralph-simpson,10-32,G,6-5,200,"AUG 10, 1949",27.0,R,Michigan State,78157,,0
+1610612765,1976,00,George Trapp,George,george-trapp,31,F,6-8,205,"JUL 11, 1948",28.0,5,Long Beach State,78366,,0

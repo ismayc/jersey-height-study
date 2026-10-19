@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1963,00,Dick Barnett,Dick,dick-barnett,5,G,6-4,190,"OCT 02, 1936",27.0,3,Tennessee State,76107,,0
+1610612747,1963,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",29.0,5,Seattle,76127,,0
+1610612747,1963,00,Leroy Ellis,Leroy,leroy-ellis,25,F,6-11,210,"MAR 10, 1940",24.0,1,St. John's (NY),76663,,0
+1610612747,1963,00,Mel Gibson,Mel,mel-gibson,15,G,6-3,180,"DEC 30, 1940",23.0,R,Western Carolina,76809,,0
+1610612747,1963,00,Jim King,Jim,jim-king,21,G,6-2,175,"FEB 07, 1941",23.0,R,Tulsa,77270,,0
+1610612747,1963,00,Jim Krebs,Jim,jim-krebs,32,C,6-8,230,"SEP 08, 1935",28.0,6,Southern Methodist,77311,,0
+1610612747,1963,00,Rudy LaRusso,Rudy,rudy-larusso,35,F,6-8,220,"NOV 11, 1937",26.0,4,Dartmouth,77340,,0
+1610612747,1963,00,Don Nelson,Don,don-nelson,20,F,6-6,210,"MAY 15, 1940",24.0,1,Iowa,77700,,0
+1610612747,1963,00,Hub Reed,Hub,hub-reed,14,C,6-9,215,"OCT 04, 1936",27.0,5,Oklahoma City,77927,,0
+1610612747,1963,00,Frank Selvy,Frank,frank-selvy,11,G,6-2,180,"NOV 09, 1932",31.0,8,Furman,78113,,0
+1610612747,1963,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",26.0,3,West Virginia,78497,,0
+1610612747,1963,00,Gene Wiley,Gene,gene-wiley,12,C,6-10,210,"NOV 12, 1937",26.0,1,Wichita State,78526,,0

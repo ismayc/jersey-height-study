@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1971,00,Odis Allison,Odis,odis-allison,22,F,6-6,195,"OCT 02, 1949",22.0,R,UNLV,76029,,0
+1610612744,1971,00,Jim Barnett,Jim,jim-barnett,25,G,6-4,170,"JUL 07, 1944",27.0,5,Oregon,76106,,0
+1610612744,1971,00,Vic Bartolome,Vic,vic-bartolome,20,C,7-0,230,"SEP 29, 1948",23.0,R,Oregon State,76118,,0
+1610612744,1971,00,Joe Ellis,Joe,joe-ellis,31,F,6-6,175,"MAY 03, 1944",28.0,5,San Francisco,76661,,0
+1610612744,1971,00,Nick Jones,Nick,nick-jones,15,G,6-2,190,"MAR 28, 1945",27.0,2,Oregon,77195,,0
+1610612744,1971,00,Clyde Lee,Clyde,clyde-lee,43,F,6-10,205,"MAR 14, 1944",28.0,5,Vanderbilt,77357,,0
+1610612744,1971,00,Jeff Mullins,Jeff,jeff-mullins,23,G,6-4,190,"MAR 18, 1942",30.0,7,Duke,77662,,0
+1610612744,1971,00,Bob Portman,Bob,bob-portman,33,F,6-5,200,"MAR 22, 1947",25.0,2,Creighton,77878,,0
+1610612744,1971,00,Cazzie Russell,Cazzie,cazzie-russell,32,F,6-5,218,"JUN 07, 1944",28.0,5,Michigan,78045,,0
+1610612744,1971,00,Nate Thurmond,Nate,nate-thurmond,42,C,6-11,225,"JUL 25, 1941",30.0,8,Bowling Green,600001,,0
+1610612744,1971,00,Bill Turner,Bill,bill-turner,34,F,6-7,220,"FEB 18, 1944",28.0,4,Akron,78385,,0
+1610612744,1971,00,Ron Williams,Ron,ron-williams,21,G,6-3,188,"SEP 24, 1944",27.0,3,West Virginia,78567,,0

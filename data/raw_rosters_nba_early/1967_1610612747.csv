@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1967,00,Cliff Anderson,Cliff,cliff-anderson,30,G,6-2,200,"SEP 07, 1944",23.0,R,St. Joseph's (PA),76035,,0
+1610612747,1967,00,Jim Barnes,Jim,jim-barnes,23,C,6-8,210,"APR 13, 1941",27.0,3,Texas-El Paso,76105,,0
+1610612747,1967,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",33.0,9,Seattle,76127,,0
+1610612747,1967,00,Archie Clark,Archie,archie-clark,21,G,6-2,175,"JUL 15, 1941",26.0,1,Minnesota,76397,,0
+1610612747,1967,00,Mel Counts,Mel,mel-counts,31,C,7-0,230,"OCT 16, 1941",26.0,3,Oregon State,76458,,0
+1610612747,1967,00,Gail Goodrich,Gail,gail-goodrich,11,G,6-1,170,"APR 23, 1943",25.0,2,UCLA,76832,,0
+1610612747,1967,00,Dennis Hamilton,Dennis,dennis-hamilton,52,F,6-8,210,"MAY 08, 1944",24.0,R,Arizona State,76926,,0
+1610612747,1967,00,Tom Hawkins,Tom,tom-hawkins,33,F,6-5,210,"DEC 22, 1936",31.0,8,Notre Dame,76977,,0
+1610612747,1967,00,Darrall Imhoff,Darrall,darrall-imhoff,14,C,6-10,220,"OCT 11, 1938",29.0,7,California,77093,,0
+1610612747,1967,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",30.0,7,West Virginia,78497,,0
+1610612747,1967,00,John Wetzel,John,john-wetzel,24,G,6-5,190,"OCT 22, 1944",23.0,R,Virginia Tech,78501,,0

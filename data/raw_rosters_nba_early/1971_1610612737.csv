@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1971,00,Walt Bellamy,Walt,walt-bellamy,8,C,6-10,225,"JUL 24, 1939",32.0,10,Indiana,76144,,0
+1610612737,1971,00,Bob Christian,Bob,bob-christian,31,C,6-10,255,"MAY 11, 1944",28.0,1,Grambling,76395,,0
+1610612737,1971,00,Herm Gilliam,Herm,herm-gilliam,3,G,6-3,190,"MAY 05, 1946",26.0,2,Purdue,76815,,0
+1610612737,1971,00,Shaler Halimon,Shaler,shaler-halimon,11,G,6-5,199,"MAR 30, 1945",27.0,3,Utah State,76922,,0
+1610612737,1971,00,Jeff Halliburton,Jeff,jeff-halliburton,42,G,6-5,193,"JUL 03, 1949",22.0,R,Drake,76923,,0
+1610612737,1971,00,Lou Hudson,Lou,lou-hudson,23,F,6-5,210,"JUL 11, 1944",27.0,5,Minnesota,77074,,0
+1610612737,1971,00,Pete Maravich,Pete,pete-maravich,44,G,6-5,197,"JUN 22, 1947",25.0,1,Louisiana State,77459,,0
+1610612737,1971,00,Don May,Don,don-may,22,F,6-4,200,"JAN 03, 1946",26.0,3,Dayton,77489,,0
+1610612737,1971,00,Tom Payne,Tom,tom-payne,54,C,7-2,240,"NOV 19, 1950",21.0,R,Kentucky,77823,,0
+1610612737,1971,00,Larry Siegfried,Larry,larry-siegfried,20,G,6-3,190,"MAY 22, 1939",33.0,8,Ohio State,78147,,0
+1610612737,1971,00,George Trapp,George,george-trapp,30,F,6-8,205,"JUL 11, 1948",23.0,R,Long Beach State,78366,,0
+1610612737,1971,00,Milt Williams,Milt,milt-williams,11,G,6-2,182,"NOV 22, 1945",26.0,1,Lincoln (MO),78560,,0

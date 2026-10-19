@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1967,00,Wayne Embry,Wayne,wayne-embry,28,C,6-8,240,"MAR 26, 1937",31.0,9,Miami (Ohio),76668,,0
+1610612738,1967,00,Mal Graham,Mal,mal-graham,11,G,6-1,185,"FEB 23, 1945",23.0,R,New York University,76843,,0
+1610612738,1967,00,John Havlicek,John,john-havlicek,17,F,6-5,203,"APR 08, 1940",28.0,5,Ohio State,76970,,0
+1610612738,1967,00,Bailey Howell,Bailey,bailey-howell,18,F,6-7,210,"JAN 20, 1937",31.0,8,Mississippi State,77070,,0
+1610612738,1967,00,Johnny Jones,Johnny,johnny-jones,27,F,6-7,205,"MAR 12, 1943",25.0,R,California State-Los Angeles,77187,,0
+1610612738,1967,00,Sam Jones,Sam,sam-jones,24,G,6-4,198,"JUN 24, 1933",35.0,10,North Carolina Central,77196,,0
+1610612738,1967,00,Don Nelson,Don,don-nelson,19,F,6-6,210,"MAY 15, 1940",28.0,5,Iowa,77700,,0
+1610612738,1967,00,Bill Russell,Bill,bill-russell,6,C,6-10,215,"FEB 12, 1934",34.0,11,San Francisco,78049,,0
+1610612738,1967,00,Thomas Sanders,Thomas,thomas-sanders,16,F,6-6,210,"NOV 08, 1938",29.0,7,New York University,78060,,0
+1610612738,1967,00,Larry Siegfried,Larry,larry-siegfried,20,G,6-3,190,"MAY 22, 1939",29.0,4,Ohio State,78147,,0
+1610612738,1967,00,Tom Thacker,Tom,tom-thacker,12,G,6-2,170,"NOV 02, 1939",28.0,3,Cincinnati,78309,,0
+1610612738,1967,00,Rick Weitzman,Rick,rick-weitzman,26,G,6-2,175,"APR 30, 1946",22.0,R,Northeastern,78486,,0

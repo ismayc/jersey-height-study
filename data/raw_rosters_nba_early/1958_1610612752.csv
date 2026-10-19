@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1958,00,Jerry Bird,Jerry,jerry-bird,7,F,6-6,210,"FEB 02, 1935",24.0,R,Kentucky,76168,,0
+1610612752,1958,00,Carl Braun,Carl,carl-braun,4,G,6-5,180,"SEP 25, 1927",31.0,9,Colgate,76243,,0
+1610612752,1958,00,Pete Brennan,Pete,pete-brennan,15-16,F,6-6,205,"SEP 23, 1936",22.0,R,North Carolina,76245,,0
+1610612752,1958,00,Mike Farmer,Mike,mike-farmer,8,F,6-7,210,"SEP 26, 1936",22.0,R,San Francisco,76694,,0
+1610612752,1958,00,Ray Felix,Ray,ray-felix,19,C,6-11,220,"DEC 10, 1930",28.0,5,Long Island-Brooklyn,76704,,0
+1610612752,1958,00,Richie Guerin,Richie,richie-guerin,9,G,6-4,195,"MAY 29, 1932",27.0,2,Iona,76902,,0
+1610612752,1958,00,Brendan McCann,Brendan,brendan-mccann,3,G,6-2,178,"JUL 05, 1935",23.0,1,St. Bonaventure,77500,,0
+1610612752,1958,00,Willie Naulls,Willie,willie-naulls,6,F,6-6,225,"OCT 07, 1934",24.0,2,UCLA,77693,,0
+1610612752,1958,00,Ken Sears,Ken,ken-sears,12,F,6-9,198,"AUG 17, 1933",25.0,3,Santa Clara,78106,,0
+1610612752,1958,00,Frank Selvy,Frank,frank-selvy,15,G,6-2,180,"NOV 09, 1932",26.0,3,Furman,78113,,0
+1610612752,1958,00,Ron Sobie,Ron,ron-sobie,17,G,6-3,185,"SEP 21, 1934",24.0,2,DePaul,78216,,0
+1610612752,1958,00,Guy Sparrow,Guy,guy-sparrow,5,F,6-6,218,"NOV 02, 1932",26.0,1,Detroit,78223,,0
+1610612752,1958,00,Charlie Tyra,Charlie,charlie-tyra,14,C,6-8,230,"AUG 16, 1935",23.0,1,Louisville,78391,,0

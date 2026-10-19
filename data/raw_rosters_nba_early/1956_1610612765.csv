@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1956,00,Walter Devlin,Walter,walter-devlin,8,G,6-5,195,"DEC 21, 1931",25.0,1,George Washington,76561,,0
+1610612765,1956,00,Larry Foust,Larry,larry-foust,16,C,6-9,215,"JUN 24, 1928",29.0,6,La Salle,76744,,0
+1610612765,1956,00,Bob Houbregs,Bob,bob-houbregs,17,C,6-8,210,"MAR 12, 1932",25.0,3,Washington,77062,,0
+1610612765,1956,00,Mel Hutchins,Mel,mel-hutchins,9,F,6-6,200,"NOV 22, 1928",28.0,5,Brigham Young,77089,,0
+1610612765,1956,00,Bill Kenville,Bill,bill-kenville,14,G,6-2,187,"DEC 01, 1930",26.0,3,St. Bonaventure,77247,,0
+1610612765,1956,00,Chuck Noble,Chuck,chuck-noble,5,G,6-4,190,"JUL 24, 1931",25.0,1,Louisville,77722,,0
+1610612765,1956,00,Red Rocha,Red,red-rocha,6,C,6-9,185,"SEP 18, 1923",33.0,8,Oregon State,77999,,0
+1610612765,1956,00,Dick Rosenthal,Dick,dick-rosenthal,15,F,6-5,205,"JAN 20, 1933",24.0,1,Notre Dame,78020,,0
+1610612765,1956,00,Gene Shue,Gene,gene-shue,7,G,6-2,170,"DEC 18, 1931",25.0,2,Maryland,78142,,0
+1610612765,1956,00,Bill Thieben,Bill,bill-thieben,10,F,6-6,215,"MAR 28, 1935",22.0,R,Hofstra,78312,,0
+1610612765,1956,00,George Yardley,George,george-yardley,12,F,6-5,190,"NOV 03, 1928",28.0,3,Stanford,78628,,0

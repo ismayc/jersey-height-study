@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1956,00,Forest Able,Forest,forest-able,6,G,6-3,180,"JUL 27, 1932",24.0,R,Western Kentucky,76006,,0
+1610612755,1956,00,Al Bianchi,Al,al-bianchi,16,G,6-3,185,"MAR 26, 1932",25.0,R,Bowling Green,76160,,0
+1610612755,1956,00,Ed Conlin,Ed,ed-conlin,8,F,6-6,200,"SEP 02, 1933",23.0,1,Fordham,76429,,0
+1610612755,1956,00,Bob Harrison,Bob,bob-harrison,3,G,6-1,190,"AUG 12, 1927",29.0,7,Michigan,76962,,0
+1610612755,1956,00,Joe Holup,Joe,joe-holup,12,F,6-6,215,"FEB 26, 1934",23.0,R,George Washington,77049,,0
+1610612755,1956,00,Bob Hopkins,Bob,bob-hopkins,9,C,6-8,205,"NOV 03, 1934",22.0,R,Grambling,77052,,0
+1610612755,1956,00,Johnny Kerr,Johnny,johnny-kerr,10,C,6-9,230,"AUG 17, 1932",24.0,2,Illinois,77248,,0
+1610612755,1956,00,Earl Lloyd,Earl,earl-lloyd,11,F,6-6,200,"APR 03, 1928",29.0,5,West Virginia State,77394,,0
+1610612755,1956,00,Togo Palazzi,Togo,togo-palazzi,6,F,6-4,205,"AUG 08, 1932",24.0,2,Holy Cross,77791,,0
+1610612755,1956,00,Jim Ray,Jim,jim-ray,3,G,6-0,180,"JAN 12, 1934",23.0,R,Toledo,77919,,0
+1610612755,1956,00,Don Savage,Don,don-savage,15,F,6-3,205,"APR 09, 1928",29.0,1,Le Moyne,78066,,0
+1610612755,1956,00,Dolph Schayes,Dolph,dolph-schayes,4,F,6-8,195,"MAY 19, 1928",29.0,7,New York University,78076,,0
+1610612755,1956,00,Paul Seymour,Paul,paul-seymour,5,G,6-1,180,"JAN 30, 1928",29.0,8,Toledo,78117,,0
+1610612755,1956,00,Jim Tucker,Jim,jim-tucker,17,F,6-7,185,"DEC 11, 1932",24.0,2,Duquesne,78374,,0

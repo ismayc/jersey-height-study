@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612745,1973,00,Zaid Abdul-Aziz,Zaid,zaid-abdul-aziz,35,C,6-9,235,"APR 07, 1946",28.0,5,Iowa State,76002,,0
+1610612745,1973,00,E.C. Coleman,E.C.,ec-coleman,44,F,6-8,225,"SEP 25, 1950",23.0,R,Houston Baptist,76413,,0
+1610612745,1973,00,George Johnson,George,george-johnson,6,C,6-11,245,"JUN 19, 1947",27.0,2,Stephen F. Austin,77147,,0
+1610612745,1973,00,Kevin Kunnert,Kevin,kevin-kunnert,20,C,7-0,230,"NOV 11, 1951",22.0,R,Iowa,77323,,0
+1610612745,1973,00,Jack Marin,Jack,jack-marin,24,F,6-6,200,"OCT 12, 1944",29.0,7,Duke,77463,,0
+1610612745,1973,00,Paul McCracken,Paul,paul-mccracken,4,G,6-4,180,"SEP 11, 1950",23.0,1,California State-Northridge,77517,,0
+1610612745,1973,00,Stan McKenzie,Stan,stan-mckenzie,40,F,6-5,195,"OCT 06, 1944",29.0,6,New York University,77543,,0
+1610612745,1973,00,Cliff Meely,Cliff,cliff-meely,25,F,6-8,215,"JUL 10, 1947",26.0,2,Colorado,77570,,0
+1610612745,1973,00,Calvin Murphy,Calvin,calvin-murphy,23,G,5-9,165,"MAY 09, 1948",26.0,3,Niagara,77669,,0
+1610612745,1973,00,Mike Newlin,Mike,mike-newlin,14,G,6-4,200,"JAN 02, 1949",25.0,2,Utah,77710,,0
+1610612745,1973,00,Ed Ratleff,Ed,ed-ratleff,42,G,6-6,195,"MAR 29, 1950",24.0,R,Long Beach State,77914,,0
+1610612745,1973,00,Ron Riley,Ron,ron-riley,31,F,6-8,195,"NOV 11, 1950",23.0,1,Southern California,77964,,0
+1610612745,1973,00,Rudy Tomjanovich,Rudy,rudy-tomjanovich,45,F,6-8,218,"NOV 24, 1948",25.0,3,Michigan,78350,,0
+1610612745,1973,00,Dave Wohl,Dave,dave-wohl,11,G,6-2,185,"NOV 02, 1949",24.0,2,Pennsylvania,78606,,0

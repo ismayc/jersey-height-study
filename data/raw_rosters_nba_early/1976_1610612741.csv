@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1976,00,Tom Boerwinkle,Tom,tom-boerwinkle,18,C,7-0,265,"AUG 23, 1945",31.0,8,Tennessee,76192,,0
+1610612741,1976,00,Eric Fernsten,Eric,eric-fernsten,41,C,6-10,205,"NOV 01, 1953",23.0,1,San Francisco,76707,,0
+1610612741,1976,00,Artis Gilmore,Artis,artis-gilmore,53,C,7-2,240,"SEP 21, 1948",28.0,R,Jacksonville,600014,,0
+1610612741,1976,00,Wilbur Holland,Wilbur,wilbur-holland,12,G,6-0,175,"NOV 08, 1951",25.0,1,New Orleans,77042,,0
+1610612741,1976,00,Mickey Johnson,Mickey,mickey-johnson,8,F,6-10,190,"AUG 31, 1952",24.0,2,Aurora,77168,,0
+1610612741,1976,00,Tom Kropp,Tom,tom-kropp,44,G,6-3,205,"FEB 12, 1953",24.0,1,Nebraska-Kearney,77314,,0
+1610612741,1976,00,John Laskowski,John,john-laskowski,31,G,6-6,185,"JUN 07, 1953",24.0,1,Indiana,77341,,0
+1610612741,1976,00,Jack Marin,Jack,jack-marin,24,F,6-6,200,"OCT 12, 1944",32.0,10,Duke,77463,,0
+1610612741,1976,00,Scott May,Scott,scott-may,17,F,6-6,215,"MAR 19, 1954",23.0,R,Indiana,77490,,0
+1610612741,1976,00,Paul McCracken,Paul,paul-mccracken,7,G,6-4,180,"SEP 11, 1950",26.0,2,California State-Northridge,77517,,0
+1610612741,1976,00,John Mengelt,John,john-mengelt,15,G,6-2,195,"OCT 16, 1949",27.0,5,Auburn,77580,,0
+1610612741,1976,00,Cliff Pondexter,Cliff,cliff-pondexter,42,F,6-9,233,"SEP 15, 1954",22.0,1,Long Beach State,77869,,0
+1610612741,1976,00,Willie Smith,Willie,willie-smith,11,G,6-2,170,"OCT 26, 1953",23.0,R,Missouri,78208,,0
+1610612741,1976,00,Keith Starr,Keith,keith-starr,30,G,6-6,190,"MAR 14, 1954",23.0,R,Pittsburgh,78243,,0
+1610612741,1976,00,Norm Van Lier,Norm,norm-van-lier,2,G,6-1,173,"APR 01, 1947",30.0,7,St. Francis (PA),78406,,0

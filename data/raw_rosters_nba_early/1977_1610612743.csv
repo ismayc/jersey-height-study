@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612743,1977,00,Mack Calvin,Mack,mack-calvin,20,G,6-0,165,"JUL 27, 1947",30.0,1,Southern California,76336,,0
+1610612743,1977,00,Norm Cook,Norm,norm-cook,30-52,F,6-8,210,"MAR 21, 1955",23.0,1,Kansas,76437,,0
+1610612743,1977,00,Bo Ellis,Bo,bo-ellis,31,F,6-9,197,"AUG 08, 1954",23.0,R,Marquette,76664,,0
+1610612743,1977,00,Dan Issel,Dan,dan-issel,44,C,6-9,235,"OCT 25, 1948",29.0,1,Kentucky,77097,,0
+1610612743,1977,00,Bobby Jones,Bobby,bobby-jones,,F,6-9,210,"DEC 18, 1951",26.0,1,North Carolina,77193,,0
+1610612743,1977,00,Tom LaGarde,Tom,tom-lagarde,45,C,6-10,220,"FEB 10, 1955",23.0,R,North Carolina,77328,,0
+1610612743,1977,00,Anthony Roberts,Anthony,anthony-roberts,21,F,6-5,185,"APR 15, 1955",23.0,R,Oral Roberts,77975,,0
+1610612743,1977,00,Robert Smith,Robert,robert-smith,5,G,5-11,165,"MAR 10, 1955",23.0,R,UNLV,78204,,0
+1610612743,1977,00,Brian Taylor,Brian,brian-taylor,14,G,6-2,185,"JUN 09, 1951",27.0,1,Princeton,78296,,0
+1610612743,1977,00,David Thompson,David,david-thompson,33,G,6-4,195,"JUL 13, 1954",23.0,1,North Carolina State,78326,,0
+1610612743,1977,00,Bob Wilkerson,Bob,bob-wilkerson,32,G,6-6,195,"AUG 15, 1954",23.0,1,Indiana,78531,,0

@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612746,1971,00,Emmette Bryant,Emmette,emmette-bryant,7,G,6-1,175,"NOV 04, 1938",33.0,7,DePaul,76289,,0
+1610612746,1971,00,Jerry Chambers,Jerry,jerry-chambers,40,F,6-5,185,"JUL 18, 1943",28.0,3,Utah,76376,,0
+1610612746,1971,00,Mike Davis,Mike,mike-davis,13,G,6-3,185,"JUL 26, 1946",25.0,2,Virginia Union,76531,,0
+1610612746,1971,00,Eldo Garrett,Eldo,eldo-garrett,20,G,6-3,185,"JAN 31, 1947",25.0,2,Southern Illinois,76788,,0
+1610612746,1971,00,Walt Hazzard,Walt,walt-hazzard,42,G,6-2,185,"APR 15, 1942",30.0,7,UCLA,76983,,0
+1610612746,1971,00,Fred Hilton,Fred,fred-hilton,32,G,6-3,185,"JAN 15, 1948",24.0,R,Grambling,77029,,0
+1610612746,1971,00,Wilmer Hosket,Wilmer,wilmer-hosket,25,F,6-7,225,"DEC 20, 1946",25.0,3,Ohio State,77061,,0
+1610612746,1971,00,John Hummer,John,john-hummer,45,F,6-9,230,"MAY 04, 1948",24.0,1,Princeton,77080,,0
+1610612746,1971,00,Bob Kauffman,Bob,bob-kauffman,44,F,6-8,240,"JUL 13, 1946",25.0,3,Guilford,77227,,0
+1610612746,1971,00,Elmore Smith,Elmore,elmore-smith,3,C,7-1,250,"MAY 09, 1949",23.0,R,Kentucky State,78188,,0
+1610612746,1971,00,Randy Smith,Randy,randy-smith,9,G,6-3,180,"DEC 12, 1948",23.0,R,Buffalo State,78200,,0
+1610612746,1971,00,Cornell Warner,Cornell,cornell-warner,35,F,6-9,220,"AUG 12, 1948",23.0,1,Jackson State,78460,,0

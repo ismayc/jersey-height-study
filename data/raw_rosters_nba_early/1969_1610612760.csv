@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1969,00,Lucius Allen,Lucius,lucius-allen,42,G,6-2,175,"SEP 26, 1947",22.0,R,UCLA,76027,,0
+1610612760,1969,00,Bob Boozer,Bob,bob-boozer,20,F,6-8,215,"APR 26, 1937",33.0,9,Kansas State,76206,,0
+1610612760,1969,00,John Clemens,John,john-clemens,43,F,6-6,210,"MAY 01, 1943",27.0,4,Ohio Wesleyan,76403,,0
+1610612760,1969,00,Al Hairston,Al,al-hairston,25,G,6-1,170,"DEC 11, 1945",24.0,1,Bowling Green,76915,,0
+1610612760,1969,00,Art Harris,Art,art-harris,12,G,6-4,185,"JAN 13, 1947",23.0,1,Stanford,76956,,0
+1610612760,1969,00,Joe Kennedy,Joe,joe-kennedy,34,F,6-6,210,"JAN 12, 1947",23.0,1,Duke,77244,,0
+1610612760,1969,00,Tom Meschery,Tom,tom-meschery,14,F,6-6,215,"OCT 26, 1938",31.0,8,Saint Mary's,77584,,0
+1610612760,1969,00,Dorie Murrey,Dorie,dorie-murrey,41,F,6-8,215,"SEP 07, 1943",26.0,3,Detroit,77676,,0
+1610612760,1969,00,Bob Rule,Bob,bob-rule,45,C,6-9,220,"JUN 29, 1944",26.0,2,Colorado State,78042,,0
+1610612760,1969,00,Dick Snyder,Dick,dick-snyder,10,G,6-5,207,"FEB 01, 1944",26.0,3,Davidson,78213,,0
+1610612760,1969,00,Rod Thorn,Rod,rod-thorn,44,G,6-4,195,"MAY 23, 1941",29.0,6,West Virginia,78335,,0
+1610612760,1969,00,John Tresvant,John,john-tresvant,30,F,6-7,215,"NOV 06, 1939",30.0,5,Seattle,78651,,0
+1610612760,1969,00,Lenny Wilkens,Lenny,lenny-wilkens,19,G,6-1,180,"OCT 28, 1937",32.0,9,Providence,78530,,0
+1610612760,1969,00,Lee Winfield,Lee,lee-winfield,11,G,6-2,174,"FEB 04, 1947",23.0,R,North Texas,78592,,0

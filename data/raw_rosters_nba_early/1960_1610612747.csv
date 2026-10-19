@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1960,00,Gary Alcorn,Gary,gary-alcorn,24,C,6-9,225,"OCT 08, 1936",24.0,1,Fresno State,76020,,0
+1610612747,1960,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",26.0,2,Seattle,76127,,0
+1610612747,1960,00,Ray Felix,Ray,ray-felix,14,C,6-11,220,"DEC 10, 1930",30.0,7,Long Island-Brooklyn,76704,,0
+1610612747,1960,00,Tom Hawkins,Tom,tom-hawkins,20,F,6-5,210,"DEC 22, 1936",24.0,1,Notre Dame,76977,,0
+1610612747,1960,00,Rod Hundley,Rod,rod-hundley,33,G,6-4,185,"OCT 26, 1934",26.0,3,West Virginia,77082,,0
+1610612747,1960,00,Ron Johnson,Ron,ron-johnson,52,F,6-8,215,"JUL 20, 1938",22.0,R,Minnesota,77165,,0
+1610612747,1960,00,Howie Jolliff,Howie,howie-jolliff,54,F,6-7,218,"JUL 20, 1938",22.0,R,Ohio,77172,,0
+1610612747,1960,00,Jim Krebs,Jim,jim-krebs,32,C,6-8,230,"SEP 08, 1935",25.0,3,Southern Methodist,77311,,0
+1610612747,1960,00,Rudy LaRusso,Rudy,rudy-larusso,35,F,6-8,220,"NOV 11, 1937",23.0,1,Dartmouth,77340,,0
+1610612747,1960,00,Bob Leonard,Bob,bob-leonard,21,G,6-3,185,"JUL 17, 1932",28.0,4,Indiana,77371,,0
+1610612747,1960,00,Frank Selvy,Frank,frank-selvy,11,G,6-2,180,"NOV 09, 1932",28.0,5,Furman,78113,,0
+1610612747,1960,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",23.0,R,West Virginia,78497,,0

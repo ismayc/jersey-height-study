@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1971,00,Tom Boerwinkle,Tom,tom-boerwinkle,18,C,7-0,265,"AUG 23, 1945",26.0,3,Tennessee,76192,,0
+1610612741,1971,00,Jimmy Collins,Jimmy,jimmy-collins,22,G,6-2,175,"NOV 24, 1946",25.0,1,New Mexico State,76419,,0
+1610612741,1971,00,Jackie Dinkins,Jackie,jackie-dinkins,23,F,6-5,210,"JAN 22, 1950",22.0,R,Voorhees,76575,,0
+1610612741,1971,00,Jim King,Jim,jim-king,21,G,6-2,175,"FEB 07, 1941",31.0,8,Tulsa,77270,,0
+1610612741,1971,00,Bob Love,Bob,bob-love,10,F,6-8,215,"DEC 08, 1942",29.0,5,Southern,77412,,0
+1610612741,1971,00,Kenny McIntosh,Kenny,kenny-mcintosh,40,F,6-7,225,"JAN 21, 1949",23.0,R,Eastern Michigan,77540,,0
+1610612741,1971,00,Charlie Paulk,Charlie,charlie-paulk,42,F,6-8,219,"JUN 14, 1946",26.0,2,Northeastern State,77815,,0
+1610612741,1971,00,Howard Porter,Howard,howard-porter,54,F,6-8,220,"AUG 31, 1948",23.0,R,Villanova,77875,,0
+1610612741,1971,00,Clifford Ray,Clifford,clifford-ray,14,C,6-9,230,"JAN 21, 1949",23.0,R,Oklahoma,77917,,0
+1610612741,1971,00,Jerry Sloan,Jerry,jerry-sloan,4,G,6-5,195,"MAR 28, 1942",30.0,6,Evansville,78173,,0
+1610612741,1971,00,Chet Walker,Chet,chet-walker,25,F,6-7,212,"FEB 22, 1940",32.0,9,Bradley,78435,,0
+1610612741,1971,00,Bob Weiss,Bob,bob-weiss,8,G,6-3,180,"MAY 07, 1942",30.0,6,Penn State,78485,,0

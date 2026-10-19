@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1948,00,Bill Calhoun,Bill,bill-calhoun,19,F,6-3,180,"NOV 04, 1927",21.0,R,CC of San Francisco,76331,,0
+1610612758,1948,00,Fran Curran,Fran,fran-curran,15,G,6-0,175,"SEP 19, 1925",23.0,R,Notre Dame,76492,,0
+1610612758,1948,00,Bob Davies,Bob,bob-davies,11,G,6-1,175,"JAN 15, 1920",29.0,R,Seton Hall,76514,,0
+1610612758,1948,00,Andy Duncan,Andy,andy-duncan,10,F,6-6,195,"APR 17, 1922",27.0,R,William & Mary,76615,,0
+1610612758,1948,00,Bob Fitzgerald,Bob,bob-fitzgerald,10   12,F,6-5,190,"MAR 14, 1923",26.0,1,Fordham,76720,,0
+1610612758,1948,00,Red Holzman,Red,red-holzman,16,G,5-10,175,"AUG 10, 1920",28.0,R,City College of New York,77050,,0
+1610612758,1948,00,Arnie Johnson,Arnie,arnie-johnson,17,F,6-5,236,"MAY 17, 1920",29.0,R,Bemidji State,77132,,0
+1610612758,1948,00,Andrew Levane,Andrew,andrew-levane,13,F,6-2,190,"APR 11, 1920",29.0,R,St. John's (NY),77375,,0
+1610612758,1948,00,Mike Novak,Mike,mike-novak,18,C,6-9,219,"APR 23, 1915",34.0,R,Loyola-Chicago,77736,,0
+1610612758,1948,00,Arnie Risen,Arnie,arnie-risen,14,C,6-9,200,"OCT 09, 1924",24.0,R,Ohio State,77967,,0
+1610612758,1948,00,Bobby Wanzer,Bobby,bobby-wanzer,9,G,6-0,170,"JUN 04, 1921",28.0,R,Seton Hall,78453,,0

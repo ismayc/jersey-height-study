@@ -1,0 +1,20 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610610035,1946,00,Hank Biasatti,Hank,hank-biasatti,,G,5-11,175,"JAN 14, 1922",25.0,R,Assumption,76161,,0
+1610610035,1946,00,Dick Fitzgerald,Dick,dick-fitzgerald,,F,6-2,175,"NOV 18, 1920",26.0,R,Seton Hall,76719,,0
+1610610035,1946,00,Bob Fitzgerald,Bob,bob-fitzgerald,,F,6-5,190,"MAR 14, 1923",24.0,R,Fordham,76720,,0
+1610610035,1946,00,Frank Fucarino,Frank,frank-fucarino,,F,6-2,175,"JUL 24, 1920",26.0,R,Long Island-Brooklyn,76762,,0
+1610610035,1946,00,Clarence Hermsen,Clarence,clarence-hermsen,,C,6-9,225,"MAR 12, 1923",24.0,R,Minnesota,77007,,0
+1610610035,1946,00,Roy Hurley,Roy,roy-hurley,,F,6-2,170,"AUG 12, 1922",24.0,R,Murray State,77086,,0
+1610610035,1946,00,Ed Kasid,Ed,ed-kasid,,G,5-11,185,"AUG 13, 1923",23.0,R,Minneapolis Vocational HS (MN),77225,,0
+1610610035,1946,00,Mike McCarron,Mike,mike-mccarron,,G,5-11,180,"MAR 02, 1922",25.0,R,Seton Hall,77503,,0
+1610610035,1946,00,Nat Militzok,Nat,nat-militzok,,F,6-3,195,"MAY 03, 1923",24.0,R,Cornell,77598,,0
+1610610035,1946,00,Harry Miller,Harry,harry-miller,,C,6-4,230,"JUL 28, 1923",23.0,R,North Carolina,77600,,0
+1610610035,1946,00,Leo Mogus,Leo,leo-mogus,,F,6-4,190,"APR 13, 1921",26.0,R,Youngstown State,77622,,0
+1610610035,1946,00,Bob Mullens,Bob,bob-mullens,,G,6-1,175,"NOV 01, 1922",24.0,R,Fordham,77660,,0
+1610610035,1946,00,George Nostrand,George,george-nostrand,,C,6-8,195,"JAN 25, 1924",23.0,R,Wyoming,77734,,0
+1610610035,1946,00,Ed Sadowski,Ed,ed-sadowski,,C,6-5,240,"JUL 11, 1917",29.0,R,Seton Hall,78050,,0
+1610610035,1946,00,Dick Schulz,Dick,dick-schulz,,F,6-2,192,"JAN 03, 1917",30.0,R,Wisconsin,78092,,0
+1610610035,1946,00,Ralph Siewert,Ralph,ralph-siewert,,C,7-1,230,"DEC 31, 1923",23.0,R,Dakota Wesleyan,78148,,0
+1610610035,1946,00,Gino Sovran,Gino,gino-sovran,,F,6-2,175,"DEC 17, 1924",22.0,R,Detroit,78221,,0
+1610610035,1946,00,Michael Wallace,Michael,michael-wallace,,G,6-1,185,"JUL 12, 1918",28.0,R,Scranton,78443,,0
+1610610035,1946,00,Ray Wertis,Ray,ray-wertis,,G,5-11,,"JAN 01, 1922",25.0,R,St. John's (NY),78494,,0

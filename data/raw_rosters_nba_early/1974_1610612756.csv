@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,1974,00,Dennis Awtrey,Dennis,dennis-awtrey,21,C,6-10,235,"FEB 22, 1948",27.0,4,Santa Clara,76078,,0
+1610612756,1974,00,Mike Bantom,Mike,mike-bantom,40,F,6-9,200,"DEC 03, 1951",23.0,1,St. Joseph's (PA),76095,,0
+1610612756,1974,00,Keith Erickson,Keith,keith-erickson,14,F,6-5,195,"APR 19, 1944",31.0,9,UCLA,76680,,0
+1610612756,1974,00,Nate Hawthorne,Nate,nate-hawthorne,32,G,6-4,190,"JAN 19, 1951",24.0,1,Southern Illinois,76978,,0
+1610612756,1974,00,Greg Jackson,Greg,greg-jackson,24,G,6-0,180,"AUG 02, 1952",22.0,R,Guilford,77101,,0
+1610612756,1974,00,Gary Melchionni,Gary,gary-melchionni,25,G,6-2,185,"JAN 19, 1951",24.0,1,Duke,77575,,0
+1610612756,1974,00,Jim Owens,Jim,jim-owens,45,F,6-5,200,"MAY 01, 1950",25.0,1,Arizona State,77784,,0
+1610612756,1974,00,Curtis Perry,Curtis,curtis-perry,18,F,6-7,220,"SEP 13, 1948",26.0,4,Missouri State,77835,,0
+1610612756,1974,00,Fred Saunders,Fred,fred-saunders,30,F,6-7,210,"JUN 13, 1951",24.0,R,Syracuse,78065,,0
+1610612756,1974,00,Charlie Scott,Charlie,charlie-scott,33,G,6-5,175,"DEC 15, 1948",26.0,3,North Carolina,78097,,0
+1610612756,1974,00,Dick Van Arsdale,Dick,dick-van-arsdale,5,G,6-5,210,"FEB 22, 1943",32.0,9,Indiana,78398,,0
+1610612756,1974,00,Earl Williams,Earl,earl-williams,55,C,6-7,230,"MAR 24, 1951",24.0,R,Winston-Salem State,78546,,0

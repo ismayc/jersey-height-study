@@ -1,0 +1,19 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1948,00,Johnny Bach,Johnny,johnny-bach,17,F,6-2,180,"JUL 10, 1924",24.0,R,Fordham,76080,,0
+1610612738,1948,00,Hank Beenders,Hank,hank-beenders,6,C,6-5,185,"JUN 02, 1916",33.0,2,Long Island-Brooklyn,76139,,0
+1610612738,1948,00,Bob Doll,Bob,bob-doll,19,F,6-4,195,"AUG 10, 1919",29.0,2,Colorado,76582,,0
+1610612738,1948,00,Eddie Ehlers,Eddie,eddie-ehlers,14,G,6-3,198,"MAR 10, 1923",26.0,1,Purdue,76649,,0
+1610612738,1948,00,Johnny Ezersky,Johnny,johnny-ezersky,10,F-G,6-3,175,"APR 04, 1905",44.0,1,Rhode Island,76689,,0
+1610612738,1948,00,Phil Farbman,Phil,phil-farbman,8,F,6-1,185,"APR 03, 1924",25.0,R,City College of New York,76692,,0
+1610612738,1948,00,Jack Garfinkel,Jack,jack-garfinkel,21,G,6-0,190,"JUN 13, 1918",31.0,2,St. John's (NY),76780,,0
+1610612738,1948,00,John W. Hazen,John W.,john-w-hazen,3-10,G,6-2,172,"MAR 02, 1927",22.0,R,Indiana State,76982,,0
+1610612738,1948,00,George Kaftan,George,george-kaftan,9,F,6-3,190,"FEB 22, 1928",21.0,R,Holy Cross,77218,,0
+1610612738,1948,00,Tom Kelly,Tom,tom-kelly,6,G,6-0,170,"MAR 05, 1924",25.0,R,New York University,77238,,0
+1610612738,1948,00,Bob Kinney,Bob,bob-kinney,22,C,6-6,215,"SEP 16, 1920",28.0,R,Rice,77277,,0
+1610612738,1948,00,Al Lucas,Al,al-lucas,20,F,6-3,195,"JUL 04, 1922",26.0,R,Fordham,77417,,0
+1610612738,1948,00,George Nostrand,George,george-nostrand,3,C,6-8,195,"JAN 25, 1924",25.0,2,Wyoming,77734,,0
+1610612738,1948,00,Stan Noszka,Stan,stan-noszka,10,G,6-1,185,"SEP 19, 1920",28.0,2,Duquesne,77735,,0
+1610612738,1948,00,Dermie O'Connell,Dermie,dermie-oconnell,7,G,6-0,174,"APR 13, 1928",21.0,R,Holy Cross,77745,,0
+1610612738,1948,00,Jim Seminoff,Jim,jim-seminoff,15,G,6-2,190,"SEP 01, 1922",26.0,2,Southern California,78114,,0
+1610612738,1948,00,Art Spector,Art,art-spector,12,F,6-4,200,"OCT 17, 1920",28.0,2,Villanova,78226,,0
+1610612738,1948,00,Gene Stump,Gene,gene-stump,13,F,6-2,185,"NOV 13, 1923",25.0,1,DePaul,78275,,0

@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1951,00,Gerry Calabrese,Gerry,gerry-calabrese,13,G,6-1,175,"FEB 04, 1925",27.0,1,St. John's (NY),76326,,0
+1610612755,1951,00,Al Cervi,Al,al-cervi,15,G,5-11,170,"FEB 12, 1917",35.0,2,East HS (NY),76373,,0
+1610612755,1951,00,Billy Gabor,Billy,billy-gabor,7,G,5-11,170,"MAY 13, 1922",30.0,2,Syracuse,76768,,0
+1610612755,1951,00,Noble Jorgensen,Noble,noble-jorgensen,6,C,6-9,228,"MAY 18, 1925",27.0,3,Iowa,77212,,0
+1610612755,1951,00,George King,George,george-king,3,G,6-0,175,"AUG 16, 1928",23.0,R,University of Charleston,77268,,0
+1610612755,1951,00,Wally Osterkorn,Wally,wally-osterkorn,8-17,F,6-5,215,"JUL 06, 1928",23.0,R,Illinois,77775,,0
+1610612755,1951,00,George Ratkovicz,George,george-ratkovicz,10,F,6-7,220,"NOV 13, 1922",29.0,2,Lindblom HS (IL),77913,,0
+1610612755,1951,00,Red Rocha,Red,red-rocha,16,C,6-9,185,"SEP 18, 1923",28.0,4,Oregon State,77999,,0
+1610612755,1951,00,Don Savage,Don,don-savage,9,F,6-3,205,"APR 09, 1928",24.0,R,Le Moyne,78066,,0
+1610612755,1951,00,Dolph Schayes,Dolph,dolph-schayes,4,F,6-8,195,"MAY 19, 1928",24.0,2,New York University,78076,,0
+1610612755,1951,00,Paul Seymour,Paul,paul-seymour,5,G,6-1,180,"JAN 30, 1928",24.0,3,Toledo,78117,,0

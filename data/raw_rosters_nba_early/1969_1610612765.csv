@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1969,00,Walt Bellamy,Walt,walt-bellamy,8,C,6-10,225,"JUL 24, 1939",30.0,8,Indiana,76144,,0
+1610612765,1969,00,Dave Bing,Dave,dave-bing,21,G,6-3,180,"NOV 24, 1943",26.0,3,Syracuse,76166,,0
+1610612765,1969,00,Terry Dischinger,Terry,terry-dischinger,43,F,6-7,189,"NOV 21, 1940",29.0,5,Purdue,76577,,0
+1610612765,1969,00,Happy Hairston,Happy,happy-hairston,5,F,6-7,225,"MAY 31, 1942",28.0,5,New York University,76916,,0
+1610612765,1969,00,Bill Hewitt,Bill,bill-hewitt,31,F,6-7,210,"AUG 08, 1944",25.0,1,Southern California,77013,,0
+1610612765,1969,00,Howard Komives,Howard,howard-komives,30,G,6-1,185,"MAY 09, 1941",29.0,5,Bowling Green,77297,,0
+1610612765,1969,00,Paul Long,Paul,paul-long,26-36,G,6-2,180,"FEB 08, 1944",26.0,1,Wake Forest,77406,,0
+1610612765,1969,00,Mccoy McLemore,Mccoy,mccoy-mclemore,18,F,6-7,230,"APR 03, 1942",28.0,5,Drake,77548,,0
+1610612765,1969,00,Eddie Miles,Eddie,eddie-miles,14,G,6-4,195,"JUL 05, 1940",29.0,6,Seattle,77596,,0
+1610612765,1969,00,Steve Mix,Steve,steve-mix,23,F,6-7,215,"DEC 30, 1947",22.0,R,Toledo,77618,,0
+1610612765,1969,00,Otto Moore,Otto,otto-moore,20,C,6-11,205,"AUG 27, 1946",23.0,1,Texas-Pan American,77636,,0
+1610612765,1969,00,Erwin Mueller,Erwin,erwin-mueller,51,F,6-8,230,"MAR 12, 1944",26.0,3,San Francisco,77658,,0
+1610612765,1969,00,Bob Quick,Bob,bob-quick,14,F,6-5,215,"MAR 05, 1946",24.0,1,Xavier,77892,,0
+1610612765,1969,00,George Reynolds,George,george-reynolds,10,G,6-4,195,"NOV 23, 1947",22.0,R,Houston,77945,,0
+1610612765,1969,00,Jimmy Walker,Jimmy,jimmy-walker,24,G,6-3,195,"APR 08, 1944",26.0,2,Providence,78439,,0
+1610612765,1969,00,Tom Workman,Tom,tom-workman,23,F,6-7,218,"NOV 14, 1944",25.0,2,Seattle,78617,,0

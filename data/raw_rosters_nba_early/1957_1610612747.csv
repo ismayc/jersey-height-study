@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1957,00,George Brown,George,george-brown, ,F,6-6,190,"OCT 30, 1935",22.0,R,Wayne State,76273,,0
+1610612747,1957,00,Bob Burrow,Bob,bob-burrow,50,C,6-7,228,"JUN 29, 1934",24.0,1,Kentucky,76313,,0
+1610612747,1957,00,Walter Devlin,Walter,walter-devlin,13,G,6-5,195,"DEC 21, 1931",26.0,2,George Washington,76561,,0
+1610612747,1957,00,Bo Erias,Bo,bo-erias, ,F,6-3,220,"JUL 30, 1932",25.0,R,Niagara,76679,,0
+1610612747,1957,00,Ed Fleming,Ed,ed-fleming,50-70,G,6-3,189,"JUL 25, 1933",24.0,2,Niagara,76723,,0
+1610612747,1957,00,Larry Foust,Larry,larry-foust,14,C,6-9,215,"JUN 24, 1928",30.0,7,La Salle,76744,,0
+1610612747,1957,00,Dick Garmaker,Dick,dick-garmaker,16,G,6-3,200,"OCT 29, 1932",25.0,2,Minnesota,76783,,0
+1610612747,1957,00,Rod Hundley,Rod,rod-hundley,33,G,6-4,185,"OCT 26, 1934",23.0,R,West Virginia,77082,,0
+1610612747,1957,00,Joel Ingram,Joel,joel-ingram,22,F,6-0,210,"AUG 31, 1931",26.0,R,Jackson State,77095,,0
+1610612747,1957,00,Jim Krebs,Jim,jim-krebs,32,C,6-8,230,"SEP 08, 1935",22.0,R,Southern Methodist,77311,,0
+1610612747,1957,00,Bob Leonard,Bob,bob-leonard,21,G,6-3,185,"JUL 17, 1932",25.0,1,Indiana,77371,,0
+1610612747,1957,00,Vern Mikkelsen,Vern,vern-mikkelsen,19,F,6-7,230,"OCT 21, 1928",29.0,8,Hamline,77593,,0
+1610612747,1957,00,Dick Schnittker,Dick,dick-schnittker,15,F,6-5,200,"MAY 27, 1928",30.0,5,Ohio State,78086,,0
+1610612747,1957,00,Art Spoelstra,Art,art-spoelstra,27,C,6-9,220,"SEP 11, 1932",25.0,3,Western Kentucky,78232,,0

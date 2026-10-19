@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610610031,1946,00,John Abramovic,John,john-abramovic,,F,6-3,195,"FEB 09, 1919",28.0,R,Salem,76007,,0
+1610610031,1946,00,Mike Bytzura,Mike,mike-bytzura,,F,6-1,170,"JUN 18, 1922",25.0,R,Long Island-Brooklyn,76323,,0
+1610610031,1946,00,Joe Fabel,Joe,joe-fabel,,F,6-1,190,"SEP 04, 1913",33.0,R,Pittsburgh,76690,,0
+1610610031,1946,00,Nat Frankel,Nat,nat-frankel,,F,6-0,195,"NOV 03, 1913",33.0,R,Brooklyn,76749,,0
+1610610031,1946,00,Gorham Getchell,Gorham,gorham-getchell,,C,6-4,205,"AUG 14, 1920",26.0,R,Temple,76805,,0
+1610610031,1946,00,Coulby Gunther,Coulby,coulby-gunther,,F,6-4,190,"FEB 05, 1923",24.0,R,Boston College,76905,,0
+1610610031,1946,00,Noble Jorgensen,Noble,noble-jorgensen,,C,6-9,228,"MAY 18, 1925",22.0,R,Iowa,77212,,0
+1610610031,1946,00,Roger Jorgensen,Roger,roger-jorgensen,,C,6-5,200,"SEP 02, 1920",26.0,R,Ohio State,77213,,0
+1610610031,1946,00,Tony Kappen,Tony,tony-kappen,,G,5-10,165,"APR 13, 1919",28.0,R,Forest Hills HS (NY),77222,,0
+1610610031,1946,00,Peter Maravich,Peter,peter-maravich,,G,6-0,185,"AUG 20, 1920",26.0,R,Davis & Elkins,77458,,0
+1610610031,1946,00,Ed Melvin,Ed,ed-melvin,,F,5-9,170,"FEB 13, 1916",31.0,R,Duquesne,77577,,0
+1610610031,1946,00,Zigmund Mihalik,Zigmund,zigmund-mihalik,,G,6-0,180,"SEP 22, 1916",30.0,R,Ford City HS (PA),77589,,0
+1610610031,1946,00,Walt Miller,Walt,walt-miller,,F,6-2,190,"JUL 30, 1915",31.0,R,Duquesne,77604,,0
+1610610031,1946,00,John Mills,John,john-mills,,C,6-8,203,"SEP 07, 1919",27.0,R,Western Kentucky,77606,,0
+1610610031,1946,00,Stan Noszka,Stan,stan-noszka,,,,,"SEP 19, 1920",26.0,R,Duquesne,77735,,0
+1610610031,1946,00,Hank Zeller,Hank,hank-zeller,,C,6-4,210,"JUL 10, 1918",28.0,R,Washington & Jefferson,78642,,0

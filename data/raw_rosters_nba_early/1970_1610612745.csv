@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612745,1970,00,Don Adams,Don,don-adams,32,F,6-7,210,"NOV 27, 1947",23.0,R,Northwestern,76012,,0
+1610612745,1970,00,John Block,John,john-block,34,F,6-10,207,"APR 16, 1944",27.0,4,Southern California,76187,,0
+1610612745,1970,00,Johnny Egan,Johnny,johnny-egan,21,G,6-0,180,"JAN 31, 1939",32.0,9,Providence,76647,,0
+1610612745,1970,00,Elvin Hayes,Elvin,elvin-hayes,11,F,6-9,235,"NOV 17, 1945",25.0,2,Houston,76979,,0
+1610612745,1970,00,Toby Kimball,Toby,toby-kimball,7,F,6-6,220,"SEP 07, 1942",28.0,4,Connecticut,77259,,0
+1610612745,1970,00,Stu Lantz,Stu,stu-lantz,22,G,6-3,175,"JUL 13, 1946",24.0,2,Nebraska,77338,,0
+1610612745,1970,00,Calvin Murphy,Calvin,calvin-murphy,23,G,5-9,165,"MAY 09, 1948",23.0,R,Niagara,77669,,0
+1610612745,1970,00,Curtis Perry,Curtis,curtis-perry,54,F,6-7,220,"SEP 13, 1948",22.0,R,Missouri State,77835,,0
+1610612745,1970,00,Larry Siegfried,Larry,larry-siegfried,20,G,6-3,190,"MAY 22, 1939",32.0,7,Ohio State,78147,,0
+1610612745,1970,00,Rudy Tomjanovich,Rudy,rudy-tomjanovich,45,F,6-8,218,"NOV 24, 1948",22.0,R,Michigan,78350,,0
+1610612745,1970,00,John Trapp,John,john-trapp,31,F,6-7,210,"OCT 02, 1945",25.0,2,UNLV,78367,,0
+1610612745,1970,00,Bernie Williams,Bernie,bernie-williams,35,G,6-3,175,"DEC 30, 1945",25.0,1,La Salle,78540,,0

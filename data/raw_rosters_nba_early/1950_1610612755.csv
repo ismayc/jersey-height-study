@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1950,00,Gerry Calabrese,Gerry,gerry-calabrese,9-12,G,6-1,175,"FEB 04, 1925",26.0,R,St. John's (NY),76326,,0
+1610612755,1950,00,Al Cervi,Al,al-cervi,15,G,5-11,170,"FEB 12, 1917",34.0,1,East HS (NY),76373,,0
+1610612755,1950,00,Leroy Chollet,Leroy,leroy-chollet,11,F,6-2,190,"MAR 05, 1925",26.0,1,Canisius,76391,,0
+1610612755,1950,00,Billy Gabor,Billy,billy-gabor,7,G,5-11,170,"MAY 13, 1922",29.0,1,Syracuse,76768,,0
+1610612755,1950,00,Alex Hannum,Alex,alex-hannum,10,F,6-7,210,"JUL 19, 1923",27.0,1,Southern California,76937,,0
+1610612755,1950,00,Noble Jorgensen,Noble,noble-jorgensen,13,C,6-9,228,"MAY 18, 1925",26.0,2,Iowa,77212,,0
+1610612755,1950,00,Johnny Macknowski,Johnny,johnny-macknowski,5,G,6-1,180,"JAN 07, 1923",28.0,1,Seton Hall,77436,,0
+1610612755,1950,00,George Ratkovicz,George,george-ratkovicz,6,F,6-7,220,"NOV 13, 1922",28.0,1,Lindblom HS (IL),77913,,0
+1610612755,1950,00,Dolph Schayes,Dolph,dolph-schayes,4,F,6-8,195,"MAY 19, 1928",23.0,1,New York University,78076,,0
+1610612755,1950,00,Freddie Scolari,Freddie,freddie-scolari,14,G,5-11,180,"MAR 01, 1922",29.0,4,San Francisco,78094,,0
+1610612755,1950,00,Paul Seymour,Paul,paul-seymour,8,G,6-1,180,"JAN 30, 1928",23.0,2,Toledo,78117,,0

@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1953,00,Leo Barnhorst,Leo,leo-barnhorst,8-15,F,6-4,190,"MAY 11, 1924",30.0,4,Notre Dame,76110,,0
+1610612765,1953,00,Frank Brian,Frank,frank-brian,7,G,6-1,180,"MAY 01, 1923",31.0,4,Louisiana State,76250,,0
+1610612765,1953,00,Larry Foust,Larry,larry-foust,16,C,6-9,215,"JUN 24, 1928",26.0,3,La Salle,76744,,0
+1610612765,1953,00,Mel Hutchins,Mel,mel-hutchins,4-9,F,6-6,200,"NOV 22, 1928",25.0,2,Brigham Young,77089,,0
+1610612765,1953,00,Don Meineke,Don,don-meineke,17,F,6-7,208,"OCT 30, 1930",23.0,1,Dayton,77573,,0
+1610612765,1953,00,Jack Molinas,Jack,jack-molinas,6,F,6-6,200,"OCT 01, 1931",22.0,R,Columbia,77624,,0
+1610612765,1953,00,Ken Murray,Ken,ken-murray,15,G,6-2,190,"APR 20, 1928",26.0,1,St. Bonaventure,77675,,0
+1610612765,1953,00,Andy Phillip,Andy,andy-phillip,14,G,6-3,195,"MAR 07, 1922",32.0,6,Illinois,77853,,0
+1610612765,1953,00,Freddie Scolari,Freddie,freddie-scolari,10,G,5-11,180,"MAR 01, 1922",32.0,7,San Francisco,78094,,0
+1610612765,1953,00,Zeke Sinicola,Zeke,zeke-sinicola,5,G,5-10,165,"JAN 25, 1929",25.0,1,Niagara,78163,,0
+1610612765,1953,00,George Yardley,George,george-yardley,12,F,6-5,190,"NOV 03, 1928",25.0,R,Stanford,78628,,0
+1610612765,1953,00,Max Zaslofsky,Max,max-zaslofsky,6,G,6-2,170,"DEC 07, 1925",28.0,7,St. John's (NY),78638,,0

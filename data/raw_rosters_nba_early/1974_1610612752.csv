@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1974,00,Dennis Bell,Dennis,dennis-bell,46,F,6-5,185,"JUN 02, 1951",24.0,1,Drake,76142,,0
+1610612752,1974,00,Bill Bradley,Bill,bill-bradley,24,F,6-5,205,"JUL 28, 1943",31.0,7,Princeton,76233,,0
+1610612752,1974,00,Jesse Dark,Jesse,jesse-dark,11,G,6-4,210,"SEP 02, 1951",23.0,R,Virginia Commonwealth,76509,,0
+1610612752,1974,00,Mel Davis,Mel,mel-davis,31,F,6-6,220,"NOV 09, 1950",24.0,1,St. John's (NY),76529,,0
+1610612752,1974,00,Walt Frazier,Walt,walt-frazier,10,G,6-4,200,"MAR 29, 1945",30.0,7,Southern Illinois,76750,,0
+1610612752,1974,00,John Gianelli,John,john-gianelli,40,C,6-10,220,"JUN 10, 1950",25.0,2,Pacific,76806,,0
+1610612752,1974,00,Phil Jackson,Phil,phil-jackson,18,F,6-8,220,"SEP 17, 1945",29.0,6,North Dakota,77106,,0
+1610612752,1974,00,Earl Monroe,Earl,earl-monroe,15,G,6-3,185,"NOV 21, 1944",30.0,7,Winston-Salem State,600006,,0
+1610612752,1974,00,Howard Porter,Howard,howard-porter,54,F,6-8,220,"AUG 31, 1948",26.0,3,Villanova,77875,,0
+1610612752,1974,00,Tom Riker,Tom,tom-riker,6,F,6-10,225,"FEB 28, 1950",25.0,2,South Carolina,77960,,0
+1610612752,1974,00,Dave Stallworth,Dave,dave-stallworth,9,F,6-7,200,"DEC 20, 1941",33.0,7,Wichita State,78238,,0
+1610612752,1974,00,Harthorne Wingo,Harthorne,harthorne-wingo,43,F,6-6,210,"SEP 09, 1947",27.0,2,Friendship (SC),78596,,0

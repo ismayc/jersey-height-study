@@ -24,3 +24,11 @@ $PY python/06_number_explorer.py --check | tail -1
 echo
 echo "=== findings: README numbers regenerate from outputs ==="
 $PY python/05_findings.py --check | tail -1
+
+echo
+echo "=== WNBA extension: R vs Python reconciliation ==="
+$PY python/09_reconcile_wnba.py | tail -1
+
+echo
+echo "=== WNBA extension: README section regenerates from outputs ==="
+$PY python/10_wnba_findings.py --check | tail -1

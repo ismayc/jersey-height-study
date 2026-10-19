@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1961,00,Paul Arizin,Paul,paul-arizin,11,F,6-4,190,"APR 09, 1928",34.0,9,Villanova,76056,,0
+1610612744,1961,00,Alvin Attles,Alvin,alvin-attles,16,G,6-1,175,"NOV 07, 1936",25.0,1,North Carolina A&T,76070,,0
+1610612744,1961,00,Wilt Chamberlain,Wilt,wilt-chamberlain,13,C,7-1,250,"AUG 21, 1936",25.0,2,Kansas,76375,,0
+1610612744,1961,00,Ed Conlin,Ed,ed-conlin,7,F,6-6,200,"SEP 02, 1933",28.0,6,Fordham,76429,,0
+1610612744,1961,00,Tom Gola,Tom,tom-gola,15,G,6-6,205,"JAN 13, 1933",29.0,5,La Salle,76828,,0
+1610612744,1961,00,York Larese,York,york-larese,34,G,6-4,183,"JUL 18, 1938",23.0,R,North Carolina,77339,,0
+1610612744,1961,00,Ted Luckenbill,Ted,ted-luckenbill,12,F,6-6,205,"JUL 27, 1939",22.0,R,Houston,77421,,0
+1610612744,1961,00,Tom Meschery,Tom,tom-meschery,14,F,6-6,215,"OCT 26, 1938",23.0,R,Saint Mary's,77584,,0
+1610612744,1961,00,Frank Radovich,Frank,frank-radovich,9,F,6-8,235,"MAR 03, 1938",24.0,R,Indiana,77899,,0
+1610612744,1961,00,Guy Rodgers,Guy,guy-rodgers,5,G,6-0,185,"SEP 01, 1935",26.0,3,Temple,78003,,0
+1610612744,1961,00,Joe Ruklick,Joe,joe-ruklick,17,F,6-9,220,"AUG 03, 1938",23.0,2,Northwestern,78040,,0

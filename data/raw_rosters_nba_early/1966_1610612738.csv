@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1966,00,Jim Barnett,Jim,jim-barnett,11,G,6-4,170,"JUL 07, 1944",22.0,R,Oregon,76106,,0
+1610612738,1966,00,Wayne Embry,Wayne,wayne-embry,28,C,6-8,240,"MAR 26, 1937",30.0,8,Miami (Ohio),76668,,0
+1610612738,1966,00,John Havlicek,John,john-havlicek,17,F,6-5,203,"APR 08, 1940",27.0,4,Ohio State,76970,,0
+1610612738,1966,00,Bailey Howell,Bailey,bailey-howell,18,F,6-7,210,"JAN 20, 1937",30.0,7,Mississippi State,77070,,0
+1610612738,1966,00,K.C. Jones,K.C.,kc-jones,25,G,6-1,200,"MAY 25, 1932",35.0,8,San Francisco,77188,,0
+1610612738,1966,00,Sam Jones,Sam,sam-jones,24,G,6-4,198,"JUN 24, 1933",34.0,9,North Carolina Central,77196,,0
+1610612738,1966,00,Toby Kimball,Toby,toby-kimball,26,F,6-6,220,"SEP 07, 1942",24.0,R,Connecticut,77259,,0
+1610612738,1966,00,Don Nelson,Don,don-nelson,19,F,6-6,210,"MAY 15, 1940",27.0,4,Iowa,77700,,0
+1610612738,1966,00,Bill Russell,Bill,bill-russell,6,C,6-10,215,"FEB 12, 1934",33.0,10,San Francisco,78049,,0
+1610612738,1966,00,Thomas Sanders,Thomas,thomas-sanders,16,F,6-6,210,"NOV 08, 1938",28.0,6,New York University,78060,,0
+1610612738,1966,00,Larry Siegfried,Larry,larry-siegfried,20,G,6-3,190,"MAY 22, 1939",28.0,3,Ohio State,78147,,0
+1610612738,1966,00,Ron Watts,Ron,ron-watts,12,F,6-6,210,"MAY 21, 1943",24.0,1,Wake Forest,78474,,0

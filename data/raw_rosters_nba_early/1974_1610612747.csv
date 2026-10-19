@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1974,00,Lucius Allen,Lucius,lucius-allen,40,G,6-2,175,"SEP 26, 1947",27.0,5,UCLA,76027,,0
+1610612747,1974,00,Zelmo Beaty,Zelmo,zelmo-beaty,31,C,6-9,225,"OCT 25, 1939",35.0,7,Prairie View A&M,76133,,0
+1610612747,1974,00,Bill Bridges,Bill,bill-bridges,32,F,6-5,228,"APR 04, 1939",36.0,12,Kansas,76253,,0
+1610612747,1974,00,Corky Calhoun,Corky,corky-calhoun,10,F,6-7,210,"NOV 01, 1950",24.0,2,Pennsylvania,76330,,0
+1610612747,1974,00,Gail Goodrich,Gail,gail-goodrich,25,G,6-1,170,"APR 23, 1943",32.0,9,UCLA,76832,,0
+1610612747,1974,00,Happy Hairston,Happy,happy-hairston,52,F,6-7,225,"MAY 31, 1942",33.0,10,New York University,76916,,0
+1610612747,1974,00,Connie Hawkins,Connie,connie-hawkins,42,F,6-8,210,"JUL 17, 1942",32.0,5,Iowa,76972,,0
+1610612747,1974,00,Stu Lantz,Stu,stu-lantz,23,G,6-3,175,"JUL 13, 1946",28.0,6,Nebraska,77338,,0
+1610612747,1974,00,Stan Love,Stan,stan-love,34,F,6-9,215,"APR 09, 1949",26.0,3,Oregon,77413,,0
+1610612747,1974,00,Pat Riley,Pat,pat-riley,12,G,6-4,205,"MAR 20, 1945",30.0,7,Kentucky,77962,,0
+1610612747,1974,00,Cazzie Russell,Cazzie,cazzie-russell,33,F,6-5,218,"JUN 07, 1944",31.0,8,Michigan,78045,,0
+1610612747,1974,00,Elmore Smith,Elmore,elmore-smith,3,C,7-1,250,"MAY 09, 1949",26.0,3,Kentucky State,78188,,0
+1610612747,1974,00,Kermit Washington,Kermit,kermit-washington,24,F,6-8,230,"SEP 17, 1951",23.0,1,American,78467,,0
+1610612747,1974,00,Brian Winters,Brian,brian-winters,20,G,6-4,185,"MAR 01, 1952",23.0,R,South Carolina,78600,,0

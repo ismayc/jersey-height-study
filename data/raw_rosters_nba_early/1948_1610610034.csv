@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610610034,1948,00,Lonnie Eggleston,Lonnie,lonnie-eggleston,,G,6-0,170,"JUN 08, 1918",31.0,R,Oklahoma State,76648,,0
+1610610034,1948,00,Coulby Gunther,Coulby,coulby-gunther,,F,6-4,190,"FEB 05, 1923",26.0,1,Boston College,76905,,0
+1610610034,1948,00,Grady Lewis,Grady,grady-lewis,,F,6-7,215,"MAR 25, 1917",32.0,2,Oklahoma,77381,,0
+1610610034,1948,00,Johnny Logan,Johnny,johnny-logan,,G,6-2,175,"JAN 01, 1921",28.0,2,Indiana,77403,,0
+1610610034,1948,00,Ariel Maughan,Ariel,ariel-maughan,,F,6-4,190,"FEB 23, 1923",26.0,2,Utah State,77485,,0
+1610610034,1948,00,Bob O'Brien,Bob,bob-obrien,,F,6-4,190,"JAN 26, 1927",22.0,1,Pepperdine,77744,,0
+1610610034,1948,00,Estes Parham,Estes,estes-parham,,F,6-3,200,"DEC 27, 1921",27.0,R,Texas Wesleyan,77797,,0
+1610610034,1948,00,Don Putman,Don,don-putman,,G,6-1,170,"NOV 13, 1922",26.0,2,Denver,77891,,0
+1610610034,1948,00,Bill Roberts,Bill,bill-roberts,,,,,"APR 08, 1905",44.0,R,Wyoming,77979,,0
+1610610034,1948,00,Red Rocha,Red,red-rocha,,C,6-9,185,"SEP 18, 1923",25.0,1,Oregon State,77999,,0
+1610610034,1948,00,Belus Smawley,Belus,belus-smawley,,G,6-1,195,"MAR 20, 1918",31.0,2,Appalachian State,78176,,0
+1610610034,1948,00,D.C. Wilcutt,D.C.,dc-wilcutt,,G,6-2,165,"MAR 25, 1923",26.0,R,St. Louis,78525,,0

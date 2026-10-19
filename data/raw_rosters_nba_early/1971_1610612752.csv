@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1971,00,Dick Barnett,Dick,dick-barnett,12,G,6-4,190,"OCT 02, 1936",35.0,11,Tennessee State,76107,,0
+1610612752,1971,00,Bill Bradley,Bill,bill-bradley,24,F,6-5,205,"JUL 28, 1943",28.0,4,Princeton,76233,,0
+1610612752,1971,00,Dave DeBusschere,Dave,dave-debusschere,22,F,6-6,220,"OCT 16, 1940",31.0,9,Detroit,76545,,0
+1610612752,1971,00,Greg Fillmore,Greg,greg-fillmore,34,C,7-1,240,"MAR 07, 1947",25.0,1,Cheyney,76715,,0
+1610612752,1971,00,Walt Frazier,Walt,walt-frazier,10,G,6-4,200,"MAR 29, 1945",27.0,4,Southern Illinois,76750,,0
+1610612752,1971,00,Phil Jackson,Phil,phil-jackson,18,F,6-8,220,"SEP 17, 1945",26.0,3,North Dakota,77106,,0
+1610612752,1971,00,Jerry Lucas,Jerry,jerry-lucas,32,F,6-8,230,"MAR 30, 1940",32.0,8,Ohio State,77418,,0
+1610612752,1971,00,Eddie Mast,Eddie,eddie-mast,26,F,6-9,220,"OCT 03, 1948",23.0,1,Temple,77483,,0
+1610612752,1971,00,Dean Meminger,Dean,dean-meminger,7,G,6-1,175,"MAY 13, 1948",24.0,R,Marquette,77578,,0
+1610612752,1971,00,Eddie Miles,Eddie,eddie-miles,42,G,6-4,195,"JUL 05, 1940",31.0,8,Seattle,77596,,0
+1610612752,1971,00,Mike Price,Mike,mike-price,5,G,6-3,200,"SEP 11, 1948",23.0,1,Illinois,77884,,0
+1610612752,1971,00,Willis Reed,Willis,willis-reed,19,C,6-10,235,"JUN 25, 1942",30.0,7,Grambling,77929,,0
+1610612752,1971,00,Mike Riordan,Mike,mike-riordan,6,F,6-4,200,"JUL 09, 1945",26.0,3,Providence,77966,,0
+1610612752,1971,00,Dave Stallworth,Dave,dave-stallworth,9,F,6-7,200,"DEC 20, 1941",30.0,4,Wichita State,78238,,0

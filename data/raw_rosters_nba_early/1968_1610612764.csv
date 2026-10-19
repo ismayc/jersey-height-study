@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1968,00,John Barnhill,John,john-barnhill,11,G,6-1,180,"MAR 20, 1938",31.0,6,Tennessee State,76108,,0
+1610612764,1968,00,Leroy Ellis,Leroy,leroy-ellis,23,F,6-11,210,"MAR 10, 1940",29.0,6,St. John's (NY),76663,,0
+1610612764,1968,00,Bob Ferry,Bob,bob-ferry,12,C,6-8,230,"MAY 31, 1937",32.0,9,St. Louis,76712,,0
+1610612764,1968,00,Gus Johnson,Gus,gus-johnson,25,F,6-6,230,"DEC 13, 1935",33.0,5,Idaho,77150,,0
+1610612764,1968,00,Kevin Loughery,Kevin,kevin-loughery,22,G,6-3,190,"MAR 28, 1940",29.0,6,St. John's (NY),77411,,0
+1610612764,1968,00,Ed Manning,Ed,ed-manning,35,F,6-7,210,"JAN 02, 1944",25.0,1,Jackson State,77454,,0
+1610612764,1968,00,Jack Marin,Jack,jack-marin,24,F,6-6,200,"OCT 12, 1944",24.0,2,Duke,77463,,0
+1610612764,1968,00,Earl Monroe,Earl,earl-monroe,10,G,6-3,185,"NOV 21, 1944",24.0,1,Winston-Salem State,600006,,0
+1610612764,1968,00,Barry Orms,Barry,barry-orms,33,G,6-3,190,"MAY 01, 1946",23.0,R,St. Louis,77768,,0
+1610612764,1968,00,Bob Quick,Bob,bob-quick,15,F,6-5,215,"MAR 05, 1946",23.0,R,Xavier,77892,,0
+1610612764,1968,00,Ray Scott,Ray,ray-scott,31,F,6-9,215,"JUL 12, 1938",30.0,7,Portland,78100,,0
+1610612764,1968,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",23.0,R,Louisville,78392,,0
+1610612764,1968,00,Tom Workman,Tom,tom-workman,40,F,6-7,218,"NOV 14, 1944",24.0,1,Seattle,78617,,0

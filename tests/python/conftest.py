@@ -21,3 +21,8 @@ def load_script(rel_path: str, name: str):
 @pytest.fixture(scope="session")
 def jersey():
     return load_script("python/03_analysis.py", "jersey_analysis")
+
+
+@pytest.fixture(scope="session")
+def wnba():
+    return load_script("python/08_wnba_analysis.py", "wnba_analysis")

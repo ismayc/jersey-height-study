@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610610034,1947,00,Bob Doll,Bob,bob-doll,,F,6-4,195,"AUG 10, 1919",28.0,1,Colorado,76582,,0
+1610610034,1947,00,Grady Lewis,Grady,grady-lewis,,F,6-7,215,"MAR 25, 1917",31.0,1,Oklahoma,77381,,0
+1610610034,1947,00,Johnny Logan,Johnny,johnny-logan,,G,6-2,175,"JAN 01, 1921",27.0,1,Indiana,77403,,0
+1610610034,1947,00,Don Martin,Don,don-martin,,C,6-7,210,"FEB 07, 1920",28.0,1,Central Missouri,77473,,0
+1610610034,1947,00,Francis O'Grady,Francis,francis-ogrady,,G,5-11,160,"JAN 19, 1920",28.0,1,Georgetown,77750,,0
+1610610034,1947,00,Don Putman,Don,don-putman,,G,6-1,170,"NOV 13, 1922",25.0,1,Denver,77891,,0
+1610610034,1947,00,Red Rocha,Red,red-rocha,,C,6-9,185,"SEP 18, 1923",24.0,R,Oregon State,77999,,0
+1610610034,1947,00,Irv Rothenberg,Irv,irv-rothenberg,,C,6-7,215,"DEC 31, 1921",26.0,1,Long Island-Brooklyn,78023,,0
+1610610034,1947,00,Giff Roux,Giff,giff-roux,,F,6-5,195,"JUN 28, 1923",25.0,1,Kansas,78026,,0
+1610610034,1947,00,Belus Smawley,Belus,belus-smawley,,G,6-1,195,"MAR 20, 1918",30.0,1,Appalachian State,78176,,0

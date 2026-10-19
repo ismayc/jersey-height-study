@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1974,00,Don Adams,Don,don-adams,10,F,6-7,210,"NOV 27, 1947",27.0,4,Northwestern,76012,,0
+1610612765,1974,00,Dave Bing,Dave,dave-bing,21,G,6-3,180,"NOV 24, 1943",31.0,8,Syracuse,76166,,0
+1610612765,1974,00,Jim Davis,Jim,jim-davis,20,C,6-9,225,"DEC 18, 1941",33.0,7,Colorado,76525,,0
+1610612765,1974,00,Al Eberhard,Al,al-eberhard,44,F,6-6,225,"MAY 10, 1952",23.0,R,Missouri,76634,,0
+1610612765,1974,00,Chris Ford,Chris,chris-ford,42,G,6-5,190,"JAN 11, 1949",26.0,2,Villanova,76733,,0
+1610612765,1974,00,Bob Lanier,Bob,bob-lanier,16,C,6-11,250,"SEP 10, 1948",26.0,4,St. Bonaventure,600005,,0
+1610612765,1974,00,Bill Ligon,Bill,bill-ligon,26,G,6-4,180,"MAY 19, 1952",23.0,R,Vanderbilt,77388,,0
+1610612765,1974,00,John Mengelt,John,john-mengelt,15,G,6-2,195,"OCT 16, 1949",25.0,3,Auburn,77580,,0
+1610612765,1974,00,Eric Money,Eric,eric-money,14,G,6-0,170,"FEB 06, 1955",20.0,R,Arizona,77627,,0
+1610612765,1974,00,Willie Norwood,Willie,willie-norwood,8,F,6-7,220,"AUG 08, 1947",27.0,3,Alcorn State,77733,,0
+1610612765,1974,00,Curtis Rowe,Curtis,curtis-rowe,18,F,6-7,225,"JUL 02, 1949",25.0,3,UCLA,78028,,0
+1610612765,1974,00,George Trapp,George,george-trapp,31,F,6-8,205,"JUL 11, 1948",26.0,3,Long Beach State,78366,,0

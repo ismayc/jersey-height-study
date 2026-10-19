@@ -1,0 +1,18 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610610032,1948,00,Bob Brown,Bob,bob-brown,,F,6-4,205,"NOV 12, 1923",25.0,R,Miami (Ohio),76284,,0
+1610610032,1948,00,Ernie Calverley,Ernie,ernie-calverley,,G,5-10,145,"JAN 30, 1924",25.0,2,Rhode Island,76335,,0
+1610610032,1948,00,Chuck Halbert,Chuck,chuck-halbert,,C,6-9,225,"FEB 27, 1919",30.0,2,West Texas A&M,76918,,0
+1610610032,1948,00,Bob Hubbard,Bob,bob-hubbard,,C,6-6,215,"DEC 27, 1922",26.0,1,Springfield,77072,,0
+1610610032,1948,00,Francis O'Grady,Francis,francis-ogrady,,G,5-11,160,"JAN 19, 1920",29.0,2,Georgetown,77750,,0
+1610610032,1948,00,Fred Paine,Fred,fred-paine,,F,6-5,210,"DEC 07, 1925",23.0,R,Westminster,77790,,0
+1610610032,1948,00,Les Pugh,Les,les-pugh,,C,6-7,190,"SEP 18, 1923",25.0,R,Ohio State,77888,,0
+1610610032,1948,00,Mel Riebe,Mel,mel-riebe,,G,5-11,180,"JUL 12, 1916",32.0,2,Wooster,77958,,0
+1610610032,1948,00,Lee Robbins,Lee,lee-robbins,,F,6-3,175,"FEB 11, 1922",27.0,1,Colorado,77972,,0
+1610610032,1948,00,Giff Roux,Giff,giff-roux,,F,6-5,195,"JUN 28, 1923",26.0,2,Kansas,78026,,0
+1610610032,1948,00,Kenny Sailors,Kenny,kenny-sailors,,G,5-10,175,"JAN 14, 1922",27.0,2,Wyoming,78051,,0
+1610610032,1948,00,Ben Scharnus,Ben,ben-scharnus,,F,6-2,173,"DEC 11, 1917",31.0,1,Seton Hall,78073,,0
+1610610032,1948,00,Otto Schnellbacher,Otto,otto-schnellbacher,,F,6-4,185,"APR 15, 1923",26.0,R,Kansas,78085,,0
+1610610032,1948,00,Earl Shannon,Earl,earl-shannon,,G,5-11,170,"NOV 23, 1921",27.0,2,Rhode Island,78123,,0
+1610610032,1948,00,Howie Shannon,Howie,howie-shannon,,G,6-2,175,"JUN 10, 1923",26.0,R,Kansas State,78124,,0
+1610610032,1948,00,Andy Tonkovich,Andy,andy-tonkovich,,G,6-1,185,"NOV 01, 1922",26.0,R,Marshall,78353,,0
+1610610032,1948,00,Brady Walker,Brady,brady-walker,,F,6-6,205,"MAR 15, 1921",28.0,R,Brigham Young,78434,,0

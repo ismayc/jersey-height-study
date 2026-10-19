@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1971,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",37.0,13,Seattle,76127,,0
+1610612747,1971,00,Wilt Chamberlain,Wilt,wilt-chamberlain,13,C,7-1,250,"AUG 21, 1936",35.0,12,Kansas,76375,,0
+1610612747,1971,00,Jim Cleamons,Jim,jim-cleamons,11,G,6-3,185,"SEP 13, 1949",22.0,R,Ohio State,76402,,0
+1610612747,1971,00,Leroy Ellis,Leroy,leroy-ellis,14,F,6-11,210,"MAR 10, 1940",32.0,9,St. John's (NY),76663,,0
+1610612747,1971,00,Keith Erickson,Keith,keith-erickson,24,F,6-5,195,"APR 19, 1944",28.0,6,UCLA,76680,,0
+1610612747,1971,00,Gail Goodrich,Gail,gail-goodrich,25,G,6-1,170,"APR 23, 1943",29.0,6,UCLA,76832,,0
+1610612747,1971,00,Happy Hairston,Happy,happy-hairston,52,F,6-7,225,"MAY 31, 1942",30.0,7,New York University,76916,,0
+1610612747,1971,00,Jim McMillian,Jim,jim-mcmillian,5,F,6-5,215,"MAR 11, 1948",24.0,1,Columbia,77554,,0
+1610612747,1971,00,Pat Riley,Pat,pat-riley,12,G,6-4,205,"MAR 20, 1945",27.0,4,Kentucky,77962,,0
+1610612747,1971,00,Flynn Robinson,Flynn,flynn-robinson,21,G,6-1,185,"APR 28, 1941",31.0,5,Wyoming,77988,,0
+1610612747,1971,00,John Trapp,John,john-trapp,31,F,6-7,210,"OCT 02, 1945",26.0,3,UNLV,78367,,0
+1610612747,1971,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",34.0,11,West Virginia,78497,,0

@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610610036,1949,00,John Dillon,John,john-dillon,,F,6-3,180,"JAN 08, 1924",26.0,R,North Carolina,76571,,0
+1610610036,1949,00,Bob Feerick,Bob,bob-feerick,,G,6-3,190,"JAN 02, 1920",30.0,3,Santa Clara,76698,,0
+1610610036,1949,00,Chuck Gilmur,Chuck,chuck-gilmur,,F,6-4,225,"AUG 13, 1922",27.0,3,Washington,76818,,0
+1610610036,1949,00,Chuck Halbert,Chuck,chuck-halbert,,C,6-9,225,"FEB 27, 1919",31.0,3,West Texas A&M,76918,,0
+1610610036,1949,00,Leo Katkaveck,Leo,leo-katkaveck,,G,6-0,185,"APR 17, 1923",27.0,1,North Carolina State,77226,,0
+1610610036,1949,00,Horace McKinney,Horace,horace-mckinney,,F,6-6,185,"JAN 01, 1919",31.0,3,North Carolina,77546,,0
+1610610036,1949,00,Johnny Norlander,Johnny,johnny-norlander,,F,6-3,180,"MAR 05, 1921",29.0,3,Hamline,77728,,0
+1610610036,1949,00,Dick O'Keefe,Dick,dick-okeefe,,G,6-2,185,"SEP 29, 1923",26.0,2,Santa Clara,77752,,0
+1610610036,1949,00,Joseph Reiser,Joseph,joseph-reiser,,G,5-11,165,"DEC 17, 1914",35.0,2,New York University,77938,,0
+1610610036,1949,00,Freddie Scolari,Freddie,freddie-scolari,,G,5-11,180,"MAR 01, 1922",28.0,3,San Francisco,78094,,0

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1960,00,William Bell,William,william-bell,15,G,6-0,180,"SEP 13, 1932",28.0,1,North Carolina State,76143,,0
+1610612752,1960,00,Carl Braun,Carl,carl-braun,4,G,6-5,180,"SEP 25, 1927",33.0,11,Colgate,76243,,0
+1610612752,1960,00,Dave Budd,Dave,dave-budd,10,F,6-6,205,"OCT 28, 1938",22.0,R,Wake Forest,76297,,0
+1610612752,1960,00,Dick Garmaker,Dick,dick-garmaker,17,G,6-3,200,"OCT 29, 1932",28.0,5,Minnesota,76783,,0
+1610612752,1960,00,Jack George,Jack,jack-george,5,G,6-3,190,"NOV 13, 1928",32.0,7,La Salle,76800,,0
+1610612752,1960,00,Johnny Green,Johnny,johnny-green,11,F,6-5,200,"DEC 08, 1933",27.0,1,Michigan State,76867,,0
+1610612752,1960,00,Richie Guerin,Richie,richie-guerin,9,G,6-4,195,"MAY 29, 1932",29.0,4,Iona,76902,,0
+1610612752,1960,00,Darrall Imhoff,Darrall,darrall-imhoff,18,C,6-10,220,"OCT 11, 1938",22.0,R,California,77093,,0
+1610612752,1960,00,Bob McNeill,Bob,bob-mcneill,7,G,6-1,170,"OCT 22, 1938",22.0,R,St. Joseph's (PA),77562,,0
+1610612752,1960,00,Willie Naulls,Willie,willie-naulls,6,F,6-6,225,"OCT 07, 1934",26.0,4,UCLA,77693,,0
+1610612752,1960,00,Jim Palmer,Jim,jim-palmer,19,F,6-8,224,"JUN 08, 1933",28.0,2,Dayton,77792,,0
+1610612752,1960,00,Phil Rollins,Phil,phil-rollins,3,G,6-2,185,"JAN 19, 1934",27.0,2,Louisville,78013,,0
+1610612752,1960,00,Ken Sears,Ken,ken-sears,12,F,6-9,198,"AUG 17, 1933",27.0,5,Santa Clara,78106,,0
+1610612752,1960,00,Charlie Tyra,Charlie,charlie-tyra,14,C,6-8,230,"AUG 16, 1935",25.0,3,Louisville,78391,,0

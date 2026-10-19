@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1957,00,Paul Arizin,Paul,paul-arizin,11,F,6-4,190,"APR 09, 1928",30.0,5,Villanova,76056,,0
+1610612744,1957,00,Ernie Beck,Ernie,ernie-beck,7,G,6-4,190,"DEC 11, 1931",26.0,3,Pennsylvania,76136,,0
+1610612744,1957,00,Walt Davis,Walt,walt-davis,12,C,6-8,205,"JAN 05, 1931",27.0,4,Texas A&M,76536,,0
+1610612744,1957,00,George Dempsey,George,george-dempsey,5,G,6-3,190,"JUL 19, 1929",28.0,3,King's,76555,,0
+1610612744,1957,00,Pat Dunn,Pat,pat-dunn,19,G,6-2,170,"MAR 17, 1931",27.0,R,Utah State,76617,,0
+1610612744,1957,00,Jack George,Jack,jack-george,17,G,6-3,190,"NOV 13, 1928",29.0,4,La Salle,76800,,0
+1610612744,1957,00,Tom Gola,Tom,tom-gola,15,G,6-6,205,"JAN 13, 1933",25.0,1,La Salle,76828,,0
+1610612744,1957,00,Joe Graboski,Joe,joe-graboski,9,F,6-8,195,"JAN 15, 1930",28.0,8,Tuley HS (IL),76838,,0
+1610612744,1957,00,Neil Johnston,Neil,neil-johnston,6,C,6-8,210,"FEB 04, 1929",29.0,6,Ohio State,77169,,0
+1610612744,1957,00,Ray Radziszewski,Ray,ray-radziszewski,19,F,6-5,210,"MAR 01, 1935",23.0,R,St. Joseph's (PA),77901,,0
+1610612744,1957,00,Lennie Rosenbluth,Lennie,lennie-rosenbluth,18,F,6-4,190,"JAN 22, 1933",25.0,R,North Carolina,78018,,0
+1610612744,1957,00,Woody Sauldsberry,Woody,woody-sauldsberry,14,F,6-7,220,"JUL 11, 1934",23.0,R,Texas Southern,78064,,0
+1610612744,1957,00,Jim Walsh,Jim,jim-walsh,20,F,6-4,195,"AUG 29, 1931",26.0,R,Stanford,78446,,0

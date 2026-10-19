@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1978,00,Greg Ballard,Greg,greg-ballard,42,F,6-7,215,"JAN 29, 1955",24.0,1,Oregon,76091,,0
+1610612764,1978,00,Phil Chenier,Phil,phil-chenier,45,G,6-3,180,"OCT 30, 1950",28.0,7,California,76386,,0
+1610612764,1978,00,Dave Corzine,Dave,dave-corzine,40,C,6-11,250,"APR 25, 1956",23.0,R,DePaul,76453,,0
+1610612764,1978,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",31.0,9,Norfolk State,76500,,0
+1610612764,1978,00,Kevin Grevey,Kevin,kevin-grevey,35,G,6-5,210,"MAY 12, 1953",26.0,3,Kentucky,76887,,0
+1610612764,1978,00,Elvin Hayes,Elvin,elvin-hayes,11,F,6-9,235,"NOV 17, 1945",33.0,10,Houston,76979,,0
+1610612764,1978,00,Tom Henderson,Tom,tom-henderson,14,G,6-3,190,"JAN 26, 1952",27.0,4,Hawaii,76996,,0
+1610612764,1978,00,Charlie Johnson,Charlie,charlie-johnson,15,G,6-0,170,"MAR 31, 1949",30.0,6,California,77133,,0
+1610612764,1978,00,Mitch Kupchak,Mitch,mitch-kupchak,25,F,6-9,230,"MAY 24, 1954",25.0,2,North Carolina,77324,,0
+1610612764,1978,00,Roger Phegley,Roger,roger-phegley,22,G,6-6,205,"OCT 16, 1956",22.0,R,Bradley,77848,,0
+1610612764,1978,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",33.0,10,Louisville,78392,,0
+1610612764,1978,00,Larry Wright,Larry,larry-wright,32,G,6-1,160,"NOV 23, 1954",24.0,2,Grambling,78623,,0

@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1976,00,Dave Bing,Dave,dave-bing,21,G,6-3,180,"NOV 24, 1943",33.0,10,Syracuse,76166,,0
+1610612764,1976,00,Phil Chenier,Phil,phil-chenier,45,G,6-3,180,"OCT 30, 1950",26.0,5,California,76386,,0
+1610612764,1976,00,Kevin Grevey,Kevin,kevin-grevey,35,G,6-5,210,"MAY 12, 1953",24.0,1,Kentucky,76887,,0
+1610612764,1976,00,Elvin Hayes,Elvin,elvin-hayes,11,F,6-9,235,"NOV 17, 1945",31.0,8,Houston,76979,,0
+1610612764,1976,00,Jimmy Jones,Jimmy,jimmy-jones,15,G,6-4,188,"JAN 01, 1945",32.0,2,Grambling,77186,,0
+1610612764,1976,00,Mitch Kupchak,Mitch,mitch-kupchak,25,F,6-9,230,"MAY 24, 1954",23.0,R,North Carolina,77324,,0
+1610612764,1976,00,Joe Pace,Joe,joe-pace,44,C,6-10,220,"DEC 18, 1953",23.0,R,Coppin State,77788,,0
+1610612764,1976,00,Mike Riordan,Mike,mike-riordan,6,F,6-4,200,"JUL 09, 1945",31.0,8,Providence,77966,,0
+1610612764,1976,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",31.0,8,Louisville,78392,,0
+1610612764,1976,00,Bob Weiss,Bob,bob-weiss,8,G,6-3,180,"MAY 07, 1942",35.0,11,Penn State,78485,,0
+1610612764,1976,00,Larry Wright,Larry,larry-wright,32,G,6-1,160,"NOV 23, 1954",22.0,R,Grambling,78623,,0

@@ -88,6 +88,52 @@ pooling is noted on each figure). The median tells the story in one line:
 
 {{fig:fig6_number_histogram|The full jersey-number distribution, one season at a time: drag the slider or press play to walk 46 seasons, and switch the bin size (1, 5, or 10 numbers per bar) to trade detail for shape. This is the exploratory view the medians compress away: any bar with ten or fewer wearers lists them on hover (a player traded mid-season shows once, with his final team, because the roster archive is end-of-season). Watch the high-number right tail thin out and the 0/00 bar (first bar, pooled) grow from 1.1% of the league in 1980-81 to its 6.8% all-time peak in 2024-25 (5.6% in 2025-26). Numbers 50 and up went from 7.7% of players to 4.8%.}}
 
+<div class="eyebrow beat">The WNBA</div>
+
+## The WNBA never had the convention to lose
+
+The WNBA started in 1997, when the NBA's big-man-big-number habit was
+already fading, and its rosters show it. The jersey/height correlation was
++0.20 across the WNBA's first five seasons and +0.19 across its last five:
+a change of about zero (95% CI [-0.10, +0.09]), and an interval that rules
+out a drop anywhere near the NBA's. Numbers above 55 were never common
+there at all.
+
+{{fig:fig7_wnba_number_conventions|WNBA number conventions by season: the share of players in numbers above 55, in 0 or 00, and in numbers containing a digit from six through nine. Necessary because it shows the high-number habit the NBA abandoned was never present in the WNBA to begin with.}}
+
+{{fig:fig8_wnba_jersey_height_cor|The WNBA's jersey/height correlation by season. The flat line is the finding: the WNBA began about where the NBA has fallen to and stayed there.}}
+
+Lining the two leagues up by league age rather than calendar year sharpens
+the contrast. At the same ages, the NBA's correlation was building, from
++0.07 at league ages 8 to 12 to +0.33 at ages 25 to 29, while the WNBA's held
+at +0.21 and +0.19. The NBA grew the convention as it aged and has since let
+it go; the WNBA, born later, never built it.
+
+{{fig:fig9_league_age_cor|Jersey/height correlation by league age, NBA and WNBA. Necessary because calendar years compare a league in its fourth decade with one in its ninth; league age compares like with like.}}
+
+{{fig:fig10_league_age_above55|Share of players in numbers above 55 by league age. Rare in both leagues at every league age the two share.}}
+
+{{fig:fig11_league_age_digit69|Share of players wearing a number with a digit from six through nine, by league age. The NBA's share fell as it aged; the WNBA's did not.}}
+
+<div class="eyebrow beat">A natural experiment</div>
+
+## College rules and the numbers rookies pick
+
+For decades the NCAA barred the digits six through nine on basketball uniforms,
+so almost every WNBA rookie arrived having never been allowed to wear one.
+The NCAA dropped the restriction for the 2023-24 season, which makes the
+2024 to 2026 rookie classes the first exposed to the new rule. Among NCAA
+rookies, the share wearing a digit from six to nine went from 8.5% in the ten classes
+before to 13.0% in the exposed classes, a change of +4.5 points with a 95%
+interval of [-2.8, +12.8]. In the NBA, which drafts from the same college
+system, it went from 22.9% to 21.3%. Neither change clears zero, and with
+92 exposed WNBA rookies the interval is wide enough to hide a real shift of
+a few points. This is a question to rerun as each new class arrives.
+
+{{fig:fig12_wnba_rookie_digit69|WNBA rookies wearing a number with a digit from six to nine, by class, NCAA alumni against everyone else. The first three classes after the rule change sit inside the earlier range.}}
+
+{{fig:fig13_nba_rookie_digit69|The same rookie measure for the NBA, as a cross-check: men's college basketball had the same rule and the same change.}}
+
 <div class="eyebrow beat">The lesson</div>
 
 ## A rehearsal for every "the metric moved" argument

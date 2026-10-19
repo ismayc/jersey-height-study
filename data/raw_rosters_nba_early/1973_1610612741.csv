@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612741,1973,00,Rick Adelman,Rick,rick-adelman,12-21,G,6-2,175,"JUN 16, 1946",28.0,5,Loyola-Marymount,76015,,0
+1610612741,1973,00,Dennis Awtrey,Dennis,dennis-awtrey,20,C,6-10,235,"FEB 22, 1948",26.0,3,Santa Clara,76078,,0
+1610612741,1973,00,Tom Boerwinkle,Tom,tom-boerwinkle,18,C,7-0,265,"AUG 23, 1945",28.0,5,Tennessee,76192,,0
+1610612741,1973,00,Rowland Garrett,Rowland,rowland-garrett,23,F,6-6,210,"JUL 16, 1950",23.0,1,Florida State,76789,,0
+1610612741,1973,00,Bob Love,Bob,bob-love,10,F,6-8,215,"DEC 08, 1942",31.0,7,Southern,77412,,0
+1610612741,1973,00,Howard Porter,Howard,howard-porter,54,F,6-8,220,"AUG 31, 1948",25.0,2,Villanova,77875,,0
+1610612741,1973,00,Clifford Ray,Clifford,clifford-ray,14,C,6-9,230,"JAN 21, 1949",25.0,2,Oklahoma,77917,,0
+1610612741,1973,00,Jerry Sloan,Jerry,jerry-sloan,4,G,6-5,195,"MAR 28, 1942",32.0,8,Evansville,78173,,0
+1610612741,1973,00,Norm Van Lier,Norm,norm-van-lier,2,G,6-1,173,"APR 01, 1947",27.0,4,St. Francis (PA),78406,,0
+1610612741,1973,00,Chet Walker,Chet,chet-walker,25,F,6-7,212,"FEB 22, 1940",34.0,11,Bradley,78435,,0
+1610612741,1973,00,Bob Weiss,Bob,bob-weiss,8,G,6-3,180,"MAY 07, 1942",32.0,8,Penn State,78485,,0

@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1966,00,Dave Bing,Dave,dave-bing,21,G,6-3,180,"NOV 24, 1943",23.0,R,Syracuse,76166,,0
+1610612765,1966,00,Dave DeBusschere,Dave,dave-debusschere,22,F,6-6,220,"OCT 16, 1940",26.0,4,Detroit,76545,,0
+1610612765,1966,00,Reggie Harding,Reggie,reggie-harding,19,C,7-0,249,"MAY 04, 1942",25.0,2,Eastern HS (MI),76945,,0
+1610612765,1966,00,Wayne Hightower,Wayne,wayne-hightower,12,F,6-8,192,"JAN 14, 1940",27.0,4,Kansas,77023,,0
+1610612765,1966,00,Bob Hogsett,Bob,bob-hogsett,20,F,6-7,230,"JAN 29, 1941",26.0,R,Tennessee,77037,,0
+1610612765,1966,00,Eddie Miles,Eddie,eddie-miles,14,G,6-4,195,"JUL 05, 1940",26.0,3,Seattle,77596,,0
+1610612765,1966,00,Dorie Murrey,Dorie,dorie-murrey,25,F,6-8,215,"SEP 07, 1943",23.0,R,Detroit,77676,,0
+1610612765,1966,00,Ron Reed,Ron,ron-reed,20,F,6-5,205,"NOV 02, 1942",24.0,1,Notre Dame,77928,,0
+1610612765,1966,00,Joe Strawder,Joe,joe-strawder,16,C,6-10,235,"SEP 21, 1940",26.0,1,Bradley,78268,,0
+1610612765,1966,00,John Tresvant,John,john-tresvant,23,F,6-7,215,"NOV 06, 1939",27.0,2,Seattle,78651,,0
+1610612765,1966,00,Tom Van Arsdale,Tom,tom-van-arsdale,5,G,6-5,202,"FEB 22, 1943",24.0,1,Indiana,78399,,0
+1610612765,1966,00,Charles Vaughn,Charles,charles-vaughn,10,G,6-3,190,"FEB 19, 1940",27.0,4,Southern Illinois,78409,,0

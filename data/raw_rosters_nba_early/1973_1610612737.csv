@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1973,00,Walt Bellamy,Walt,walt-bellamy,8,C,6-10,225,"JUL 24, 1939",34.0,12,Indiana,76144,,0
+1610612737,1973,00,Steve Bracey,Steve,steve-bracey,20,G,6-1,175,"AUG 01, 1950",23.0,1,Tulsa,76226,,0
+1610612737,1973,00,John Brown,John,john-brown,50,F,6-7,220,"DEC 14, 1951",22.0,R,Missouri,76276,,0
+1610612737,1973,00,Herm Gilliam,Herm,herm-gilliam,3,G,6-3,190,"MAY 05, 1946",28.0,4,Purdue,76815,,0
+1610612737,1973,00,Lou Hudson,Lou,lou-hudson,23,F,6-5,210,"JUL 11, 1944",29.0,7,Minnesota,77074,,0
+1610612737,1973,00,Tom Ingelsby,Tom,tom-ingelsby,24,G,6-3,180,"FEB 12, 1951",23.0,R,Villanova,77094,,0
+1610612737,1973,00,Dwight Jones,Dwight,dwight-jones,13,F,6-10,210,"FEB 27, 1952",22.0,R,Houston,77182,,0
+1610612737,1973,00,Pete Maravich,Pete,pete-maravich,44,G,6-5,197,"JUN 22, 1947",27.0,3,Louisiana State,77459,,0
+1610612737,1973,00,Dale Schlueter,Dale,dale-schlueter,54,C,6-10,225,"NOV 12, 1945",28.0,5,Colorado State,78084,,0
+1610612737,1973,00,John Tschogl,John,john-tschogl,22,F,6-6,206,"APR 25, 1950",24.0,1,California-Santa Barbara,78370,,0
+1610612737,1973,00,Jim Washington,Jim,jim-washington,12,F,6-7,210,"JUL 01, 1943",30.0,8,Villanova,78466,,0
+1610612737,1973,00,John Wetzel,John,john-wetzel,33,G,6-5,190,"OCT 22, 1944",29.0,4,Virginia Tech,78501,,0

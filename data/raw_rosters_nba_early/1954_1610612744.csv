@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1954,00,Paul Arizin,Paul,paul-arizin,11,F,6-4,190,"APR 09, 1928",27.0,2,Villanova,76056,,0
+1610612744,1954,00,Tom Brennan,Tom,tom-brennan,14,F,6-3,195,"AUG 06, 1930",24.0,R,Villanova,76246,,0
+1610612744,1954,00,Larry Costello,Larry,larry-costello,5,G,6-1,186,"JUL 02, 1931",23.0,R,Niagara,76454,,0
+1610612744,1954,00,Walt Davis,Walt,walt-davis,12,C,6-8,205,"JAN 05, 1931",24.0,1,Texas A&M,76536,,0
+1610612744,1954,00,George Dempsey,George,george-dempsey,5-19,G,6-3,190,"JUL 19, 1929",25.0,R,King's,76555,,0
+1610612744,1954,00,Danny Finn,Danny,danny-finn,7,G,6-1,185,"MAY 27, 1928",27.0,2,St. John's (NY),76717,,0
+1610612744,1954,00,Jack George,Jack,jack-george,17,G,6-3,190,"NOV 13, 1928",26.0,1,La Salle,76800,,0
+1610612744,1954,00,Joe Graboski,Joe,joe-graboski,9,F,6-8,195,"JAN 15, 1930",25.0,5,Tuley HS (IL),76838,,0
+1610612744,1954,00,Paul Hoffman,Paul,paul-hoffman,14,G,6-2,195,"MAY 05, 1925",30.0,5,Purdue,77036,,0
+1610612744,1954,00,Neil Johnston,Neil,neil-johnston,6,C,6-8,210,"FEB 04, 1929",26.0,3,Ohio State,77169,,0
+1610612744,1954,00,Michael Kearns,Michael,michael-kearns,7,G,6-2,178,"JUN 18, 1929",26.0,R,Princeton,77230,,0
+1610612744,1954,00,Jackie Moore,Jackie,jackie-moore,14,F,6-5,180,"SEP 24, 1932",22.0,R,La Salle,77634,,0
+1610612744,1954,00,Ken Murray,Ken,ken-murray,4,G,6-2,190,"APR 20, 1928",27.0,2,St. Bonaventure,77675,,0
+1610612744,1954,00,Robert Zawoluk,Robert,robert-zawoluk,15,F,6-7,215,"OCT 13, 1930",24.0,2,St. John's (NY),78639,,0

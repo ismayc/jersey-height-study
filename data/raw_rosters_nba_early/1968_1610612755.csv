@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1968,00,Archie Clark,Archie,archie-clark,21,G,6-2,175,"JUL 15, 1941",27.0,2,Minnesota,76397,,0
+1610612755,1968,00,Billy Cunningham,Billy,billy-cunningham,32,F,6-6,210,"JUN 03, 1943",26.0,3,North Carolina,76487,,0
+1610612755,1968,00,Johnny Green,Johnny,johnny-green,12,F,6-5,200,"DEC 08, 1933",35.0,9,Michigan State,76867,,0
+1610612755,1968,00,Hal Greer,Hal,hal-greer,15,G,6-2,175,"JUN 26, 1936",33.0,10,Marshall,76882,,0
+1610612755,1968,00,Matt Guokas,Matt,matt-guokas,14,G,6-6,175,"FEB 25, 1944",25.0,2,St. Joseph's (PA),76908,,0
+1610612755,1968,00,Shaler Halimon,Shaler,shaler-halimon,26,G,6-5,199,"MAR 30, 1945",24.0,R,Utah State,76922,,0
+1610612755,1968,00,Darrall Imhoff,Darrall,darrall-imhoff,18,C,6-10,220,"OCT 11, 1938",30.0,8,California,77093,,0
+1610612755,1968,00,Lucious Jackson,Lucious,lucious-jackson,,F,6-9,240,"OCT 31, 1941",27.0,4,Texas-Pan American,77103,,0
+1610612755,1968,00,Wali Jones,Wali,wali-jones,24,G,6-2,180,"FEB 14, 1942",27.0,4,Villanova,77198,,0
+1610612755,1968,00,Craig Raymond,Craig,craig-raymond,20,C,6-11,235,"APR 05, 1945",24.0,R,Brigham Young,77921,,0
+1610612755,1968,00,Chet Walker,Chet,chet-walker,25,F,6-7,212,"FEB 22, 1940",29.0,6,Bradley,78435,,0

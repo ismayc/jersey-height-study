@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1955,00,Ed Conlin,Ed,ed-conlin,8,F,6-6,200,"SEP 02, 1933",22.0,R,Fordham,76429,,0
+1610612755,1955,00,Dick Farley,Dick,dick-farley,12,G,6-4,190,"APR 13, 1932",24.0,1,Indiana,76693,,0
+1610612755,1955,00,Bill Kenville,Bill,bill-kenville,15,G,6-2,187,"DEC 01, 1930",25.0,2,St. Bonaventure,77247,,0
+1610612755,1955,00,Johnny Kerr,Johnny,johnny-kerr,10,C,6-9,230,"AUG 17, 1932",23.0,1,Illinois,77248,,0
+1610612755,1955,00,George King,George,george-king,3,G,6-0,175,"AUG 16, 1928",27.0,4,University of Charleston,77268,,0
+1610612755,1955,00,Earl Lloyd,Earl,earl-lloyd,11,F,6-6,200,"APR 03, 1928",28.0,4,West Virginia State,77394,,0
+1610612755,1955,00,Red Rocha,Red,red-rocha,16,C,6-9,185,"SEP 18, 1923",32.0,7,Oregon State,77999,,0
+1610612755,1955,00,Dolph Schayes,Dolph,dolph-schayes,4,F,6-8,195,"MAY 19, 1928",28.0,6,New York University,78076,,0
+1610612755,1955,00,Paul Seymour,Paul,paul-seymour,5,G,6-1,180,"JAN 30, 1928",28.0,7,Toledo,78117,,0
+1610612755,1955,00,Jim Tucker,Jim,jim-tucker,17,F,6-7,185,"DEC 11, 1932",23.0,1,Duquesne,78374,,0

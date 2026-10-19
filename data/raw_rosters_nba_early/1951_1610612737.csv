@@ -1,0 +1,19 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1951,00,Elmer Behnke,Elmer,elmer-behnke, ,C,6-7,210,"FEB 03, 1929",23.0,R,Bradley,76141,,0
+1610612737,1951,00,Charlie Black,Charlie,charlie-black,21,F,6-4,200,"JUN 15, 1921",31.0,2,Kansas,76173,,0
+1610612737,1951,00,Don Boven,Don,don-boven,18,F,6-4,210,"MAR 06, 1925",27.0,1,Western Michigan,76214,,0
+1610612737,1951,00,Art Burris,Art,art-burris,15,F,6-5,220,"APR 07, 1924",28.0,1,Tennessee,76311,,0
+1610612737,1951,00,Cal Christensen,Cal,cal-christensen,20,F,6-5,210,"JUN 08, 1927",25.0,1,Toledo,76394,,0
+1610612737,1951,00,Dillard Crocker,Dillard,dillard-crocker,20,F,6-4,205,"JAN 19, 1925",27.0,2,Western Michigan,76473,,0
+1610612737,1951,00,Nate DeLong,Nate,nate-delong,21,C,6-6,220,"JAN 05, 1926",26.0,R,Wisconsin-River Falls,76551,,0
+1610612737,1951,00,Jerry Fowler,Jerry,jerry-fowler, ,C,6-7,230,"JUN 20, 1927",25.0,R,Missouri,76745,,0
+1610612737,1951,00,Mel Hutchins,Mel,mel-hutchins,22,F,6-6,200,"NOV 22, 1928",23.0,R,Brigham Young,77089,,0
+1610612737,1951,00,Walt Kirk,Walt,walt-kirk,16,G,6-3,173,"SEP 03, 1924",27.0,2,Illinois,77278,,0
+1610612737,1951,00,John McConathy,John,john-mcconathy,15,F,6-5,195,"APR 09, 1930",22.0,R,Northwestern State,77513,,0
+1610612737,1951,00,Dick Mehen,Dick,dick-mehen,17,F,6-5,195,"MAY 20, 1922",30.0,2,Tennessee,77572,,0
+1610612737,1951,00,Don Otten,Don,don-otten,14,C,6-10,240,"APR 18, 1921",31.0,2,Bowling Green,77778,,0
+1610612737,1951,00,James Owens,James,james-owens, ,G,6-3,185,"SEP 02, 1925",26.0,1,Baylor,77783,,0
+1610612737,1951,00,Don Rehfeldt,Don,don-rehfeldt,15,F,6-6,210,"JAN 07, 1927",25.0,1,Wisconsin,77933,,0
+1610612737,1951,00,John Rennicke,John,john-rennicke, ,G,6-2,185,"AUG 11, 1929",22.0,R,Drake,77941,,0
+1610612737,1951,00,Gene Vance,Gene,gene-vance,11,G,6-3,195,"FEB 25, 1923",29.0,4,Illinois,78402,,0
+1610612737,1951,00,Bob Wilson,Bob,bob-wilson,12,G,6-4,185,"MAR 08, 1926",26.0,R,West Virginia State,78586,,0

@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612756,1968,00,Ed Biedenbach,Ed,ed-biedenbach,12,G,6-1,175,"AUG 12, 1945",23.0,R,North Carolina State,76163,,0
+1610612756,1968,00,Jim Fox,Jim,jim-fox,31,C,6-10,230,"APR 07, 1943",26.0,1,South Carolina,76747,,0
+1610612756,1968,00,Gail Goodrich,Gail,gail-goodrich,25,G,6-1,170,"APR 23, 1943",26.0,3,UCLA,76832,,0
+1610612756,1968,00,Gary Gregor,Gary,gary-gregor,44,F,6-7,225,"AUG 13, 1945",23.0,R,South Carolina,76883,,0
+1610612756,1968,00,Neil Johnson,Neil,neil-johnson,11,F,6-7,220,"APR 17, 1943",26.0,2,Creighton,77161,,0
+1610612756,1968,00,Rod Knowles,Rod,rod-knowles,23,C,6-9,215,"FEB 27, 1946",23.0,R,Davidson,77293,,0
+1610612756,1968,00,Dave Lattin,Dave,dave-lattin,43,F,6-6,225,"DEC 23, 1943",25.0,1,Texas-El Paso,77342,,0
+1610612756,1968,00,Stan McKenzie,Stan,stan-mckenzie,40,F,6-5,195,"OCT 06, 1944",24.0,1,New York University,77543,,0
+1610612756,1968,00,Dick Snyder,Dick,dick-snyder,10,G,6-5,207,"FEB 01, 1944",25.0,2,Davidson,78213,,0
+1610612756,1968,00,Dick Van Arsdale,Dick,dick-van-arsdale,5,G,6-5,210,"FEB 22, 1943",26.0,3,Indiana,78398,,0
+1610612756,1968,00,Bob Warlick,Bob,bob-warlick,23,G,6-5,200,"MAR 20, 1941",28.0,3,Pepperdine,78459,,0
+1610612756,1968,00,George Wilson,George,george-wilson,21,C,6-8,225,"MAY 09, 1942",27.0,4,Cincinnati,78579,,0

@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1977,00,Butch Beard,Butch,butch-beard,9,G,6-3,185,"MAY 04, 1947",31.0,7,Louisville,76130,,0
+1610612752,1977,00,Luther Burden,Luther,luther-burden,14,G,6-2,185,"FEB 28, 1953",25.0,1,Utah,76303,,0
+1610612752,1977,00,Jim Cleamons,Jim,jim-cleamons,35,G,6-3,185,"SEP 13, 1949",28.0,6,Ohio State,76402,,0
+1610612752,1977,00,Glen Gondrezick,Glen,glen-gondrezick,44,F,6-6,218,"AUG 30, 1955",22.0,R,UNLV,76830,,0
+1610612752,1977,00,Spencer Haywood,Spencer,spencer-haywood,42,F,6-8,225,"APR 22, 1949",29.0,7,Detroit,76981,,0
+1610612752,1977,00,Phil Jackson,Phil,phil-jackson,18,F,6-8,220,"SEP 17, 1945",32.0,9,North Dakota,77106,,0
+1610612752,1977,00,Toby Knight,Toby,toby-knight,43,F,6-9,210,"MAY 03, 1955",23.0,R,Notre Dame,77289,,0
+1610612752,1977,00,Bob McAdoo,Bob,bob-mcadoo,11,C,6-9,210,"SEP 25, 1951",26.0,5,North Carolina,77498,,0
+1610612752,1977,00,Jim McMillian,Jim,jim-mcmillian,5,F,6-5,215,"MAR 11, 1948",30.0,7,Columbia,77554,,0
+1610612752,1977,00,Earl Monroe,Earl,earl-monroe,15,G,6-3,185,"NOV 21, 1944",33.0,10,Winston-Salem State,600006,,0
+1610612752,1977,00,Lonnie Shelton,Lonnie,lonnie-shelton,8,F,6-8,240,"OCT 19, 1955",22.0,1,Oregon State,78133,,0
+1610612752,1977,00,Ray Williams,Ray,ray-williams,13,G,6-3,188,"OCT 14, 1954",23.0,R,Minnesota,78571,,0

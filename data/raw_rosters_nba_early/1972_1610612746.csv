@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612746,1972,00,Harold Fox,Harold,harold-fox,7,G,6-2,175,"AUG 29, 1949",23.0,R,Jacksonville,76746,,0
+1610612746,1972,00,Eldo Garrett,Eldo,eldo-garrett,20,G,6-3,185,"JAN 31, 1947",26.0,3,Southern Illinois,76788,,0
+1610612746,1972,00,Walt Hazzard,Walt,walt-hazzard,42,G,6-2,185,"APR 15, 1942",31.0,8,UCLA,76983,,0
+1610612746,1972,00,Bill Hewitt,Bill,bill-hewitt,27,F,6-7,210,"AUG 08, 1944",28.0,4,Southern California,77013,,0
+1610612746,1972,00,Fred Hilton,Fred,fred-hilton,32,G,6-3,185,"JAN 15, 1948",25.0,1,Grambling,77029,,0
+1610612746,1972,00,John Hummer,John,john-hummer,45,F,6-9,230,"MAY 04, 1948",25.0,2,Princeton,77080,,0
+1610612746,1972,00,Bob Kauffman,Bob,bob-kauffman,44,F,6-8,240,"JUL 13, 1946",26.0,4,Guilford,77227,,0
+1610612746,1972,00,Howard Komives,Howard,howard-komives,5,G,6-1,185,"MAY 09, 1941",32.0,8,Bowling Green,77297,,0
+1610612746,1972,00,Bob McAdoo,Bob,bob-mcadoo,11,F,6-9,210,"SEP 25, 1951",21.0,R,North Carolina,77498,,0
+1610612746,1972,00,Elmore Smith,Elmore,elmore-smith,3,C,7-1,250,"MAY 09, 1949",24.0,1,Kentucky State,78188,,0
+1610612746,1972,00,Randy Smith,Randy,randy-smith,9,G,6-3,180,"DEC 12, 1948",24.0,1,Buffalo State,78200,,0
+1610612746,1972,00,Dave Wohl,Dave,dave-wohl,13,G,6-2,185,"NOV 02, 1949",23.0,1,Pennsylvania,78606,,0

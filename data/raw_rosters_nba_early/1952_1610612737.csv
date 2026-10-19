@@ -1,0 +1,17 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1952,00,Bill Calhoun,Bill,bill-calhoun,10,F,6-3,180,"NOV 04, 1927",25.0,4,CC of San Francisco,76331,,0
+1610612737,1952,00,Dillard Crocker,Dillard,dillard-crocker,7,F,6-4,205,"JAN 19, 1925",28.0,3,Western Michigan,76473,,0
+1610612737,1952,00,Henry Darcey,Henry,henry-darcey,10,C,6-7,217,"MAR 03, 1930",23.0,R,Oklahoma State,76506,,0
+1610612737,1952,00,George Feigenbaum,George,george-feigenbaum, ,G,6-1,185,"JUL 02, 1929",23.0,1,Kentucky,76702,,0
+1610612737,1952,00,Mel Hutchins,Mel,mel-hutchins,9,F,6-6,200,"NOV 22, 1928",24.0,1,Brigham Young,77089,,0
+1610612737,1952,00,Andrew Levane,Andrew,andrew-levane,3,F,6-2,190,"APR 11, 1920",33.0,2,St. John's (NY),77375,,0
+1610612737,1952,00,Al Masino,Al,al-masino,4-12,G,5-10,174,"FEB 05, 1928",25.0,R,Canisius,77482,,0
+1610612737,1952,00,Paul McConnell,Paul,paul-mcconnell, ,G,5-10,170,"JUL 01, 1928",24.0,R,Marshall,77514,,0
+1610612737,1952,00,Stan Miasek,Stan,stan-miasek,3,F,6-5,210,"AUG 08, 1924",28.0,5,No School,77587,,0
+1610612737,1952,00,Dave Minor,Dave,dave-minor,8,G,6-2,185,"FEB 23, 1922",31.0,1,UCLA,77610,,0
+1610612737,1952,00,Jack Nichols,Jack,jack-nichols,5,C,6-7,222,"APR 09, 1926",27.0,3,Washington,77713,,0
+1610612737,1952,00,John O'Boyle,John,john-oboyle,3,G,6-2,185,"MAR 07, 1928",25.0,R,Colorado State,77742,,0
+1610612737,1952,00,Mike O'Neill,Mike,mike-oneill, ,F,6-3,210,"APR 10, 1905",48.0,R,California,77767,,0
+1610612737,1952,00,Don Otten,Don,don-otten,14,C,6-10,240,"APR 18, 1921",32.0,3,Bowling Green,77778,,0
+1610612737,1952,00,Johnny Payak,Johnny,johnny-payak,6,G,6-4,174,"NOV 20, 1926",26.0,1,Bowling Green,77821,,0
+1610612737,1952,00,George Ratkovicz,George,george-ratkovicz,10-13,F,6-7,220,"NOV 13, 1922",30.0,3,Lindblom HS (IL),77913,,0

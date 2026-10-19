@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1948,00,Mike Bloom,Mike,mike-bloom,11,C,6-6,190,"JAN 14, 1915",34.0,1,Temple,76188,,0
+1610612747,1948,00,Don Carlson,Don,don-carlson,15,G,6-0,170,"MAR 22, 1921",28.0,1,Minnesota,76344,,0
+1610612747,1948,00,Jack Dwan,Jack,jack-dwan,19,F,6-4,200,"MAY 03, 1921",28.0,R,Loyola-Chicago,76624,,0
+1610612747,1948,00,Ray Ellefson,Ray,ray-ellefson,18,C,6-8,230,"NOV 18, 1922",26.0,R,West Texas A&M,76655,,0
+1610612747,1948,00,Arnie Ferrin,Arnie,arnie-ferrin,18,F,6-4,180,"JUL 29, 1925",23.0,R,Utah,76711,,0
+1610612747,1948,00,Donnie Forman,Donnie,donnie-forman,22,G,5-10,175,"JAN 17, 1926",23.0,R,New York University,76738,,0
+1610612747,1948,00,Earl Gardner,Earl,earl-gardner,14,F,6-3,195,"SEP 18, 1923",25.0,R,DePauw,76778,,0
+1610612747,1948,00,Tony Jaros,Tony,tony-jaros,13,F,6-3,185,"FEB 22, 1920",29.0,1,Minnesota,77123,,0
+1610612747,1948,00,Johnny Jorgensen,Johnny,johnny-jorgensen,16,G,6-2,185,"DEC 28, 1921",27.0,1,DePaul,77211,,0
+1610612747,1948,00,George Mikan,George,george-mikan,99,C,6-10,245,"JUN 18, 1924",25.0,R,DePaul,600012,,0
+1610612747,1948,00,Jim Pollard,Jim,jim-pollard,17,F,6-3,185,"JUL 09, 1922",26.0,R,Stanford,77867,,0
+1610612747,1948,00,Herm Schaefer,Herm,herm-schaefer,24,G,6-0,175,"DEC 20, 1919",29.0,R,Indiana,78071,,0
+1610612747,1948,00,Donald Smith,Donald,donald-smith,,F,6-2,190,"JUL 27, 1920",28.0,R,Minnesota,78185,,0
+1610612747,1948,00,Jack Tingle,Jack,jack-tingle, ,F,6-4,205,"DEC 30, 1924",24.0,1,Kentucky,78344,,0

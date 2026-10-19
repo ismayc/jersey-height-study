@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612757,1978,00,Kim Anderson,Kim,kim-anderson,42,F,6-7,200,"MAY 12, 1955",24.0,R,Missouri,76041,,0
+1610612757,1978,00,Ron Brewer,Ron,ron-brewer,10,G,6-4,180,"SEP 16, 1955",23.0,R,Arkansas,76249,,0
+1610612757,1978,00,T.R. Dunn,T.R.,tr-dunn,23,G,6-4,192,"FEB 01, 1955",24.0,1,Alabama,76618,,0
+1610612757,1978,00,Bob Gross,Bob,bob-gross,30,F,6-6,200,"AUG 03, 1953",25.0,3,Long Beach State,76895,,0
+1610612757,1978,00,Lionel Hollins,Lionel,lionel-hollins,14,G,6-3,185,"OCT 19, 1953",25.0,3,Arizona State,77043,,0
+1610612757,1978,00,Clemon Johnson,Clemon,clemon-johnson,44,C,6-10,240,"SEP 12, 1956",22.0,R,Florida A&M,77136,,0
+1610612757,1978,00,Maurice Lucas,Maurice,maurice-lucas,20,F,6-9,215,"FEB 18, 1952",27.0,2,Marquette,77420,,0
+1610612757,1978,00,Jim McMillian,Jim,jim-mcmillian,5,F,6-5,215,"MAR 11, 1948",31.0,8,Columbia,77554,,0
+1610612757,1978,00,Lloyd Neal,Lloyd,lloyd-neal,36,F,6-7,225,"DEC 10, 1950",28.0,6,Tennessee State,77696,,0
+1610612757,1978,00,Tom Owens,Tom,tom-owens,25,C,6-10,215,"JUN 28, 1949",30.0,2,South Carolina,77786,,0
+1610612757,1978,00,Willie Smith,Willie,willie-smith,11,G,6-2,170,"OCT 26, 1953",25.0,2,Missouri,78208,,0
+1610612757,1978,00,Larry Steele,Larry,larry-steele,15,G,6-5,180,"MAY 05, 1949",30.0,7,Kentucky,78245,,0
+1610612757,1978,00,Mychal Thompson,Mychal,mychal-thompson,43,C,6-10,226,"JAN 30, 1955",24.0,R,Minnesota,78331,,0
+1610612757,1978,00,Dave Twardzik,Dave,dave-twardzik,13,G,6-1,175,"SEP 20, 1950",28.0,2,Old Dominion,78387,,0

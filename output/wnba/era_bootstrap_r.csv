@@ -1,0 +1,2 @@
+league,quantity,first_lo,first_hi,last_lo,last_hi,cor_first5,cor_last5,observed,estimate,ci_lo,ci_hi,reps,n_first,n_last
+wnba,cor_diff_last5_minus_first5,1997,2001,2022,2026,0.19662757205835382,0.193281041250929,-0.0033465308074248357,-0.0028790897559749637,-0.09857065977804658,0.09358271275241363,2000,701,812

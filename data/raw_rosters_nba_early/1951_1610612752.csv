@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1951,00,Vince Boryla,Vince,vince-boryla,12,F,6-5,210,"MAR 11, 1927",25.0,2,Denver,76210,,0
+1610612752,1951,00,Nat Clifton,Nat,nat-clifton,8,C,6-6,220,"OCT 13, 1922",29.0,1,Xavier of Louisiana,76404,,0
+1610612752,1951,00,Harry Gallatin,Harry,harry-gallatin,11,F,6-6,210,"APR 26, 1927",25.0,3,Truman State,76773,,0
+1610612752,1951,00,George Kaftan,George,george-kaftan,6-17,F,6-3,190,"FEB 22, 1928",24.0,3,Holy Cross,77218,,0
+1610612752,1951,00,Ray Lumpp,Ray,ray-lumpp,7,G,6-1,178,"JUL 11, 1923",28.0,3,New York University,77425,,0
+1610612752,1951,00,Al McGuire,Al,al-mcguire,3-16,G,6-2,180,"SEP 07, 1928",23.0,R,St. John's (NY),77536,,0
+1610612752,1951,00,Dick McGuire,Dick,dick-mcguire,15,G,6-0,180,"JAN 25, 1926",26.0,2,St. John's (NY),77537,,0
+1610612752,1951,00,Herb Scherer,Herb,herb-scherer,19-22,C,6-9,212,"DEC 21, 1929",22.0,1,Long Island-Brooklyn,78082,,0
+1610612752,1951,00,Connie Simmons,Connie,connie-simmons,18,C,6-8,222,"MAR 15, 1925",27.0,5,Flushing HS (NY),78153,,0
+1610612752,1951,00,Ernie Vandeweghe,Ernie,ernie-vandeweghe,9,F,6-3,195,"SEP 12, 1928",23.0,2,Colgate,78405,,0
+1610612752,1951,00,Max Zaslofsky,Max,max-zaslofsky,10,G,6-2,170,"DEC 07, 1925",26.0,5,St. John's (NY),78638,,0

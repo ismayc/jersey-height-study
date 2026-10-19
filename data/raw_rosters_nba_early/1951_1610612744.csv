@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1951,00,Paul Arizin,Paul,paul-arizin,11,F,6-4,190,"APR 09, 1928",24.0,1,Villanova,76056,,0
+1610612744,1951,00,Nelson Bobb,Nelson,nelson-bobb,5,G,6-0,170,"FEB 25, 1924",28.0,2,Temple,76190,,0
+1610612744,1951,00,Stan Brown,Stan,stan-brown,14,F,6-3,200,"JUN 27, 1929",23.0,1,South Philadelphia HS (PA),76285,,0
+1610612744,1951,00,Walter Budko,Walter,walter-budko,19,F,6-5,220,"JUN 30, 1925",27.0,3,Columbia,76298,,0
+1610612744,1951,00,Ed Dahler,Ed,ed-dahler,16,F,6-5,190,"JAN 31, 1926",26.0,R,Duquesne,76496,,0
+1610612744,1951,00,Joe Fulks,Joe,joe-fulks,10,F,6-5,190,"OCT 26, 1921",30.0,5,Murray State,76764,,0
+1610612744,1951,00,Vern Gardner,Vern,vern-gardner,12,C,6-5,200,"MAY 14, 1925",27.0,2,Utah,76779,,0
+1610612744,1951,00,Neil Johnston,Neil,neil-johnston,6,C,6-8,210,"FEB 04, 1929",23.0,R,Ohio State,77169,,0
+1610612744,1951,00,Ed Mikan,Ed,ed-mikan,15,C,6-8,230,"OCT 20, 1925",26.0,3,DePaul,77590,,0
+1610612744,1951,00,Mel Payton,Mel,mel-payton,18,G,6-4,185,"JUL 16, 1926",25.0,R,Tulane,77824,,0
+1610612744,1951,00,Andy Phillip,Andy,andy-phillip,7,G,6-3,195,"MAR 07, 1922",30.0,4,Illinois,77853,,0
+1610612744,1951,00,George Senesky,George,george-senesky,8,G,6-2,179,"APR 04, 1922",30.0,5,St. Joseph's (PA),78115,,0

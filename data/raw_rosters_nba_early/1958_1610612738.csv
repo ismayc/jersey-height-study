@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1958,00,Gene Conley,Gene,gene-conley,17,C,6-8,225,"NOV 10, 1930",28.0,1,Washington State,76428,,0
+1610612738,1958,00,Bob Cousy,Bob,bob-cousy,14,G,6-1,175,"AUG 09, 1928",30.0,8,Holy Cross,600003,,0
+1610612738,1958,00,Tom Heinsohn,Tom,tom-heinsohn,15,F,6-7,218,"AUG 26, 1934",24.0,2,Holy Cross,76988,,0
+1610612738,1958,00,K.C. Jones,K.C.,kc-jones,25-27,G,6-1,200,"MAY 25, 1932",27.0,R,San Francisco,77188,,0
+1610612738,1958,00,Sam Jones,Sam,sam-jones,24,G,6-4,198,"JUN 24, 1933",26.0,1,North Carolina Central,77196,,0
+1610612738,1958,00,Jim Loscutoff,Jim,jim-loscutoff,18,F,6-5,220,"FEB 04, 1930",29.0,3,Oregon,77409,,0
+1610612738,1958,00,Frank Ramsey,Frank,frank-ramsey,23,F,6-3,190,"JUL 13, 1931",27.0,3,Kentucky,77907,,0
+1610612738,1958,00,Bill Russell,Bill,bill-russell,6,C,6-10,215,"FEB 12, 1934",25.0,2,San Francisco,78049,,0
+1610612738,1958,00,Bill Sharman,Bill,bill-sharman,21,G,6-1,175,"MAY 25, 1926",33.0,8,Southern California,78126,,0
+1610612738,1958,00,Bennie Swain,Bennie,bennie-swain,16,F,6-8,220,"DEC 16, 1933",25.0,R,Texas Southern,78283,,0
+1610612738,1958,00,Lou Tsioropoulos,Lou,lou-tsioropoulos,20,F,6-5,190,"AUG 31, 1930",28.0,2,Kentucky,78371,,0

@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1946,00,Howie Dallmar,Howie,howie-dallmar,12,F,6-4,200,"MAY 24, 1922",25.0,R,Stanford,76498,,0
+1610612744,1946,00,Jerry Fleishman,Jerry,jerry-fleishman,6,G,6-2,190,"FEB 14, 1922",25.0,R,New York University,76721,,0
+1610612744,1946,00,Joe Fulks,Joe,joe-fulks,10,F,6-5,190,"OCT 26, 1921",25.0,R,Murray State,76764,,0
+1610612744,1946,00,Matt Guokas,Matt,matt-guokas,,G,6-3,195,"NOV 11, 1915",31.0,R,St. Joseph's (PA),76909,,0
+1610612744,1946,00,Art Hillhouse,Art,art-hillhouse,18,C,6-7,220,"JUN 12, 1916",31.0,R,Long Island-Brooklyn,77027,,0
+1610612744,1946,00,Angelo Musi,Angelo,angelo-musi,5,G,5-9,145,"JUL 25, 1918",28.0,R,Temple,77677,,0
+1610612744,1946,00,Alexander Rosenberg,Alexander,alexander-rosenberg,15,G,5-10,165,"APR 07, 1918",29.0,R,St. Joseph's (PA),78017,,0
+1610612744,1946,00,Jerry Rullo,Jerry,jerry-rullo,7,G,5-10,165,"JUN 23, 1923",24.0,R,Temple,78043,,0
+1610612744,1946,00,George Senesky,George,george-senesky,8,G,6-2,179,"APR 04, 1922",25.0,R,St. Joseph's (PA),78115,,0
+1610612744,1946,00,Fred Sheffield,Fred,fred-sheffield,4,F,6-2,165,"NOV 05, 1923",23.0,R,Utah,78131,,0

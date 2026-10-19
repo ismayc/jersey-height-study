@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1975,00,Junior Bridgeman,Junior,junior-bridgeman,2,F,6-5,210,"SEP 17, 1953",22.0,R,Louisville,76252,,0
+1610612749,1975,00,Gary Brokaw,Gary,gary-brokaw,25,G,6-4,178,"JAN 11, 1954",22.0,1,Notre Dame,76263,,0
+1610612749,1975,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",28.0,6,Norfolk State,76500,,0
+1610612749,1975,00,Edward Davis,Edward,edward-davis,20,F,6-7,195,"JUN 16, 1950",26.0,3,Duquesne,76522,,0
+1610612749,1975,00,Jim Fox,Jim,jim-fox,31-35,C,6-10,230,"APR 07, 1943",33.0,8,South Carolina,76747,,0
+1610612749,1975,00,Clyde Mayes,Clyde,clyde-mayes,34,F,6-8,225,"MAR 17, 1953",23.0,R,Furman,77492,,0
+1610612749,1975,00,Jon McGlocklin,Jon,jon-mcglocklin,14,G,6-5,205,"JUN 10, 1943",33.0,10,Indiana,77533,,0
+1610612749,1975,00,Dave Meyers,Dave,dave-meyers,21,F,6-9,215,"APR 21, 1953",23.0,R,UCLA,77586,,0
+1610612749,1975,00,Jim Price,Jim,jim-price,15,G,6-3,195,"NOV 27, 1949",26.0,3,Louisville,77883,,0
+1610612749,1975,00,Kevin Restani,Kevin,kevin-restani,18,F,6-9,225,"DEC 23, 1951",24.0,1,San Francisco,77944,,0
+1610612749,1975,00,Elmore Smith,Elmore,elmore-smith,3,C,7-1,250,"MAY 09, 1949",27.0,4,Kentucky State,78188,,0
+1610612749,1975,00,Brian Winters,Brian,brian-winters,32,G,6-4,185,"MAR 01, 1952",24.0,1,South Carolina,78600,,0

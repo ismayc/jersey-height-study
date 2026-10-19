@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1974,00,John Brown,John,john-brown,50,F,6-7,220,"DEC 14, 1951",23.0,1,Missouri,76276,,0
+1610612737,1974,00,John Drew,John,john-drew,22,F,6-6,205,"SEP 30, 1954",20.0,R,Gardner-Webb,76598,,0
+1610612737,1974,00,Herm Gilliam,Herm,herm-gilliam,3,G,6-3,190,"MAY 05, 1946",29.0,5,Purdue,76815,,0
+1610612737,1974,00,Tom Henderson,Tom,tom-henderson,14,G,6-3,190,"JAN 26, 1952",23.0,R,Hawaii,76996,,0
+1610612737,1974,00,Lou Hudson,Lou,lou-hudson,23,F,6-5,210,"JUL 11, 1944",30.0,8,Minnesota,77074,,0
+1610612737,1974,00,Dwight Jones,Dwight,dwight-jones,13,F,6-10,210,"FEB 27, 1952",23.0,1,Houston,77182,,0
+1610612737,1974,00,Bob Kauffman,Bob,bob-kauffman,44,F,6-8,240,"JUL 13, 1946",28.0,6,Guilford,77227,,0
+1610612737,1974,00,Dean Meminger,Dean,dean-meminger,7,G,6-1,175,"MAY 13, 1948",27.0,3,Marquette,77578,,0
+1610612737,1974,00,Mike Sojourner,Mike,mike-sojourner,40,C,6-9,225,"OCT 16, 1953",21.0,R,Utah,78217,,0
+1610612737,1974,00,Tom Van Arsdale,Tom,tom-van-arsdale,5,F,6-5,202,"FEB 22, 1943",32.0,9,Indiana,78399,,0
+1610612737,1974,00,Jim Washington,Jim,jim-washington,12,F,6-7,210,"JUL 01, 1943",31.0,9,Villanova,78466,,0
+1610612737,1974,00,John Wetzel,John,john-wetzel,33,G,6-5,190,"OCT 22, 1944",30.0,5,Virginia Tech,78501,,0

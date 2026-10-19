@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612745,1971,00,Don Adams,Don,don-adams,10,F,6-7,210,"NOV 27, 1947",24.0,1,Northwestern,76012,,0
+1610612745,1971,00,Dick Cunningham,Dick,dick-cunningham,34,C,6-10,245,"JUL 11, 1946",25.0,3,Murray State,76485,,0
+1610612745,1971,00,Johnny Egan,Johnny,johnny-egan,21,G,6-0,180,"JAN 31, 1939",33.0,10,Providence,76647,,0
+1610612745,1971,00,Dick Gibbs,Dick,dick-gibbs,40,F,6-5,210,"DEC 20, 1948",23.0,R,Texas-El Paso,76807,,0
+1610612745,1971,00,Elvin Hayes,Elvin,elvin-hayes,44,F,6-9,235,"NOV 17, 1945",26.0,3,Houston,76979,,0
+1610612745,1971,00,Stu Lantz,Stu,stu-lantz,22,G,6-3,175,"JUL 13, 1946",25.0,3,Nebraska,77338,,0
+1610612745,1971,00,Mccoy McLemore,Mccoy,mccoy-mclemore,18,F,6-7,230,"APR 03, 1942",30.0,7,Drake,77548,,0
+1610612745,1971,00,Cliff Meely,Cliff,cliff-meely,25,F,6-8,215,"JUL 10, 1947",24.0,R,Colorado,77570,,0
+1610612745,1971,00,Calvin Murphy,Calvin,calvin-murphy,23,G,5-9,165,"MAY 09, 1948",24.0,1,Niagara,77669,,0
+1610612745,1971,00,Mike Newlin,Mike,mike-newlin,14,G,6-4,200,"JAN 02, 1949",23.0,R,Utah,77710,,0
+1610612745,1971,00,Curtis Perry,Curtis,curtis-perry,54,F,6-7,220,"SEP 13, 1948",23.0,1,Missouri State,77835,,0
+1610612745,1971,00,Greg Smith,Greg,greg-smith,4,F,6-5,195,"JAN 28, 1947",25.0,3,Western Kentucky,78190,,0
+1610612745,1971,00,Rudy Tomjanovich,Rudy,rudy-tomjanovich,45,F,6-8,218,"NOV 24, 1948",23.0,1,Michigan,78350,,0
+1610612745,1971,00,John Vallely,John,john-vallely,33,G,6-3,185,"OCT 03, 1948",23.0,1,UCLA,78397,,0

@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612747,1969,00,Elgin Baylor,Elgin,elgin-baylor,22,F,6-5,225,"SEP 16, 1934",35.0,11,Seattle,76127,,0
+1610612747,1969,00,Wilt Chamberlain,Wilt,wilt-chamberlain,13,C,7-1,250,"AUG 21, 1936",33.0,10,Kansas,76375,,0
+1610612747,1969,00,Mel Counts,Mel,mel-counts,31,C,7-0,230,"OCT 16, 1941",28.0,5,Oregon State,76458,,0
+1610612747,1969,00,Johnny Egan,Johnny,johnny-egan,21,G,6-0,180,"JAN 31, 1939",31.0,8,Providence,76647,,0
+1610612747,1969,00,Keith Erickson,Keith,keith-erickson,24,F,6-5,195,"APR 19, 1944",26.0,4,UCLA,76680,,0
+1610612747,1969,00,Eldo Garrett,Eldo,eldo-garrett,20,G,6-3,185,"JAN 31, 1947",23.0,R,Southern Illinois,76788,,0
+1610612747,1969,00,Mike Lynn,Mike,mike-lynn,33,F,6-7,215,"NOV 25, 1945",24.0,R,UCLA,77427,,0
+1610612747,1969,00,Willie McCarter,Willie,willie-mccarter,15,G,6-3,175,"JUL 26, 1946",23.0,R,Drake,77505,,0
+1610612747,1969,00,Rick Roberson,Rick,rick-roberson,35,C,6-9,231,"JUL 07, 1947",22.0,R,Cincinnati,77973,,0
+1610612747,1969,00,Jerry West,Jerry,jerry-west,44,G,6-3,175,"MAY 28, 1938",32.0,9,West Virginia,78497,,0

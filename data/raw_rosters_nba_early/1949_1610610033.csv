@@ -1,0 +1,16 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610610033,1949,00,Bob Brannum,Bob,bob-brannum,,F,6-6,215,"MAY 28, 1925",25.0,R,Michigan State,76238,,0
+1610610033,1949,00,Jack Burmaster,Jack,jack-burmaster,,G,6-3,190,"DEC 23, 1926",23.0,R,Illinois,76306,,0
+1610610033,1949,00,John Chaney,John,john-chaney,,F,6-3,185,"FEB 29, 1920",30.0,R,Louisiana State,76380,,0
+1610610033,1949,00,Bobby Cook,Bobby,bobby-cook,,G,5-10,155,"APR 01, 1923",27.0,R,Wisconsin,76438,,0
+1610610033,1949,00,Don Grate,Don,don-grate,,G,6-2,185,"AUG 27, 1923",26.0,R,Ohio State,76854,,0
+1610610033,1949,00,Noble Jorgensen,Noble,noble-jorgensen,,C,6-9,228,"MAY 18, 1925",25.0,1,Iowa,77212,,0
+1610610033,1949,00,Walt Lautenbach,Walt,walt-lautenbach,,F,6-2,185,"NOV 17, 1922",27.0,R,Wisconsin,77345,,0
+1610610033,1949,00,Matt Mazza,Matt,matt-mazza,,F,6-3,210,"SEP 23, 1923",26.0,R,Michigan State,77497,,0
+1610610033,1949,00,Max Morris,Max,max-morris,,F,6-2,195,"MAR 14, 1925",25.0,R,Northwestern,77646,,0
+1610610033,1949,00,Milt Schoon,Milt,milt-schoon,,C,6-7,230,"FEB 25, 1922",28.0,1,Valparaiso,78089,,0
+1610610033,1949,00,Dick Schulz,Dick,dick-schulz,,F,6-2,192,"JAN 03, 1917",33.0,3,Wisconsin,78092,,0
+1610610033,1949,00,Glen Selbo,Glen,glen-selbo,,F,6-3,196,"MAR 29, 1926",24.0,R,Wisconsin,78109,,0
+1610610033,1949,00,George Sobek,George,george-sobek,,G,6-0,180,"FEB 10, 1920",30.0,R,Notre Dame,78214,,0
+1610610033,1949,00,Danny Wagner,Danny,danny-wagner,,G,6-0,170,"AUG 01, 1922",27.0,R,Texas,78428,,0
+1610610033,1949,00,Bob Wood,Bob,bob-wood,,G,5-10,,"OCT 07, 1921",28.0,R,Northern Illinois,78612,,0

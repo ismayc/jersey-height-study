@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612746,1978,00,Bob Bigelow,Bob,bob-bigelow,32,F,6-7,215,"DEC 26, 1953",25.0,3,Pennsylvania,76165,,0
+1610612746,1978,00,World Free,World,world-free,24,G,6-3,185,"DEC 09, 1953",25.0,3,Guilford,76753,,0
+1610612746,1978,00,Kevin Kunnert,Kevin,kevin-kunnert,44,C,7-0,230,"NOV 11, 1951",27.0,5,Iowa,77323,,0
+1610612746,1978,00,Swen Nater,Swen,swen-nater,31,C,6-11,240,"JAN 14, 1950",29.0,2,UCLA,77689,,0
+1610612746,1978,00,Connie Norman,Connie,connie-norman,11,G,6-3,175,"SEP 24, 1953",25.0,2,Arizona,77729,,0
+1610612746,1978,00,John Olive,John,john-olive,40,F,6-7,210,"MAR 01, 1955",24.0,R,Villanova,77760,,0
+1610612746,1978,00,Stan Pietkiewicz,Stan,stan-pietkiewicz,22,G,6-5,200,"JUL 14, 1956",22.0,R,Auburn,77858,,0
+1610612746,1978,00,Randy Smith,Randy,randy-smith,9,G,6-3,180,"DEC 12, 1948",30.0,7,Buffalo State,78200,,0
+1610612746,1978,00,Brian Taylor,Brian,brian-taylor,14,G,6-2,185,"JUN 09, 1951",28.0,2,Princeton,78296,,0
+1610612746,1978,00,Kermit Washington,Kermit,kermit-washington,42,F,6-8,230,"SEP 17, 1951",27.0,5,American,78467,,0
+1610612746,1978,00,Nick Weatherspoon,Nick,nick-weatherspoon,12,F,6-7,195,"JUL 20, 1950",28.0,5,Illinois,78475,,0
+1610612746,1978,00,Jerome Whitehead,Jerome,jerome-whitehead,33,C,6-10,220,"SEP 30, 1956",22.0,R,Marquette,78516,,0
+1610612746,1978,00,Sidney Wicks,Sidney,sidney-wicks,21,F,6-9,225,"SEP 19, 1949",29.0,7,UCLA,78520,,0
+1610612746,1978,00,Freeman Williams,Freeman,freeman-williams,20,G,6-4,190,"MAY 15, 1956",23.0,R,Portland State,78548,,0

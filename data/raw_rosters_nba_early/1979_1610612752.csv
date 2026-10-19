@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612752,1979,00,Bill Cartwright,Bill,bill-cartwright,25,C,7-1,245,"JUL 30, 1957",22.0,R,San Francisco,76362,,0
+1610612752,1979,00,Jim Cleamons,Jim,jim-cleamons,35,G,6-3,185,"SEP 13, 1949",30.0,8,Ohio State,76402,,0
+1610612752,1979,00,Hollis Copeland,Hollis,hollis-copeland,45,F,6-6,180,"DEC 20, 1955",24.0,R,Rutgers,76447,,0
+1610612752,1979,00,Larry Demic,Larry,larry-demic,42,F,6-9,225,"JUN 27, 1957",23.0,R,Arizona,76553,,0
+1610612752,1979,00,Mike Glenn,Mike,mike-glenn,34,G,6-2,175,"SEP 10, 1955",24.0,2,Southern Illinois,76822,,0
+1610612752,1979,00,Geoff Huston,Geoff,geoff-huston,23,G,6-2,175,"NOV 08, 1957",22.0,R,Texas Tech,77087,,0
+1610612752,1979,00,Toby Knight,Toby,toby-knight,43,F,6-9,210,"MAY 03, 1955",25.0,2,Notre Dame,77289,,0
+1610612752,1979,00,Joe Meriweather,Joe,joe-meriweather,50,C,6-10,215,"OCT 26, 1953",26.0,4,Southern Illinois,77582,,0
+1610612752,1979,00,Earl Monroe,Earl,earl-monroe,15,G,6-3,185,"NOV 21, 1944",35.0,12,Winston-Salem State,600006,,0
+1610612752,1979,00,Micheal Ray Richardson,Micheal Ray,micheal-ray-richardson,20,G,6-5,189,"APR 11, 1955",25.0,1,Montana,77952,,0
+1610612752,1979,00,Marvin Webster,Marvin,marvin-webster,40,C,7-1,225,"APR 13, 1952",28.0,3,Morgan State,78481,,0
+1610612752,1979,00,Sly Williams,Sly,sly-williams,33,F,6-7,210,"JAN 26, 1958",22.0,R,Rhode Island,78570,,0
+1610612752,1979,00,Ray Williams,Ray,ray-williams,13,G,6-3,188,"OCT 14, 1954",25.0,2,Minnesota,78571,,0

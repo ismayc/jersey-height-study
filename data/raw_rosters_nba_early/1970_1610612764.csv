@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1970,00,Jim Barnes,Jim,jim-barnes,12,C,6-8,210,"APR 13, 1941",30.0,6,Texas-El Paso,76105,,0
+1610612764,1970,00,Fred Carter,Fred,fred-carter,3,G,6-3,185,"FEB 14, 1945",26.0,1,Mount St. Mary's,76356,,0
+1610612764,1970,00,George Johnson,George,george-johnson,31,C,6-11,245,"JUN 19, 1947",24.0,R,Stephen F. Austin,77147,,0
+1610612764,1970,00,Gus Johnson,Gus,gus-johnson,25,F,6-6,230,"DEC 13, 1935",35.0,7,Idaho,77150,,0
+1610612764,1970,00,Kevin Loughery,Kevin,kevin-loughery,22,G,6-3,190,"MAR 28, 1940",31.0,8,St. John's (NY),77411,,0
+1610612764,1970,00,Jack Marin,Jack,jack-marin,24,F,6-6,200,"OCT 12, 1944",26.0,4,Duke,77463,,0
+1610612764,1970,00,Eddie Miles,Eddie,eddie-miles,15,G,6-4,195,"JUL 05, 1940",30.0,7,Seattle,77596,,0
+1610612764,1970,00,Earl Monroe,Earl,earl-monroe,10,G,6-3,185,"NOV 21, 1944",26.0,3,Winston-Salem State,600006,,0
+1610612764,1970,00,Dennis Stewart,Dennis,dennis-stewart,40,F,6-6,220,"APR 11, 1947",24.0,R,Michigan,78253,,0
+1610612764,1970,00,Al Tucker,Al,al-tucker,35,F,6-8,190,"FEB 24, 1943",28.0,3,Oklahoma Baptist,78372,,0
+1610612764,1970,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",25.0,2,Louisville,78392,,0
+1610612764,1970,00,Gary Zeller,Gary,gary-zeller,11,G,6-3,205,"NOV 20, 1947",23.0,R,Drake,78641,,0

@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612755,1971,00,Dennis Awtrey,Dennis,dennis-awtrey,20,C,6-10,235,"FEB 22, 1948",24.0,1,Santa Clara,76078,,0
+1610612755,1971,00,Bill Bridges,Bill,bill-bridges,23,F,6-5,228,"APR 04, 1939",33.0,9,Kansas,76253,,0
+1610612755,1971,00,Fred Carter,Fred,fred-carter,3,G,6-3,185,"FEB 14, 1945",27.0,2,Mount St. Mary's,76356,,0
+1610612755,1971,00,Archie Clark,Archie,archie-clark,21,G,6-2,175,"JUL 15, 1941",30.0,5,Minnesota,76397,,0
+1610612755,1971,00,Billy Cunningham,Billy,billy-cunningham,32,F,6-6,210,"JUN 03, 1943",29.0,6,North Carolina,76487,,0
+1610612755,1971,00,Fred Foster,Fred,fred-foster,25,F,6-5,210,"MAR 18, 1946",26.0,3,Miami (Ohio),76740,,0
+1610612755,1971,00,Hal Greer,Hal,hal-greer,15,G,6-2,175,"JUN 26, 1936",36.0,13,Marshall,76882,,0
+1610612755,1971,00,Al Henry,Al,al-henry,26,C,6-9,190,"FEB 09, 1949",23.0,1,Wisconsin,77000,,0
+1610612755,1971,00,Lucious Jackson,Lucious,lucious-jackson,,F,6-9,240,"OCT 31, 1941",30.0,7,Texas-Pan American,77103,,0
+1610612755,1971,00,Kevin Loughery,Kevin,kevin-loughery,22,G,6-3,190,"MAR 28, 1940",32.0,9,St. John's (NY),77411,,0
+1610612755,1971,00,Bob Rule,Bob,bob-rule,45,C,6-9,220,"JUN 29, 1944",28.0,4,Colorado State,78042,,0
+1610612755,1971,00,Jim Washington,Jim,jim-washington,12,F,6-7,210,"JUL 01, 1943",28.0,6,Villanova,78466,,0
+1610612755,1971,00,Dave Wohl,Dave,dave-wohl,13,G,6-2,185,"NOV 02, 1949",22.0,R,Pennsylvania,78606,,0
+1610612755,1971,00,Barry Yates,Barry,barry-yates,35,F,6-7,215,"JAN 30, 1946",26.0,R,Maryland,78629,,0

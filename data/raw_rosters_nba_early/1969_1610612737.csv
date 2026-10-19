@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612737,1969,00,Butch Beard,Butch,butch-beard,14,G,6-3,185,"MAY 04, 1947",23.0,R,Louisville,76130,,0
+1610612737,1969,00,Bill Bridges,Bill,bill-bridges,32,F,6-5,228,"APR 04, 1939",31.0,7,Kansas,76253,,0
+1610612737,1969,00,Joe Caldwell,Joe,joe-caldwell,27,F,6-5,195,"NOV 01, 1941",28.0,5,Arizona State,76329,,0
+1610612737,1969,00,Jim Davis,Jim,jim-davis,24,C,6-9,225,"DEC 18, 1941",28.0,2,Colorado,76525,,0
+1610612737,1969,00,Gary Gregor,Gary,gary-gregor,40,F,6-7,225,"AUG 13, 1945",24.0,1,South Carolina,76883,,0
+1610612737,1969,00,Richie Guerin,Richie,richie-guerin,19,G,6-4,195,"MAY 29, 1932",38.0,12,Iona,76902,,0
+1610612737,1969,00,Walt Hazzard,Walt,walt-hazzard,42,G,6-2,185,"APR 15, 1942",28.0,5,UCLA,76983,,0
+1610612737,1969,00,Lou Hudson,Lou,lou-hudson,23,F,6-5,210,"JUL 11, 1944",25.0,3,Minnesota,77074,,0
+1610612737,1969,00,Dave Newmark,Dave,dave-newmark,29,C,7-0,240,"SEP 11, 1946",23.0,1,Columbia,77712,,0
+1610612737,1969,00,Grady O'Malley,Grady,grady-omalley,12,F,6-5,205,"APR 25, 1948",22.0,R,Manhattan,77766,,0
+1610612737,1969,00,Don Ohl,Don,don-ohl,10,G,6-3,190,"APR 18, 1936",34.0,9,Illinois,77751,,0
+1610612737,1969,00,Gene Tormohlen,Gene,gene-tormohlen,34,C,6-8,230,"MAY 12, 1937",33.0,5,Tennessee,78358,,0

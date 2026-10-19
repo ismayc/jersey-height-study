@@ -1,0 +1,11 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1951,00,Bob Brannum,Bob,bob-brannum,18,F,6-6,215,"MAY 28, 1925",27.0,1,Michigan State,76238,,0
+1610612738,1951,00,Chuck Cooper,Chuck,chuck-cooper,11,F,6-5,210,"SEP 29, 1926",25.0,1,Duquesne,76442,,0
+1610612738,1951,00,Bob Cousy,Bob,bob-cousy,14,G,6-1,175,"AUG 09, 1928",23.0,1,Holy Cross,600003,,0
+1610612738,1951,00,Dick Dickey,Dick,dick-dickey,23,G,6-1,175,"OCT 26, 1926",25.0,R,North Carolina State,76565,,0
+1610612738,1951,00,Bob Donham,Bob,bob-donham,12,G,6-2,190,"OCT 11, 1926",25.0,1,Ohio State,76584,,0
+1610612738,1951,00,Bob Harris,Bob,bob-harris,13,F,6-7,195,"MAR 16, 1927",25.0,2,Oklahoma State,76959,,0
+1610612738,1951,00,Ed Macauley,Ed,ed-macauley,22,C,6-8,185,"MAR 22, 1928",24.0,2,St. Louis,77429,,0
+1610612738,1951,00,John Mahnken,John,john-mahnken,16,C,6-8,220,"JUN 16, 1922",30.0,5,Georgetown,77443,,0
+1610612738,1951,00,Horace McKinney,Horace,horace-mckinney,17,F,6-6,185,"JAN 01, 1919",33.0,5,North Carolina,77546,,0
+1610612738,1951,00,Bill Sharman,Bill,bill-sharman,21,G,6-1,175,"MAY 25, 1926",26.0,1,Southern California,78126,,0

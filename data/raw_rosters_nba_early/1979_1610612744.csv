@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612744,1979,00,Tom Abernethy,Tom,tom-abernethy,5,F,6-7,220,"MAY 06, 1954",26.0,3,Indiana,76005,,0
+1610612744,1979,00,Wayne Cooper,Wayne,wayne-cooper,43,C,6-10,220,"NOV 16, 1956",23.0,1,New Orleans,76441,,0
+1610612744,1979,00,John Coughran,John,john-coughran,41,F,6-7,225,"SEP 12, 1951",28.0,R,California,76457,,0
+1610612744,1979,00,Darnell Hillman,Darnell,darnell-hillman,30,F,6-9,215,"AUG 29, 1949",30.0,3,San Jose State,77028,,0
+1610612744,1979,00,Lynbert Johnson,Lynbert,lynbert-johnson,21,F,6-5,195,"SEP 07, 1957",22.0,R,Wichita State,77159,,0
+1610612744,1979,00,John Lucas,John,john-lucas,4,G,6-3,175,"OCT 31, 1953",26.0,3,Maryland,77419,,0
+1610612744,1979,00,Robert Parish,Robert,robert-parish,00,C,7-1,230,"AUG 30, 1953",26.0,3,Centenary-Louisiana,305,,0
+1610612744,1979,00,Sonny Parker,Sonny,sonny-parker,22,F,6-6,200,"MAR 22, 1955",25.0,3,Texas A&M,77800,,0
+1610612744,1979,00,Clifford Ray,Clifford,clifford-ray,44,C,6-9,230,"JAN 21, 1949",31.0,8,Oklahoma,77917,,0
+1610612744,1979,00,Purvis Short,Purvis,purvis-short,45,F,6-7,210,"JUL 02, 1957",22.0,1,Jackson State,78139,,0
+1610612744,1979,00,Phil Smith,Phil,phil-smith,20,G,6-4,185,"APR 22, 1952",28.0,5,San Francisco,78199,,0
+1610612744,1979,00,Raymond Townsend,Raymond,raymond-townsend,11,G,6-3,175,"DEC 20, 1955",24.0,1,UCLA,78365,,0
+1610612744,1979,00,Jojo White,Jojo,jojo-white,10,G,6-3,190,"NOV 16, 1946",33.0,10,Kansas,78510,,0
+1610612744,1979,00,Thomas Wilson,Thomas,thomas-wilson,17,G,6-3,175,"AUG 07, 1955",24.0,R,Western Carolina,78587,,0

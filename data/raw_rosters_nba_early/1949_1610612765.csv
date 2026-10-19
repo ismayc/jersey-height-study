@@ -1,0 +1,10 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1949,00,Paul Armstrong,Paul,paul-armstrong,3,G,5-11,170,"NOV 01, 1918",31.0,1,Indiana,76060,,0
+1610612765,1949,00,Bob Carpenter,Bob,bob-carpenter,10,F,6-5,200,"NOV 06, 1917",32.0,R,Texas A&M-Commerce,76346,,0
+1610612765,1949,00,Bob Harris,Bob,bob-harris,14,F,6-7,195,"MAR 16, 1927",23.0,R,Oklahoma State,76959,,0
+1610612765,1949,00,Bill Henry,Bill,bill-henry,16,C,6-9,215,"DEC 27, 1924",25.0,1,Rice,77004,,0
+1610612765,1949,00,Leo Klier,Leo,leo-klier,7,G,6-2,170,"MAY 21, 1923",27.0,1,Notre Dame,77283,,0
+1610612765,1949,00,Jerry Nagel,Jerry,jerry-nagel,9,G,6-0,190,"MAY 18, 1928",22.0,R,Loyola-Chicago,77683,,0
+1610612765,1949,00,Johnny Oldham,Johnny,johnny-oldham,4,G,6-3,175,"JUN 22, 1923",27.0,R,Western Kentucky,77758,,0
+1610612765,1949,00,Fred Schaus,Fred,fred-schaus,8,F,6-5,205,"JUN 30, 1925",24.0,R,West Virginia,78075,,0
+1610612765,1949,00,Clint Wager,Clint,clint-wager,17,C,6-5,210,"JAN 20, 1920",30.0,R,St. Mary's (MN),78427,,0

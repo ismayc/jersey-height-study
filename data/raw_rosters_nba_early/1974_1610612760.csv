@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1974,00,John Brisker,John,john-brisker,40,F,6-5,210,"JUN 15, 1947",28.0,2,Toledo,76256,,0
+1610612760,1974,00,Fred Brown,Fred,fred-brown,32,G,6-3,182,"AUG 07, 1948",26.0,3,Iowa,76272,,0
+1610612760,1974,00,Tom Burleson,Tom,tom-burleson,16,C,7-2,225,"FEB 24, 1952",23.0,R,North Carolina State,76305,,0
+1610612760,1974,00,Archie Clark,Archie,archie-clark,21,G,6-2,175,"JUL 15, 1941",33.0,8,Minnesota,76397,,0
+1610612760,1974,00,Rod Derline,Rod,rod-derline,25,G,6-0,175,"MAR 11, 1952",23.0,R,Seattle,76559,,0
+1610612760,1974,00,Jim Fox,Jim,jim-fox,31,C,6-10,230,"APR 07, 1943",32.0,7,South Carolina,76747,,0
+1610612760,1974,00,Leonard Gray,Leonard,leonard-gray,11,F,6-8,240,"DEC 19, 1951",23.0,R,Long Beach State,76860,,0
+1610612760,1974,00,Spencer Haywood,Spencer,spencer-haywood,24,F,6-8,225,"APR 22, 1949",26.0,4,Detroit,76981,,0
+1610612760,1974,00,John Hummer,John,john-hummer,42,F,6-9,230,"MAY 04, 1948",27.0,4,Princeton,77080,,0
+1610612760,1974,00,Wardell Jackson,Wardell,wardell-jackson,30,F,6-7,200,"JUL 18, 1951",23.0,R,Ohio State,77111,,0
+1610612760,1974,00,Kenny McIntosh,Kenny,kenny-mcintosh,43,F,6-7,225,"JAN 21, 1949",26.0,3,Eastern Michigan,77540,,0
+1610612760,1974,00,Talvin Skinner,Talvin,talvin-skinner,22,F,6-5,195,"SEP 10, 1952",22.0,R,Maryland-Eastern Shore,78168,,0
+1610612760,1974,00,Dean Tolson,Dean,dean-tolson,20,F,6-8,190,"NOV 25, 1951",23.0,R,Arkansas,78349,,0
+1610612760,1974,00,Slick Watts,Slick,slick-watts,13,G,6-1,175,"JUL 22, 1951",23.0,1,Xavier of Louisiana,78473,,0

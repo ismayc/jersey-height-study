@@ -1,0 +1,13 @@
+league,rookie_status,school_class,n
+nba,excluded,ncaa,190
+nba,excluded,non_ncaa,14
+nba,rookie,ncaa,4215
+nba,rookie,non_ncaa,382
+nba,veteran,ncaa,17834
+nba,veteran,non_ncaa,1748
+wnba,excluded,ncaa,117
+wnba,excluded,non_ncaa,23
+wnba,rookie,ncaa,754
+wnba,rookie,non_ncaa,140
+wnba,veteran,ncaa,3215
+wnba,veteran,non_ncaa,341

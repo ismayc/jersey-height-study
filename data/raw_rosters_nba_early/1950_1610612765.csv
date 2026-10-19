@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1950,00,Paul Armstrong,Paul,paul-armstrong,3,G,5-11,170,"NOV 01, 1918",32.0,2,Indiana,76060,,0
+1610612765,1950,00,Art Burris,Art,art-burris,12,F,6-5,220,"APR 07, 1924",27.0,R,Tennessee,76311,,0
+1610612765,1950,00,Larry Foust,Larry,larry-foust,16,C,6-9,215,"JUN 24, 1928",23.0,R,La Salle,76744,,0
+1610612765,1950,00,David Johnson,David,david-johnson,5,G,5-11,170,"DEC 06, 1921",29.0,1,Huntington,77139,,0
+1610612765,1950,00,Jack Kerris,Jack,jack-kerris,15,F,6-6,215,"JAN 30, 1925",26.0,1,Loyola-Chicago,77249,,0
+1610612765,1950,00,Duane Klueh,Duane,duane-klueh,6,G,6-3,175,"JAN 06, 1926",25.0,1,Indiana State,77285,,0
+1610612765,1950,00,Dick Mehen,Dick,dick-mehen,10,F,6-5,195,"MAY 20, 1922",29.0,1,Tennessee,77572,,0
+1610612765,1950,00,Ken Murray,Ken,ken-murray,9,G,6-2,190,"APR 20, 1928",23.0,R,St. Bonaventure,77675,,0
+1610612765,1950,00,Johnny Oldham,Johnny,johnny-oldham,4,G,6-3,175,"JUN 22, 1923",28.0,1,Western Kentucky,77758,,0
+1610612765,1950,00,Don Otten,Don,don-otten,17,C,6-10,240,"APR 18, 1921",30.0,1,Bowling Green,77778,,0
+1610612765,1950,00,Jim Riffey,Jim,jim-riffey,9-17,F,6-4,200,"DEC 14, 1923",27.0,R,Tulane,77959,,0
+1610612765,1950,00,Fred Schaus,Fred,fred-schaus,8,F,6-5,205,"JUN 30, 1925",25.0,1,West Virginia,78075,,0

@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612760,1971,00,Zaid Abdul-Aziz,Zaid,zaid-abdul-aziz,35,C,6-9,235,"APR 07, 1946",26.0,3,Iowa State,76002,,0
+1610612760,1971,00,Fred Brown,Fred,fred-brown,32,G,6-3,182,"AUG 07, 1948",23.0,R,Iowa,76272,,0
+1610612760,1971,00,John Clemens,John,john-clemens,43,F,6-6,210,"MAY 01, 1943",29.0,6,Ohio Wesleyan,76403,,0
+1610612760,1971,00,Pete Cross,Pete,pete-cross,41,C,6-9,230,"MAR 28, 1948",24.0,1,San Francisco,76477,,0
+1610612760,1971,00,Jake Ford,Jake,jake-ford,33,G,6-3,180,"APR 29, 1946",26.0,1,Maryland-Eastern Shore,76735,,0
+1610612760,1971,00,Spencer Haywood,Spencer,spencer-haywood,24,F,6-8,225,"APR 22, 1949",23.0,1,Detroit,76981,,0
+1610612760,1971,00,Garfield Heard,Garfield,garfield-heard,40,F,6-6,219,"MAY 03, 1948",24.0,1,Oklahoma,76985,,0
+1610612760,1971,00,Don Kojis,Don,don-kojis,22,F,6-3,202,"JUL 15, 1939",32.0,8,Marquette,77295,,0
+1610612760,1971,00,Jim McDaniels,Jim,jim-mcdaniels,44,C,6-11,228,"APR 02, 1948",24.0,R,Western Kentucky,77523,,0
+1610612760,1971,00,Dick Snyder,Dick,dick-snyder,10,G,6-5,207,"FEB 01, 1944",28.0,5,Davidson,78213,,0
+1610612760,1971,00,Lenny Wilkens,Lenny,lenny-wilkens,19,G,6-1,180,"OCT 28, 1937",34.0,11,Providence,78530,,0
+1610612760,1971,00,Lee Winfield,Lee,lee-winfield,11,G,6-2,174,"FEB 04, 1947",25.0,2,North Texas,78592,,0

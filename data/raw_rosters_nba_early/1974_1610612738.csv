@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1974,00,Jim Ard,Jim,jim-ard,34,C,6-9,215,"SEP 19, 1948",26.0,R,Cincinnati,76055,,0
+1610612738,1974,00,Don Chaney,Don,don-chaney,12,G,6-5,210,"MAR 22, 1946",29.0,6,Houston,76379,,0
+1610612738,1974,00,Ben Clyde,Ben,ben-clyde,33,F,6-7,198,"JUN 10, 1951",24.0,R,Florida State,76409,,0
+1610612738,1974,00,Dave Cowens,Dave,dave-cowens,18,C,6-9,230,"OCT 25, 1948",26.0,4,Florida State,76462,,0
+1610612738,1974,00,Steve Downing,Steve,steve-downing,32,C,6-8,225,"SEP 09, 1950",24.0,1,Indiana,76594,,0
+1610612738,1974,00,Hank Finkel,Hank,hank-finkel,29,C,7-0,240,"APR 20, 1942",33.0,8,Dayton,76716,,0
+1610612738,1974,00,Phil Hankinson,Phil,phil-hankinson,20,F,6-8,195,"JUL 26, 1951",23.0,1,Pennsylvania,76936,,0
+1610612738,1974,00,John Havlicek,John,john-havlicek,17,F,6-5,203,"APR 08, 1940",35.0,12,Ohio State,76970,,0
+1610612738,1974,00,Glenn McDonald,Glenn,glenn-mcdonald,30,F,6-6,190,"MAR 18, 1952",23.0,R,Long Beach State,77525,,0
+1610612738,1974,00,Don Nelson,Don,don-nelson,19,F,6-6,210,"MAY 15, 1940",35.0,12,Iowa,77700,,0
+1610612738,1974,00,Paul Silas,Paul,paul-silas,35,F,6-7,220,"JUL 12, 1943",31.0,10,Creighton,78151,,0
+1610612738,1974,00,Kevin Stacom,Kevin,kevin-stacom,27,G,6-3,185,"SEP 04, 1951",23.0,R,Providence,78237,,0
+1610612738,1974,00,Paul Westphal,Paul,paul-westphal,44,G,6-4,195,"NOV 30, 1950",24.0,2,Southern California,78500,,0
+1610612738,1974,00,Jojo White,Jojo,jojo-white,10,G,6-3,190,"NOV 16, 1946",28.0,5,Kansas,78510,,0

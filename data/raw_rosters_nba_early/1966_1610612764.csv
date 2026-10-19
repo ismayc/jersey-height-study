@@ -1,0 +1,14 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1966,00,John Austin,John,john-austin,34,G,6-0,170,"AUG 31, 1944",22.0,R,Boston College,76073,,0
+1610612764,1966,00,John Barnhill,John,john-barnhill,35,G,6-1,180,"MAR 20, 1938",29.0,4,Tennessee State,76108,,0
+1610612764,1966,00,Mel Counts,Mel,mel-counts,31,C,7-0,230,"OCT 16, 1941",25.0,2,Oregon State,76458,,0
+1610612764,1966,00,Johnny Egan,Johnny,johnny-egan,11,G,6-0,180,"JAN 31, 1939",28.0,5,Providence,76647,,0
+1610612764,1966,00,Leroy Ellis,Leroy,leroy-ellis,44,F,6-11,210,"MAR 10, 1940",27.0,4,St. John's (NY),76663,,0
+1610612764,1966,00,Bob Ferry,Bob,bob-ferry,12,C,6-8,230,"MAY 31, 1937",30.0,7,St. Louis,76712,,0
+1610612764,1966,00,Johnny Green,Johnny,johnny-green,24,F,6-5,200,"DEC 08, 1933",33.0,7,Michigan State,76867,,0
+1610612764,1966,00,Gus Johnson,Gus,gus-johnson,25,F,6-6,230,"DEC 13, 1935",31.0,3,Idaho,77150,,0
+1610612764,1966,00,Kevin Loughery,Kevin,kevin-loughery,22,G,6-3,190,"MAR 28, 1940",27.0,4,St. John's (NY),77411,,0
+1610612764,1966,00,Jack Marin,Jack,jack-marin,15,F,6-6,200,"OCT 12, 1944",22.0,R,Duke,77463,,0
+1610612764,1966,00,Don Ohl,Don,don-ohl,10,G,6-3,190,"APR 18, 1936",31.0,6,Illinois,77751,,0
+1610612764,1966,00,Ray Scott,Ray,ray-scott,31,F,6-9,215,"JUL 12, 1938",28.0,5,Portland,78100,,0
+1610612764,1966,00,Ben Warley,Ben,ben-warley,33,F,6-5,200,"SEP 04, 1936",30.0,4,Tennessee State,78458,,0

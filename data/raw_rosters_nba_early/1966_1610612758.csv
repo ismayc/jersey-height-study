@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612758,1966,00,Connie Dierking,Connie,connie-dierking,24,C,6-10,222,"OCT 02, 1936",30.0,5,Cincinnati,76566,,0
+1610612758,1966,00,Happy Hairston,Happy,happy-hairston,22,F,6-7,225,"MAY 31, 1942",25.0,2,New York University,76916,,0
+1610612758,1966,00,Freddie Lewis,Freddie,freddie-lewis,19,G,6-0,175,"JUL 01, 1943",23.0,R,Arizona State,77380,,0
+1610612758,1966,00,Bob Love,Bob,bob-love,21,F,6-8,215,"DEC 08, 1942",24.0,R,Southern,77412,,0
+1610612758,1966,00,Jerry Lucas,Jerry,jerry-lucas,16,F,6-8,230,"MAR 30, 1940",27.0,3,Ohio State,77418,,0
+1610612758,1966,00,Jon McGlocklin,Jon,jon-mcglocklin,11,G,6-5,205,"JUN 10, 1943",24.0,1,Indiana,77533,,0
+1610612758,1966,00,Oscar Robertson,Oscar,oscar-robertson,14,G,6-5,205,"NOV 24, 1938",28.0,6,Cincinnati,600015,,0
+1610612758,1966,00,Flynn Robinson,Flynn,flynn-robinson,20,G,6-1,185,"APR 28, 1941",26.0,R,Wyoming,77988,,0
+1610612758,1966,00,Adrian Smith,Adrian,adrian-smith,10,G,6-1,180,"OCT 05, 1936",30.0,5,Kentucky,78178,,0
+1610612758,1966,00,Jim Ware,Jim,jim-ware,18,F,6-7,210,"MAY 02, 1944",23.0,R,Oklahoma City,78457,,0
+1610612758,1966,00,Walt Wesley,Walt,walt-wesley,13,C,6-11,220,"JAN 25, 1945",22.0,R,Kansas,78495,,0
+1610612758,1966,00,George Wilson,George,george-wilson,17,C,6-8,225,"MAY 09, 1942",25.0,2,Cincinnati,78579,,0

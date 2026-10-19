@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612749,1971,00,Kareem Abdul-Jabbar,Kareem,kareem-abdul-jabbar,33,C,7-2,225,"APR 16, 1947",25.0,2,UCLA,76003,,0
+1610612749,1971,00,Lucius Allen,Lucius,lucius-allen,42,G,6-2,175,"SEP 26, 1947",24.0,2,UCLA,76027,,0
+1610612749,1971,00,John Block,John,john-block,34,F,6-10,207,"APR 16, 1944",28.0,5,Southern California,76187,,0
+1610612749,1971,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",24.0,2,Norfolk State,76500,,0
+1610612749,1971,00,Bill Dinwiddie,Bill,bill-dinwiddie,20,F,6-7,220,"JUL 15, 1943",28.0,3,New Mexico Highlands,76576,,0
+1610612749,1971,00,Wali Jones,Wali,wali-jones,12-24,G,6-2,180,"FEB 14, 1942",30.0,7,Villanova,77198,,0
+1610612749,1971,00,Toby Kimball,Toby,toby-kimball,7,F,6-6,220,"SEP 07, 1942",29.0,5,Connecticut,77259,,0
+1610612749,1971,00,Chuck Lowery,Chuck,chuck-lowery,6,G,6-3,185,"NOV 12, 1949",22.0,R,Puget Sound,77416,,0
+1610612749,1971,00,Jon McGlocklin,Jon,jon-mcglocklin,14,G,6-5,205,"JUN 10, 1943",29.0,6,Indiana,77533,,0
+1610612749,1971,00,Barry Nelson,Barry,barry-nelson,50,C,6-10,230,"SEP 19, 1949",22.0,R,Duquesne,77699,,0
+1610612749,1971,00,Oscar Robertson,Oscar,oscar-robertson,1,G,6-5,205,"NOV 24, 1938",33.0,11,Cincinnati,600015,,0

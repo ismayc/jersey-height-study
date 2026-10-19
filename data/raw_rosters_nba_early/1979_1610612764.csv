@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1979,00,Gus Bailey,Gus,gus-bailey,20,G,6-5,185,"FEB 18, 1951",29.0,4,Texas-El Paso,76083,,0
+1610612764,1979,00,Greg Ballard,Greg,greg-ballard,42,F,6-7,215,"JAN 29, 1955",25.0,2,Oregon,76091,,0
+1610612764,1979,00,Ron Behagen,Ron,ron-behagen,12,F,6-9,185,"JAN 14, 1951",29.0,6,Minnesota,76140,,0
+1610612764,1979,00,Lawrence Boston,Lawrence,lawrence-boston,4,F,6-8,225,"MAY 18, 1956",24.0,R,Maryland,76212,,0
+1610612764,1979,00,Dave Corzine,Dave,dave-corzine,40,C,6-11,250,"APR 25, 1956",24.0,1,DePaul,76453,,0
+1610612764,1979,00,Bob Dandridge,Bob,bob-dandridge,10,F,6-6,195,"NOV 15, 1947",32.0,10,Norfolk State,76500,,0
+1610612764,1979,00,Kevin Grevey,Kevin,kevin-grevey,35,G,6-5,210,"MAY 12, 1953",27.0,4,Kentucky,76887,,0
+1610612764,1979,00,Elvin Hayes,Elvin,elvin-hayes,11,F,6-9,235,"NOV 17, 1945",34.0,11,Houston,76979,,0
+1610612764,1979,00,Mitch Kupchak,Mitch,mitch-kupchak,25,F,6-9,230,"MAY 24, 1954",26.0,3,North Carolina,77324,,0
+1610612764,1979,00,Kevin Porter,Kevin,kevin-porter,1,G,6-0,170,"APR 17, 1950",30.0,7,St. Francis (PA),77876,,0
+1610612764,1979,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",34.0,11,Louisville,78392,,0
+1610612764,1979,00,Larry Wright,Larry,larry-wright,32,G,6-1,160,"NOV 23, 1954",25.0,3,Grambling,78623,,0

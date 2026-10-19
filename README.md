@@ -23,6 +23,7 @@ Separating those two is the main analytical result. Full numbers in
 <!-- terms -->
 > **Terms used in this analysis.** Dotted-underlined terms anywhere below repeat these definitions on hover ([full glossary](https://github.com/ismayc/basketball-data-science/blob/main/docs/glossary.md)).
 >
+> - **stint**: A stretch of game time with no substitution at either end - the unit of observation for the stint-level RAPM model.
 > - **CI**: Confidence interval.
 <!-- /terms -->
 
@@ -49,6 +50,13 @@ R/03_analysis.R                             -> output/results_r.csv,      figure
 python/03_analysis.py                       -> output/results_python.csv, figures/*_py.{png,html}
 python/04_reconcile.py         compares the two, non-zero exit on mismatch
 python/05_findings.py          writes the Findings section of this README
+
+WNBA extension (see "Extension" below):
+python/07_harvest_more_rosters.py wnba | nba-early   -> data/wnba_rosters.csv, data/nba_early_rosters.csv
+R/08_wnba_analysis.R                        -> output/wnba/*_r.csv
+python/08_wnba_analysis.py                  -> output/wnba/*_python.csv, figures/fig7..fig13 (HTML)
+python/09_reconcile_wnba.py    compares the two, non-zero exit on mismatch
+python/10_wnba_findings.py     writes the Extension section of this README
 ```
 
 Each stage is independently re-runnable. The harvest caches one CSV per
@@ -67,6 +75,13 @@ Rscript R/03_analysis.R
 python python/03_analysis.py
 python python/04_reconcile.py    # exits non-zero if the two disagree
 python python/05_findings.py     # rewrites the Findings section below
+
+python python/07_harvest_more_rosters.py wnba        # resumable, cached
+python python/07_harvest_more_rosters.py nba-early
+Rscript R/08_wnba_analysis.R
+python python/08_wnba_analysis.py
+python python/09_reconcile_wnba.py    # exits non-zero if the two disagree
+python python/10_wnba_findings.py     # rewrites the Extension section
 ```
 
 ## Data
@@ -197,6 +212,146 @@ the median number nearly halved from 25 (1980-81) to
 14 (2025-26); the 0/00 share peaked at
 6.8% in 2024-25.
 <!-- /gen:explorer -->
+
+## Extension: the WNBA, the NCAA digit rule, and league age
+
+<!-- gen:wnba -->
+Does the WNBA show the NBA's collapse of the big-players-wear-high-numbers
+convention? Did the NCAA's 2023-24 change to allow the digits 6-9 move the
+numbers rookies choose? And how do the two leagues compare at the same league
+age? Scripts: `python/08_wnba_analysis.py` and `R/08_wnba_analysis.R` (two
+independent implementations), `python/09_reconcile_wnba.py` (the gate:
+deterministic tables to 1e-9, bootstrap intervals by overlap and equal group
+sizes, and the NBA seasons from 1980-81 on against the main
+study's own output), and `python/10_wnba_findings.py` (this section).
+
+**Data.** WNBA rosters 1997 to 2026 (30 seasons,
+4,590 player-seasons after cleaning) from `CommonTeamRoster` with the WNBA
+league ID, folded franchises included. For the league-age comparison, NBA
+rosters 1946-47 to 1979-80 (all franchises, defunct ones included)
+are added to the main study's 1980-81 to 2025-26, 24,383 NBA
+player-seasons in all. Cleaning rules are the ones in the table above. One new
+metric, `share_digit69`: the share of numbered players wearing a number with any
+digit 6 through 9 ("6", "19", and "69" count; "0", "00", and "45" do not).
+
+#### Judgment calls
+
+- **Early-NBA coverage threshold.** Number-based metrics count for a season only
+  when at least 90% of its players have a parseable jersey number.
+  This excludes the NBA's 1946-47 to 1953-54 (8 seasons; coverage
+  23% to 77%). The lowest included NBA
+  season is 1980-81 at 91.1%.
+  Every WNBA season passes; the lowest is
+  2008 at 90.8%. Height metrics do not
+  depend on the threshold. Every excluded season comes before the first included one, so missing numbers are concentrated in the earliest rosters, and a season missing a large share of its numbers is measuring a different set of players, not a sample of the same one.
+- **Rookies.** A rookie is a player whose `EXP` is "R" *and* who is in their
+  first season in the data. The two signals mostly agree: across WNBA seasons after
+  1997, 894 rows satisfy both,
+  54 have `EXP == "R"` on a later roster (most likely a player
+  who sat out the season they were first rostered, so their last college season
+  is earlier than the class suggests; not verified row by row), and 82 are first appearances
+  with `EXP` of 1 or more (likely a player whose earlier <abbr title="A stretch of game time with no substitution at either end - the unit of observation for the stint-level RAPM model.">stint</abbr> ended before the
+  end-of-season roster snapshot, also not verified row by row). Requiring both drops those ambiguous rows. The
+  NBA figures are 4,597, 50, and 130. The WNBA's
+  inaugural 1997 rosters (86 players, all
+  first appearances) are never a rookie class. Veterans are rows with a numeric
+  `EXP`.
+- **NCAA background, from `SCHOOL`.** Non-NCAA means: blank, "None", "No College",
+  or "Unknown" (on recent rookie rows these are all international players); a US high
+  school or prep academy; a junior college; a pro or development pathway (G League
+  Ignite, Overtime Elite, an NBA team); or one of the international clubs,
+  countries, and cities listed in `data/school_non_ncaa.csv` (curated by reading
+  every `SCHOOL` value on a rookie row in both leagues). Everything else counts as
+  NCAA, including year-suffixed entries ("Virginia '96"). NAIA schools are not
+  separated out, so a handful of NAIA alumni count as NCAA. WNBA rookies split
+  754 NCAA and 140 non-NCAA; NBA rookies
+  4,215 and 382.
+- **Exposure.** Source for the rule change: NSGA release, June 9, 2023 (<https://nsga.org/?p=6571>): "numbers 0 or 00 through 99 will be permitted in NCAA men's and women's basketball". The start date of the old
+  rule is not verified here and is not used. A rookie whose last college season
+  was 2023-24 or later is exposed: WNBA rookie seasons
+  2024 to 2026, NBA rookie seasons 2024-25 to 2025-26. The
+  rookie season is the only proxy for the last college season, so a player who
+  spent a year abroad between college and the pros is misdated.
+- **Comparison window.** The primary comparison is the 10 rookie classes
+  just before exposure. Every earlier class is a secondary comparison, and a weak
+  one for this question: the NBA's 6-9 share averaged 39.4% across its covered 1950s seasons and 13.5% across the 1970s, so the long window mixes eras with
+  different number habits.
+
+#### 1. The WNBA shows no collapse of the convention
+
+Mean listed height went from **71.59 in** (1997) to **72.82 in**
+(2026). Numbers above 55 went from **0.0%** to **0.9%** (never above
+1.4% in any season), 0 or 00 from **1.2%** to **5.0%**, and numbers with a 6-9
+digit from **14.0%** to **16.3%**.
+
+The jersey/height correlation was **+0.197** in the first five seasons
+(1997 to 2001) and **+0.193** in the last five
+(2022 to 2026); single seasons ranged from +0.150
+(2025) to +0.334
+(2014). The bootstrap change is **-0.005**
+(95% <abbr title="Confidence interval.">CI</abbr> [-0.103, +0.088], 2,000 resamples of
+701 and 812 player-seasons), and the interval includes zero. For the NBA
+the same quantity is -0.300 [-0.350, -0.245]. **The WNBA shows none of the NBA's collapse.** Its interval also rules out a drop as large as the NBA's (-0.300), so this is not just a small sample failing to detect the same change. The WNBA started (+0.197) near the level the NBA has fallen to (its last five seasons average +0.194) and stayed there.
+
+#### 2. The NCAA digit rule: no detectable effect yet, on small samples
+
+Share of numbered players wearing a number with any 6-9 digit, the 10
+rookie classes before exposure against the exposed classes:
+
+**WNBA**
+
+| Group | Earlier seasons | Exposed seasons | Change (95% <abbr title="Confidence interval.">CI</abbr>) | Interval |
+|---|---|---|---|---|
+| NCAA rookies | 8.5% (18 of 211, 2014 to 2023) | 13.0% (12 of 92, 2024 to 2026) | +4.5 points [-2.8, +12.8] | includes zero |
+| Non-NCAA rookies | 39.4% (13 of 33, 2014 to 2023) | 32.4% (11 of 34, 2024 to 2026) | -7.0 points [-28.2, +16.8] | includes zero |
+| Veterans | 11.7% (142 of 1,212, 2014 to 2023) | 15.5% (62 of 399, 2024 to 2026) | +3.8 points [+0.1, +7.7] | borderline (R and Python disagree on zero) |
+
+**NBA (cross-check)**
+
+| Group | Earlier seasons | Exposed seasons | Change (95% <abbr title="Confidence interval.">CI</abbr>) | Interval |
+|---|---|---|---|---|
+| NCAA rookies | 22.9% (169 of 737, 2014-15 to 2023-24) | 21.3% (30 of 141, 2024-25 to 2025-26) | -1.7 points [-9.0, +6.0] | includes zero |
+| Non-NCAA rookies | 41.9% (52 of 124, 2014-15 to 2023-24) | 39.3% (11 of 28, 2024-25 to 2025-26) | -2.6 points [-22.5, +17.3] | includes zero |
+| Veterans | 23.7% (952 of 4,011, 2014-15 to 2023-24) | 24.5% (214 of 875, 2024-25 to 2025-26) | +0.7 points [-2.3, +3.7] | includes zero |
+
+**Neither league shows a detectable rise in 6-9 numbers among the first exposed NCAA classes.** No NCAA-rookie change, and no difference against either control, clears zero in either league. Against veterans in the same seasons, the change for WNBA NCAA
+rookies is +0.7 points (95% <abbr title="Confidence interval.">CI</abbr> [-8.1, +9.6], which includes zero); against non-NCAA
+rookies, +11.6 points (95% <abbr title="Confidence interval.">CI</abbr> [-13.6, +36.9], which includes zero). For the NBA the same
+two contrasts are -2.4 points (95% <abbr title="Confidence interval.">CI</abbr> [-10.3, +5.9], which includes zero) and
++1.0 points (95% <abbr title="Confidence interval.">CI</abbr> [-20.9, +21.3], which includes zero).
+
+The samples are small, and the intervals say so. The exposed groups are
+92 WNBA NCAA rookies across 3 classes and
+141 NBA NCAA rookies across 2; the non-NCAA
+controls are 34 and 28. The NCAA-rookie intervals are
+16 (WNBA) and 15 (NBA) percentage points wide, so a real shift of
+a few points would be invisible here. Against every earlier class instead of
+the last 10, the NCAA-rookie change is +5.6 points (95% <abbr title="Confidence interval.">CI</abbr> [-1.5, +13.2], which includes zero) in
+the WNBA (baseline 7.4% over 1998 to 2023)
+and +6.7 points (95% <abbr title="Confidence interval.">CI</abbr> [+0.0, +14.2], which is borderline (one implementation's interval excludes zero and the other's does not)) in the NBA (baseline 14.5%
+over 1954-55 to 2023-24); see the comparison-window note
+above for why that window is weaker. Veteran player-seasons are resampled as if
+independent, though one veteran appears in several seasons, so the veteran
+intervals are somewhat too narrow. Each new rookie class adds to the exposed
+sample; this is a question to rerun, not a settled answer.
+
+#### 3. League age: the NBA's convention strengthened as the league aged; the WNBA's did not
+
+Aligned by league age (NBA seasons since 1946-47, WNBA seasons since 1997),
+the ages where both leagues have covered data run from 8 to 29.
+Comparing ages 8-12 with ages 25-29: the NBA's jersey/height
+correlation rose, from +0.073 to +0.331, while the WNBA's
+held roughly level (+0.210 to +0.190). The NBA's 6-9 share
+fell from 40.9% to 14.3%; the WNBA's rose
+(11.7% to 14.9%). Numbers above 55 were rare in both at every one of these ages
+(NBA 0.4% and 0.0%, WNBA 0.4% and 0.6%; no single season above 1.9%). So the NBA's big-men-in-the-50s convention was weak at the earliest well-covered league ages and strengthened through league age 29 (it has since faded), while the WNBA, at the same league ages, did not build one. The NBA's seasons before league age 8 fail the coverage threshold, so what the convention looked like in its very first seasons is not measured here.
+Whether a college numbering rule fed the NBA's falling 6-9 share is a hypothesis this analysis does not test, since the old rule's start date is unverified.
+
+Figures (interactive, `figures/`): `fig7_wnba_number_conventions.html`,
+`fig8_wnba_jersey_height_cor.html`, `fig9_league_age_cor.html`,
+`fig10_league_age_above55.html`, `fig11_league_age_digit69.html`,
+`fig12_wnba_rookie_digit69.html`, and `fig13_nba_rookie_digit69.html`.
+<!-- /gen:wnba -->
 
 ## Findings
 

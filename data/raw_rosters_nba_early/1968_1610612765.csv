@@ -1,0 +1,15 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1968,00,Walt Bellamy,Walt,walt-bellamy,8,C,6-10,225,"JUL 24, 1939",29.0,7,Indiana,76144,,0
+1610612765,1968,00,Dave Bing,Dave,dave-bing,21,G,6-3,180,"NOV 24, 1943",25.0,2,Syracuse,76166,,0
+1610612765,1968,00,Dave DeBusschere,Dave,dave-debusschere,22,F,6-6,220,"OCT 16, 1940",28.0,6,Detroit,76545,,0
+1610612765,1968,00,Terry Dischinger,Terry,terry-dischinger,43,F,6-7,189,"NOV 21, 1940",28.0,4,Purdue,76577,,0
+1610612765,1968,00,Lloyd Dove,Lloyd,lloyd-dove,44,F,6-8,198,"AUG 16, 1945",23.0,1,St. John's (NY),76592,,0
+1610612765,1968,00,Dave Gambee,Dave,dave-gambee,25,F,6-6,215,"APR 16, 1937",32.0,10,Oregon State,76774,,0
+1610612765,1968,00,Happy Hairston,Happy,happy-hairston,5,F,6-7,225,"MAY 31, 1942",27.0,4,New York University,76916,,0
+1610612765,1968,00,Howard Komives,Howard,howard-komives,30,G,6-1,185,"MAY 09, 1941",28.0,4,Bowling Green,77297,,0
+1610612765,1968,00,Mccoy McLemore,Mccoy,mccoy-mclemore,23,F,6-7,230,"APR 03, 1942",27.0,4,Drake,77548,,0
+1610612765,1968,00,Eddie Miles,Eddie,eddie-miles,14,G,6-4,195,"JUL 05, 1940",28.0,5,Seattle,77596,,0
+1610612765,1968,00,Otto Moore,Otto,otto-moore,20,C,6-11,205,"AUG 27, 1946",22.0,R,Texas-Pan American,77636,,0
+1610612765,1968,00,Enoch Olsen,Enoch,enoch-olsen,10,F,6-8,220,"JUL 25, 1940",28.0,6,Louisville,77765,,0
+1610612765,1968,00,Jimmy Walker,Jimmy,jimmy-walker,24,G,6-3,195,"APR 08, 1944",25.0,1,Providence,78439,,0
+1610612765,1968,00,Cliff Williams,Cliff,cliff-williams,12,G,6-3,180,"APR 15, 1945",24.0,R,Bowling Green,78543,,0

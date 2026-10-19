@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612738,1959,00,Gene Conley,Gene,gene-conley,17,C,6-8,225,"NOV 10, 1930",29.0,2,Washington State,76428,,0
+1610612738,1959,00,Bob Cousy,Bob,bob-cousy,14,G,6-1,175,"AUG 09, 1928",31.0,9,Holy Cross,600003,,0
+1610612738,1959,00,Gene Guarilia,Gene,gene-guarilia,20,F,6-5,220,"SEP 13, 1937",22.0,R,George Washington,76900,,0
+1610612738,1959,00,Tom Heinsohn,Tom,tom-heinsohn,15,F,6-7,218,"AUG 26, 1934",25.0,3,Holy Cross,76988,,0
+1610612738,1959,00,K.C. Jones,K.C.,kc-jones,25,G,6-1,200,"MAY 25, 1932",28.0,1,San Francisco,77188,,0
+1610612738,1959,00,Sam Jones,Sam,sam-jones,24,G,6-4,198,"JUN 24, 1933",27.0,2,North Carolina Central,77196,,0
+1610612738,1959,00,Maury King,Maury,maury-king,19,G,6-2,195,"MAR 12, 1935",25.0,R,Kansas,77272,,0
+1610612738,1959,00,Jim Loscutoff,Jim,jim-loscutoff,18,F,6-5,220,"FEB 04, 1930",30.0,4,Oregon,77409,,0
+1610612738,1959,00,Frank Ramsey,Frank,frank-ramsey,23,F,6-3,190,"JUL 13, 1931",28.0,4,Kentucky,77907,,0
+1610612738,1959,00,John Richter,John,john-richter,16,F,6-9,225,"MAR 12, 1937",23.0,R,North Carolina State,77954,,0
+1610612738,1959,00,Bill Russell,Bill,bill-russell,6,C,6-10,215,"FEB 12, 1934",26.0,3,San Francisco,78049,,0
+1610612738,1959,00,Bill Sharman,Bill,bill-sharman,21,G,6-1,175,"MAY 25, 1926",34.0,9,Southern California,78126,,0

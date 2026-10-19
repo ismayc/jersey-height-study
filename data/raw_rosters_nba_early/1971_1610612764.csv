@@ -1,0 +1,12 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612764,1971,00,Phil Chenier,Phil,phil-chenier,45,G,6-3,180,"OCT 30, 1950",21.0,R,California,76386,,0
+1610612764,1971,00,Terry Driscoll,Terry,terry-driscoll,35,F,6-7,215,"AUG 28, 1947",24.0,1,Boston College,76603,,0
+1610612764,1971,00,Gus Johnson,Gus,gus-johnson,25,F,6-6,230,"DEC 13, 1935",36.0,8,Idaho,77150,,0
+1610612764,1971,00,Stan Love,Stan,stan-love,13,F,6-9,215,"APR 09, 1949",23.0,R,Oregon,77413,,0
+1610612764,1971,00,Jack Marin,Jack,jack-marin,24,F,6-6,200,"OCT 12, 1944",27.0,5,Duke,77463,,0
+1610612764,1971,00,Earl Monroe,Earl,earl-monroe,10,G,6-3,185,"NOV 21, 1944",27.0,4,Winston-Salem State,600006,,0
+1610612764,1971,00,Dorie Murrey,Dorie,dorie-murrey,40,F,6-8,215,"SEP 07, 1943",28.0,5,Detroit,77676,,0
+1610612764,1971,00,Rich Rinaldi,Rich,rich-rinaldi,33,G,6-3,195,"AUG 03, 1949",22.0,R,St. Peter's,77965,,0
+1610612764,1971,00,John Tresvant,John,john-tresvant,12,F,6-7,215,"NOV 06, 1939",32.0,7,Seattle,78651,,0
+1610612764,1971,00,Wes Unseld,Wes,wes-unseld,41,C,6-7,245,"MAR 14, 1946",26.0,3,Louisville,78392,,0
+1610612764,1971,00,Gary Zeller,Gary,gary-zeller,11,G,6-3,205,"NOV 20, 1947",24.0,1,Drake,78641,,0

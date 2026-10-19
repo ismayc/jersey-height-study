@@ -1,0 +1,13 @@
+TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED,SUPPLEMENTAL_STATUS
+1610612765,1962,00,Dave DeBusschere,Dave,dave-debusschere,22,F,6-6,220,"OCT 16, 1940",22.0,R,Detroit,76545,,0
+1610612765,1962,00,Danny Doyle,Danny,danny-doyle,14,F,6-8,200,"FEB 06, 1940",23.0,R,Belmont Abbey,76595,,0
+1610612765,1962,00,Walter Dukes,Walter,walter-dukes,23,C,7-0,220,"JUN 23, 1930",33.0,7,Seton Hall,76611,,0
+1610612765,1962,00,Johnny Egan,Johnny,johnny-egan,25,G,6-0,180,"JAN 31, 1939",24.0,1,Providence,76647,,0
+1610612765,1962,00,Bob Ferry,Bob,bob-ferry,16,C,6-8,230,"MAY 31, 1937",26.0,3,St. Louis,76712,,0
+1610612765,1962,00,Bailey Howell,Bailey,bailey-howell,18,F,6-7,210,"JAN 20, 1937",26.0,3,Mississippi State,77070,,0
+1610612765,1962,00,Darrall Imhoff,Darrall,darrall-imhoff,17,C,6-10,220,"OCT 11, 1938",24.0,2,California,77093,,0
+1610612765,1962,00,Willie Jones,Willie,willie-jones,5,G,6-3,185,"JUN 29, 1936",27.0,2,Northwestern,77202,,0
+1610612765,1962,00,Kevin Loughery,Kevin,kevin-loughery,21,G,6-3,190,"MAR 28, 1940",23.0,R,St. John's (NY),77411,,0
+1610612765,1962,00,Jackie Moreland,Jackie,jackie-moreland,15,F,6-7,215,"MAR 11, 1938",25.0,2,Louisiana Tech,77639,,0
+1610612765,1962,00,Don Ohl,Don,don-ohl,10,G,6-3,190,"APR 18, 1936",27.0,2,Illinois,77751,,0
+1610612765,1962,00,Ray Scott,Ray,ray-scott,12,F,6-9,215,"JUL 12, 1938",24.0,1,Portland,78100,,0
