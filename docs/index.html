@@ -161,6 +161,21 @@ details.terms summary { padding: .55rem .9rem; cursor: pointer;
   color: var(--ink-2); font-weight: 600; }
 details.terms ul { margin: 0; padding: .2rem 1.4rem .8rem; }
 details.terms li { margin: .3rem 0; color: var(--ink-2); }
+/* sticky section nav (study pages): the masthead scrolls away, this stays */
+.sectionnav { position: sticky; top: 0; z-index: 30; background: var(--surface);
+  border-bottom: 1px solid var(--rule); }
+.sectionnav .inner { width: min(1200px, 94vw); margin: 0 auto; display: flex;
+  gap: 1.3rem; overflow-x: auto; white-space: nowrap; scrollbar-width: none;
+  padding: .55rem 0 .45rem; }
+.sectionnav .inner::-webkit-scrollbar { display: none; }
+.sectionnav a { font-family: "Barlow Condensed", system-ui, sans-serif;
+  font-weight: 500; font-size: .95rem; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--ink-3); text-decoration: none;
+  padding-bottom: .15rem; border-bottom: 2px solid transparent; }
+.sectionnav a:hover { color: var(--ink); }
+.sectionnav a[aria-current="true"] { color: var(--accent-ink);
+  border-bottom-color: var(--accent); }
+main [id] { scroll-margin-top: 3.6rem; }
 /* hub cards */
 .cards { display: grid; grid-template-columns:
   repeat(auto-fit, minmax(290px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
@@ -209,6 +224,7 @@ html.reveal .is-in { opacity: 1; transform: none; }
   <a href="https://github.com/ismayc/jersey-height-study">Code on GitHub</a>
   <button class="themebtn" type="button" aria-label="Toggle color theme">◐</button>
 </div></header>
+<nav class="sectionnav" aria-label="Sections"><div class="inner"><a href="#the-height-story">The height story</a><a href="#positions">Positions</a><a href="#the-cultural-signal">The cultural signal</a><a href="#46-seasons-of-number-choices">46 seasons of number choices</a><a href="#the-lesson">The lesson</a><a href="#method-code-and-verification">Method</a></div></nav>
 <main>
 <div class="eyebrow">46 seasons of rosters</div>
 <h1>The players didn't shrink. The jersey numbers did.</h1>
@@ -233,7 +249,7 @@ about three-quarters measurement artifact.</p>
 <div class="sub">Player-seasons across 46 years of rosters</div></div>
 </div>
 
-<div class="eyebrow beat">The height story</div>
+<div class="eyebrow beat" id="the-height-story">The height story</div>
 
 <h2>Not a slope. A cliff.</h2>
 <p>Mean listed height did rise for two decades, peaking at 79.4 inches in
@@ -255,14 +271,14 @@ side. And among the 388 players rostered in <strong>both</strong> 2018-19 and 20
 the same drop appears within the same human beings. So roster turnover,
 the one mundane alternative explanation, cannot account for it. Since the
 rule change, the league has actually been getting slightly <em>taller</em>.</p>
-<div class="eyebrow beat">Positions</div>
+<div class="eyebrow beat" id="positions">Positions</div>
 
 <h2>Convergence is real. It just isn't the story.</h2>
 <p>Height by position tells the second half of the story. Positional
 convergence is real. But it is gradual and modest next to the step, which
 is why the two need to be separated before either can be read.</p>
 <figure class="figure-card"><iframe src="figures/fig2_height_by_position_py.html" loading="lazy" style="height:516px" title="Height by position"></iframe><figcaption>Height by listed position over time. Necessary because "the league got smaller" and "positions converged" are different claims. This figure shows the second is real but gradual, which is what isolates the step in the first figure as a measurement event.</figcaption></figure>
-<div class="eyebrow beat">The cultural signal</div>
+<div class="eyebrow beat" id="the-cultural-signal">The cultural signal</div>
 
 <h2>Big men no longer wear big numbers</h2>
 <p>The study's original question, jersey numbers, turns out to carry the
@@ -273,7 +289,7 @@ numbers. That convention has dissolved.</p>
 <p>The correlation between a player's number and his height fell from <strong>+0.44
 to +0.17</strong> across the sample (its 2024-25 floor was +0.12): a quiet, steady cultural change that, unlike
 the height "decline," is exactly what it appears to be.</p>
-<div class="eyebrow beat">46 seasons of number choices</div>
+<div class="eyebrow beat" id="46-seasons-of-number-choices">46 seasons of number choices</div>
 
 <h2>The low numbers won</h2>
 <p>The numbers themselves deserve a season-by-season look, not just a
@@ -284,7 +300,7 @@ pooling is noted on each figure). The median tells the story in one line:
 2025-26 (13 the season before).</strong> The low numbers won.</p>
 <figure class="figure-card"><iframe src="figures/fig5_median_number.html" loading="lazy" style="height:516px" title="Median number"></iframe><figcaption>The median jersey number by season, with the middle-50% band. Necessary because the correlation chart above says the number-height link dissolved but not what players chose instead: the entire distribution slid steadily toward low numbers, with the median nearly halving over 46 seasons. Hover any season for the 0/00 and 50+ shares.</figcaption></figure>
 <figure class="figure-card"><iframe src="figures/fig6_number_histogram.html" loading="lazy" style="height:516px" title="Number histogram"></iframe><figcaption>The full jersey-number distribution, one season at a time: drag the slider or press play to walk 46 seasons, and switch the bin size (1, 5, or 10 numbers per bar) to trade detail for shape. This is the exploratory view the medians compress away: any bar with ten or fewer wearers lists them on hover (a player traded mid-season shows once, with his final team, because the roster archive is end-of-season). Watch the high-number right tail thin out and the 0/00 bar (first bar, pooled) grow from 1.1% of the league in 1980-81 to its 6.8% all-time peak in 2024-25 (5.6% in 2025-26). Numbers 50 and up went from 7.7% of players to 4.8%.</figcaption></figure>
-<div class="eyebrow beat">The lesson</div>
+<div class="eyebrow beat" id="the-lesson">The lesson</div>
 
 <h2>A rehearsal for every "the metric moved" argument</h2>
 <p>Why does any of this matter beyond trivia? Because it is a low-stakes
@@ -294,7 +310,7 @@ shows up when you decompose the change, model the break explicitly, and
 check it within the same players. Every study in this family runs on that
 discipline; this one just happens to make the lesson visible in a single
 picture.</p>
-<h2>Method, code, and verification</h2><p>The full technical write-up (data provenance, model specification, validation gates, and stated limitations) is the <a href="https://github.com/ismayc/jersey-height-study#readme">README</a>. The analysis is implemented independently in R and Python and reconciled to numeric tolerance; <code>run_checks.sh</code> replays every gate.</p>
+<h2 id="method-code-and-verification">Method, code, and verification</h2><p>The full technical write-up (data provenance, model specification, validation gates, and stated limitations) is the <a href="https://github.com/ismayc/jersey-height-study#readme">README</a>. The analysis is implemented independently in R and Python and reconciled to numeric tolerance; <code>run_checks.sh</code> replays every gate.</p>
 </main>
 <footer>Public data · dual-implementation reconciled · every gate scripted ·
 <a href="https://github.com/ismayc/basketball-data-science">the family on GitHub</a></footer>
@@ -352,6 +368,46 @@ picture.</p>
   }, {threshold: 0.08, rootMargin: "0px 0px -6% 0px"});
   Array.prototype.forEach.call(els, function (el) { io.observe(el); });
   window.__revealReady = true;
+})();
+</script>
+<script>
+(function () {
+  var nav = document.querySelector(".sectionnav");
+  if (!nav) { return; }
+  var links = Array.prototype.slice.call(nav.querySelectorAll("a"));
+  var row = nav.querySelector(".inner");
+  var targets = links.map(function (a) {
+    return document.getElementById(a.getAttribute("href").slice(1));
+  });
+  var last = null;
+  function update() {
+    var edge = nav.getBoundingClientRect().bottom + 24, cur = -1;
+    targets.forEach(function (t, i) {
+      if (t && t.getBoundingClientRect().top <= edge) { cur = i; }
+    });
+    // At the foot of the page the last sections are too short to reach the
+    // bar, so the final one counts as current there.
+    var de = document.documentElement;
+    if (window.scrollY + window.innerHeight >= de.scrollHeight - 2) { cur = targets.length - 1; }
+    if (cur === last) { return; }
+    last = cur;
+    links.forEach(function (a, i) {
+      if (i === cur) { a.setAttribute("aria-current", "true"); }
+      else { a.removeAttribute("aria-current"); }
+    });
+    var a = links[cur];
+    if (a && row) {
+      var l = a.offsetLeft, r = l + a.offsetWidth;
+      if (l < row.scrollLeft || r > row.scrollLeft + row.clientWidth) {
+        row.scrollLeft = Math.max(0, l - 16);
+      }
+    }
+  }
+  // Straight from the event, not via requestAnimationFrame, which stalls in
+  // background tabs and offscreen frames; eight rect reads per scroll is cheap.
+  window.addEventListener("scroll", update, {passive: true});
+  window.addEventListener("resize", update);
+  update();
 })();
 </script>
 </body>
