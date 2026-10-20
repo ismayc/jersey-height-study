@@ -34,6 +34,10 @@ echo "=== WNBA extension: README section regenerates from outputs ==="
 $PY python/10_wnba_findings.py --check | tail -1
 
 echo
+echo "=== diagrams: every explainer SVG rebuilds identically from committed tables ==="
+$PY python/14_diagrams.py --check | tail -1
+
+echo
 echo "=== roster completeness: participation check (informational, not a gate) ==="
 # Compares roster players with LeagueDashPlayerStats per season. Only NBA 2024-25 is
 # cached so far; every other league-season prints NOT RUN and the summary says so.

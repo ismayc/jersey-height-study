@@ -37,6 +37,8 @@ do.
 
 {{fig:fig1_height_trend_py|Mean listed height by season. The reason this chart exists: the 2019-20 cliff is visible to the naked eye, and no smooth "the game got smaller" story survives contact with it. Hover any season for the exact value.}}
 
+{{svg:dg1_height_steps|The decline from the 2002-03 peak, split into its three parts. The slow drift before 2018-19 is small, the single offseason of the rule change is most of it, and heights have risen since. The box fits that step with the regime model instead of reading it off two seasons.}}
+
 2019-20 is precisely when the league began requiring measured heights
 without shoes. Two checks pin the attribution down. A regime-aware model
 (piecewise trends with an explicit level-shift term at 2019) estimates the
@@ -46,6 +48,8 @@ side. And among the 388 players rostered in **both** 2018-19 and 2019-20,
 the same drop appears within the same human beings. So roster turnover,
 the one mundane alternative explanation, cannot account for it. Since the
 rule change, the league has actually been getting slightly *taller*.
+
+{{svg:dg2_same_players|The within-player check. Each dot is one player rostered in both seasons, colored by how his listed height changed across the rule change: more than half were listed shorter. The bars show the same share for every offseason. In the typical one almost no returning player is listed shorter, and the smaller bars after the rule change are consistent with later re-measurements. A change in who plays cannot produce a drop inside the same people.}}
 
 <div class="eyebrow beat">Positions</div>
 
@@ -66,6 +70,12 @@ cultural signal. Number choice used to encode position: big men wore big
 numbers. That convention has dissolved.
 
 {{fig:fig3_number_conventions_py|Jersey-number conventions by era. The cultural companion to the height story: which numbers players choose, and how the old big-man-big-number convention faded.}}
+
+The correlation in the next chart is one number per season, and the
+diagram below shows what it summarizes, for the first season and the
+latest.
+
+{{svg:dg3_number_height|What the correlation measures. In the first season the centers (blue) mostly wear high numbers and the cloud climbs from left to right; in the latest season most centers wear low numbers too, and the best-fit line is nearly flat. Each point on the next chart is one season's version of this cloud.}}
 
 {{fig:fig4_jersey_height_cor_py|The correlation between jersey number and height, by season: from +0.44 to +0.12. This is the single chart that summarizes the study's answer: the number on the jersey used to tell you how tall its wearer was, and now it barely does.}}
 

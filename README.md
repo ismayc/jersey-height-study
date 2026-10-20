@@ -63,6 +63,9 @@ python/roster_guard.py         an empty CommonTeamRoster is accepted only for a 
 python/12_build_active_seasons.py   rebuilds data/franchise_active_seasons.csv (the guard's source)
 python/11_participation_check.py    roster players vs LeagueDashPlayerStats, per league and season
 python/13_participation_impact.py   the missing players added back, per cached season -> output/participation_impact.csv
+
+Story page diagrams (added October 20, 2026):
+python/14_diagrams.py          explainer SVGs for docs/story.md, drawn from output/ and the committed rosters (--check rebuilds and compares)
 ```
 
 Each stage is independently re-runnable. The harvest caches one CSV per
